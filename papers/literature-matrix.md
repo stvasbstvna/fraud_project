@@ -1,187 +1,135 @@
-# Comparative Analysis of Smishing Detection Research and Datasets
+# Top 10 Research Papers Most Relevant to My Project
 
-## 1. Martínez-Mendoza et al. (2024)
+This is a working summary of the 10 strongest research papers and technical sources that are shaping my project direction. I am using them to define my task, identify the literature gap, choose datasets, compare methods, and clarify my contribution.
 
-**Task:** Multi-class smishing detection
+## 1. Martínez-Mendoza et al. (Smishing-4C)
 
-**Scope:** General smishing, with Bank/Finance as one class
+This paper is one of the most important foundations for my project. It introduces multi-class smishing classification, where messages are sorted into four types: Bank/Finance, Rewards, Dating, and SMS Service. The paper shows that for short SMS messages, simple feature-based methods can outperform heavier transformer models.
 
-**Signal type:** SMS-focused, with URL presence used as one tactical feature
+* **Task:** Multi-class smishing classification
+* **Dataset:** Smishing-4C, 120 samples
+* **Methods:** 6 tactic-aware features, Bag of Words, Random Forest, Logistic Regression, BERT, ERNIE
+* **Findings:** Bag of Words combined with the 6-feature vector achieved an F1-score of 0.788
+* **Limitations:** Very small dataset
+* **Connection to my project:** This paper gives me the 6 tactic-aware SMS features and supports using lighter, explainable models for short banking smishing messages
 
-**Approach:** Feature-based and transformer baselines compared
+## 2. Prasad and Chandra (PhiUSIIL)
 
-**Data scale:** Small (Smishing-4C has 120 labeled samples)
+This work focuses on the technical structure of phishing URLs. It does not analyze SMS text, but it is very useful for the URL side of my project because it provides a rich set of URL-related features.
 
-**Strongest confirmed result:** The combination of Bag of Words and the 6-feature vector reaches F1 0.788 and outperforms transformer-based models on this dataset
+* **Task:** Phishing URL detection
+* **Dataset:** PhiUSIIL, 235,795 URLs
+* **Methods:** 54 technical URL features such as domain similarity and legitimacy indicators
+* **Findings:** Strong performance using security-profile-based URL analysis
+* **Limitations:** Does not include SMS text or sender behavior
+* **Connection to my project:** This is my main source for URL-side technical features
 
-**Open gap:** The dataset is extremely small, and banking smishing is not isolated as the only target task
+## 3. Amoafo et al. (Imbalance-Aware Framework)
 
-## 2. Mishra and Soni (2020)
-**Task:** Binary smishing detection
+This paper focuses on banking smishing and the class imbalance problem, where scam messages are much rarer than normal messages. It is especially useful because it supports Random Forest and introduces a practical balancing idea.
 
-**Scope:** General smishing
+* **Task:** Banking smishing detection under class imbalance
+* **Dataset:** Kaggle SMS dataset
+* **Methods:** TF-IDF, structural features, Random Forest, Naive Bayes, NLPAug
+* **Findings:** Random Forest reached an F1-score of 0.969
+* **Limitations:** Based on one older public dataset
+* **Connection to my project:** This validates Random Forest for banking-related SMS fraud and gives me a practical balancing strategy
 
-**Signal type:** SMS + URL behavior
+## 4. Vanna et al. (Banking URL Phishing)
 
-**Approach:** Feature-based security model
+This study focuses only on phishing URLs that target banking users. It is useful because it shows that banking-specific URL analysis can be highly effective and gives many good handcrafted URL features.
 
-**Data scale:** Moderate / older
+* **Task:** Banking URL phishing detection
+* **Dataset:** 30,469 banking URLs
+* **Methods:** CNN, XGBoost, Random Forest, handcrafted URL features
+* **Findings:** CNN reached 99% accuracy, while XGBoost reached 98%
+* **Limitations:** Only analyzes URLs and ignores SMS content
+* **Connection to my project:** This helps justify a banking-only focus and gives me more handcrafted URL features
 
-**Strongest confirmed result:** The paper is important because it combines SMS content analysis with URL behavior analysis in one system
+## 5. Lochstampfor and Roy (Synthetic Conversational Dataset)
 
-**Open gap:** It is not banking-specific and does not focus on newer campaign patterns
+This paper studies conversational smishing, where scammers build trust over several rounds of interaction. It is useful because it shows that classical models can still perform well on more complex scam communication.
 
+* **Task:** Multi-turn conversational scam detection
+* **Dataset:** COVA, 3,201 synthetic conversations
+* **Methods:** XGBoost, TF-IDF, transformer comparisons
+* **Findings:** XGBoost worked better than transformer models on this dataset
+* **Limitations:** The data is synthetic and may not fully reflect real human emotions
+* **Connection to my project:** This supports using XGBoost and TF-IDF, especially when scam language becomes more complex
 
-## 3. SmishTank Dataset I (Timko and Rahman, 2024)
+## 6. Salman et al. (Super Dataset Analysis)
 
-**Task:** Smishing dataset resource
+This is a large benchmark study that compares many models on a very large SMS scam dataset. It is useful mainly as a structural and methodological reference.
 
-**Scope:** General smishing, but includes bank-related brands and real-world samples
+* **Task:** Large-scale SMS scam detection benchmark
+* **Dataset:** Super Dataset, 153,551 SMS messages
+* **Methods:** 31 models including BERT, SVM, and FastText
+* **Findings:** Deep learning performed strongly, but resource cost and imbalance remained major issues
+* **Limitations:** The data is still imbalanced and not banking-specific
+* **Connection to my project:** This gives me a benchmark-style structure for my own experiments and comparison section
 
-**Signal type:** SMS + URL metadata
+## 7. Hosseinpour and Das (Multi-Signal Model)
 
-**Approach:** Dataset / resource paper
+This paper is especially important because it directly supports the idea of combining multiple signal types in one model.
 
-**Data scale:** Moderate and fresh (about 1090 public smishing samples)
+* **Task:** Detecting evasive smishing
+* **Dataset:** 84,000 messages from multiple sources
+* **Methods:** NER tags, character-level CNN, DistilBERT, structural signals
+* **Findings:** Multi-signal models outperformed single-signal approaches by 10–20%
+* **Limitations:** High complexity and potential real-time deployment issues
+* **Connection to my project:** This strongly supports my idea of combining SMS-side tactics and URL-side features
 
-**Strongest confirmed result:** It provides recent, community-submitted samples with sender, body, brand references, and URL-related metadata
+## 8. Agarwal et al. (IMC 2025 Study)
 
-**Open gap:** It still needs filtering and relabeling for banking-focused experiments
+This work studies smishing infrastructure and campaign behavior at scale. It is not mainly a classifier paper, but it is very useful for justification and context.
 
-## 4. Commercial Anti-Smishing Tools (Timko and Rahman, 2023)
+* **Task:** Large-scale measurement of smishing infrastructure and strategies
+* **Dataset:** 64,500 user reports from social media and SmishTank
+* **Methods:** Metadata analysis, WHOIS, VirusTotal, and language model-assisted labeling
+* **Findings:** Banks were the top target, and 86% of attacks used links
+* **Limitations:** Focuses more on measurement than real-time classification
+* **Connection to my project:** This gives strong evidence for why I am focusing on banks and URL-heavy smishing campaigns
 
-**Task:** Comparative evaluation of anti-smishing tools
+## 9. Mishra and Soni (Smishing Detector System)
 
-**Scope:** General smishing
+This paper presents an integrated detection system with multiple modules, not just simple text classification. It is useful because it gives a more system-level view of smishing detection.
 
-**Signal type:** SMS and real-world detection context
+* **Task:** Integrated smishing detection
+* **Dataset:** Mendeley smishing dataset with 5,971 samples
+* **Methods:** Text analysis, URL behavior, source code analysis, APK analysis, neural networks
+* **Findings:** The combined system reached over 97% accuracy
+* **Limitations:** The neural approach is harder to explain clearly
+* **Connection to my project:** This gives me ideas for how a more complete unified pipeline could be designed
 
-**Approach:** Tool evaluation
+## 10. Sonowal and Kuppusamy (SmiDCA Model)
 
-**Data scale:** Small evaluation set, but fresh and realistic
+This work focuses on feature selection and tries to identify which variables really matter most.
 
-**Strongest confirmed result:** Carriers blocked only about 25–35% of smishing messages, and even stronger apps also blocked many benign messages
+* **Task:** Feature selection and binary scam classification
+* **Dataset:** Almeida SMS spam dataset
+* **Methods:** Correlation-based feature selection
+* **Findings:** 96.4% accuracy using the top 20 features
+* **Limitations:** Binary only and not tested for multi-class smishing
+* **Connection to my project:** This can help me justify why I choose a specific subset of technical and tactical features
 
-**Open gap:** This shows current defenses are weak, but it does not directly provide a banking-focused machine learning model
+# Main Pattern I See Across These Papers
 
-## 5. PhiUSIIL Dataset (Prasad and Chandra, 2024)
+After going through these papers, a few things are becoming clear:
 
-**Task:** Binary phishing URL detection
+1. A lot of prior work still focuses on either SMS text or URLs, but not both together.
+2. Many datasets are either old, too broad, or too small.
+3. Random Forest, XGBoost, TF-IDF, and other structured baselines still perform very well on short or specialized smishing tasks.
+4. Banking-specific focus is still not as developed as it could be.
+5. Combining multiple signal types looks like one of the strongest directions in the newer literature.
 
-**Scope:** General phishing URLs
+# My Current Literature Gap
 
-**Signal type:** URL only
+The main gap I see is that many studies either focus on SMS-side tactics or URL-side technical features, but not both together in one focused banking smishing system. Also, many studies are either too broad, not fresh enough, or not centered specifically on banking-related campaigns.
 
-**Approach:** Feature-based URL dataset with 54 technical parameters
+# My Current Contribution
 
-**Data scale:** Large (235,795 URLs)
+At this stage, I see my contribution in three parts:
 
-**Strongest confirmed result:** Strong as a URL feature source; includes URLSimilarityIndex, TLDLegitimateProb, URLTitleMatchScore, and other structural features
-
-**Open gap:** It does not include SMS text, sender behavior, or banking-smishing context
-
-## 6. Sánchez-Paniagua et al. (2022)
-
-**Task:** Binary phishing URL detection
-
-**Scope:** General phishing URLs
-
-**Signal type:** URL only
-
-**Approach:** ML and DL comparison for login-URL detection
-
-**Data scale:** URL-scale
-
-**Strongest confirmed result:** Useful because it studies phishing through realistic login URLs rather than generic homepage comparisons
-
-**Open gap:** It does not solve SMS-side context or banking-specific message tactics
-
-
-## 7. Mishra Dataset / Mendeley Data (2022)
-
-**Task:** Multi-class dataset support (ham, spam, smishing)
-
-**Scope:** General
-
-**Signal type:** SMS only, with additional extracted attributes
-
-**Approach:** Dataset support for machine learning and deep learning
-
-**Data scale:** Moderate (5,971 messages)
-
-**Strongest confirmed result:** Useful benchmark dataset with 3-way labels and raw text plus extracted attributes
-
-**Open gap:** It includes older data and image-to-text conversion in data collection, and it is not banking-focused
-
-## 8. Timko et al. (2023) User Study
-
-**Task:** Binary human decision task (real vs fake)
-
-**Scope:** General brands
-
-**Signal type:** SMS with visual and contextual cues
-
-**Approach:** Statistical / user-study analysis
-
-**Data scale:** Small user-study scale (187 participants, 16 SMS screenshots)
-
-**Strongest confirmed result:** Participants had more difficulty identifying real messages than fake ones
-
-**Open gap:** It shows human confusion, but not a machine-learning solution
-
-## 9. Hosseinpour and Das (2025)
-
-**Task:** Smishing detection
-
-**Scope:** General smishing
-
-**Signal type:** Multi-signal SMS-oriented detection
-
-**Approach:** Multi-signal model
-
-**Data scale:** Large (84,000+ relabeled messages across five datasets)
-
-**Strongest confirmed result:** Accuracy 97.89%, F1 0.963, AUC 99.73
-
-**Open gap:** High-performing, but less focused on banking-specific explainable baselines
-
-## 10. Pritom et al. (2026) Systematic Review
-
-**Task:** Review
-
-**Scope:** General, including banking context
-
-**Signal type:** SMS + URL across the literature
-
-**Approach:** Systematic review
-
-**Data scale:** Review-scale
-
-**Strongest confirmed result:** Strong for summarizing the current attack, defense, user, and dataset landscape
-
-**Open gap:** It is not an experimental model paper, so it is mainly useful for framing the literature gap
-
-## 11. Conversational Smishing Work (Lochstampfor and Roy line, 2026)
-
-**Task:** Multi-turn conversational smishing detection
-
-**Scope:** Multi-category, including scam categories beyond banking
-
-**Signal type:** SMS dialogue / multi-turn conversations
-
-**Approach:** Feature-based and transformer comparisons
-
-**Data scale:** Larger than the earlier conversational baseline, but synthetic
-
-**Strongest confirmed result:** Earlier work showed XGBoost + TF-IDF performed strongly on smaller conversational data; later work suggests larger data helps transformers more
-
-**Open gap:** The data is synthetic and dialogue-based, so it is better treated as future work rather than a direct comparison to single-message banking smishing
-
-# Main Takeaways for My Project
-
-1. Most prior work is still binary or not narrowly focused on banking smishing.
-2. Smishing-4C is highly relevant because it introduces tactic-aware multi-class smishing, but it is too small on its own.
-3. SmishTank is valuable mainly because it adds freshness, real-world examples, brand references, and URL metadata.
-4. PhiUSIIL is valuable not as a smishing dataset, but as a source of URL-risk features.
-5. My strongest contribution is to combine banking-relevant SMS tactics with technical URL features in a focused, explainable baseline.
-6. Random Forest and Logistic Regression remain defensible starting models because the literature still shows that feature-based methods can be competitive on small or specialized smishing datasets.
+1. Building a banking-focused smishing setup instead of treating all SMS fraud as one category
+2. Combining tactic-aware SMS features and technical URL features in one explainable pipeline
+3. Using newer smishing sources and stronger structured baselines to reduce the context deficit of short SMS messages
