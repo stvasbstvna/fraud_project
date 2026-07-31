@@ -9,6 +9,13 @@ data/generated/*
 data/final/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/processed/unified_text_messages.csv
+!data/processed/banking_candidates.csv
+!data/processed/banking_manual_review.csv
+!data/processed/banking_human_written.csv
+!data/processed/banking_ai_generated.csv
+!data/processed/banking_ai_rewritten.csv
+!data/processed/CHECKSUMS.sha256
 !data/generated/.gitkeep
 !data/final/.gitkeep
 artifacts/
