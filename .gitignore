@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.joblib
+data/raw/*
+data/processed/*
+data/generated/*
+data/final/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/generated/.gitkeep
+!data/final/.gitkeep
+artifacts/
+*.env

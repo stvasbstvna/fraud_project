@@ -1,0 +1,12 @@
+source,year,channel,data_or_sample,methods,key_finding,relevance,limitation_or_caution,status
+Wang et al. SmishX,2025,SMS,1200 relabeled SMS reported,LLM agents plus contextual retrieval,Combines detection with explanations,SMS labels intent and context reference,Not paired AI rewrite robustness,read
+Timko and Rahman SmishTank,2024,SMS,SmishTank reports,dataset construction,Documents public smishing source,Human scam candidate provenance,Terms and current access require verification,read
+Francia et al.,2024,SMS,personalized AI and human spear-phishing pilot,ranked human judgment,AI messages often perceived as convincing,Motivates AI versus human comparison,Persuasiveness is not detector evasion,read
+Opara et al.,2025,email,63 GPT-4o phishing emails,commercial filters plus stylometry,Reported bypass differences and strong XGBoost stylometry,Mitigation and features,Small AI-only sample and no paired human rewrite test,read
+Kulal et al.,2025,email,public conventional LLM and adversarial email sets,preprocessing plus ML,Tests spelling correction and word splitting,Adversarial preprocessing reference,Verify dataset composition and publication status,read
+Gutierrez et al.,2026,email,5000 human and 4986 LLM phishing emails,17 stylometric features LR and XGBoost,Cross-generator threshold gap reduced by recalibration,Generator-shift and calibration reference,Human and AI messages are not paired rewrites,read
+Toth et al. PhishFuzzer,2026,email,23100 seed and LLM-variant emails reported,LLM generation and classification,Preserves metadata intent and variant links,Strong email resource and structure reference,Audit upstream licenses and exact pairing semantics,read
+Kulkarni et al. PhishOracle,2025,webpage,adversarial pages,ML DL MLLM robustness,Controlled variants cause detection drops,Experimental design analogy,Not text messages,read
+Ahmed and Pourmoafi,2026,email,82255 unified clean corpus and adversarial subsets reported,TF-IDF LR and DistilBERT,Both degrade on adversarial tests,Baseline and transformer plan,Recent preprint; verify review status,read
+Field Effect outlook,2026,multiple,industry telemetry and forecast,threat analysis,Emphasizes evolving trust identity and social engineering,Current threat context,Not peer-reviewed experiment,read
+Register.bank overview,2026,multiple,industry banking context,practitioner overview,Explains bank impersonation and trusted identity,Banking motivation,Stakeholder source,read
