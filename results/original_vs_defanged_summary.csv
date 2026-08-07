@@ -1,0 +1,3 @@
+set,rows,avg_phishing_probability,predicted_phishing,predicted_non_phishing,possible_false_negative_rate
+original,30,0.8484,28,2,0.0667
+defanged,30,0.8507,30,0,0.0

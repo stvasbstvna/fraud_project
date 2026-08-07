@@ -1,0 +1,4 @@
+group,rows,predicted_phishing,predicted_non_phishing_possible_false_negatives,average_phishing_probability,possible_false_negative_rate
+human_written,48,48,0,0.8785,0.0
+llm_generated,33,33,0,0.9834,0.0
+unknown_authorship_smishx,19,9,10,0.4821,0.5263

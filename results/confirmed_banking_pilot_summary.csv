@@ -1,0 +1,14 @@
+metric,value
+total_confirmed_banking_rows,100
+rows_from_cross_model_human,48
+rows_from_cross_model_llm,33
+rows_from_SmishX,19
+is_human_written_TRUE,48
+is_human_written_FALSE,33
+is_human_written_unknown,19
+is_ai_generated_FALSE,48
+is_ai_generated_TRUE,33
+is_ai_generated_unknown,19
+baseline_predicted_phishing,90
+baseline_predicted_non_phishing,10
+average_phishing_probability,0.8378

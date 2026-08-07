@@ -1,0 +1,7 @@
+file,exists,rows,columns
+unified_text_messages.csv,yes,11186,"id, text, label, channel, source_dataset, source_type, is_human_written, is_ai_generated, is_ai_rewritten, is_banking_candidate, banking_keyword, brand_mentioned, requested_action, intent_type, has_url, url, notes"
+banking_candidates.csv,yes,6372,"id, text, label, channel, source_dataset, source_type, is_human_written, is_ai_generated, is_ai_rewritten, is_banking_candidate, banking_keyword, brand_mentioned, requested_action, intent_type, has_url, url, notes"
+banking_manual_review.csv,yes,6372,"id, text, label, channel, source_dataset, banking_keyword, is_banking_candidate, manual_banking_related, brand_mentioned, requested_action, intent_type, manual_notes"
+banking_human_written.csv,yes,1914,"id, text, label, channel, source_dataset, source_type, is_human_written, is_ai_generated, is_ai_rewritten, is_banking_candidate, banking_keyword, brand_mentioned, requested_action, intent_type, has_url, url, notes"
+banking_ai_generated.csv,yes,4285,"id, text, label, channel, source_dataset, source_type, is_human_written, is_ai_generated, is_ai_rewritten, is_banking_candidate, banking_keyword, brand_mentioned, requested_action, intent_type, has_url, url, notes"
+banking_ai_rewritten.csv,yes,0,"id, text, label, channel, source_dataset, source_type, is_human_written, is_ai_generated, is_ai_rewritten, is_banking_candidate, banking_keyword, brand_mentioned, requested_action, intent_type, has_url, url, notes"

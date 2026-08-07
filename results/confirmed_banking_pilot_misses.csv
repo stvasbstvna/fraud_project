@@ -1,0 +1,11 @@
+id,text,label,channel,source_dataset,is_human_written,is_ai_generated,phishing_probability,manual_requested_action,manual_intent_type,manual_brand_mentioned,manual_notes
+SmishX-b12242b3db557a49,"Chase: You successfully validated your device and signed in. Call us, visit chase.com or use the app to manage your devices.",legitimate,sms,SmishX,unknown,unknown,0.167105393,,,,
+SmishX-cf3f5447a7b38e4d,"Dear Customer, your ICICI Bank FASTag can now be used for fuel payments at HPCL and IOCL fuel outlets. Details at bit.ly/3BOJRVr . T&C apply.",legitimate,sms,SmishX,unknown,unknown,0.184385012,,,,
+SmishX-e6b57ae09874349c,[KuCoin] Alert: Your password has been updated. Not you? Please visit: hxxps://kucoin-auth[.]web[.]app,legitimate,sms,SmishX,unknown,unknown,0.35447729,,,,
+SmishX-51d93e3c2678c126,About &lt;#&gt; bucks. The banks fees are fixed. Better to call the bank and find out.,legitimate,sms,SmishX,unknown,unknown,0.069641446,,,,
+SmishX-9a18b3abe4ff9af0,"AFCU We have temporarily locked your account due to an suspicious activity, To unlock, verify now: hxxps://hm[.]ru/5WnL6j",phishing,sms,SmishX,unknown,unknown,0.486450532,,,,
+SmishX-08a7b6f0f1f399bd,Welcome to Chase | Zelle(R). Reply HELP for help Message & data rates may apply Message frequency varies by account,legitimate,sms,SmishX,unknown,unknown,0.412975677,,,,
+SmishX-25fd36050f217281,"AFCU We have temporarily locked your account due to an suspicious activity, To unlock, verify now: hxxps://hm[.]ru/5WnL6j",phishing,sms,SmishX,unknown,unknown,0.486450532,,,,
+SmishX-ae9c4006c2a90783,"Alert! After successful mobile no. verification, Kotak Bank App has been activated for CRN xx8418 on CPH2139. If not you, REPORT FRAUD on kotak.com/fraud",legitimate,sms,SmishX,unknown,unknown,0.144882323,,,,
+SmishX-0a861201a017c520,"Alert! After successful mobile no. verification, Kotak Bank App has been activated for CRN xx8418 on CPH2139. If not you, REPORT FRAUD on kotak.com/fraud",legitimate,sms,SmishX,unknown,unknown,0.144882323,,,,
+SmishX-08ff84665bd58314,Chase | Zelle(R): XIYU WANG sent you $20.00 & it's ready now. Reply STOP to cancel these texts.,legitimate,sms,SmishX,unknown,unknown,0.167852463,,,,

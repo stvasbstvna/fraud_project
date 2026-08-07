@@ -1,0 +1,15 @@
+metric,value
+total_confirmed_banking_rows,100.0
+true_phishing_rows,91.0
+true_non_phishing_rows,9.0
+true_positives,89.0
+false_negatives,2.0
+true_negatives,8.0
+false_positives,1.0
+accuracy,0.97
+precision,0.9889
+recall,0.978
+f1,0.9834
+false_negative_rate,0.022
+false_positive_rate,0.1111
+average_phishing_probability,0.8378

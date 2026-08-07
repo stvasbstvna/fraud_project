@@ -1,0 +1,12 @@
+metric,value
+confirmed_banking_total_rows,100
+confirmed_banking_phishing_only_rows,91
+phishing_rows_from_cross_model_human,48
+phishing_rows_from_cross_model_llm,33
+phishing_rows_from_SmishX,10
+is_human_written_TRUE,48
+is_human_written_FALSE,33
+is_human_written_unknown,10
+is_ai_generated_FALSE,48
+is_ai_generated_TRUE,33
+is_ai_generated_unknown,10
