@@ -1,0 +1,9 @@
+prompt_id,prompt_name,research_inspiration,what_changes,input_data,output_data,safety_restriction,expected_detector_weakness,metrics
+P0,Original / no rewrite,Control,None,Approved base text,Identical text,Defang before storage if needed,None,"recall; FNR; probability"
+P1,SMS-style transformation,"TRAPD; SmishX","length; tone; SMS format",Defanged safe summary,SMS-like placeholder variant,No real targeting or destinations,Channel and length shift,"ASR; probability drop; SMS FNR"
+P2,Formal notification rewrite,LLM phishing literature,"tone; structure",Defanged safe summary,Formal placeholder notice,No real institution or brand,Removal of informal cues,"ASR; probability drop"
+P3,Semantic-preserving rewrite,"TextFooler; BAE; BERT-Attack","vocabulary; syntax",Defanged safe summary,Meaning-equivalent placeholder variant,Human intent review required,Lexical dependence,"ASR; similarity; probability drop"
+P4,Lexical / character perturbation,"TextBugger; DeepWordBug; PromptBench",Small readable lexical and character edits,Defanged safe text,Constrained readable perturbation,Do not alter placeholders or label,Tokenization sensitivity,"ASR; edit rate; probability drop"
+P5,Defanged intent-preserving variant,Existing paired pilot,"entities; destinations; direct actions",Approved original,Placeholder-only variant,Operational details removed,Brand URL and request cues,"ASR; probability drop"
+P6,Existing public LLM-generated variant,Cross-model corpus,Authorship and generator style,Approved public data,Existing generated sample,Retain supplied sanitization,Authorship and source shift,"unpaired recall; FNR"
+P7,PhishFuzzer-style seed-based variant,PhishFuzzer,"entity type; length",Licensed approved seed,Linked safe variants,Do not use until data rights are clear,Entity and length sensitivity,"template success; ASR; probability drop"
