@@ -12,9 +12,9 @@ The project began as a banking-smishing study. After reviewing newer work on LLM
 
 Smishing-4C is intentionally not used in this project.
 
-## Final research question
+## Current research question
 
-> Can AI-rewritten banking scam messages bypass phishing detectors more effectively than human-written scam messages, and what mitigation strategies can reduce this detection gap?
+> How does prompt-based adversarial rewriting affect phishing detector robustness on confirmed banking-related phishing messages?
 
 ## Research gap
 
@@ -46,15 +46,17 @@ Optional future work may add URL/domain consistency features, but the core bench
 
 ## Current stage
 
-The repository structure, research question, source inventory, study protocol, and starter processing code are in place. The uploaded materials have been inventoried, but no raw archive or large dataset has been committed. Dataset licensing, banking-label validation, paired rewrite generation, and experiments remain pending.
+The repository contains 11,186 standardized messages and 6,372 banking keyword candidates from license-cleared sources. The baseline and manually reviewed pilot results are documented in the prompt-attack plan. The next experimental artifact is a 30-50-row base set selected from the 91 confirmed banking-phishing rows described in the research notes. That reviewed source file is not committed yet, so the prompt-attack CSV files contain validated schemas rather than fabricated rows.
+
+See [docs/prompt_attack_master_plan.md](docs/prompt_attack_master_plan.md) for the complete literature review, P0-P7 taxonomy, dataset design, metrics, slide text, Overleaf sections, and execution plan. The experiment schemas are under [data/prompt_attack/](data/prompt_attack/).
 
 ## Next steps
 
-- Confirm licenses and access terms for each candidate dataset.
-- Inspect and de-duplicate the uploaded email CSV and bank-transaction workbook locally.
-- Define the human annotation guide and test inter-annotator agreement on a pilot sample.
-- Freeze a leakage-safe split before generating rewrites.
-- Run the baseline and then the paired robustness evaluation.
+- Add the reviewed `confirmed_banking_phishing_only.csv` as an analysis-only local input.
+- Select 30-50 correctly detected, confirmed banking-phishing rows.
+- Freeze prompt IDs, detector preprocessing, vocabulary, and threshold.
+- Create or import only safe, licensed/approved P0-P7 variants.
+- Run the paired robustness evaluation and fill the ASR result table.
 
 ## Repository guide
 
