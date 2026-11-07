@@ -1,0 +1,2193 @@
+[
+  {
+    "id": "gateway-50334",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n800-951-8418TD#[email protected] / (URGENT) TD#ID00914 / TD Bank#09-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17576",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSecure AIert (MyGov): your account has been restricted for security reasons VlSIT: [SAFE-URL-1] to restore account\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-60564",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected] / TD Bank Alert / Verify your online bank account now at : [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17573",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSecure Alert (MyGov): your account has been restricted for security reasons please visit [SAFE-URL-1] to restore account now And avoid blockages.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-12309",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2525",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo: A payment was made of '$90.99' to a new payee 'RYAN TAYLOR' just now. If you did NOT make this, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-195",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (Y)",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5533",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "We have but a block on your C1tizen 0nline Banking acc0unt due to Unusual Activity. Kindly l0gin to verify your info at [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17793",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nNEW AU-MYGOV: Review Your Account For Payment To Process... visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-753",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your account has been suspended due to suspicious activity. Please visit [SAFE-URL-1] to reactivate",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16110",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nR1 Hi, we've detected an auto debit for $1258.95 on your account to M Kudus on 12-18. Not expecting this [SAFE-URL-1] (G)\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3011",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo:  A  payment  was  sent  to  'BARRY  SMITH'  at  10:45AM  for  $61.99.  Was  this  you?  If  it  was  not  you,  visit  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17683",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-204",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "You have attempted to authorize a new direct debit on 06/05 to J Matthews. If you do NOT recognize this, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17742",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUpdate your MyGov details to receive payment click: [SAFE-URL-1] stainless\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2387",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Affiliate There was an attempted transaction of 93 on your account to the company Amazon. If this was NOT you visit [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8085",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1018",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CommBank:  We  have  temporarily  frozen  your  account  due  to  unusual  payment  requests,  please  visit  [SAFE-URL-1]  immediately.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3192",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "<M&T> Zelle transfer of 150.00 to dave was stopped! it is a sign of identity theft. Tap [SAFE-URL-1] To Opt-out 4863 ",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17695",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nOur system indicates that you are eligible for this payment. Please submit a claim as soon as possible for your 14303.88 AUD refund here; [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8040",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMTB Alert : New ACH payment added. visit [SAFE-URL-1] to remove or proceed\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2111",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "An Unauthorised Transaction was done with the use of your Commbank Visa/Debit card. Please go to [SAFE-URL-1] to Authorise or Cancel this request. route:3",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8251",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-4963",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Citi: Your $649.00 payment to monteral marquez using Zelle(R) is being processed visit [SAFE-URL-1] to verify or cancel payment anytime",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1249",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CommBank: We have suspended your account due to unusual payment requests, please visit [SAFE-URL-1] now.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1385",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "your  account  has  been  suspended  due  to  expired  identity  information.  restore  after  authentication  information:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3877",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "eva   A   debit   authorisation   of   $327.68   has   been   processed   on   your   mobile   banking.   Not   you?   visit:   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8743",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Dear  customer,  Your  package  is  ready  to  pick  up  Please  complete  the  payment  of  3.55$  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2346",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "COMMBANK: We have temporarily put a hold on recent payment. For the next steps please follow our link [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17811",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov: You need to update your Account information now to claim your refund [2023]. Kindly visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8998",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "regions: Your debit has been deactivated due to concerning behavior. Go to [SAFE-URL-1] and follow the on screen instructions asap.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3575",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo Bank: A debit authorisation of $327.68 has been processed on your mobile banking. Not you? visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13313",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Netflix:   Payment   failed   we   will   close   your   account   due   for   missing   on   payments   watch   time   log-in   :   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17812",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov: You need to update your Account information now to claim your refund. Kindly visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16409",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWellsFargoUS: A payment of 3456.76 has been attempted. Not you? Secure your account: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2146",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A payment has been attempted for 6000$ if you do not recognise please access [SAFE-URL-1] (U6)",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14501",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSuspicious activity has been detected. To protect your account from being locked please visit: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2402",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "21Dear Bailey Decourcey, Please complete your payment to deliver your parcel in 4 hours : [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17735",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nATO: Congratulations! your pending refund has been approved and your balance is now $22,844.05. Visit: [SAFE-URL-1] to authorize\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2177",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "This is a fraud alert!Possible unauthorised access to your online banking. Please confirm your Account. For advice,visit [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-50335",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nTD##[email protected] / (URGENT) TD#ID05121 / TD Bank#51-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5344",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction [0000]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-6354",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1112",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "17930ssXX   ALERT:   Your   card   has   been   blocked   due   to   suspicious   activity,   if   this   was   a   mistake   please   visit:   [SAFE-URL-1]   in   order   to   reactivatecoding=0",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16431",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour package is waiting for tax payment,Please Pay(1.75)JOR to receive [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2151",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A payment has been attempted for 18000¤ if you do not recognise, please access [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17684",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour account has been restricted due to suspicious activity. To resolve the issue click on [SAFE-URL-1]\r\n ",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3381",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Optus: We have had a problem with your current payment details, please visit [SAFE-URL-1] to avoid a restriction of your service.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-4095",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Apple pay has been temporarily suspended. To continue using contactless payment vist lInk below.\r\n[SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17701",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour fund is available. You can access your refund online for 9780.78 AUD; To claim sign [SAFE-URL-1] MyGov team, thank you.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3881",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "eva Bendigo Bank: URGENT action required due to a suspicious withdrawal of $1099.21 to M BAXTER. Visit [SAFE-URL-1] to prevent this action.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15719",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Y=ou rece tly s,et up new recipients via mobile banking on 12/08/22. If this was NOT you, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3420",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Optus:  We  have  a  problem  with  your  current  payment  details,  please  visit  [SAFE-URL-1]  to  avoid  a  restriction  of  your  service.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17622",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMYGOV ALERT: Approval of Your Refund Requires Authorization. Your balance is currently 35272.32 AUD. To approve your funds, go to [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "An unauthorised transaction was performed using your PTSB Visa Card. You can Authorize or Cancel this request at:[SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5360",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] / Alerts!!! / Your RBFCU Online Banking has been restricted Action required: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2384",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "There was an attempted transaction of ¤93 on your account to the company Amazon. If this was NOT you visit [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15899",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2567",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo: A payment was made of '$90.99' to RYAN TAYLOR just now. If you did NOT make this, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17841",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou have a pending issue on your Centerlink , click on the [SAFE-URL-1] link to get it resolved and get your ATO refund of AUD 7,264 .\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8068",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe need you accept to our NEW Terms and Conditions immediateIy to prevent your account being SUSPENDED. To accept Iogon by: #(//[SAFE-URL-1] //)# route:2\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2300",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "lNG Push Notification : A new Payment of $800 has been made in Bedford. Confirm if this was you at: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14731",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nNetflix : Dear client Your account is on holding Unfortunately, we have not been able to resolve the issue with your payment:[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17698",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyG0v; Your account is temporarily suspended. Visit: [SAFE-URL-1] immediately\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17775",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour refund is ready to be claimed and a recent change was just made on your MYGOV portal visit if you didn't make the change [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1128",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "75915dh4ALERT:  Your  card  has  been  blocked  due  to  suspicious  activity,  if  this  was  a  mistake  please  visit:  [SAFE-URL-1]  in  order  to  reactivate.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17578",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3576",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "065  Bendigo  Bank:  A  debit  authorisation  of  $227.68  has  been  processed  on  your  mobile  banking.  Not  you?  visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8787",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-34441",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8340",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n|[SAFE-URL-1] Did you make a online groceries payment for $235.28 from chkg acct on 09-23? YES=1, NO=2 or STOP to Cancel transaction visit [SAFE-URL-2] HQ\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-38758",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-1] . incase of any question SHAHID has invited you to make online payments. Login to brightwheel to get setup. Reply STOP to unsubscribe.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1114",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "hi3 The account is locked abnormally. Details: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17727",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUpdate your profiIe to proceed with your refund of $30,560 AUD. CIick [SAFE-URL-1] to complete the process\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-10597",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Sky: We have been unable to take payment for your most recent bill. Please update your information to avoid extra charges: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2116",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "An Unauthorised Transaction was performed using your Commbank Visa/Debit card. Please visit [SAFE-URL-1] to Authorise or Cancel this request.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2271",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CITI- Your payment of $200.99 approved, if this wasn’t you cancel at: [SAFE-URL-1] ",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8212",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "SANTANDER: A login attempt from a new device has been flagged. Please secure your account: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-7996",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\ns8 Your account is temporarilyrestricted. Please confirm to restoreaccess: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-7774",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-9024",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2193",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Commbank: We have noticed suspicious activity on your Mobile Banking, we have temporarily locked your account. To re-activate visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17464",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nNET-Commonwealth: Transaction made at MEL and remitted to DWFinance. If this was not you?, Visit [[SAFE-URL-1] to cancel activity #V747\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2431",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "TRUIST[ALERTS]: YOUR CHECKING ACCOUNT IS BLOCKED VISIT HERE TO UNBLOCK: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17579",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyG0V Alert: Your Refund has been approved. Your current balance is now 36blind533.13AUD. Visit: [SAFE-URL-1] to approve your claim.[84]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17797",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nDeposit safely and securely at PartyCasino with renowned payment methods! [SAFE-URL-1] 18 .Unsubscribe? [SAFE-URL-2]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2535",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Aviso  Banco  Santander:  A  partir  del  21/07/2022  No  puedes  utilizar  su  Tarjeta.  Activa  el  nuevo  sistema  de  seguridad  ahora:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2211",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your debit card has been deactivated for your security. Not expecting this?. Visit [SAFE-URL-1] to review the activity.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8125",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (X)\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17562",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov Alert: Your Refund has been approved. Your available balance is now 36272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17581",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.[87]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-6285",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Optus: We have had an issue with your current payment details. Please visit [SAFE-URL-1] to avoid a restricted service.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15797",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nBendigo Bank: Your account has been suspended. Please visit: [SAFE-URL-1] Bendigo Security Team.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5523",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] / /ALERT!/ / Your online account has been restricted/verify/ [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3499",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo: A payment of $5400 has been setup, to confirm or cancel your payment please login: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-539",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "ANZ: you have set up a new payment to MR C JONES. If this was not you, please visit: [SAFE-URL-1] route:3",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5376",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "BENDlGO: A payment has been setup on 15/08 to MlKE ROSE, if this was not you please continue here: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17694",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nOur system indicates that you are eligible for this payment. Please submit a claim as soon as possible for your 14303.88 AUD refund [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67128",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2147",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A payment has been attempted for 6000$ if you do not recognise please access [SAFE-URL-1] (S)",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17553",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1] t1\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-60016",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected] / Support / Account locked , unlock now at : [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13621",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "FIFTH   THIRD:$20.30   zelle   transaction   is   pending   on   your   account   click   this   link   [SAFE-URL-1]   to   stop   the   transaction   and   secure   your   account",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2178",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Commbank: We have noticed suspicious activity on your Mobile Banking, we have temporarily locked your account. To re-activate vist: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17770",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour refund is ready to be claimed and you have a pending profile update visit [SAFE-URL-1] to lodge claim.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-38757",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-1] . incase of any question SHAHID has invited you to use brightwheel Auto Pay. Login to brightwheel to get setup. Reply STOP to unsubscribe.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-24241",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA payment of ?387.62 has been attempted on 13/04 at 09:15AM from a new device. If this was NOT you, please cancel via: [SAFE-URL-1] route:2\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17608",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nDHL Messages AWB: 596255** Requires Payment of Customs Duties, 06/12/22 - Customs Status Updated - DUBLIN, IRELAND - [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13413",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17580",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyG0V Alert: Your Refund has been approved. Your current balance is now 36tapoa533.13AUD. Visit: [SAFE-URL-1] to approve your claim.[84]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17504",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nR3R 41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here1 :[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3498",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A   payment   of   $5400   has   been   setup,   to   confirm   or   cancel   your   payment   please   login:   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16333",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n79BendigoBank: Your new PayID: Samir Khan, was set up on mobile banking on 28/12/22 if this was not you please visit: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8122",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (E)\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2270",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "C1T1: Your payment of $200.99 approved, if this wasn’t you cancel at: [SAFE-URL-1] ",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2439",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "LIoydsbank : You have successfully added a new payee via mobile banking at 15:05PM. If this WAS NOT you, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17569",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour account as been restricted please Visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17572",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour account as been restricted please Visit [SAFE-URL-1] to Fix now\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-425",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "You  have  attempted  to  authorize  a  new  direct  debit  on  09/05  to  K  Peters.  If  you  do  NOT  recognize  this,  please  visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2874",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo: You've scheduled a payment of '$58.85' to 'JOE BROOKE' on 22/07. Is this recognisable? If NOT, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15116",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nCommBank: We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-66144",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n3601ING: A suspicious transaction has been placed on hold. Please visit [SAFE-URL-1] to review this payment.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-68026",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] / Zelle Detected / Please, log in to [SAFE-URL-1] and verify your latest zelle payment. This is an automated alert",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2357",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A recent payment has been flagged on our system through Netbank. For the next steps please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-74",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CommB: A transaction was performed using your debit card. You can secure or cancel request at [SAFE-URL-1] route:5",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-12408",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17482",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nPending ATO payment, Resolve now to get payment at [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16180",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nNotice-4536from WellsFargo-Bank: Your account has been temporarily locked for security reason, Please contact us now at [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17585",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n[Veridian_CU]: A transfer was requested to debit $665.66 on 11/8/22 via ACH/checking ref #6473. If not you, visit [SAFE-URL-1] to cancel.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-6305",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo  Bank:  A  debit  authorisation  of  $2t27.68  has  been  processed  on  your  mobile  banking.  Not  you?  visit:  [SAFE-URL-1]  route:3",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-45621",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n[email protected]m / TDMobileAlert ID#30419 / TD Bank Validate Your Login: [SAFE-URL-1] ID#19\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2087",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A Unknown Transaction Has Been Made With Your Mastercard, Please Confirm If This Was You At [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3419",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your Bendigo account has been debited by an unauthorized transaction in the amount of ¤573.68. No, you? Visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3686",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A  debit  authorisation  of  $227.68  has  been  processed  on  your  mobile  banking.  Not  you?  visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-7781",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nFrom Anz: We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17842",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou are eligible for a Tax Refund of 19,057 , click on this link to authenticate your account [SAFE-URL-1] and receive your refund .\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-72",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CommBank: A transaction was performed using your debit card. You can secure or cancel request at [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5682",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1]  /  s  /  PAYPAL's  :  Restricted  Account.  For  more  information  check  at  [SAFE-URL-1]  /t395W7MH",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8023",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]...\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15421",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nDear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2115",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "An Unauthorised Transaction was performed using your Commbank Visa/Debit card. Please visit [SAFE-URL-1] to Authorise or Cancel this request. route:2",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-10110",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "27 Your package is on hold due to the incorrect address provided. Please visit to update your information and check your payment. [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8082",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe would like to verify a recent transaction on your account. Please verify here [SAFE-URL-1] route:2\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2195",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "ANZ: Your ANZ internet banking sent a new PayID request to MR A KHAN. Unless you specifically requested otherwise, please go to: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17705",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour chase account is suspended due to fraud. To unsuspend go to: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14725",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n'O2': We have been unable to take payment for your latest bill. Please update your details via: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2526",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo: A payment was made of '$90.99' to RYAN TAYLOR just now. If you didn't make this transaction, block it here: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8899",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-194",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (P3)",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1347",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17467",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nO2: We were unable to process your latest bill. In order to avoid any fees, please update your payment information via: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8854",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected]  /  SouthState:  /  Online  access  to  your  account  has  been  blocked  for  security  reasons.  Visit  [SAFE-URL-1]  to  reactivate  your  account.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3573",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "West-Pac:  A  payment  has  been  setup  on  05/08  to  MIKE  ROSS,  if  this  was  not  you  please  continue  here:  [SAFE-URL-1]  to  cancel.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-24242",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA payment of 387.62 has been attempted on 13/04 at 09:15AM from a new device. If this was NOT you, please cancel via: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2334",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Truist ONLINE : we have placed a hold on your debit card. Please prove your identity to unlock it : [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2424",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17564",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSecure Alert (MyGov): your account has been restricted for security reasons please visit [SAFE-URL-1] to restore account now\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2468",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "BofA [V2]: Due to recent fraudulent activity on your card,we have restricted your funds for your [SAFE-URL-1] here [SAFE-URL-2] to regain access.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14508",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nAnPost: Your parcel has an outstanding payment of €1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17642",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "951842 Your Account .has been suspended Due to Some security reasons please VERIFY your information Now clik here [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-591",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Netflix   your   account   has   been   suspended   due   to   an   unusual   activity   detected,You   need   to   verify   your   information   :   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16392",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n[M&T Bank] Your account has been temporarily disabled. Please login again to regain access . [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2330",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "BOA ALERT: PLEASE CONFIRM YOUR DEBIT CARD AND PIN HERE : [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2165",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A payment has been processed for 1800$ if you do not recognise, please access [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3198",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "ATO: you are entitled to a tax refund. Complete the refund on our website: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17831",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUpdate!!! Your tax profile was successfully linked. Visit [SAFE-URL-1] to find out more. to authorize your payments and ask for a refund.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2340",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Alert: Suspicious transaction has been detected on your account. Please visit [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17799",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour Medicare claims and payment are now available for filing and disbursement. To complete, visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8048",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17699",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour account is temporarily suspended. Visit: [SAFE-URL-1] immediately.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-193",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (T1)",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2089",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "NOTICE -982735 FROM:CHASE-0NLINE: YOUR CARD IS TEMPORARY LOCKED! VISIT: [SAFE-URL-1] TO UNLOCK",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8098",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\ns1 ppalYour account is temporarilyrestricted. Please confirm to restoreaccess: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-633",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "FROM BANK: Account is on hold confirm here within 5min: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-10054",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Amazon: Your Amazon account has been suspended due suspicious activity. To unblock your account please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2405",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "2 Your payment method expires. Please update at [SAFE-URL-1] Netflix",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-9275",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-740",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Due to ssecurity procedures, your account has been blocked; to immediately unblock your account, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67713",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected] / (Mobile and OnIine Banking) / Unlook your account, use the blew link, [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8128",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3353",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Optus: We have had a problem with your current payment information. Please visit [SAFE-URL-1] to avoid a restriction of your service.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-624",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "FROM BANK: Account is on hold confrim here within 5min :[SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67491",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nNtflx : Subscription automatic debit failed. Log in to update your information via: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1413",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your track from usps is still awaiting your payment, Complete the actions here : [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14507",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nRoyal Mail: Your parcel has an outstanding payment of 1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17495",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov:You just received a credit of $1,924.89 AUD to accept payment click [SAFE-URL-1] Now.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-12729",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] /  / Your account is locked due to several failed login attempts. Please reset [SAFE-URL-1] your p***code to unlock.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17739",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUpdate your MyGov details to receive payment click: [SAFE-URL-1] skyman\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17834",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n[Alert] : Your MYgov payment is ready for claim. Visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-10010",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "O2: Opps, we have been unable to take the payment for your latest bill please update your details via: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8862",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected]  /  South  State:  /  Online  access  to  your  account  has  been  blocked  for  security  [SAFE-URL-1]  reasons.  Visit  to  reactivate  your  account.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16332",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour NETFLIX account has been suspended. Please click on the following link to re activate your account : [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17571",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSecure AIert (MyGov): your account has been restricted for security reasons VlSlT [SAFE-URL-1] to restore account\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8648",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected]***[SAFE-URL-1]   /   SouthState:   /   Online   access   to   your   account   has   been   blocked   for   security   reasons.   Click   [SAFE-URL-2]   to   reactivate   your   account.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15901",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n43-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2153",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A payment has been attempted for 1800$ if you do not recognise, please access [SAFE-URL-1] (V)",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5369",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "O.K: Your $868.09 Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67714",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected] / (Mobile and OnIine Banking) / Unlook your account, use the blew link to recover your account, [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-14354",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Wells Fargo Bank: We have frozen your online access due to failed login attempts from a new device. To reinstate, click here [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-38759",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSign up for brightwheel: [SAFE-URL-1] SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-2] . incase of any question SHAHID has invited you to brightwheel! Create your account using the unique invite link above. Reply STOP to unsubscribe.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8126",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] route:1\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5342",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "B.O.K: Your $868.09 Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction [0000]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17620",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe need more records to substantiate your claimed refund , kindly verify at [SAFE-URL-1] avoid being sanctioned.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3373",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "An amount of 348.93$ has been debited from your mobile banking, Not you? Visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-12731",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] /  / Your account is locked due to several failed login attempts. Please reset [SAFE-URL-1] your p***code to unlock you",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-766",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your  account  has  been  blocked,  in  order  to  unblock  your  account  swiftly  please  visit  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17609",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYour Profile Is On Hold Following A New Pending Refund Bonus. Claim at [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2268",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15505",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67711",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": " / (Mobile and OnIine Banking) / Unlook your account, use the blew link to recover your account, [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-198",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain .",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13383",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "PayPal: Your account has been flagged due to an unauthorised sign-in attempt. If this was not you, verify via: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-187",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your account has been limited due to a suspicious transaction, Please visit [SAFE-URL-1] reactivate",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-318",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your   account   has   been   suspended   due   to   multiple   failed   login   attempts.   To   unblock   your   account,   please   visit:   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-49333",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nmy-Gov: Our algorithm determined that you are eligible for a refund of 52669. You can request your refund at [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-36662",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nPayment in the amount of 50.00 CAD was sent to you. Get it by the e-transfer here: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13300",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Universo Mobile Banking: Estimado cliente, A sua conta bancaria sera suspensa a 13/11/2022, por favor actualize os seus dados: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-50403",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWF##[email protected] / (URGENT) WF#ID11049 / WF Bank#10-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1247",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CommBank: We have temporarily frozen your account due to unusual payment requests, please visit [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13410",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CA  Prepaid  Debit  :  You  are  required  to  reactivate  your  CA  prepaid  starting  4427**  at  [SAFE-URL-1]  to  avoid  loss  of  bals.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-45620",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "m / TDMobileAlert ID#30419 / TD Bank Validate Your Login: [SAFE-URL-1] ID#19\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2435",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Paypal: A new European regulation in force imposes an audit on us. Please verify within 48 hours via [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1087",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "75130ss4ALERT: Your card has been blocked due to suspicious activity, if this was a mistake please visit: [SAFE-URL-1] in order to reactivate.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1248",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CommBank:  We  have  suspended  your  account  due  to  unusual  payment  requests,  please  visit  [SAFE-URL-1]  immediately.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8124",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (Q3)\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-4997",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] / Alerts!!! / Your Citizens Online Banking has been restricted Action required: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8373",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nSANTANDER: Confirmation. You recently set up a new payee on 23/09. If this was NOT you, please visit: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17552",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1] dy\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-12554",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "FNBO  ALERT  :  A  CHK  withdrawal  of  $334.87  has  been  charged  on  your  account  made  on  11/04/2022  ,  visit  [SAFE-URL-1]  to  cancel  payment.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3219",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Secure Veridian Credit Union Msg: We detect an unusual login attempt on your account, we forcibly suspend your access temporarily freeze your funds and reject any pending deposits. Visit [SAFE-URL-1] to restore your account.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67788",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-URL-1] / WellsFargo Alrt / Your debit card was locked. Please follow the link to unlock [SAFE-URL-2]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-10658",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Amazon: Your Amazon account has been suspended due to suspicious activity. To unblock your account please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2237",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "FRM: *Summit CU*\r\nMSG:*********9643** Your Account is Blocked\r\nTo unlock click here [SAFE-URL-1] to regain access.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13622",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "CACU: Multiple failed ATTEMPTS, Confirm transaction by clicking [SAFE-URL-1] we worry about any threats to your data security.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17529",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA payment of $5,045.00 is awaiting verification. To get started with accessing your state and federal returns. Visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2145",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "INGBank Alert Notification: We need you to confirm if this payment just made was really you. Visit [SAFE-URL-1] and follow instructions.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3393",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "An amount of $327.68 has been deducted from your bank account. Not you? visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3044",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "DHL: Dear client. we're sorry Your package is waiting for delivery. Confirm the payment process for your shipment: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1487",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "BOA BANK: TO REGAIN ACCESS YOUR ACCOUNT FOLLOW HERE [SAFE-URL-1] AND CONFRIM YOUR DC PIN",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3673",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Bendigo  Bank:  A  debit  authorisation  of  $227.68  has  been  processed  on  your  mobile  banking.  Not  you?  visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-865",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "You   have   attempted   to   authorize   a   new   direct   debit   on   18/05   to   F   Adams.   If   you   do   NOT   recognize   this,   please   visit:   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1127",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "61631ww4ALERT: Your card has been blocked due to suspicious activity, if this was a mistake please visit: [SAFE-URL-1] in order to reactivate.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8084",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nANZ: A transaction of 6234$ has been attempted on your account. if you do not recognise please access [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17570",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov Alert: Your Refund has been approved. Your available balance is now 36272.32AUD. Visit [SAFE-URL-1] to claim your funds.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-30",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "PayPal:  Your  account  has  been  limited  because  we  detected  unusual  sign  in  activity  on  your  account  with  CASE-ID#PP-L-3037638964536.  Check  now  and  login  to  verify:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-7788",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nANZ: We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17623",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35,272.32AU. Visit [SAFE-URL-1] to claim.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13273",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Alert   -   Netflix   :   Payment   failed   we   will   close   your   account   due   to   missing   on   payments   watch   time   log-in   :   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-2131",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "A transaction was made from your account to an international account please visit [SAFE-URL-1] to verify if this was you.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-66616",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17723",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou've successfully updated your Centrelink bank information from your MYGOV profile. Not you? visit [SAFE-URL-1] to resolve.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1688",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected]  /  Your  Account  Has  Been  Locked  /  CITI_SERVICE  #27150:  Your  account  access  has  been  limited  due  to  fraudulent  activity.  Please  visit  [SAFE-URL-1]  to  unlock  your  account.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-5307",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[SAFE-EMAIL-1] / USP / Please confirm the payment of the home delivery costs (3.00 USD) in the following link: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17805",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-725",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "MetaMask : Vous avez 0,[OTHER-ID-1] Airdrop en attente. Afficher les détails de la transaction et approuver pour le traitement [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3215",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "PayPal:[Important] Dear Customer, Your PayPal password has been successfully changed. If you do not make this change, please contact us immediately. [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-12314",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Canada Post:FAILED DELIVERY Incorrect payment details. For new delivery click here: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17852",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou have an unresolved issue on your ato refund click here [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17547",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMYG0V: You have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17624",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMYG-O-V ALERT: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8886",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Wells-Fargo : Account Suspended. Please verify your Iden***y by signing into your account at [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17749",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou have sold the goods! Receiving payment: [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8429",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n[WELLS’Alert] : New ACH account linked. visit [SAFE-URL-1] to remove or proceed with payment.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-1081",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "42231dhXX ALERT: Your card has been blocked due to suspicious activity, if this was a mistake please visit: [SAFE-URL-1] in order to reactivatecoding=0",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17625",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n{ MYG0VAU } Annual upgrade in progress and Account is restricted please visit [SAFE-URL-1] to restore Account now\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67127",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-15193",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n\" CommAlert: A New device has been registered for mobile banking. If this was NOT you, Immediately Deregister via [SAFE-URL-1] \"\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-741",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Due  to  security  procedures,  your  account  has  been  blocked;  to  immediately  unblock  your  account,  please  visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3013",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "BendigoBank:   Payment   authorised   of   '$82.31'   to   KIERAN   TIERNEY.   If   this   was   not   you   visit:   [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17724",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov: The bank information in your MYGOV profile has been successfully changed. Not you? you can address this by going to [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17484",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nMyGov: Your payment could not be processed due to invalid information visit [SAFE-URL-1] to update\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3010",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "BendigoBank:  Payment  authorised  of  $86.45  to  Joseph  Parker.  If  this  was  not  you  please  visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8123",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (A5)\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3437",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "EVA  Your  Bendigo  account  has  been  debited  by  an  unauthorized  transaction  in  the  amount  of  $573.68.  No,  you?  Visit:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-67712",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": " / (Mobile and OnIine Banking) / Unlook your account, use the blew link, [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8076",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe We need you accept to our NEW Terms and Conditions immediateIy to prevent your account being SUSPENDED. To accept Iogon by: #(//[SAFE-URL-1] //)#\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-16315",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\n489817 Wells Fargo: A payment of $216 was placed on hold to APPLE. Please visit [SAFE-URL-1] to review this payment\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-8811",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Due to logistics issues, your package has been held until payment of fees. Complete here : [SAFE-URL-1] 872",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-4073",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "You  have  an  outstanding  refund  From  MyGov.  Your  refund  is  available  online  :701.98  AUD  To  accept  this  online  payment  go  to:  [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-13037",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "On 11/8/2022 your Savings account was signed in from an unknown device iPhone [SAFE-URL-1] and Dispute [SAFE-URL-2] avoid your Account from being Frozen\r\n[SAFE-URL-3]\r\nWoodForest National Bank",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3786",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "Your bendigo account has been debited $1097 from an unusual location. If you did not authorise this transaction please visit [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17634",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nYou have received Tax Refund of $9,345.00 Ref-[TRANSACTION-ID-1]. To claim it visit [SAFE-URL-1]\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-17802",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "\r\nWe determine you are entitled to receive this payment. Your refund is 6980.85 AUD. Go to [SAFE-URL-1] quickly to claim MyG0V Team.\r\n",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-3359",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "You recently set up a new recipient via mobile banking on 28/07/22. If this was NOT you, please visit: [SAFE-URL-1]",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "gateway-63",
+    "raw_label": "VT_APWG_flagged",
+    "safe_text": "[email protected]   /   M&T   Bank   /   M&T   (#716187):   For   security   reasons,   We   have   Iocked   your   account.   Please   visit   [SAFE-URL-1]   to   verify   your   details   and   unlock   your   account   or   call   us.",
+    "source_id": "gateway",
+    "source_url": "https://github.com/wspr-ncsu/sms-phishing"
+  },
+  {
+    "id": "mendeley-4044",
+    "raw_label": "Smishing",
+    "safe_text": "Dear PAYTM customer your Paytm KYC has expired. Contact customer care No-[OTHER-ID-1] immediately. your account will Block within 24 hr. Thank you PAYTM TEAM.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1268",
+    "raw_label": "Smishing",
+    "safe_text": "Courtsy reminder: payment on your NAB Visa Card is now overdue. Please refer to your statement for payment options or call [SAFE-PHONE-1] Thank you",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-4088",
+    "raw_label": "Smishing",
+    "safe_text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-962",
+    "raw_label": "Smishing",
+    "safe_text": "Your Bank of America online account has been suspended, log in to restore [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5394",
+    "raw_label": "Smishing",
+    "safe_text": "(6171-M) RMO.00 AEON MY Rs. 4399 was charged on your card num**97 at LAZO-KLIA2 on 19/10/2016. Call [SAFE-PHONE-1] if you did NOT perform this  TXN [TRANSACTION-ID-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-4673",
+    "raw_label": "Smishing",
+    "safe_text": "We have identified some unusual activity on your online banking. Please log in via the secure link http:owly/nPyL308KyWG to avoid account suspension",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1389",
+    "raw_label": "Smishing",
+    "safe_text": "We would like to inform you that you have been recorded as leaving your home on 3 occasions yesterday. A fine of �35 has been added to your [SAFE-URL-1]�account. For further information please visit�[SAFE-URL-2] coronavirus-penalty-payment racking. Protect the NHS. Save lives",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5033",
+    "raw_label": "Smishing",
+    "safe_text": "(Alert) Your Rbc Royal Bank has been suspended. To unlock your account, click here: [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-737",
+    "raw_label": "Smishing",
+    "safe_text": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-2500",
+    "raw_label": "Smishing",
+    "safe_text": "Nationwide has noticed your debit card was recently used on 25-10-2015 13.04.43, at APPLE ONLINE STORE for 1976.00 GBP. If not you please urgently call fraud preventaion on [OTHER-ID-1] or intl [SAFE-PHONE-1]. Do not reply by SMS [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5070",
+    "raw_label": "Smishing",
+    "safe_text": "You have an outstanding tax refund of 578.44G8P for the tax year 15/16. Please fill out the following form to process your refund [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-4882",
+    "raw_label": "Smishing",
+    "safe_text": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5316",
+    "raw_label": "Smishing",
+    "safe_text": "HMRC GOVUK:0ur records show that your tax refund of �398.90 can now be claime. Please continue via:[SAFE-URL-1] claim your refund.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1721",
+    "raw_label": "Smishing",
+    "safe_text": "DUETO THE CENTRAL BANK DIRECTIVE WITH REGARDS TO BVN UPDATE,YOUR ATM CARD HAS BEEN DE-ACTIVATED,TO RE-ACTIVATE CALL CUSTOMER CARE ON [OTHER-ID-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5",
+    "raw_label": "Smishing",
+    "safe_text": "Please Stay At Home. To encourage the notion of staying at home. All tax-paying citizens are entitled to �305.96 or more emergency refund. [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5088",
+    "raw_label": "Smishing",
+    "safe_text": "Dear PAYTM customer your paytm KYC has been suspended, paytm office PH [OTHER-ID-1] Account will block within 24 hour. Thank you. PAYTM TEAM",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-2784",
+    "raw_label": "Smishing",
+    "safe_text": "Nationwide has noticed your debit card was recently used on 22-10-2016 15:04:43, at APPLE ONLINE STORE FOR 1500.00 GBP. If not you please urgently call fraud prevention on [OTHER-ID-1] or intl [SAFE-PHONE-1]. Do not reply by sms [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1704",
+    "raw_label": "Smishing",
+    "safe_text": "Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-575",
+    "raw_label": "Smishing",
+    "safe_text": "We have identified some unusual activity on your Online Banking. Log in via the secure link http:/95.141.32.7:81/[SAFE-URL-1]�to avoid account suspension.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-379",
+    "raw_label": "Smishing",
+    "safe_text": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-588",
+    "raw_label": "Smishing",
+    "safe_text": "URGENT: UKGOV has issued a payment of 458 GBP to all residents as part of its promise to battle COVID 19.  TAP here https:/[SAFE-URL-1] apply",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-2618",
+    "raw_label": "Smishing",
+    "safe_text": "you'hv completed a transaction for AUD 788.93 on 06/02/17 03-27-31 pm. Please follow the link if it is not done by you [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1436",
+    "raw_label": "Smishing",
+    "safe_text": "It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1834",
+    "raw_label": "Smishing",
+    "safe_text": "We have received a request from you for purchasing Paytm Payments Bank FASTag. Total amount to be paid is Rs 250/- (Tag Cost Rs. 100 Security Deposit Rs. 0, Threshold -Rs. 150). In case of any queries, please contact us at [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-870",
+    "raw_label": "Smishing",
+    "safe_text": "Nationwide has noticed your debit card was recently used on 29-11-2016 15:04:43, at APPLE ONLINE STORE for 1267.00 GBP If not you please urgently call fraud prevention on [OTHER-ID-1] or Int [SAFE-PHONE-1]. Do not reply by SMS [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1168",
+    "raw_label": "Smishing",
+    "safe_text": "We have recalculated your vehicle tax. You are owed �48.84 due to over [SAFE-URL-1] the secure link http:// [SAFE-URL-2] to claim your refund.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-3331",
+    "raw_label": "Smishing",
+    "safe_text": "[SAFE-URL-1] ALERT CORONAVIRUS It has come to our attention that you have been out of the house more than once. Due to this irresponsible behaviour, we are issuing you a formal warning and �250 fine. If this continues, the fine could increase to a maximum of �5000 and/or an arrest. Payment will be taken automatically out of your account. Call [SAFE-PHONE-1] for any enquiries or to appeal.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1044",
+    "raw_label": "Smishing",
+    "safe_text": "RMO.00 [SAFE-URL-1] RM4388.00 Was Charged On Your Card Numer 9577 at AwG-KLIA2 On 24/10/16 1032:29 Ref[TRANSACTION-ID-1] Code 342152 Call [SAFE-PHONE-1] if u did NOT perform this Txn",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  }
+]

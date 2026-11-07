@@ -1,0 +1,91 @@
+{
+  "protocol_version": "automated-pilot-v1",
+  "review_mode": "automated",
+  "validation_type": "automated_semantic_review",
+  "active": true,
+  "roles": {
+    "generator": "gpt-5.4-mini-2026-03-17",
+    "llm_reviewer_A": "gpt-5.4-mini-2026-03-17",
+    "llm_reviewer_B": "gpt-4.1-mini-2025-04-14",
+    "llm_adjudicator": "gpt-4.1-2025-04-14"
+  },
+  "confidence_threshold": 0.8,
+  "review_temperature": 0.0,
+  "review_top_p": 1.0,
+  "review_max_output_tokens": 1200,
+  "generation_temperature": 0.2,
+  "generation_top_p": 1.0,
+  "generation_seed": null,
+  "generation_max_output_tokens": 500,
+  "max_technical_attempts": 2,
+  "semantic_regeneration_attempts": 0,
+  "target_per_label": 24,
+  "reduced_balanced_cohort_allowed": true,
+  "max_workers": 4,
+  "bootstrap_seed": 42,
+  "bootstrap_draws": 10000,
+  "frozen_threshold": 0.5,
+  "source_policy": "Inspect all distinct eligible control families; review initial 24 positive families; expand positives only if needed to match approved controls, never from scores",
+  "source_non_action_policy": "Reject NONE requested action because C2/C3 require an existing action",
+  "license_policy": "Original CC BY4/MIT repository data and project-authored local controls; unresolved sources remain HOLD",
+  "same_provider_limitation": "Different exact model snapshots, isolated calls; shared provider/training biases and subjective confidence remain",
+  "generation_prompt_version": "canonical-v1",
+  "generation_prompt_files": {
+    "C1": "C1_light_lexical_v1.txt",
+    "C2": "C2_direct_action_v1.txt",
+    "C3": "C3_softened_action_v1.txt",
+    "C4": "C4_natural_normalization_v1.txt",
+    "C5": "C5_strong_paraphrase_v1.txt",
+    "C6": "C6_high_distance_v1.txt"
+  },
+  "generation_schema": {
+    "type": "object",
+    "properties": {
+      "frame_id": {
+        "type": "string"
+      },
+      "condition": {
+        "type": "string",
+        "enum": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6"
+        ]
+      },
+      "text": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "frame_id",
+      "condition",
+      "text"
+    ],
+    "additionalProperties": false
+  },
+  "generation_prompt_hashes": {
+    "C1": "e232ce2e9e5d50aef58538e67617346a22dfe08901b00445924e7f698a44697e",
+    "C2": "813c851ac145c7700aace78c7a8d8af9e7b29f9582a57a1e2d06653fd1153df8",
+    "C3": "5aacd08bef9f754728672765cce4e6a51ba9e8ff08f59ef9e386690f84d037d9",
+    "C4": "deae4327240b17737cbbebe2a574723a63379a461d10d97f1611f5edc61fac50",
+    "C5": "c22daa937d5476a7ca8dfc8dea96da66bb194d12948bfdd208aa92a737329055",
+    "C6": "692cdc3eab13bf0b5d0149223f21cfa2bae4207392745d7b8b1ff5dcf681b600"
+  },
+  "review_prompt_hashes": {
+    "source_review": "daf788f6bfdef0752a1e1102524c9a1c241858ed3b28fb13aae5b7992a56c805",
+    "source_adjudication": "74797baefe73ac0a0111fa023d18bb9e908d5d6c7581ce329aea5c96359d5cfb",
+    "rewrite_review": "32daaba37cc12e21f2f15d296ecd5c7180e9af24a54aae550d46c2c8afa0c911",
+    "rewrite_adjudication": "cd5f0498a470f2a0e192dbdda3aa12cedc8d2243772588528f1bc5d5e49ab9b0",
+    "directness_review": "f8707cfdf817493df40e90e53399224a84a964ff7fa43bf2d59566b8729e5ded"
+  },
+  "manipulation_thresholds": {
+    "C1_lower_C5_fraction": 0.8,
+    "C1_lower_C6_fraction": 0.8,
+    "C3_less_direct_fraction": 0.8
+  },
+  "failed_manipulation_policy": "Freeze and report only as exploratory with failed validation explicitly recorded; no confirmatory interpretation",
+  "complete_case_policy": "One failed generated condition removes frame; rebalance complete frames before any scoring; no performance-based exclusion"
+}

@@ -1,0 +1,24 @@
+benchmark_version: "2.1-pre-freeze"
+status: "approved_candidate_not_executed"
+active: false
+generation_authorized: false
+assignment_weight: 0.0
+provider: "OpenAI"
+model: "gpt-5.4-mini"
+exact_version: "gpt-5.4-mini-2026-03-17"
+api: "Responses API"
+structured_output: true
+temperature: 0.2
+top_p: 1.0
+seed: null
+generations_per_job: 1
+maximum_attempts: 2
+max_output_tokens: 500
+detector_context: "prohibited"
+detector_guided_retry: "prohibited"
+url_policy: "all destinations remain defanged placeholders"
+prompt_version: "benchmark-v2.1-dose-response-v1"
+notes: >-
+  Configuration is frozen as a research decision for the next generation run.
+  No detector scores or predictions may be supplied to the generator, and no
+  output may be regenerated because of detector performance.

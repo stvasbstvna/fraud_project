@@ -1,0 +1,19 @@
+{
+  "all_approved_raw_provider_evidence_reconstructed": true,
+  "approved_variants": 14,
+  "complete_frames": 0,
+  "family_training_validation_overlap": false,
+  "figures": 12,
+  "matrix_sha256": "1390b12572da926595b34042f2c14d1c64117c414d8a4ebeb0808acbfd78f885",
+  "model_freeze_verified": true,
+  "no_detector_feedback": true,
+  "primary_stronger_pilot_target_met": false,
+  "protected_files_changed": 0,
+  "protected_prior_files": 118,
+  "source_frames": 12,
+  "source_labels": {
+    "legitimate": 1,
+    "phishing": 11
+  },
+  "status": "VERIFIED_EXPLORATORY_V32"
+}

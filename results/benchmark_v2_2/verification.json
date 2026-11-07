@@ -1,0 +1,16 @@
+{
+  "LLM_calls": 0,
+  "detector_predictions": 0,
+  "final_source_frames": 0,
+  "generated_variants": 0,
+  "historical_files_changed": 0,
+  "historical_files_checked": 979,
+  "independent_human_annotation": false,
+  "models_unchanged": true,
+  "optimistic_max_controls": 14,
+  "original_local_rows_inspected": 81738,
+  "required_controls": 16,
+  "review_type": "deterministic_source_audit_only",
+  "scientific_figures": 0,
+  "status": "VERIFIED_SOURCE_INSUFFICIENT_NO_DOWNSTREAM_EXECUTION"
+}

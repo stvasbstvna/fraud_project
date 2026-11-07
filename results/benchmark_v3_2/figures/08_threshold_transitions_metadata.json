@@ -1,0 +1,35 @@
+{
+  "title": "Four threshold-transition types",
+  "research_question": "Which paired predictions cross the detector threshold?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv"
+  ],
+  "filters": "primary_complete_case == True",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 60,
+    "distinct_frames_in_data": null
+  },
+  "models": [
+    "LR",
+    "ModernBERT",
+    "RF"
+  ],
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Model, condition (class denominators shown)",
+  "y_axis": "Crossing count",
+  "main_observation": "No primary complete frames; estimates are unavailable. Four class-specific crossings are counted: detected→missed and missed→detected for phishing; legitimate→false-positive and false-positive→legitimate for legitimate messages. Unchanged predictions are excluded.",
+  "allowed_interpretation": "N is the class denominator; eligible_N is the baseline state at risk of each crossing; absent-class rates remain unavailable.",
+  "forbidden_interpretation": "Do not combine phishing misses and legitimate false positives as a single evasion measure.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

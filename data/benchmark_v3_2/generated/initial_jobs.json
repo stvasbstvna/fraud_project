@@ -1,0 +1,770 @@
+[
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "nus-5294",
+    "id": "nus-5294::C1::0",
+    "semantic_controls": {
+      "destination": "your bank",
+      "event_or_claim": "Someone is trying to add a card ending in a placeholder on mChek.",
+      "institution_entity": "mChek",
+      "intent": "fraud_alert",
+      "message_function": "fraud_alert",
+      "requested_action": "notify your bank",
+      "validated_label": "legitimate"
+    },
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank."
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "nus-5294",
+    "id": "nus-5294::C4::0",
+    "semantic_controls": {
+      "destination": "your bank",
+      "event_or_claim": "Someone is trying to add a card ending in a placeholder on mChek.",
+      "institution_entity": "mChek",
+      "intent": "fraud_alert",
+      "message_function": "fraud_alert",
+      "requested_action": "notify your bank",
+      "validated_label": "legitimate"
+    },
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank."
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "nus-5294",
+    "id": "nus-5294::C5::0",
+    "semantic_controls": {
+      "destination": "your bank",
+      "event_or_claim": "Someone is trying to add a card ending in a placeholder on mChek.",
+      "institution_entity": "mChek",
+      "intent": "fraud_alert",
+      "message_function": "fraud_alert",
+      "requested_action": "notify your bank",
+      "validated_label": "legitimate"
+    },
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank."
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "nus-5294",
+    "id": "nus-5294::C6::0",
+    "semantic_controls": {
+      "destination": "your bank",
+      "event_or_claim": "Someone is trying to add a card ending in a placeholder on mChek.",
+      "institution_entity": "mChek",
+      "intent": "fraud_alert",
+      "message_function": "fraud_alert",
+      "requested_action": "notify your bank",
+      "validated_label": "legitimate"
+    },
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank."
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-188",
+    "id": "gateway-188::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "new mobile update required or the app may be restricted",
+      "institution_entity": "CommBank",
+      "intent": "coerce app access via fake bank security warning",
+      "message_function": "account_restriction",
+      "requested_action": "visit link to update app and avoid restriction",
+      "validated_label": "phishing"
+    },
+    "source": "CommBank: New Mobile Update, visit via [SAFE-URL-1] or we may restrict your app until further notice."
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-188",
+    "id": "gateway-188::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "new mobile update required or the app may be restricted",
+      "institution_entity": "CommBank",
+      "intent": "coerce app access via fake bank security warning",
+      "message_function": "account_restriction",
+      "requested_action": "visit link to update app and avoid restriction",
+      "validated_label": "phishing"
+    },
+    "source": "CommBank: New Mobile Update, visit via [SAFE-URL-1] or we may restrict your app until further notice."
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-188",
+    "id": "gateway-188::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "new mobile update required or the app may be restricted",
+      "institution_entity": "CommBank",
+      "intent": "coerce app access via fake bank security warning",
+      "message_function": "account_restriction",
+      "requested_action": "visit link to update app and avoid restriction",
+      "validated_label": "phishing"
+    },
+    "source": "CommBank: New Mobile Update, visit via [SAFE-URL-1] or we may restrict your app until further notice."
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-188",
+    "id": "gateway-188::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "new mobile update required or the app may be restricted",
+      "institution_entity": "CommBank",
+      "intent": "coerce app access via fake bank security warning",
+      "message_function": "account_restriction",
+      "requested_action": "visit link to update app and avoid restriction",
+      "validated_label": "phishing"
+    },
+    "source": "CommBank: New Mobile Update, visit via [SAFE-URL-1] or we may restrict your app until further notice."
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-8091",
+    "id": "gateway-8091::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "recent activity on the personal account looks suspicious",
+      "institution_entity": "ANZ",
+      "intent": "coerce login to verify account ownership",
+      "message_function": "account_security",
+      "requested_action": "login now to verify account ownership",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nANZ: Your recent activity associated with your personal account looks suspicious. Please login now to verify account ownership [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-8091",
+    "id": "gateway-8091::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "recent activity on the personal account looks suspicious",
+      "institution_entity": "ANZ",
+      "intent": "coerce login to verify account ownership",
+      "message_function": "account_security",
+      "requested_action": "login now to verify account ownership",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nANZ: Your recent activity associated with your personal account looks suspicious. Please login now to verify account ownership [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-8091",
+    "id": "gateway-8091::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "recent activity on the personal account looks suspicious",
+      "institution_entity": "ANZ",
+      "intent": "coerce login to verify account ownership",
+      "message_function": "account_security",
+      "requested_action": "login now to verify account ownership",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nANZ: Your recent activity associated with your personal account looks suspicious. Please login now to verify account ownership [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-8091",
+    "id": "gateway-8091::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "recent activity on the personal account looks suspicious",
+      "institution_entity": "ANZ",
+      "intent": "coerce login to verify account ownership",
+      "message_function": "account_security",
+      "requested_action": "login now to verify account ownership",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nANZ: Your recent activity associated with your personal account looks suspicious. Please login now to verify account ownership [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-3207",
+    "id": "gateway-3207::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "OnlineCode security settings have expired",
+      "institution_entity": "ANZ",
+      "intent": "coerce confirmation of account details to preserve access",
+      "message_function": "verification",
+      "requested_action": "confirm details via link",
+      "validated_label": "phishing"
+    },
+    "source": "Your  ANZ  OnlineCode  security  settings  have  expired.  To  maintain  the  security  of  your  account,  confirm  your  details  via  [SAFE-URL-1].  Xray."
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-3207",
+    "id": "gateway-3207::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "OnlineCode security settings have expired",
+      "institution_entity": "ANZ",
+      "intent": "coerce confirmation of account details to preserve access",
+      "message_function": "verification",
+      "requested_action": "confirm details via link",
+      "validated_label": "phishing"
+    },
+    "source": "Your  ANZ  OnlineCode  security  settings  have  expired.  To  maintain  the  security  of  your  account,  confirm  your  details  via  [SAFE-URL-1].  Xray."
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-3207",
+    "id": "gateway-3207::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "OnlineCode security settings have expired",
+      "institution_entity": "ANZ",
+      "intent": "coerce confirmation of account details to preserve access",
+      "message_function": "verification",
+      "requested_action": "confirm details via link",
+      "validated_label": "phishing"
+    },
+    "source": "Your  ANZ  OnlineCode  security  settings  have  expired.  To  maintain  the  security  of  your  account,  confirm  your  details  via  [SAFE-URL-1].  Xray."
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-3207",
+    "id": "gateway-3207::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "OnlineCode security settings have expired",
+      "institution_entity": "ANZ",
+      "intent": "coerce confirmation of account details to preserve access",
+      "message_function": "verification",
+      "requested_action": "confirm details via link",
+      "validated_label": "phishing"
+    },
+    "source": "Your  ANZ  OnlineCode  security  settings  have  expired.  To  maintain  the  security  of  your  account,  confirm  your  details  via  [SAFE-URL-1].  Xray."
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-67708",
+    "id": "gateway-67708::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "secure message from TD about your account",
+      "institution_entity": "TD",
+      "intent": "coerce account review through a fake secure message",
+      "message_function": "other",
+      "requested_action": "use the URL regarding your account",
+      "validated_label": "phishing"
+    },
+    "source": " / Secure message from TD / Use the bleow url to regarding your account, ([SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-67708",
+    "id": "gateway-67708::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "secure message from TD about your account",
+      "institution_entity": "TD",
+      "intent": "coerce account review through a fake secure message",
+      "message_function": "other",
+      "requested_action": "use the URL regarding your account",
+      "validated_label": "phishing"
+    },
+    "source": " / Secure message from TD / Use the bleow url to regarding your account, ([SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-67708",
+    "id": "gateway-67708::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "secure message from TD about your account",
+      "institution_entity": "TD",
+      "intent": "coerce account review through a fake secure message",
+      "message_function": "other",
+      "requested_action": "use the URL regarding your account",
+      "validated_label": "phishing"
+    },
+    "source": " / Secure message from TD / Use the bleow url to regarding your account, ([SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-67708",
+    "id": "gateway-67708::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "secure message from TD about your account",
+      "institution_entity": "TD",
+      "intent": "coerce account review through a fake secure message",
+      "message_function": "other",
+      "requested_action": "use the URL regarding your account",
+      "validated_label": "phishing"
+    },
+    "source": " / Secure message from TD / Use the bleow url to regarding your account, ([SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-6354",
+    "id": "gateway-6354::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an unauthorized payment of $353.60 from the recipient's account and urges immediate account protection.",
+      "institution_entity": "truist",
+      "intent": "fraud alert",
+      "message_function": "fraud_alert",
+      "requested_action": "protect your account",
+      "validated_label": "phishing"
+    },
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-6354",
+    "id": "gateway-6354::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an unauthorized payment of $353.60 from the recipient's account and urges immediate account protection.",
+      "institution_entity": "truist",
+      "intent": "fraud alert",
+      "message_function": "fraud_alert",
+      "requested_action": "protect your account",
+      "validated_label": "phishing"
+    },
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-6354",
+    "id": "gateway-6354::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an unauthorized payment of $353.60 from the recipient's account and urges immediate account protection.",
+      "institution_entity": "truist",
+      "intent": "fraud alert",
+      "message_function": "fraud_alert",
+      "requested_action": "protect your account",
+      "validated_label": "phishing"
+    },
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-6354",
+    "id": "gateway-6354::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an unauthorized payment of $353.60 from the recipient's account and urges immediate account protection.",
+      "institution_entity": "truist",
+      "intent": "fraud alert",
+      "message_function": "fraud_alert",
+      "requested_action": "protect your account",
+      "validated_label": "phishing"
+    },
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-15899",
+    "id": "gateway-15899::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims HDFC savings account will be blocked today unless PAN card is updated",
+      "institution_entity": "HDFC",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "update PAN card via click link",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-15899",
+    "id": "gateway-15899::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims HDFC savings account will be blocked today unless PAN card is updated",
+      "institution_entity": "HDFC",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "update PAN card via click link",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-15899",
+    "id": "gateway-15899::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims HDFC savings account will be blocked today unless PAN card is updated",
+      "institution_entity": "HDFC",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "update PAN card via click link",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-15899",
+    "id": "gateway-15899::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims HDFC savings account will be blocked today unless PAN card is updated",
+      "institution_entity": "HDFC",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "update PAN card via click link",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-17578",
+    "id": "gateway-17578::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "refund approved and balance updated",
+      "institution_entity": "MyG0V Alert",
+      "intent": "trick recipient into visiting a link to claim a refund",
+      "message_function": "refund",
+      "requested_action": "visit link and approve claim",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-17578",
+    "id": "gateway-17578::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "refund approved and balance updated",
+      "institution_entity": "MyG0V Alert",
+      "intent": "trick recipient into visiting a link to claim a refund",
+      "message_function": "refund",
+      "requested_action": "visit link and approve claim",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-17578",
+    "id": "gateway-17578::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "refund approved and balance updated",
+      "institution_entity": "MyG0V Alert",
+      "intent": "trick recipient into visiting a link to claim a refund",
+      "message_function": "refund",
+      "requested_action": "visit link and approve claim",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-17578",
+    "id": "gateway-17578::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "refund approved and balance updated",
+      "institution_entity": "MyG0V Alert",
+      "intent": "trick recipient into visiting a link to claim a refund",
+      "message_function": "refund",
+      "requested_action": "visit link and approve claim",
+      "validated_label": "phishing"
+    },
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "mendeley-737",
+    "id": "mendeley-737::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an AUD 590.3 transaction occurred and urges action if unauthorized.",
+      "institution_entity": "NONE",
+      "intent": "fraudulent account-activity lure",
+      "message_function": "fraud_alert",
+      "requested_action": "click link to review unauthorized transaction",
+      "validated_label": "phishing"
+    },
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "mendeley-737",
+    "id": "mendeley-737::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an AUD 590.3 transaction occurred and urges action if unauthorized.",
+      "institution_entity": "NONE",
+      "intent": "fraudulent account-activity lure",
+      "message_function": "fraud_alert",
+      "requested_action": "click link to review unauthorized transaction",
+      "validated_label": "phishing"
+    },
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "mendeley-737",
+    "id": "mendeley-737::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an AUD 590.3 transaction occurred and urges action if unauthorized.",
+      "institution_entity": "NONE",
+      "intent": "fraudulent account-activity lure",
+      "message_function": "fraud_alert",
+      "requested_action": "click link to review unauthorized transaction",
+      "validated_label": "phishing"
+    },
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "mendeley-737",
+    "id": "mendeley-737::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "Claims an AUD 590.3 transaction occurred and urges action if unauthorized.",
+      "institution_entity": "NONE",
+      "intent": "fraudulent account-activity lure",
+      "message_function": "fraud_alert",
+      "requested_action": "click link to review unauthorized transaction",
+      "validated_label": "phishing"
+    },
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "mendeley-4882",
+    "id": "mendeley-4882::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-PHONE-1] / [SAFE-PHONE-2]",
+      "event_or_claim": "Claim that the recipient's bank card has been blocked and must be updated by contacting the provided numbers.",
+      "institution_entity": "Bank",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "contact phone numbers to update ATM card",
+      "validated_label": "phishing"
+    },
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "mendeley-4882",
+    "id": "mendeley-4882::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-PHONE-1] / [SAFE-PHONE-2]",
+      "event_or_claim": "Claim that the recipient's bank card has been blocked and must be updated by contacting the provided numbers.",
+      "institution_entity": "Bank",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "contact phone numbers to update ATM card",
+      "validated_label": "phishing"
+    },
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "mendeley-4882",
+    "id": "mendeley-4882::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-PHONE-1] / [SAFE-PHONE-2]",
+      "event_or_claim": "Claim that the recipient's bank card has been blocked and must be updated by contacting the provided numbers.",
+      "institution_entity": "Bank",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "contact phone numbers to update ATM card",
+      "validated_label": "phishing"
+    },
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "mendeley-4882",
+    "id": "mendeley-4882::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-PHONE-1] / [SAFE-PHONE-2]",
+      "event_or_claim": "Claim that the recipient's bank card has been blocked and must be updated by contacting the provided numbers.",
+      "institution_entity": "Bank",
+      "intent": "credential_request",
+      "message_function": "account_security",
+      "requested_action": "contact phone numbers to update ATM card",
+      "validated_label": "phishing"
+    },
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-2424",
+    "id": "gateway-2424::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "access temporarily restricted due to suspicious activity",
+      "institution_entity": "HSBC",
+      "intent": "account_restriction",
+      "message_function": "account_restriction",
+      "requested_action": "re-authenticate via provided link",
+      "validated_label": "phishing"
+    },
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-2424",
+    "id": "gateway-2424::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "access temporarily restricted due to suspicious activity",
+      "institution_entity": "HSBC",
+      "intent": "account_restriction",
+      "message_function": "account_restriction",
+      "requested_action": "re-authenticate via provided link",
+      "validated_label": "phishing"
+    },
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-2424",
+    "id": "gateway-2424::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "access temporarily restricted due to suspicious activity",
+      "institution_entity": "HSBC",
+      "intent": "account_restriction",
+      "message_function": "account_restriction",
+      "requested_action": "re-authenticate via provided link",
+      "validated_label": "phishing"
+    },
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-2424",
+    "id": "gateway-2424::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "access temporarily restricted due to suspicious activity",
+      "institution_entity": "HSBC",
+      "intent": "account_restriction",
+      "message_function": "account_restriction",
+      "requested_action": "re-authenticate via provided link",
+      "validated_label": "phishing"
+    },
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm"
+  },
+  {
+    "attempt": 0,
+    "condition": "C1",
+    "frame_id": "gateway-8048",
+    "id": "gateway-8048::C1::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "claims a recent transaction needs verification",
+      "institution_entity": "NONE",
+      "intent": "transaction verification lure",
+      "message_function": "verification",
+      "requested_action": "follow link for further details",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C4",
+    "frame_id": "gateway-8048",
+    "id": "gateway-8048::C4::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "claims a recent transaction needs verification",
+      "institution_entity": "NONE",
+      "intent": "transaction verification lure",
+      "message_function": "verification",
+      "requested_action": "follow link for further details",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C5",
+    "frame_id": "gateway-8048",
+    "id": "gateway-8048::C5::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "claims a recent transaction needs verification",
+      "institution_entity": "NONE",
+      "intent": "transaction verification lure",
+      "message_function": "verification",
+      "requested_action": "follow link for further details",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n"
+  },
+  {
+    "attempt": 0,
+    "condition": "C6",
+    "frame_id": "gateway-8048",
+    "id": "gateway-8048::C6::0",
+    "semantic_controls": {
+      "destination": "[SAFE-URL-1]",
+      "event_or_claim": "claims a recent transaction needs verification",
+      "institution_entity": "NONE",
+      "intent": "transaction verification lure",
+      "message_function": "verification",
+      "requested_action": "follow link for further details",
+      "validated_label": "phishing"
+    },
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n"
+  }
+]

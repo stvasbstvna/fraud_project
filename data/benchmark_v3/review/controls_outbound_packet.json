@@ -1,0 +1,2760 @@
+[
+  {
+    "id": "nus-44746",
+    "raw_label": "unlabeled",
+    "safe_text": "You could probably transfer it online, couldn't you?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13420",
+    "raw_label": "unlabeled",
+    "safe_text": "Didn't get business card..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21767",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha...so funny...i'm using the service alr leh....u choose urpayment method in paypal as bank topup or debit card?..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4",
+    "raw_label": "ham",
+    "safe_text": "Also sir, i sent you an email about how to log into the usc payment portal. [SAFE-URL-1] send you another message that should explain how things are back home. Have a great weekend.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-16508",
+    "raw_label": "unlabeled",
+    "safe_text": "U got access to internet? If possible can call furuma ask nettedprice lunch/dinner wkday/wkend and uob debit card ok or not? I givingtuition. Tml maybe can go if I find 1 more person.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-33944",
+    "raw_label": "unlabeled",
+    "safe_text": "Eh swelin izzit too late to send personal statement?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15412",
+    "raw_label": "unlabeled",
+    "safe_text": "Forget my account no. Can u give me cash instead?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-25643",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey Gilbert, I need you to pay $ <#>  for the fresher, sorry [SAFE-URL-1] tally my accounts. Transfer to my account  <#>  by tmr okay?Thanks alot. :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-22514",
+    "raw_label": "unlabeled",
+    "safe_text": "Dad later can transfer  <#>  for my concession?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27444",
+    "raw_label": "unlabeled",
+    "safe_text": "The pirelajewellery I get the account already, but still some problem cos they make it only one year de, so i still email-ing them.\r\nAt the same time I proceed to configure it to make it link to your weebly already. Hopefully everything can be settle by tomorrow, paiseh delay so long!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-39288",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi guys, sorry for the late msg, for those who need to loan blazer,please come to the council room tmr morning before assembly. Ohh andrmb to bring  <#>  bucks for deposit. Thanks! (:",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3821",
+    "raw_label": "unlabeled",
+    "safe_text": "PaisaPay We have sent many paid emails today. Login to your account now and check them. Don't forget to participate in the offers if you are interested in them.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-30507",
+    "raw_label": "unlabeled",
+    "safe_text": "I'm Joel. Phone no money so nid u bring phone card from mom to [SAFE-URL-1] under hostel, I'll use this phone to call u nearing the time.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-39302",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey sorry late reply, I couldn't find the magnet you wanted abs theshops were closing so I bought handphone holders, 5 bucks each! Si youwrite your own card and I write mine? Alrights can!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4318",
+    "raw_label": "spam",
+    "safe_text": "Ur balance is now £600. Next question: Complete the landmark, Big, A. Bob, B. Barry or C. Ben ?. Text A, B or C to 83738. Good luck!",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-21003",
+    "raw_label": "unlabeled",
+    "safe_text": "Oh ya. Forgot to ask u. Ur bank accnt is posb savings account?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1889",
+    "raw_label": "unlabeled",
+    "safe_text": "ROYAL LAND & DEVELOPERS PVT. LTD, BANK-THE KARUR VYSYA BANK ,BRANCH- CHENNAI MAIN, A/C NO-  <#>   <#>   <#>  IFC CODE KVBL <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11205",
+    "raw_label": "unlabeled",
+    "safe_text": "They said he gave a customer too much of a credit on their bill. No it wasn't me he works for Verizon lol. But he's suspended while they investigate.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-679",
+    "raw_label": "ham",
+    "safe_text": " if anyone calling from a mobile Co. and asks u to type # <#>  or # <#> . Do not do so. Disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim card�.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-18085",
+    "raw_label": "unlabeled",
+    "safe_text": "Sob sob sob u got test also lo T.T... y my fault T.T... u din cancelit yesterday sob sob sob I scare u not enuff credit mah T.T......",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3587",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send CASH to 86688 only 150p/msg. CC: [OTHER-ID-1] HG/Suite342/2Lands Row/W1J6HL",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-18770",
+    "raw_label": "unlabeled",
+    "safe_text": "Heyo! How much is the cake you ordered for uncle's birthday? I shareshare the payment ok?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-19262",
+    "raw_label": "unlabeled",
+    "safe_text": "eh. can help me check wat's my bank acc number? in mummy room drawer",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-852",
+    "raw_label": "ham",
+    "safe_text": "Hey doc pls I want to get nice t shirt for my hubby nice fiting ones my budget is  <#> k help pls I will load d card abi hw,keep me posted luv. 2 mj",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-25857",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey I saw the transfer already. Why got extra  <#>  dollars?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28625",
+    "raw_label": "unlabeled",
+    "safe_text": "I've scheduled the payment for the extension at the end of this monthfor  <DECIMAL> , in line with previous payments.  Hope this is ok.:-)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14078",
+    "raw_label": "unlabeled",
+    "safe_text": "can lend me yr discount card?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-22836",
+    "raw_label": "unlabeled",
+    "safe_text": "Oh ya can pass me lynette's card too?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-34935",
+    "raw_label": "unlabeled",
+    "safe_text": "That depends on what I tell my mom. But now I have to correct my statement by telling my mom I will be having chalet next week.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-33536",
+    "raw_label": "unlabeled",
+    "safe_text": "Need activate the card at general office",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-37",
+    "raw_label": "ham",
+    "safe_text": "Can you do online transaction?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-3658",
+    "raw_label": "ham",
+    "safe_text": "I think you should go the honesty road. Call the bank tomorrow. Its the tough decisions that make us great people.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-45457",
+    "raw_label": "unlabeled",
+    "safe_text": "send ur a/c account detls 2 kevin nw",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44232",
+    "raw_label": "unlabeled",
+    "safe_text": "Not much cash, but my state id, cal card, military id, and debit card =/",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28644",
+    "raw_label": "unlabeled",
+    "safe_text": "Great, thanks!   Please keep both me and Alicia updated as to thework scheduled, so we won't need to chase you for it.  :-)  thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-7669",
+    "raw_label": "unlabeled",
+    "safe_text": "NEFT Transaction with reference [TRANSACTION-ID-1]  <#>  for Rs. <DECIMAL>  has been credited to the beneficiary account on  <#>  at  <TIME> : <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28246",
+    "raw_label": "unlabeled",
+    "safe_text": "I also tested a transfer to my premier account, but the test transferdidn't show up.  Any idea why?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-8588",
+    "raw_label": "unlabeled",
+    "safe_text": "No dude, its not fake..my frnds got money, thts y i'm ref[TRANSACTION-ID-1] u..if u member wit my mail link, u vl be credited  <#> rs and il be getiing  <#> rs..i can draw my acc wen it is  <#> rs..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36904",
+    "raw_label": "unlabeled",
+    "safe_text": "Sorry!! Haha I asked ard but they say theirs no money:/ should I gotop up my card? My room ppl just use non colour printing hehe:X",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2564",
+    "raw_label": "ham",
+    "safe_text": "Cheers for the card ... Is it that time of year already?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-23448",
+    "raw_label": "unlabeled",
+    "safe_text": "Yo mr weesong. Where's my alumni card?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3890",
+    "raw_label": "unlabeled",
+    "safe_text": "<#>  is d account no.. <#>  is d del no",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1078",
+    "raw_label": "spam",
+    "safe_text": "Ur HMV Quiz cash-balance is currently £500 - to maximize ur cash-in now send HMV1 to 86688 only 150p/msg",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-18249",
+    "raw_label": "unlabeled",
+    "safe_text": "s membership card number ü wan to buy how much?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-24835",
+    "raw_label": "unlabeled",
+    "safe_text": "And mr tan, do we have a bank account for astronomy club to depositthe camp fees from the student's edusave account?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2387",
+    "raw_label": "ham",
+    "safe_text": "My sort code is  and acc no is . The bank is natwest. Can you reply to confirm i've sent this to the right person!",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-41966",
+    "raw_label": "unlabeled",
+    "safe_text": "Bro gud morning. Hope you are doing great. Please text me your A/c number. ASAP",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1885",
+    "raw_label": "unlabeled",
+    "safe_text": "Kodawal sir called regarding DD for darshan creation sa i said i will take today sa shall i deposit cash and take DD sa",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44422",
+    "raw_label": "unlabeled",
+    "safe_text": "Yeah lol.. they sent my credit card to my mom -.- Monday I'm gonnawrite myself a check and cash it lol",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28075",
+    "raw_label": "unlabeled",
+    "safe_text": "Yee koo ma called to let u know she found mama's bank book under oneof her beds. U must have dropped it there",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3024",
+    "raw_label": "ham",
+    "safe_text": "Perhaps * is much easy give your account identification, so i will tomorrow at UNI",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-3658",
+    "raw_label": "unlabeled",
+    "safe_text": "Indians r poor but India is not a poor country. Says one of the swiss bank directors. He says that \" <#>  lac crore\" of Indian money is deposited in swiss banks which can be used for 'taxless' budget for  <#>  yrs. Can give  <#>  crore jobs to all Indians. From any village to Delhi 4 lane roads. Forever free power suply to more than  <#>  social projects. Every citizen can get monthly  <#> /- for  <#>  yrs. No need of World Bank & IMF loan. Think how our money is blocked by rich politicians. We have full rights against corrupt politicians. Itna forward karo ki pura INDIA padhe.g.m.\"",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5137",
+    "raw_label": "ham",
+    "safe_text": "There are no other charges after transfer charges and you can withdraw anyhow you like",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-2475",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send COLLECT to 83600 only 150p/msg. CC: [OTHER-ID-1] PO BOX 114/14 TCR/W1",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-4502",
+    "raw_label": "unlabeled",
+    "safe_text": "Dont think you need yellow card for uk travel. Ask someone that has gone before. If you do its just  <#> bucks",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5589",
+    "raw_label": "ham",
+    "safe_text": "Nationwide auto centre (or something like that) on Newport road. I liked them there",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-27039",
+    "raw_label": "unlabeled",
+    "safe_text": "Morning Shehan.. Regret to inform you that Megan and I will not be attending classes today on account of a church program. Sorry. Will see you at next practice. Be Safe in the Lord! Heb <TIME>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-10819",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey mom! I can totally help you with Microsoft when I come back on                                Friday. I've got $ <#> right now, (books were expensive), and I need                               to buy milk and put $5 on my laundry card. Do you think before I come                              up you can transfer me a little cash for gas? That'd be super helpful                              :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-10811",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey! I just got back. I picked up some class supplies at target                                   (notebooks, paper, pens etc.) and ordered one of my books off Amazon.                              I still need to get a couple more books for class this week, so if you                             could transfer some moolah over ASAP that would be so great! I'm going                             to talk to financial aid tomorrow, and I'll be sure to let you know                                how things go. Thanks for everything and talk to you soon!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28458",
+    "raw_label": "unlabeled",
+    "safe_text": "did u recharge your account",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2060",
+    "raw_label": "ham",
+    "safe_text": "I do know what u mean,  is the king of not havin credit! I'm goin2bed now. Night night sweet! Only1more sleep! ",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-3166",
+    "raw_label": "ham",
+    "safe_text": "No we sell it all so we'll have tons if coins. Then sell our coins to someone thru paypal. Voila! Money back in life pockets:)",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-28438",
+    "raw_label": "unlabeled",
+    "safe_text": "so we will have to put a deposit on the house, to secure if...if those r the dates you want",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3136",
+    "raw_label": "unlabeled",
+    "safe_text": "SMSCASTLE A Man Tries To Keep His Mobile On a Table.. But Where Ever He Keeps It, It Falls.. How.? ? ? ? Bcoz There Is No BALANCE In The Mobile..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14570",
+    "raw_label": "unlabeled",
+    "safe_text": "Another request. I think look for pro to give credit to the zhou jielun's piano piece at the back right? The name is love life if i'm notwrong.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4846",
+    "raw_label": "ham",
+    "safe_text": "Please protect yourself from e-threats. Kotak Mahendra Bank never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-44174",
+    "raw_label": "unlabeled",
+    "safe_text": "I can't, wells Fargo is making me wait to deposit it",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14632",
+    "raw_label": "unlabeled",
+    "safe_text": "hey.. can u lend me your popular card? i come over yor house now",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-26651",
+    "raw_label": "unlabeled",
+    "safe_text": "If u have balance pls cal",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16645",
+    "raw_label": "unlabeled",
+    "safe_text": "Please if u want to contact me call this no.91620941([SAFE-URL-1]) very sorry for the inconvenience caused.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11519",
+    "raw_label": "unlabeled",
+    "safe_text": "Eh sia la. That time i flight transfer in dubai there were a lot of women draped head to toe in black. There was this one woman i thought was facing away from me, until i saw the narrow slit in her veil for her eyes man -.-",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15834",
+    "raw_label": "unlabeled",
+    "safe_text": "Sir I think I'm beginning to see how the discount works. Let say perpax is $ <#> .  <#> % off for 2 will be $ <#> . For 3 pax,  <#> % offtotal bill will still be $ <#> . In other words, 1 card only gives adiscount in absolute dollars or something.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-7042",
+    "raw_label": "unlabeled",
+    "safe_text": "Cent bank- <DECIMAL>  idbi bank- <DECIMAL>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1337",
+    "raw_label": "spam",
+    "safe_text": "(Bank of Granite issues Strong-Buy) EXPLOSIVE PICK FOR OUR MEMBERS *****UP OVER 300% *********** Nasdaq Symbol CDGT That is a $5.00 per..",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-14998",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey, today can start to bid using G account. Round 2A ends tmr.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-26114",
+    "raw_label": "unlabeled",
+    "safe_text": "<#>  to ur account? Ok I now transfer",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16943",
+    "raw_label": "unlabeled",
+    "safe_text": "Btw... do you have popular card?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-86",
+    "raw_label": "unlabeled",
+    "safe_text": "Y ru wastin phone balance ..i just askd wat u doin only [SAFE-URL-1] u told means i would hav cut..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-8832",
+    "raw_label": "unlabeled",
+    "safe_text": "Dear Customer, .your account has been recharged with Rs . <#> , Amount payable is Rs <#>  Thank [SAFE-URL-1]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14192",
+    "raw_label": "unlabeled",
+    "safe_text": "How are you? Any sound from hsbc? Hows bump in coming along? I lltransfer amount ASAP.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28127",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Shyan, we've decided to take the loan from hsbc and have alreadysigned the paperwork with them.  So no need to continue processing ourloan application.   Thanks again for your help! -Min",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-18540",
+    "raw_label": "unlabeled",
+    "safe_text": "Balance being eat le ma?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4889",
+    "raw_label": "ham",
+    "safe_text": "If you're still up, maybe leave the credit card so I can get gas when I get back like he told me to",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-3847",
+    "raw_label": "unlabeled",
+    "safe_text": "Processing request for a refill of INR.  <DECIMAL> . (Transaction id BR <#> ), Please pay to retailer.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-33833",
+    "raw_label": "unlabeled",
+    "safe_text": "Pettywoman <#>  can send ur personal statement?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16947",
+    "raw_label": "unlabeled",
+    "safe_text": "mail to me [SAFE-URL-1] is my add:blk 724 woodlands ave 6 #11-502 [SAFE-URL-2] if not,can deposit into my dbs [SAFE-URL-3] is my account no.. 001-7-169536",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-295",
+    "raw_label": "ham",
+    "safe_text": "Sorry sir, i will call you tomorrow.  [SAFE-URL-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-4606",
+    "raw_label": "ham",
+    "safe_text": "Nothing. I meant that once the money enters your account here, the bank will remove its flat rate. Someone transfered  <#>  to my account and  <#> dollars got removed. So the banks differ and charges also [SAFE-URL-1] sure you trust the 9ja person you are sending account details to cos...",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-44755",
+    "raw_label": "unlabeled",
+    "safe_text": "Well uh maybe you can prove your own statement wrong",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15617",
+    "raw_label": "unlabeled",
+    "safe_text": "To be honest, i don't understand the whole statement on first look. Ithink u can remove. Haha.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-30513",
+    "raw_label": "unlabeled",
+    "safe_text": "U took my back gate card?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5394",
+    "raw_label": "unlabeled",
+    "safe_text": "Sir, i am on the way to your office.   鈥㏒enthil-Hsbc.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-12363",
+    "raw_label": "unlabeled",
+    "safe_text": "If i use his account wil the bill go 2 him or i apply 4 my own is better but how?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-4440",
+    "raw_label": "unlabeled",
+    "safe_text": "Reminder for payment",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3108",
+    "raw_label": "unlabeled",
+    "safe_text": "Crazy defntions: [SAFE-URL-1]? Asking lift 4 morning walk [SAFE-URL-2]? Get blank paper xerox [SAFE-URL-3]? Pregnant women taking 2 tickets [SAFE-URL-4]? Cow giving milk powder [SAFE-URL-5]? Lungi with a zip [SAFE-URL-6]? A  <#>  yr Old person purchasing a life time sim card [SAFE-URL-7]? Ur smile 4 my sms",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15847",
+    "raw_label": "unlabeled",
+    "safe_text": "its okay I think I made a wrong call. Btw is the payment received?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-38070",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha!! Pull your cheeks:D haha but other ppl did better! Hope got Abah haha then balance out my chinese:D",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-25640",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey aishah, im Leo from astronomy club here. Could you transfer $ <#> to my bank account  <#>  by tmr. Thanks alot, enjoy your weekend. :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-42515",
+    "raw_label": "unlabeled",
+    "safe_text": "Tmhra admit card aa gaya hai CPT ka.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-873",
+    "raw_label": "unlabeled",
+    "safe_text": "Today's thought : The value of life is realised only after its lost.. true statement.. eg:alive chicken -rs  <#> /kg Chicken tandoori- rs  <#> /kg good evening :-)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3678",
+    "raw_label": "unlabeled",
+    "safe_text": "Indians r poor but India is not a poor country. Says one of the swiss bank directors. He says that \" <#>  lac crore\" of Indian money is deposited in swiss banks which can be used for 'taxless' budget for  <#>  yrs. Can give  <#>  crore jobs to all Indians. From a",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-40910",
+    "raw_label": "unlabeled",
+    "safe_text": "wtheck virtualand bugis go convert to ecard payment then I want to pong also cannot",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-4775",
+    "raw_label": "unlabeled",
+    "safe_text": "Bank lo ra nu ekada unau",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13375",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey! Thanks for e Xmas card! i just got it. Yours is the first card i got. Thanks! Hope to c u soon.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13264",
+    "raw_label": "unlabeled",
+    "safe_text": "Got your post card thank you:p how are you i am preparing for exam and can go home soon:p",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44745",
+    "raw_label": "unlabeled",
+    "safe_text": "What bank do you use btw?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16538",
+    "raw_label": "unlabeled",
+    "safe_text": "Yea. Yuhui paying paypal in euro. Den we pay him in sgd lor.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27494",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey, can help me buy server? And give me ur account num. Transfer money to u.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16371",
+    "raw_label": "unlabeled",
+    "safe_text": "Anyway its nationwide,though nus even cheaper.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27226",
+    "raw_label": "unlabeled",
+    "safe_text": "In 'The Universel Bank Of God' God stores his blessings&deposited  <#>  days full of love, faith& happiness for You So, Enjoy spending HAPPY NEW YEAR",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-7637",
+    "raw_label": "unlabeled",
+    "safe_text": "In an Old Man's Shirt was written a cute sentence : ''I AM NOT  <#>  YEARS OLD.., I AM SWEET  <#>  WITH  <#>  YEARS XPERNCE..\" dat is Attitude..! BE +ve ALWYZ !! dnt thnk tat i frgt to transfer u money my atm n net banking wil activated as they started new accnt in indsland bnk sory 4 the delay",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36151",
+    "raw_label": "unlabeled",
+    "safe_text": "At least he's trying! Must support him k! Haha! Can finish your mathassn by tmr? If can then sleep bah! And rmb to do personal statement!Haha><!! I don't need to be your priority now:P dun spend so much timeon me! if I spend a lot of time with you now, I think when you go ns Imight just be super potato haha:x",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-24825",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha can I pass you after my exams. I gotta go deposit my money first.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1698",
+    "raw_label": "unlabeled",
+    "safe_text": "Now how would that be if i used the gift card you gave me for chicken for you? lol!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-974",
+    "raw_label": "ham",
+    "safe_text": "Then cant get da laptop? My matric card wif ü lei...",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-13503",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi, I will wait for u near the DBS bank at b1.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1375",
+    "raw_label": "ham",
+    "safe_text": "I don know account details..i will ask my mom and send [SAFE-URL-1] mom is out of reach now.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-25759",
+    "raw_label": "unlabeled",
+    "safe_text": "Psle olvl cert, bank book, ic",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3835",
+    "raw_label": "unlabeled",
+    "safe_text": "Your account has been refilled successfully by INR  <DECIMAL> . Your Vodafone-Bihar prepaid account balance is Rs  <DECIMAL> . Your Transaction ID is BR <#> .",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28247",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Diane, thanks for your answer.  If I go to the HSBC branch, do youknow how long it takes to have a cheque's funds clear?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-38837",
+    "raw_label": "unlabeled",
+    "safe_text": "Ps!! Fell asleep!! emo coz you never dl, ot5 is one true 5! Like youknow otp? Tmr got Chester, ryan, timo, herngyi, dunno le! Checking mysms ~",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14296",
+    "raw_label": "unlabeled",
+    "safe_text": "Oh OK. Cool then.. just making sure I receive due credit :p you going steady?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5958",
+    "raw_label": "ham",
+    "safe_text": "Especially since i talk about boston all up in my personal statement, lol! I woulda changed that if i had realized it said nyc! It says boston now.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1361",
+    "raw_label": "ham",
+    "safe_text": "You have registered Sinco as Payee. Log in at [SAFE-URL-1] and enter URN  <#>  to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-14615",
+    "raw_label": "unlabeled",
+    "safe_text": "The application syncprice otp (process [SAFE-URL-1]) has stoppedunexpectedly. Please try again.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2983",
+    "raw_label": "ham",
+    "safe_text": "Dunno i juz askin cos i got a card got 20% off 4 a salon called hair sense so i tot it's da one ü cut ur hair.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-44996",
+    "raw_label": "unlabeled",
+    "safe_text": "Got the card - thanks so much! Love you!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-38685",
+    "raw_label": "unlabeled",
+    "safe_text": "Ohh LOL. buy a \"i'm finally done with you\" card for them:D hahaha Idun know!! Maybe it's different Chesters!! Hahaha buy that for thementees:D",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-7681",
+    "raw_label": "unlabeled",
+    "safe_text": "Plz note: if anyone calling from a mobile Co. & asks u to type # <#>  or # <#> . Do not do so. Disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim card no. Itz confirmd by nokia n motorola n has been verified by CNN IBN.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-509",
+    "raw_label": "unlabeled",
+    "safe_text": "Closing Balance in Savings A/C XXXXXX <#>  as on  <#>  Oct  <#>  is INR  <DECIMAL>  Cr (Clearing cheques subject to realisation).",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5371",
+    "raw_label": "unlabeled",
+    "safe_text": "<#>   <#>    <#>  - HSBC BANK",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5489",
+    "raw_label": "unlabeled",
+    "safe_text": "Pending documents for account opening    1, Nandakumar address proof 2, company CST copy 3, IEC copy 4, OCL letter 5, applialtion form with photo.                     Reg. [SAFE-URL-1]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-24642",
+    "raw_label": "unlabeled",
+    "safe_text": "Oh accept first. The payment can be done through bank later on mah.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14737",
+    "raw_label": "unlabeled",
+    "safe_text": "Okay can. Okay u use the balance to pay then. Haha. But u don't bluffus ar. I don't think have much balance left. Oh fri is english paperright.. Haha. Eeeerrrr, treat her enough lah, my bday u also nvr buyme present. Haha.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11075",
+    "raw_label": "unlabeled",
+    "safe_text": "It's ok tho I got $ <#> credit at Kay jeweler",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16136",
+    "raw_label": "unlabeled",
+    "safe_text": "Workin in an australia bank... Cant la, v sian of workin oredi, haha, let me rest enuff den work again...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-12353",
+    "raw_label": "unlabeled",
+    "safe_text": "jap book, present, card material, melon strips, tape rec, tapes",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-4227",
+    "raw_label": "unlabeled",
+    "safe_text": "Indian bank has given recruitment advertisement for sports quota. Inform siva and tamilselvi鈥㎏.[SAFE-URL-1]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-41743",
+    "raw_label": "unlabeled",
+    "safe_text": "stuff on transfer Mr budi...please response...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1917",
+    "raw_label": "ham",
+    "safe_text": "NEFT Transaction with reference [TRANSACTION-ID-1]  <#>  for Rs. <DECIMAL>  has been credited to the beneficiary account on  <#>  at  <TIME> : <#>",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-17922",
+    "raw_label": "unlabeled",
+    "safe_text": "u got cash card w u now.. xin wan to photostat something..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28618",
+    "raw_label": "unlabeled",
+    "safe_text": "hi Ricky, please don't try to cash the cheque I gave you yesterdayuntil Friday.  I haven't yet had the time to transfer monies into thechecking  account yet.  Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-2356",
+    "raw_label": "unlabeled",
+    "safe_text": "Da pls put money [SAFE-URL-1] number; <#> ,Rakhesh KR",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3775",
+    "raw_label": "unlabeled",
+    "safe_text": "You do not have enough balance in your vodafone [SAFE-URL-1]. <#>  needed to activate this service.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17907",
+    "raw_label": "unlabeled",
+    "safe_text": "Can use atm transfer de arh... Stop saying my English can! It is justfb! Y do I even have to Dbl check wat I type and all my grammarvocabulary mistake in just a stupid fb post! Grrrrrrr",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-20800",
+    "raw_label": "unlabeled",
+    "safe_text": "hard ot soft? for ezlink card? how many",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-8840",
+    "raw_label": "unlabeled",
+    "safe_text": "You please give us connection today itself before  <DECIMAL>  or refund the bill",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-242",
+    "raw_label": "ham",
+    "safe_text": "Your account has been refilled successfully by INR 100.00; . Your KeralaCircle prepaid account balance is Rs.101.00 ; . Your Transaction ID is KR 3567 .",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-45091",
+    "raw_label": "unlabeled",
+    "safe_text": "I would like to become a bank employee.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3463",
+    "raw_label": "ham",
+    "safe_text": "Maybe?! Say hi to  and find out if  got his card. Great escape or wetherspoons?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1258",
+    "raw_label": "Spam",
+    "safe_text": "Plot for Sale in Haridwar At The Bank of Ganga (Ready Possession & Registry) Rs-5000/-P.m Installment Call [SAFE-URL-1] [OTHER-ID-1],  OR SMS YND 53030",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "uci-779",
+    "raw_label": "ham",
+    "safe_text": "\"Hi its Kate it was lovely to see you tonight and ill phone you tomorrow. I got to sing and a guy gave me his card! xxx\"",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "nus-41335",
+    "raw_label": "unlabeled",
+    "safe_text": "Still don't know. Probably not.  Will chase.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3233",
+    "raw_label": "ham",
+    "safe_text": "Pete can you please ring meive hardly gotany credit",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-334",
+    "raw_label": "ham",
+    "safe_text": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-29377",
+    "raw_label": "unlabeled",
+    "safe_text": "Have I sent u v card wad",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1827",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC [OTHER-ID-1] HG/Suite342/2Lands Row/W1J6HL",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-28098",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Tracy, perhaps we can talk tomorrow.  If you have any materials onyour bank's loan packages,  perhaps you can send to me by email at<EMAIL> .  Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1376",
+    "raw_label": "unlabeled",
+    "safe_text": "Didi aj bank open he kya",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21381",
+    "raw_label": "unlabeled",
+    "safe_text": "Lol ya going [SAFE-URL-1] so early going [SAFE-URL-2] ya going find the clementi book shop still dunno where is [SAFE-URL-3] wk go interview with this deutsche [SAFE-URL-4] can get internship not lor.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15775",
+    "raw_label": "unlabeled",
+    "safe_text": "Yup sure. I also know that nus always delay payment.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15219",
+    "raw_label": "unlabeled",
+    "safe_text": "or store credit for tomorrow?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-18168",
+    "raw_label": "unlabeled",
+    "safe_text": "Welcome to hi!Card by SingTel Mobile. Divert calls to 1344 for Voicemail. To send SMS, change SMS service centre no to [SAFE-PHONE-1]. Call [SAFE-PHONE-2] for info",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14405",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey, can i go n get my matric card back from u in half an hr time?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28239",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Sis, I've sent you the new wet kitchen layout according to ourdiscussion yesterday night to your yahoo account.  Thanks for you andyour company's help again!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17773",
+    "raw_label": "unlabeled",
+    "safe_text": "Gd lor, ur purpose is to test e card n not talk to me. Hee.. Just now i saw ur call i was so excited. But when e call cut, i was even depress.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13641",
+    "raw_label": "unlabeled",
+    "safe_text": "JJ, got TV card to record program?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "uci-2903",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send CASH to 86688 only 150p/msg. CC: [OTHER-ID-1] PO BOX 114/14 TCR/W1",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "mendeley-3686",
+    "raw_label": "ham",
+    "safe_text": "Plz note: if anyone calling from a mobile Co. & asks u to type # <#>  or # <#> . Do not do so. Disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim card no. Itz confirmd by nokia n motorola n has been verified by CNN IBN.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-12603",
+    "raw_label": "unlabeled",
+    "safe_text": "Very pretty day! Going for tuition now. Found your card?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28046",
+    "raw_label": "unlabeled",
+    "safe_text": "Account number:  <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-576",
+    "raw_label": "ham",
+    "safe_text": "Sir, I need AXIS BANK account no and bank address.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-10981",
+    "raw_label": "unlabeled",
+    "safe_text": "Oh yeah. What's the card number again?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27217",
+    "raw_label": "unlabeled",
+    "safe_text": "I wish U to have a ..... Sweetest Sunday, Marvellous Monday, Tasty Tuesday, Wonderful Wednesday, Thankful Thursday, Friendly Friday, Successful SaHi Andreu,hows the day?A bit better [SAFE-URL-1] give a ring 2 my [SAFE-URL-2] 'Alow sim card 2 send a mesage?' it apears n v cant operate anything without turday. Have a great Year. HAPPY NEW YEAR leting [SAFE-URL-3]'s [SAFE-URL-4] kno howmuch they charg 4 [SAFE-URL-5] [SAFE-URL-6] God bles [SAFE-URL-7]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-25534",
+    "raw_label": "unlabeled",
+    "safe_text": "Change of plans! First grp arrived le,latter completing station, tryto ask them cheer etc. Give them clue card at  <DECIMAL> [SAFE-URL-1] is  <DECIMAL> pm,  <DECIMAL> pm and for last grp, letthem go as soon as they finished. Please reply if understood!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-6613",
+    "raw_label": "unlabeled",
+    "safe_text": "I had been hoping i would not have to send you this message. My rent is due and i dont have enough for it. My reserves are completely gone. Its a loan i need and was hoping you could her. The balance is  <#> . Is there a way i could get that from you, till mid march when i hope to pay back.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14741",
+    "raw_label": "unlabeled",
+    "safe_text": "No! I think u misread my msg. I meant since u owe us the balance, uuse tt to pay but i nvr agree tt the residue after the balnce is usedmust be absored by u. Haha. Okay lah, we say again. I can tell u lah,if u insist, 2 of them will also tell u tt they'll pay themselves de.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-43216",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi <name>, this is <name>, we're here to finish the deposit",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36109",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha I was bored! Hahaha fell asleep for awhile! Hahaha hmm:P hahaokay! We do work then (: btw your personal statement! Haha omg socool! What you all playing!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27497",
+    "raw_label": "unlabeled",
+    "safe_text": "Ooo... Ok. My name card is printed..ooo. I need confirm is pirelajewellery. Not pirale",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3879",
+    "raw_label": "unlabeled",
+    "safe_text": "PaisaPay We are processing November Payments. If you applied for payment withdrawal in Nov, you will get your payment this month. Invite Friends Now & Earn More",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17999",
+    "raw_label": "unlabeled",
+    "safe_text": "I dun have any lobang.... Thgt u workin in bank...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5374",
+    "raw_label": "spam",
+    "safe_text": "Free msg. Sorry, a service you ordered from 81303 could not be delivered as you do not have sufficient credit. Please top up to receive the service.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-21770",
+    "raw_label": "unlabeled",
+    "safe_text": "Can meet u for a while?...i show u my paypal acc page can?...haha...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5435",
+    "raw_label": "unlabeled",
+    "safe_text": "Goodmorning, Once the papers are ready call me sir.   鈥┾??㏑eg, 鈥㏒[SAFE-URL-1]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-25234",
+    "raw_label": "unlabeled",
+    "safe_text": "No need to transfer, just get them view the attached documents thencan already. Yeah and then you bring over to him. Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28121",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Shyan, I understand from  another bank that since my wifecurrently doesn't have income that it may be better to apply for theloan solely in my own, even though the property will be owned by [SAFE-URL-1] in the paperwork, can you strike her name out com the jointapplication?   Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11454",
+    "raw_label": "unlabeled",
+    "safe_text": "s a card. Jus write some message n put all our names lor.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4360",
+    "raw_label": "ham",
+    "safe_text": "No need lar. Jus testing e phone card. Dunno network not gd i thk. Me waiting 4 my sis 2 finish bathing so i can bathe. Dun disturb u liao u cleaning ur room.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-5303",
+    "raw_label": "unlabeled",
+    "safe_text": "[SAFE-URL-1],HSBC BANK, <#> ,Race Course Road,srivari gokul towers, coimbatore-  <#> .",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15574",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi, is it confirmed that i am collecting the duron and sound card from you at semb mrt tmr?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44788",
+    "raw_label": "unlabeled",
+    "safe_text": "Trying to get my goddamned bank cards =/",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17606",
+    "raw_label": "unlabeled",
+    "safe_text": "I jx reached hm,borrowed an ez link [SAFE-URL-1] money,ic etc in room [SAFE-URL-2] have fun in bangkok.ü goin for hw many days?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36111",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha I like chinese lessons with toh and dong! Haha yup we're likesuper cool! Ooo okay lor then put into your personal statement:P hahayay okay! Ooo is it the aircon?? Hahaha oh well you have to come toschool anyway! Haha moron test is super random! hahaha weird andcheerful ryan!(:",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3645",
+    "raw_label": "ham",
+    "safe_text": "What i mean is do they come chase you out when its over or is it stated you can watch as many movies as you want.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-21239",
+    "raw_label": "unlabeled",
+    "safe_text": "[SAFE-URL-1] xr nus account password [SAFE-URL-2].",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44804",
+    "raw_label": "unlabeled",
+    "safe_text": "Do you have a tracking number for my card by chance? Also, can youask nana about my hard drive?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-19971",
+    "raw_label": "unlabeled",
+    "safe_text": "oh... yup, doin account tut now..   i think bukit panjang is goin to rain soon. hav u decided to go out at wad time?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14237",
+    "raw_label": "unlabeled",
+    "safe_text": "Erm... i think then its ok la... i think i go down buy the memory card another day ba... sorry abt that... n thanks so much... treat u for a meal one day...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1690",
+    "raw_label": "unlabeled",
+    "safe_text": "BEGIN:VCARD VERSION: <DECIMAL>  N:;Burbank TEL;VOICE: <#>  END:VCARD",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15849",
+    "raw_label": "unlabeled",
+    "safe_text": "I borrow ur ezlink card k... I put mine in ur wallet oredi...Help me top up pls... 10q...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-26264",
+    "raw_label": "unlabeled",
+    "safe_text": "My house got the container. and leeping will be buyiing the soup. Sou just go my house take the card and container can le. Thanks.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27361",
+    "raw_label": "unlabeled",
+    "safe_text": "Walao i still cannot call... I just take bus  <#> . Help me inform papa... Change sim card le... Dun call this num...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-39595",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha^^ really? Yay! Haha show me her card sometime! I thought want toplan where to go!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1741",
+    "raw_label": "ham",
+    "safe_text": "NEFT Transaction with reference [TRANSACTION-ID-1] 456367 for Rs.9000  has been credited to the beneficiary account on 5th jan at 3.00PM.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-36911",
+    "raw_label": "unlabeled",
+    "safe_text": "Yeah that's why I said difficult to explain! tell you what, aft I seeliwei,I go top up my card then print? Oh wait sophie has printer lemmecall her",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16746",
+    "raw_label": "unlabeled",
+    "safe_text": "Thanks for buying :-) eh. I think I forgot to return you $2. transferto you by bank?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28653",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Sue, sorry for the late reply.  Yes, I did transfer the funds of<#>  to Desmond on  <#>  Jun; its shown on my bank statement with thesame bank account number as for the May transfer.   Hope that helps.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1870",
+    "raw_label": "unlabeled",
+    "safe_text": "Virendramal Jain Holdings Ltd Bank - Oriental Bank of Commerce Branch - Vadapalani CA No.  <#>  IFS Code - ORBC <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4047",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send CASH to 86688 only 150p/msg. CC: [OTHER-ID-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-28658",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Sue, thanks.   I have arranged a transfer of  <#>  to take effecttomorrow.  That was already previously scheduled.   I've now also sentthe remaining balance of  <DECIMAL>  to him.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44748",
+    "raw_label": "unlabeled",
+    "safe_text": "No I mean I thiiink you should be able to transfer to wells fargo,I'm googling around haha",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4228",
+    "raw_label": "ham",
+    "safe_text": "About  <#> bucks. The banks fees are fixed. Better to call the bank and find out.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-16276",
+    "raw_label": "unlabeled",
+    "safe_text": "Took me from when u left till  <#> . except for the dpad and thebottom screen, all else I do at fast speed already. Those engravingone draw quite long la, like the sd card symbol.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15508",
+    "raw_label": "unlabeled",
+    "safe_text": "Your free 1 month trial eLibrary account was activated on 16/1/04. If you have not received an email on the activation, please contact [SAFE-EMAIL-1]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2916",
+    "raw_label": "spam",
+    "safe_text": "PRIVATE! Your 2003 Account Statement for 078",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-14884",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi, other than the 3 types of forms as mentioned. I need 3 moreenvelops. Stock balance wise, WPR is  <#> . YPC is  <#> . CH is  <#> .WPB is  <#> . CD is  <#> . YPB id  <#> . From ulu pandan cc. Thanks.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-6051",
+    "raw_label": "unlabeled",
+    "safe_text": "Examiner: y r u under tension? Did u forget admit card, ID, or calculator? stud: No mam! By mistake i bring tomorrow exams ? Bits:-> good nit...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-4406",
+    "raw_label": "unlabeled",
+    "safe_text": "Intel board & cpu :  <#>  4 gb ram :  <#>  hard disk :  <#>  dvd :  <#>  cabinet :  <#>  speaker :  <#>  service chrges :  <#>  total :  <#>  adv :  <#>  old pc :  <#>  balance :  <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13077",
+    "raw_label": "unlabeled",
+    "safe_text": "pls transfer the 10 bux  to my acc asap",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28623",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Sue, thanks for the email.  The rent due for extension to the  <#>th (7 days) is  <#> *7/ <#> =  <DECIMAL> .  I can pay this this [SAFE-URL-1] still has our security deposit, so the remaining balance canbe refunded to us upon move out (ie.,  <#> . <#> ) or should we make aseparate payment?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28123",
+    "raw_label": "unlabeled",
+    "safe_text": "Sure,  we have applied to DBS and HSBC, aside from ANZ. Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5281",
+    "raw_label": "unlabeled",
+    "safe_text": "Sonic Fashionss Account No-  <#> ,  鈥﹕wift code- HSBCINBB.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-31023",
+    "raw_label": "unlabeled",
+    "safe_text": "Fwd: Hey pass down the msg, billy got a minor fracture and notsprained ankle!!!!so we are gg to write card for him on Monday:)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3208",
+    "raw_label": "unlabeled",
+    "safe_text": "Greeting Card 4 U. *!\"\"\"\"'\"\"'\"\"'\"\"'!* *! .+\"\"+.+\"\"+. !* *! + HAPPY + !* *! \"+. .+\" !* *! \"+\" !* *! NEW YEAR !* **=2\"0\"1\"1\"=*",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17126",
+    "raw_label": "unlabeled",
+    "safe_text": "Account transferred and new patch! Are you home!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5261",
+    "raw_label": "unlabeled",
+    "safe_text": "Kindly send the mail to  <EMAIL> . . .  <EMAIL>  . . .  From senthil Hsbc bank",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17730",
+    "raw_label": "unlabeled",
+    "safe_text": "Nikon 3.2 megapixels is 699... Ü noe da citibank giving away dat olympus is oso 699...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-41469",
+    "raw_label": "unlabeled",
+    "safe_text": "Sorry Ricky, I don't understand your message.  By our accounts, westill had remaining credit from you which we used with azora.  I don'tthink we own u home and money. But will be happy to discuss with you.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-42076",
+    "raw_label": "unlabeled",
+    "safe_text": "Bro Pls notify me after u bank in.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1739",
+    "raw_label": "ham",
+    "safe_text": "You please give us connection today itself before  <DECIMAL>  or refund the bill",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-11325",
+    "raw_label": "unlabeled",
+    "safe_text": "Pay credit card bill for my sis... Ur sis lesson until wat time? U had ur lunch already?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-41747",
+    "raw_label": "unlabeled",
+    "safe_text": "payment already confirm,thank you Mr Budi It's my pleasure to deal with you See you soon on other purchase thank you",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21766",
+    "raw_label": "unlabeled",
+    "safe_text": "Huh?...so funny...i alr purchase fileserve service already...then watif i dun top up my paypal acc?...they suck thumb?..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-868",
+    "raw_label": "ham",
+    "safe_text": "They said ü dun haf passport or smth like dat.. Or ü juz send to my email account..",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5944",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC: [OTHER-ID-1] PO BOX 114/14 TCR/W1",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-19276",
+    "raw_label": "unlabeled",
+    "safe_text": "Orh!! When u want to go bank? Mug mug u la! Hee",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5234",
+    "raw_label": "unlabeled",
+    "safe_text": "Kindly send the mail to  <EMAIL> . . .  <EMAIL> . . .  From Bala Hsbc bank",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16101",
+    "raw_label": "unlabeled",
+    "safe_text": "either ur power cable spoil door port spoil, I used one of ur monitorcablle instead. Just needed to transfer the letters.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-42168",
+    "raw_label": "unlabeled",
+    "safe_text": "Ankit met in SBI BANK on Saturday.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5220",
+    "raw_label": "unlabeled",
+    "safe_text": "Goodmorning sir, will meet 5pm. 鈥㏒enthil-hsbc.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27746",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey dad! My patelco account number is  <#>  :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16105",
+    "raw_label": "unlabeled",
+    "safe_text": "No need safra card la.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-40443",
+    "raw_label": "unlabeled",
+    "safe_text": "Then i just bring hdd transfer lor my bag v heavy",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5671",
+    "raw_label": "ham",
+    "safe_text": "Yes. They replied my mail. I'm going to the management office later. Plus will in to bank later [SAFE-URL-1] on wednesday.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-7670",
+    "raw_label": "unlabeled",
+    "safe_text": "You have registered Sinco as Payee. Log in at [SAFE-URL-1] and enter URN  <#>  to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "uci-5029",
+    "raw_label": "spam",
+    "safe_text": "PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S.I.M. points. Call [SAFE-PHONE-1] Identifier Code:4xx26 Expires 13/10/04",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "nus-7002",
+    "raw_label": "unlabeled",
+    "safe_text": "Not dis msg swety d msg card.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2435",
+    "raw_label": "ham",
+    "safe_text": "Hi its Kate it was lovely to see you tonight and ill phone you tomorrow. I got to sing and a guy gave me his card! xxx",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "uci-5028",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/meg. CC: [OTHER-ID-1] HG/Suite342/2lands Row/W1j6HL",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "nus-41720",
+    "raw_label": "unlabeled",
+    "safe_text": "looool.... Its ur credit ur using ooh..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15509",
+    "raw_label": "unlabeled",
+    "safe_text": "can help me ask mummy to fund transfer my pocket money to my bank account when u r home?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-2088",
+    "raw_label": "unlabeled",
+    "safe_text": "Payment bank acount mai ati hai alertpay k thru",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21765",
+    "raw_label": "unlabeled",
+    "safe_text": "Thousand plus dollars leh...low meh?...lolz...anyway...do i need totop up my paypal acc first b4 usage?...or i just use...they willdeduct from my debit card?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-17079",
+    "raw_label": "unlabeled",
+    "safe_text": "Can apply for lol account transfer liao! Got free skins b4 9 jan",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-22994",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha oops im sorry. But my card will always be in my wallet. And mywallet will always be in my pocket. Never will forget to bring out:-D",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3018",
+    "raw_label": "ham",
+    "safe_text": "Sorry man my account's dry or I would, if you want we could trade back half or I could buy some shit with my credit card",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-28655",
+    "raw_label": "unlabeled",
+    "safe_text": "ok, I will check and add into the next payment.  Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-10453",
+    "raw_label": "unlabeled",
+    "safe_text": "s a card on da present lei... How? Ü all want 2 write smth or sign on it?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-24311",
+    "raw_label": "unlabeled",
+    "safe_text": "Lol umm I think you can transfer me the money if you want haha savethe hassle.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-566",
+    "raw_label": "ham",
+    "safe_text": "Sir, I need Velusamy sir's date of birth and company bank facilities details.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-5294",
+    "raw_label": "unlabeled",
+    "safe_text": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-23873",
+    "raw_label": "unlabeled",
+    "safe_text": "Lol lihai. I no sch today. Later I go your house transfer.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3582",
+    "raw_label": "unlabeled",
+    "safe_text": "Name: DIPJYOTI BORAH SBI A/C NO: <#>  date of birth: <DATE>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-866",
+    "raw_label": "ham",
+    "safe_text": "Hiya , have u been paying money into my account? If so, thanks. Got a pleasant surprise when i checked my balance -u c, i don't get statements 4 that acc",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1427",
+    "raw_label": "spam",
+    "safe_text": "Spook up your mob with a Halloween collection of a logo & pic message plus a free eerie tone, txt CARD SPOOK to 8007 zed 08701417012150p per logo/pic ",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-5412",
+    "raw_label": "unlabeled",
+    "safe_text": "IFSC  CODE - hsbc <#> . SWIFT CODE- HSBCINBB",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-3747",
+    "raw_label": "unlabeled",
+    "safe_text": "PaisaPay Over  <#>  members received Free Oracle Magazine in November. Have you applied? Login to your account and look for Email from Oracle to Apply Now.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21634",
+    "raw_label": "unlabeled",
+    "safe_text": "confirmation id  <#>Credit card authorization no T <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-874",
+    "raw_label": "ham",
+    "safe_text": "K:)k:)what are detail you want to transfer?acc no enough?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-4244",
+    "raw_label": "spam",
+    "safe_text": "[SAFE-EMAIL-1] (Bank of Granite issues Strong-Buy) EXPLOSIVE PICK FOR OUR MEMBERS *****UP OVER 300% *********** Nasdaq Symbol CDGT That is a $5.00 per..",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5444",
+    "raw_label": "ham",
+    "safe_text": "Call me, i am senthil from hsbc.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-17905",
+    "raw_label": "unlabeled",
+    "safe_text": "Of cos! How can a mere cup with a pig cartoon be compared to thecuteness of my angel! T.T.. sob sob sob broke my heart again... ehdoesn't matter lah u want give cash also can want deposit it into myuob account also can...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-41379",
+    "raw_label": "unlabeled",
+    "safe_text": "Ok. Thanks.  I have sent the documents to your [SAFE-URL-1] [SAFE-URL-2] you can read it. :-)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-5432",
+    "raw_label": "unlabeled",
+    "safe_text": "Sir, i am waiting for you. 鈥┾??㏒[SAFE-URL-1]",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1356",
+    "raw_label": "ham",
+    "safe_text": "So what did the bank say about the money?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-27670",
+    "raw_label": "unlabeled",
+    "safe_text": "Bro singtel receive ur first payment of  <DECIMAL> ... Ple make payment for 2nd bill of  <DECIMAL> ...thank you bro..good night sweet dreams..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-12725",
+    "raw_label": "unlabeled",
+    "safe_text": "Was going to the bank. So wanted to talk to my dear. Nothing much. Talk to you later. At office already.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-42074",
+    "raw_label": "unlabeled",
+    "safe_text": "You Settle then i bank in to u. Ok?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-8692",
+    "raw_label": "unlabeled",
+    "safe_text": "Valentines offer! Recharge your MTS Mobile/Data card online and avail discounts on Flowers, Soft toys and much more. Offer valid on online recharge above Rs. <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14613",
+    "raw_label": "unlabeled",
+    "safe_text": "No luck in generating an OTP. I've installed it but when i run, itthrows me an error.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1490",
+    "raw_label": "ham",
+    "safe_text": "Go chase after her and run her over while she's crossing the street",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-11458",
+    "raw_label": "unlabeled",
+    "safe_text": "Hiya! Blessed new year! :) I've transferred  <#>  dollars for a usd <#>  gift card :) hope to hear from you soon! :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28740",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey is the video done? Need transfer to my com first?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-38330",
+    "raw_label": "unlabeled",
+    "safe_text": "LOL yeah I don't know why!! LOL AHH DUN REMIND ME LOL I HAVE 9 BUCKSON MY EZ LINK CARD!!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "uci-1493",
+    "raw_label": "spam",
+    "safe_text": "Your account has been credited with 500 FREE Text Messages. To activate, just txt the word: CREDIT to No: 80488 T&Cs [SAFE-URL-1]",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "nus-28112",
+    "raw_label": "unlabeled",
+    "safe_text": "Sorry to bug you once more. If its ok can you call me back? We'vealmost finalized to take the loan with HSBC.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11684",
+    "raw_label": "unlabeled",
+    "safe_text": "Battery needs to be replaced. vga output unstable, fire wire port not working (can use express card slot to get firewire if really need)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-287",
+    "raw_label": "ham",
+    "safe_text": "Dont think you need yellow card for uk travel. Ask someone that has gone before. If you do its just  <#> bucks",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-27195",
+    "raw_label": "unlabeled",
+    "safe_text": "Ok Andreu. Have a good breakfast after mas. Bodily strength aiso suports us 2 keep 2 our mental resolutions without being much exhausted. May God bles, gAndrew, unfortunately I have been asked to sit in Emergence sup judging panel this afternoon to stand in for our chairman. So one of my very capable Seniuard n guide u or Project Manager Mr Dinuka Perera will come to deliver the presentation. I will send his business card to u. His phone is down currently.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5433",
+    "raw_label": "ham",
+    "safe_text": "Indians r poor but India is not a poor country. Says one of the swiss bank directors. He says that \" <#>  lac crore\" of Indian money is deposited in swiss banks which can be used for 'taxless' budget for  <#>  yrs. Can give  <#>  crore jobs to all Indians. From any village to Delhi 4 lane roads. Forever free power suply to more than  <#>  social projects. Every citizen can get monthly  <#> /- for  <#>  yrs. No need of World Bank & IMF loan. Think how our money is blocked by rich politicians. We have full rights against corrupt politicians. Itna forward karo ki pura INDIA padhe.g.m.\"",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-17324",
+    "raw_label": "unlabeled",
+    "safe_text": "Pete can you please ring me ive hardly got any credit",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-34779",
+    "raw_label": "unlabeled",
+    "safe_text": "No but I gotta transfer it first.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16795",
+    "raw_label": "unlabeled",
+    "safe_text": "Hahaha this is the fifth time u telling me to take care Lol. Verycaring wo. No they sold out Lol. Btw the doraemon cookies are nice!And awesome card! Thanks again babe!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13291",
+    "raw_label": "unlabeled",
+    "safe_text": "Tough.. can't promise. If its too hard, I ll transfer. Msg me youraccount number",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-2560",
+    "raw_label": "ham",
+    "safe_text": "Your account has been refilled successfully by INR  <DECIMAL> . Your KeralaCircle prepaid account balance is Rs  <DECIMAL> . Your Transaction ID is KR <#> .",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-4404",
+    "raw_label": "unlabeled",
+    "safe_text": "What is India? \"A Nation whr Pizza reachs home Faster thn Ambulance & Police. \"Where you get Car Loan @ 8% but Education Loan @  <#> %. \"Where Rice is Rs. <#>  but Sim card is free.. \"Where people worship Goddess Durga but want to kill their girl child... \"where Olympic shooter wins gold, govt gives 3crore, Another shooter dies fighting with terrorist govt pays 1 lakh. Really *Incredible India* Itna forward karo ki pura\"INDIA\" padhe.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4237",
+    "raw_label": "spam",
+    "safe_text": "REMINDER FROM O2: To get 2.50 pounds free call credit and details of great offers pls reply 2 this text with your valid name, house no and postcode",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-13832",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey sign up for standard chartered debit card at Cl. They give freemovie ticket. No strings. Tell I referred, might get extra free stuff",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-4476",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey doc pls I want to get nice t shirt for my hubby nice fiting ones my budget is  <#> k help pls I will load d card abi hw,keep me posted luv. 2 mj",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14603",
+    "raw_label": "unlabeled",
+    "safe_text": "Are u going to show your OTP function tml? I saw what u stated inivle, i'm quite confuse with wat is your plan tml. We agreed upon thatwe won't be showing the admin features during e 2nd sys release right?So integration wise, wat m i suppose to do? Right now, i don't knowhow your OTP is going to work, wat does OTP gonna do with admin?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-15007",
+    "raw_label": "unlabeled",
+    "safe_text": "Can u call me? I am out of credit",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-591",
+    "raw_label": "spam",
+    "safe_text": "Ur balance is now £500. Ur next question is: Who sang 'Uptown Girl' in the 80's ? 2 answer txt ur ANSWER to 83600. Good luck!",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-18963",
+    "raw_label": "unlabeled",
+    "safe_text": "Bad news... I forgot put my cash card when entering erp...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-126",
+    "raw_label": "spam",
+    "safe_text": "oor Step Service for Passport Assistance/PAN Card/Income Tax Return/VAT Return/Service Tax Return Contact M/s ONS [OTHER-ID-1] Jwala Heri Mkt Paschim Viha",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-27243",
+    "raw_label": "unlabeled",
+    "safe_text": "No Greeting Card To Give.. No Sweet Flowers To Send.. No Cute Graphics To Forward.. Just A LOVING HEART wishing A Blessed & Peaceful CHRISTmas to all.......:-)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1048",
+    "raw_label": "unlabeled",
+    "safe_text": "Bro dekhlo na agar h0jae.. Agar payment ki pr0b ho to bta do.. I'l pay wid lr",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-39265",
+    "raw_label": "unlabeled",
+    "safe_text": "Okay can! Thanks thanks (: ask then fill in the form, they pay  <#>bucks deposit right? Anyth else?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28537",
+    "raw_label": "unlabeled",
+    "safe_text": "you purchase travel-sized options or just transfer your existing vouchers.. so that i can go on break:-D",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11426",
+    "raw_label": "unlabeled",
+    "safe_text": "Owner agree, pls prepare deposit $ <#> , stamp fee $ <#> , comm $ <DECIMAL>  tonight meet 8pm. Lis",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-24390",
+    "raw_label": "unlabeled",
+    "safe_text": "Statement. Because he had a discussion with lynette",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28342",
+    "raw_label": "unlabeled",
+    "safe_text": "Pls recharge my account Tk <#>  soon.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-10477",
+    "raw_label": "unlabeled",
+    "safe_text": "I know. Well I get my tax refund on Thursday so if they cut it off it won't be for that long.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-2465",
+    "raw_label": "unlabeled",
+    "safe_text": "NO SMS NO CALL WHY..? Don't U hv balance? Its OK.! I wl send Rs. <#> /_ recharge card Atlst msg nw no: lllllllllllllllllllllllllllll scratch here with blade",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-40868",
+    "raw_label": "unlabeled",
+    "safe_text": "Yahh she say getting refund ah oops",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-26616",
+    "raw_label": "unlabeled",
+    "safe_text": "Aiya nw im gng 2 account clz. After dat i'l cl u. Bye.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-4101",
+    "raw_label": "spam",
+    "safe_text": "Spook up your mob with a Halloween collection of a logo & pic message plus a free eerie tone, txt CARD SPOOK to 8007 ",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-5232",
+    "raw_label": "unlabeled",
+    "safe_text": "Kindly send the mail to  <EMAIL> . . .  <EMAIL> . . .  <EMAIL> . . .  From Senthil Hsbc bank",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-18396",
+    "raw_label": "unlabeled",
+    "safe_text": "Nope I dun like using cue card like not professional... haha dunnoleh hope not lo.... is just the 4p and strategy a lot to say lah... watake cab still late!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16443",
+    "raw_label": "unlabeled",
+    "safe_text": "A bit irregular though. Sometimes over  <#> , I think must rundiagnostics to truly determine. W7 the transfer speed there far fromaccurate. 1 thing for sure its much faster than usb2, so worth theextra bucks.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14588",
+    "raw_label": "unlabeled",
+    "safe_text": "my hp warranty card lost. so how?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-7680",
+    "raw_label": "unlabeled",
+    "safe_text": "Your account has been refilled successfully by INR  <DECIMAL> . Your KeralaCircle prepaid account balance is Rs  <DECIMAL> . Your Transaction ID is KR <#> .",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1145",
+    "raw_label": "spam",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/meg. CC: [OTHER-ID-1]",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-27689",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi.. I paid the singtel bill only today..   <DECIMAL>  transferred to the account number  <#> .. :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-44242",
+    "raw_label": "unlabeled",
+    "safe_text": "Yeah xP debit will be here in  <#> , the other guy rushed my creditfor  <#>  which is fine =D",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36401",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha I slept at the end of phys! Haha good for you! So how was yourpersonal statement? I'm going for duty now! Ehh no you still can'tpoke it!!!!!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14358",
+    "raw_label": "unlabeled",
+    "safe_text": "e name card need another few daes n its $20 for 100 ok rite? will pass u once its done..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-12585",
+    "raw_label": "unlabeled",
+    "safe_text": "Yes. Went to the bank too.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13230",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey whens the earliest you can transfer $ <#>  to me?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14740",
+    "raw_label": "unlabeled",
+    "safe_text": "No u use the balance to pay plus your own. Then the rest, we payourselves. English always first paper de. Wahahaha. I kidding onlylah.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11417",
+    "raw_label": "unlabeled",
+    "safe_text": "We use ur one tem he reach transfer to him.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11234",
+    "raw_label": "unlabeled",
+    "safe_text": "ll transfer u my 1kg... I so envy u... Haiz...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27464",
+    "raw_label": "unlabeled",
+    "safe_text": "Remember the passion card also ar",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-27704",
+    "raw_label": "unlabeled",
+    "safe_text": "Namal would it be possible to transfer   ( <#> +  <#>  +  <#> )/2 today.. I think we have to pay before the end of this week.. :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-22495",
+    "raw_label": "unlabeled",
+    "safe_text": "Woah you checked your account already?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3622",
+    "raw_label": "ham",
+    "safe_text": "I forgot 2 ask ü all smth.. There's a card on da present lei... How? Ü all want 2 write smth or sign on it?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-5496",
+    "raw_label": "ham",
+    "safe_text": "Life style garments account no please.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-15820",
+    "raw_label": "unlabeled",
+    "safe_text": "I don't think will take that long. I also banking on it ending before 4pm.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36418",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha omg! But she doesn't stay in hostel haha, dunno why she's stillhere! Hahaha i'm moving out end of next month! Ok ok I'll send youyour personal statement then concentrate on my hw!!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5329",
+    "raw_label": "ham",
+    "safe_text": "FRAN I DECIDED 2 GO N E WAY IM COMPLETELY BROKE AN KNACKERED I GOT UP BOUT 3 C U 2MRW LOVE JANX P.S THIS IS MY DADS FONE, -NO CREDIT",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-11326",
+    "raw_label": "unlabeled",
+    "safe_text": "Oh i went to citibank at orchard... Study until i sian also... So u going back now?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1357",
+    "raw_label": "unlabeled",
+    "safe_text": "Rajnikanth's All-Time Best : 1. Rajnikant once wrote his autobiography... Today dat book is known as.., . . \"Guiness book of world record\" 2. NEWLY APPROVED SYMBOL OF RUPEE IS ACTUALLY . . . . . . RAJNIKANTH'S SIGNATURE...!! 3. One nyt, while asleep, rajnikant ws mumbling some random numbers... . . . Thats how d Log table got generated... 4. RAJINIKANTH once had a bet wid superman. . . . . . . The loser had to wear his chaddi outside... 5. Once Rajnikant taught a kid how to enter a house widout ringing d door bell.... . . . . . That person is now called CID inspector DAYA.. 5. Rajnikant participated in  <#>  mts race and obviously he came 1st . . But EINSTIEN died after watching that . . . . . . . . . . LIGHT came second . ! ! 6. Boy 1: Dude I've got Rajnikanth's movies. Do you want ??? Boy 2: Oh no dude.! I dnt have that much graphics card in my computer. :-D :-P ;-) :-D",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5381",
+    "raw_label": "ham",
+    "safe_text": "I had been hoping i would not have to send you this message. My rent is due and i dont have enough for it. My reserves are completely gone. Its a loan i need and was hoping you could her. The balance is  <#> . Is there a way i could get that from you, till mid march when i hope to pay back.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-4484",
+    "raw_label": "unlabeled",
+    "safe_text": "About  <#> bucks. The banks fees are fixed. Better to call the bank and find out.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-19506",
+    "raw_label": "unlabeled",
+    "safe_text": "Ok thanx. Look out for our booth during the sports bazaar at arts forum tomorrow and thurs for payment of the camp fee. Thanx. How do ü know my hp no?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-35698",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha chase her out! Yeap ecology with my biochem teacher! Must rmb itah, dreams are difficult to rmb one! Zzz my seatmates ask me payattention so they can study chem...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-25642",
+    "raw_label": "unlabeled",
+    "safe_text": "Yo yo Jeremy. Can transfer $ <#>  to my account  <#>  by tmr? Gotaccounts to settle, sorry ah. Thanks alot! :)",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5580",
+    "raw_label": "ham",
+    "safe_text": "Hey...Great deal...Farm tour 9am to 5pm $95/pax, $50 deposit by 16 May",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-45338",
+    "raw_label": "unlabeled",
+    "safe_text": "Never send the credit card. I've already two.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1713",
+    "raw_label": "ham",
+    "safe_text": "Save yourself the stress. If the person has a dorm account, just send your account details and the money will be sent to you.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-1437",
+    "raw_label": "unlabeled",
+    "safe_text": "Tje airtel ke kbi blnce wale rechrg krwana ho to mjhe b0l dena me sbi ki m0bile bnkng ke thrgh kr sakta hu..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "uci-1626",
+    "raw_label": "spam",
+    "safe_text": "500 free text msgs. Just text ok to 80488 and we'll credit your account",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "nus-13126",
+    "raw_label": "unlabeled",
+    "safe_text": "voucher + vip card i think each person 10+",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-4483",
+    "raw_label": "unlabeled",
+    "safe_text": "Nothing. I meant that once the money enters your account here, the bank will remove its flat rate. Someone transfered  <#>  to my account and  <#> dollars got removed. So the banks differ and charges also [SAFE-URL-1] sure you trust the 9ja person you are sending account details to cos...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-41432",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi Yeng Chin, as per my email, the repair is finished [SAFE-URL-1] Premier the  <#>  to my account today if possible. Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-28108",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi diane, Tha ks for your help the other day. We have some questionsabout the HSBC home loan information. Appreciate it if I can try tocall you about it.  I will try to reach you again later today ifpossible.  Also we are interested in knowing the rate for homerenovation loans.  Can you help?  Thanks!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-22498",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha how did you top up your card? Cash?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16878",
+    "raw_label": "unlabeled",
+    "safe_text": "Hmm no but can transfer. Where do you stay?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5827",
+    "raw_label": "ham",
+    "safe_text": "Please protect yourself from e-threats. YES bank never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1644",
+    "raw_label": "spam",
+    "safe_text": "SplashMobile: Choose from 1000s of gr8 tones each wk! This is a subscrition service with weekly tones costing 300p. U have one credit - kick back and ENJOY",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-23008",
+    "raw_label": "unlabeled",
+    "safe_text": "Lol probably it's the adult card problem.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-18153",
+    "raw_label": "unlabeled",
+    "safe_text": "Got arh I solo so many song T.T... so ke lian u must cook honey lemonfor me lol... wa lol they din Chase u all arh so good... then earnback the change Mic time lo lol",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21182",
+    "raw_label": "unlabeled",
+    "safe_text": "Lol ya [SAFE-URL-1] [SAFE-URL-2] <#> for those bundle like bag card case etc plus a <#> mm f <DECIMAL> lens.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16880",
+    "raw_label": "unlabeled",
+    "safe_text": "Hmm i don't think can reach b4  <#>  if need to transfer. Let's meeton thurs instead?",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-19959",
+    "raw_label": "unlabeled",
+    "safe_text": "full payment if ok with u",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-10478",
+    "raw_label": "unlabeled",
+    "safe_text": "I know $ <#> tax credit this year woot woot. If not I wouldn't get anything back. I usually don't.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-966",
+    "raw_label": "ham",
+    "safe_text": "sir, you will receive the account no another 1hr time. Sorry for the delay.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-18522",
+    "raw_label": "unlabeled",
+    "safe_text": "Aiya..u so naughty!! Telll meeeeeee !! Still shopping ah? Later Igoing back to office, forgot to transfer my stuff to [SAFE-URL-1].. runworry later my Daddy driving",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-16689",
+    "raw_label": "unlabeled",
+    "safe_text": "Hi its Kate it was lovely to see you tonight and ill phone you tomorrow. I got to sing and a guy gave me his card!",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-29957",
+    "raw_label": "unlabeled",
+    "safe_text": "I cant. Nid card....",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "uci-589",
+    "raw_label": "ham",
+    "safe_text": "\"Pete can you please ring meive hardly gotany credit\"",
+    "source_id": "uci",
+    "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection"
+  },
+  {
+    "id": "mendeley-4651",
+    "raw_label": "ham",
+    "safe_text": "Am on the uworld site. Am i buying the qbank only or am i buying it with the self assessment also?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-22499",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha just now I thought you topped up using card. That's why I toldyou to check your acc. Lol now you can sue them for scamming yourmonneh.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-11470",
+    "raw_label": "unlabeled",
+    "safe_text": "I upload e songs into yahoo briefcase, u go 2 [SAFE-URL-1] log in using the socfriends account, go 2 folde MP3 2 download",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-36245",
+    "raw_label": "unlabeled",
+    "safe_text": "Haha yeah but when I open contact can see your name! Haha yea I wastired plus my parents chase me off haha :P",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21762",
+    "raw_label": "unlabeled",
+    "safe_text": "My status of paypal acc is unverified...do i need to get it verified?...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1452",
+    "raw_label": "ham",
+    "safe_text": "No dude, its not fake..my frnds got money, thts y i'm ref[TRANSACTION-ID-1] u..if u member wit my mail link, u vl be credited  <#> rs and il be getiing  <#> rs..i can draw my acc wen it is  <#> rs..",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-7041",
+    "raw_label": "unlabeled",
+    "safe_text": "Cent bank- <DECIMAL> , idbi bank- <DECIMAL>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-19882",
+    "raw_label": "unlabeled",
+    "safe_text": "hmm..the bank is being taken over by uob,then i am jobless now..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-5164",
+    "raw_label": "ham",
+    "safe_text": "what is your account number?",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-27529",
+    "raw_label": "unlabeled",
+    "safe_text": "haha, i today mc, if u book le n no time to make payment, can ask me go ya...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1666",
+    "raw_label": "Spam",
+    "safe_text": "Property Bhi Aapki Rent Bhi Aapka, Invest Rs 17k Lacs in Fully Furnished Office Spaces & Earn Rs 17k per Month Wid Bank Guarantee, Noida Cont.9990584817",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-5324",
+    "raw_label": "unlabeled",
+    "safe_text": "Dear Customer, Your A/C no. XXXXXXXX <#>  has been debited with Rs.  <#>  against cheque no.  <#> . For any enquiry contact - toll free-  <#>   <#>   <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21628",
+    "raw_label": "unlabeled",
+    "safe_text": "Bike go 2nd link to malaysia need the malaysia flash card?...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-13445",
+    "raw_label": "unlabeled",
+    "safe_text": "Hey posb savings  <#>  or uob current account  <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-14234",
+    "raw_label": "unlabeled",
+    "safe_text": "Ok... then i think i need to buy memort card also hehe...",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-21680",
+    "raw_label": "unlabeled",
+    "safe_text": "I paid using my debit card first...later just return me  <#>  dollarscash lor...or  can ask sis to ibank transfer to me oso can....now justwait for ica mail..",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-3804",
+    "raw_label": "ham",
+    "safe_text": "Went to pay rent. So i had to go to the bank to authorise the payment.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-2581",
+    "raw_label": "ham",
+    "safe_text": "Great. So should i send you my account number.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "mendeley-1100",
+    "raw_label": "spam",
+    "safe_text": "Sppok up ur mob with a Halloween collection of nokia logo&pic message plus a FREE eerie tone, txt CARD SPOOK to 8007",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  },
+  {
+    "id": "nus-22686",
+    "raw_label": "unlabeled",
+    "safe_text": "Yo you transfer  <DECIMAL>  to me?  <#>",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-20194",
+    "raw_label": "unlabeled",
+    "safe_text": "oh ya, just in case u didn't transfer, hui ling here.",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "nus-1094",
+    "raw_label": "unlabeled",
+    "safe_text": "Bhai tu kisi aise ko janta he jo credit crd use krta h0",
+    "source_id": "nus",
+    "source_url": "https://github.com/kite1988/nus-sms-corpus"
+  },
+  {
+    "id": "mendeley-1041",
+    "raw_label": "ham",
+    "safe_text": "Can you tell Shola to please go to college of medicine and visit the academic department, tell the academic secretary what the current situation is and ask if she can transfer there. She should ask someone to check Sagamu for the same thing and lautech. Its vital she completes her medical education in Nigeria. Its less expensive much less expensive. Unless she will be getting citizen rates in new zealand.",
+    "source_id": "mendeley",
+    "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+  }
+]

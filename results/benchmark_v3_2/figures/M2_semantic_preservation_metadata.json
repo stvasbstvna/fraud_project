@@ -1,0 +1,31 @@
+{
+  "title": "Semantic preservation versus surface distance",
+  "research_question": "Were meanings preserved across the observed surface changes?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv",
+    "results\\benchmark_v3_2\\manipulation\\per_variant_distances.csv"
+  ],
+  "filters": "all approved available non-C0 rewrites; manipulation check independent of primary complete-case eligibility",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 14,
+    "distinct_frames_in_data": 10
+  },
+  "models": [],
+  "conditions": [
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Surface distance",
+  "y_axis": "Reviewed semantic preservation (0=no, 1=yes)",
+  "main_observation": "Semantic similarity scores are unavailable. This plot uses reviewed preservation decisions as a binary outcome, without inventing semantic scores.",
+  "allowed_interpretation": "Reviewed binary decisions and recorded similarity scores are distinct evidence types.",
+  "forbidden_interpretation": "Neither lexical cosine nor missing semantic scores are evidence of semantic equivalence.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

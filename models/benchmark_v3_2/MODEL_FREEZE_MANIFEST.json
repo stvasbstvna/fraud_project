@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-11-07T10:21:34.589342+00:00",
+  "models": [
+    {
+      "frozen_at": "2026-11-07T10:21:34.589342+00:00",
+      "model_name": "LR",
+      "model_path": "models/benchmark_v3/final_run/primary/lexical/LR.joblib",
+      "sha256": "df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf",
+      "threshold": 0.5,
+      "training_config_hash": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+      "training_dataset_hash": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f"
+    },
+    {
+      "frozen_at": "2026-11-07T10:21:34.589342+00:00",
+      "model_name": "RF",
+      "model_path": "models/benchmark_v3/final_run/primary/lexical/RF.joblib",
+      "sha256": "19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7",
+      "threshold": 0.5,
+      "training_config_hash": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+      "training_dataset_hash": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f"
+    },
+    {
+      "frozen_at": "2026-11-07T10:21:34.589342+00:00",
+      "model_name": "ModernBERT",
+      "model_path": "models/benchmark_v3/final_run/modernbert/best_checkpoint/model.safetensors",
+      "sha256": "7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43",
+      "threshold": 0.5,
+      "training_config_hash": "c163032a945a89e8221f3cc7aff99a1feed85fb5bb28a6dd7c4f3622d215ff72",
+      "training_dataset_hash": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f"
+    }
+  ],
+  "policy": "read-only existing v3 final primary models; no retraining"
+}

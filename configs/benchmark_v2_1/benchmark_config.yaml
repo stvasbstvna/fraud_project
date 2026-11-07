@@ -1,0 +1,14 @@
+version: bv21-canonical-2026-11-06
+status: pending_source_semantic_review
+target_phishing: 750
+target_legitimate: 500
+pilot_per_label: 24
+conditions: [C0, C1, C2, C3, C4, C5, C6]
+seed: 42
+bootstrap_draws: 10000
+threshold: 0.5
+independent_reviewers_required: 2
+primary_population: English banking SMS
+distance_version: frozen-vectorizer-equal-weight-v1
+primary_hypothesis_family: seven_frame_level_Holm_tests
+generation_detector_feedback: prohibited

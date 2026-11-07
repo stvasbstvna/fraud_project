@@ -1,0 +1,35 @@
+{
+  "title": "False positive rate by condition",
+  "research_question": "How does false positive rate vary by model and condition?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv"
+  ],
+  "filters": "primary_complete_case == True",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 15,
+    "distinct_frames_in_data": null
+  },
+  "models": [
+    "LR",
+    "ModernBERT",
+    "RF"
+  ],
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Condition",
+  "y_axis": "False positive rate",
+  "main_observation": "No primary complete frames; estimates are unavailable. Denominators are explicitly shown for true_label=0; undefined rates remain missing.",
+  "allowed_interpretation": "Rates compare the same complete frames within each true-label stratum.",
+  "forbidden_interpretation": "These rates do not estimate deployment prevalence or causal effects.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

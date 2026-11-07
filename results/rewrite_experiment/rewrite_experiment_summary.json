@@ -1,0 +1,10 @@
+{
+  "models": [
+    "tfidf_logistic_regression",
+    "tfidf_random_forest"
+  ],
+  "eligible_pairs": 153,
+  "human_review_required": true,
+  "detectors_retrained": false,
+  "detector_feedback_used_for_generation": false
+}

@@ -1,0 +1,18 @@
+{
+  "A_hash": "7a9ed7580f124a4f71cdf3eb40afd4ffe53850627ac40b80a38227229a6f8850",
+  "B_hash": "9e4115c5ef188f2c225b68324b149b757cf38d44fdcbccfd67e65c6ac68b19c9",
+  "J_hash": "",
+  "decisions": {
+    "mendeley-4": {
+      "annotation": null,
+      "approved": false,
+      "decision": "rejected_or_unresolved"
+    },
+    "nus-5489": {
+      "annotation": null,
+      "approved": false,
+      "decision": "rejected_or_unresolved"
+    }
+  },
+  "selection_basis": "independent source-policy audit, not detector error analysis"
+}

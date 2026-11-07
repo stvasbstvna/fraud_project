@@ -1,0 +1,17 @@
+{
+  "scope": "workflow calibration only; not detector-performance evidence",
+  "review_rows": 24,
+  "unique_variants": 24,
+  "counts": {
+    "approved": 0,
+    "rejected": 0,
+    "pending": 24,
+    "adjudication_needed": 0
+  },
+  "rejection_reasons_exact": {},
+  "complete_approved_condition_sets": [],
+  "agreement": {
+    "calculable": false,
+    "reason": "Fewer than two reviewers with paired categorical decisions."
+  }
+}

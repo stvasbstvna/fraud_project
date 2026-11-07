@@ -1,0 +1,55 @@
+{
+  "frozen_sha256": "b1d4545b26454df38c17dc2549022a580969c42733da6dae8459e4f666dbc633",
+  "available_by_condition_label": {
+    "C0": {
+      "phishing": 33,
+      "legitimate": 2
+    },
+    "C1": {
+      "phishing": 10
+    },
+    "C4": {
+      "phishing": 13,
+      "legitimate": 1
+    },
+    "C5": {
+      "phishing": 12,
+      "legitimate": 1
+    },
+    "C6": {
+      "phishing": 13,
+      "legitimate": 1
+    }
+  },
+  "approval_counts": {
+    "exact_original": 35,
+    "adjudicated": 51
+  },
+  "deterministic_failure_reason_counts_initial": {
+    "c1_insufficient_lexical_change": 12,
+    "unchanged": 14,
+    "institution": 7
+  },
+  "deterministic_failure_reason_counts_retry": {
+    "unchanged": 19,
+    "c1_insufficient_lexical_change": 6,
+    "institution": 4
+  },
+  "A_B_acceptance_disagreements": 91,
+  "adjudicated_disagreements": 71,
+  "unresolved_disagreements": 20,
+  "technical_errors": [
+    {
+      "type": "ValueError",
+      "message": "IDs mismatch",
+      "request_sha256": "092c260e9954f8a0cb450b996f94b48843c1ccd29bcb9ded2908e2e990470ba4"
+    }
+  ],
+  "review_limitations": [
+    "Automated judgments not human annotation",
+    "B sometimes calls inert phishing text nonoperational_text=false despite explicit definition; no deterministic override or autopass used",
+    "One adjudicator batch IDs mismatched; entire batch excluded and retained in audit; no semantic reattempt",
+    "No condition has more than one legitimate rewrite; C1 has zero",
+    "Nine complete-core frames all phishing; severe selection attrition limits interpretation"
+  ]
+}

@@ -1,0 +1,3 @@
+# Pre-source-API correction
+
+The source-expansion export initially contained709 rows/708 native IDs. Native NUS id18088 had two different personal-chat texts. Both were excluded, leaving707 unique candidate IDs. Source exporter corrected its new CSV before receiving the parent stop message; the initial prepared packet, candidate CSV and family diagnostics are preserved under data/benchmark_v3_2/source/history/prescore_packet_v1. No research API call or detector scoring used that packet. Regenerate source packet from corrected707-candidate file. No v3 result or model changed; no v3.2 scientific claim changed.

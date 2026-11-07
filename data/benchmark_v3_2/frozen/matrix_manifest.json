@@ -1,0 +1,23 @@
+{
+  "approved_conditions": {
+    "C1": 2,
+    "C4": 5,
+    "C5": 4,
+    "C6": 3
+  },
+  "approved_pairs": 14,
+  "complete_by_class": {},
+  "complete_frames": 0,
+  "decisions_sha256": "9df8177a1f69acd6db0f7f1439416f4e3abe8611e341661b2f16189077d8b0c3",
+  "frozen_at": "2026-11-07T10:45:57.715647+00:00",
+  "generated_attempts": 89,
+  "initial_jobs": 48,
+  "matrix_sha256": "1390b12572da926595b34042f2c14d1c64117c414d8a4ebeb0808acbfd78f885",
+  "model_freeze_sha256": "47e4a0605a4704ddeb0e03684b183da02efea37c96a2fad1890d195e0139d0e7",
+  "prompt_registry_sha256": "1448f3c41c63a575177c723b3d642fd3b35ea20edd4a8b94bca1187cf4ba8c93",
+  "retry_jobs": 41,
+  "source_cohort_sha256": "425908157e8c168d85d3f7212d169b6091a678157fc80011e606426ebb66df33",
+  "source_frames": 12,
+  "statistical_plan_sha256": "5c4a2d14c01c75df0c186907c8a6a39247610e9d2377ca40e3d195baf2af86b6",
+  "status": "FROZEN_EXPLORATORY"
+}

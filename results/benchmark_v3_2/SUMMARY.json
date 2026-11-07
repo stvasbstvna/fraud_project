@@ -1,0 +1,108 @@
+{
+  "approved_conditions": {
+    "C1": 2,
+    "C4": 5,
+    "C5": 4,
+    "C6": 3
+  },
+  "approved_pairs": 14,
+  "calls": {
+    "by_role": {
+      "A": 128,
+      "B": 116,
+      "G": 8,
+      "J": 9
+    },
+    "call_status": {
+      "completed": 249,
+      "failed": 12
+    },
+    "calls": 261,
+    "usage": {
+      "input_tokens": 415654,
+      "output_tokens": 246793
+    }
+  },
+  "complete_cases": {
+    "legitimate": 0,
+    "phishing": 0
+  },
+  "complete_cases_total": 0,
+  "existing_raw_records_rescanned": 67380,
+  "extreme": {
+    "C0_probability": 0.8684853315353394,
+    "absolute_delta": 0.0613448619842529,
+    "condition": "C5",
+    "frame_id": "nus-5294",
+    "model": "ModernBERT",
+    "model_sha256": "7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43",
+    "prediction": 1,
+    "primary_complete_case": false,
+    "probability": 0.9298301935195924,
+    "signed_delta": -0.0613448619842529,
+    "surface_distance": 0.235263432446531,
+    "text_sha256": "a92401c3308234c5a6b108e8f30d03da4015588671e5257b5850531cbbec4158",
+    "threshold_transition": "1->1",
+    "true_label": 0
+  },
+  "generated_attempts": 89,
+  "historical_v3_status": "unchanged, not pooled",
+  "initial_generations": 48,
+  "models": [
+    {
+      "frozen_at": "2026-11-07T10:21:34.589342+00:00",
+      "model_name": "LR",
+      "model_path": "models/benchmark_v3/final_run/primary/lexical/LR.joblib",
+      "sha256": "df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf",
+      "threshold": 0.5,
+      "training_config_hash": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+      "training_dataset_hash": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f"
+    },
+    {
+      "frozen_at": "2026-11-07T10:21:34.589342+00:00",
+      "model_name": "RF",
+      "model_path": "models/benchmark_v3/final_run/primary/lexical/RF.joblib",
+      "sha256": "19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7",
+      "threshold": 0.5,
+      "training_config_hash": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+      "training_dataset_hash": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f"
+    },
+    {
+      "frozen_at": "2026-11-07T10:21:34.589342+00:00",
+      "model_name": "ModernBERT",
+      "model_path": "models/benchmark_v3/final_run/modernbert/best_checkpoint/model.safetensors",
+      "sha256": "7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43",
+      "threshold": 0.5,
+      "training_config_hash": "c163032a945a89e8221f3cc7aff99a1feed85fb5bb28a6dd7c4f3622d215ff72",
+      "training_dataset_hash": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f"
+    }
+  ],
+  "new_downloaded_sms_records": 0,
+  "new_lexical_uncertain_candidates": 707,
+  "origin_types": {
+    "real_source": 3,
+    "uncertain_origin": 9
+  },
+  "primary_stronger_pilot_target_met": false,
+  "prompt_registry_sha256": "1448f3c41c63a575177c723b3d642fd3b35ea20edd4a8b94bca1187cf4ba8c93",
+  "quality_retries": 41,
+  "rejected_or_unresolved_initial_slots": 34,
+  "representative_frame_id": null,
+  "rights_eligible_new_candidates": 707,
+  "run_id": "v32-expanded-001",
+  "source_frames": 12,
+  "source_labels": {
+    "legitimate": 1,
+    "phishing": 11
+  },
+  "source_reviewed_candidates": 1065,
+  "stats_status": "NOT_RUN_PRIMARY_NO_COMPLETE_CASES_AVAILABLE_PAIRS_AVAILABLE",
+  "status": "PRIMARY_FAILED_COMPLETENESS_EXPLORATORY_AVAILABLE_PAIRS_COMPLETED",
+  "template_families": 12,
+  "temporal_status": "Historical v3 NOT_RUN; no new temporal experiment",
+  "threshold_crossings_available_by_model": {
+    "LR": 0,
+    "ModernBERT": 0,
+    "RF": 0
+  }
+}

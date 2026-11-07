@@ -1,0 +1,91 @@
+{
+  "benchmark_version": "2.1-pre-freeze",
+  "status": "NOT_FULLY_FROZEN_HUMAN_REVIEW_AND_GENERATION_PENDING",
+  "files": [
+    {
+      "path": "configs/benchmark_v2_1_generator.yaml",
+      "exists": true,
+      "sha256": "d6d5d9db3220a9590afdc167dd6e1c0edcbf34f9b447a82dfab05d0c89424a19"
+    },
+    {
+      "path": "docs/benchmark_v2_1_protocol_FINAL_CANDIDATE.md",
+      "exists": true,
+      "sha256": "da0c641178469a14ebf39f5cb0d05755f3d1efe79be181473bd77b0f12818b6e"
+    },
+    {
+      "path": "docs/benchmark_v2_1_research_decisions_FINAL.md",
+      "exists": true,
+      "sha256": "dbb5b474db096c44f0ccef140f076641d4e498302ff82be1462d576b8835e78a"
+    },
+    {
+      "path": "docs/benchmark_v2_1_prompt_package_FINAL.md",
+      "exists": true,
+      "sha256": "f6c2722874f1d0c69fb69a7e5b70e630788a56e83af0eff409b586e0eebc70cf"
+    },
+    {
+      "path": "docs/benchmark_v2_1_pilot_review_instructions_FINAL.md",
+      "exists": true,
+      "sha256": "86cb50a8654a28d9672759315256dedb3c73368205c5e08e77c04bbca7e8df4e"
+    },
+    {
+      "path": "docs/benchmark_v2_1_distance_metrics.md",
+      "exists": true,
+      "sha256": "b0437c74ff3b0ddf6e3224664f9f672aee1ca91281400e10ed336eba7157640d"
+    },
+    {
+      "path": "docs/benchmark_v2_1_confirmatory_family_decision.md",
+      "exists": true,
+      "sha256": "44e3f6c37a44a64d3d012f93762954374817fab8c7c875911794c2b367e592d0"
+    },
+    {
+      "path": "docs/frozen_detector_representation.md",
+      "exists": true,
+      "sha256": "d386a612b0a90da58c2c197446873b8678d44ee9cbe06b843647f071de5f2bf7"
+    },
+    {
+      "path": "data/benchmark_v2_1/source_manifest.csv",
+      "exists": true,
+      "sha256": "921c1ca6538582acbb8f5fe41e3a0207592813343dd52c9496b70579b2c47535"
+    },
+    {
+      "path": "data/benchmark_v2_1/pilot/semantic_frames.csv",
+      "exists": true,
+      "sha256": "306b2d10b9fe495c568bf1d6207148194913abbf14217fbecefe41e80113950c"
+    },
+    {
+      "path": "data/benchmark_v2_1/pilot/generation_jobs.csv",
+      "exists": true,
+      "sha256": "406a15388eed43e7fe11c0b8bc5f1b2b06bcf89267e36282bd59326c93631c9d"
+    },
+    {
+      "path": "data/benchmark_v2_1/full/semantic_frames.csv",
+      "exists": true,
+      "sha256": "48a199dbfa203bb3d94386d33895bf2c51bd75d9c14198260ff527137471f605"
+    },
+    {
+      "path": "data/benchmark_v2_1/full/generation_jobs.csv",
+      "exists": true,
+      "sha256": "1e0eafcb959b310c7605030dbd15453a371ea293501530e7659454dd3803db2c"
+    },
+    {
+      "path": "analysis/benchmark_v2_1_distance_metrics.py",
+      "exists": true,
+      "sha256": "648107bb6a7cda63ce140b6d1b089043f40ce7d0f4290d5d7247068363d3f3a8"
+    },
+    {
+      "path": "analysis/benchmark_v2_1_confirmatory_analysis.py",
+      "exists": true,
+      "sha256": "5856e7e8a2df0d5d1718af29d530e1d5c448f343502ffea5fd5b5dce1334e7f6"
+    },
+    {
+      "path": "scripts/check_benchmark_v2_1_freeze_readiness.py",
+      "exists": true,
+      "sha256": "8ffa63d9fecc4a671eac7cd477e3789d67cadbb307d0d06bcfa9d84ad15b0987"
+    },
+    {
+      "path": "scripts/run_benchmark_v2_1_generation.py",
+      "exists": true,
+      "sha256": "9ce11bea420e776109d5640fdc71325dd2dbfbbb94a8a61fe34d801ee3dbb996"
+    }
+  ]
+}

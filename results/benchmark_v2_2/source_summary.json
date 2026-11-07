@@ -1,0 +1,38 @@
+{
+  "broad_financial_candidates": 23731,
+  "capacity_bound": {
+    "interpretation": "Optimistic upper bound, not reviewed or frozen source N; semantic review can only reduce this bound.",
+    "legitimate_candidate_family_capacity_by_lineage": {
+      "MENDELEY-SMISH": 7,
+      "UCI-LINEAGE": 48
+    },
+    "maximum_legitimate_before_semantic_review": 14,
+    "phishing_candidate_capacity_upper_bound": 23005,
+    "real_legitimate_candidate_families": 49,
+    "source_capacity_sufficient": false,
+    "synthetic_legitimate_candidate_families": 0
+  },
+  "capacity_scope": "financial-keyword and known-institution candidate pool only; not proof that no further banking sources exist",
+  "detector_predictions": 0,
+  "generation_calls": 0,
+  "independent_human_annotation": false,
+  "input_rows_inspected": 81738,
+  "rule_clear_candidates": 23105,
+  "rule_rejection_reasons_nonexclusive": {
+    "encoding_damage": 10,
+    "invalid_institution_hint": 5,
+    "not_English_primary": 29,
+    "not_SMS_like_length": 7,
+    "prior_benchmark_family_overlap": 208,
+    "row_channel_unresolved": 213,
+    "spam_or_unknown_not_phishing": 96,
+    "train_validation_family_overlap": 27,
+    "upstream_rights_unresolved": 109
+  },
+  "source_candidate_audit_sha256": "9696b6aae01fcb7dc867c10f047f3f9354dd08c615e9f8d744acae1b30874c98",
+  "source_cohort_frames": 0,
+  "source_cohort_frozen": false,
+  "source_semantic_review_calls": 0,
+  "status": "V2.2 SOURCE COHORT INSUFFICIENT",
+  "validation_type": "deterministic_source_feasibility_only_not_semantic_approval"
+}

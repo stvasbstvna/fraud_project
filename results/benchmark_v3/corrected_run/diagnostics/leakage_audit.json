@@ -1,0 +1,10 @@
+{
+  "correction_policy": "conservative family merge; no thresholds/hyperparameters tuned on performance",
+  "exact_cross_split": false,
+  "known_payee_template_united": true,
+  "labels": "machine-reviewed, not independent human annotation",
+  "original_run_invalidated": true,
+  "source_holdout_origin_cross_split": false,
+  "status": "CORRECTED_SPLIT_VERIFIED_BEFORE_REFIT",
+  "template_cross_split": false
+}

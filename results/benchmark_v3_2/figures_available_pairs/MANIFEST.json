@@ -1,0 +1,34 @@
+{
+  "files": {
+    "03_recall.png": "d01e5d12c999d5612cfe859ca6e2b699565d3bcfb15febbd3b367ef997ffb5ef",
+    "03_recall.svg": "0f8bfb057ffbcb031497ec8fb3f3e71309179e5bfc7722edeaa5acdbb47f600d",
+    "03_recall_data.csv": "7f615e78af0a304235c719a18dd17b14009a0b7852a17dce2214a3d216543281",
+    "03_recall_metadata.json": "788db43375d58d85017ba01fadc71471b1fbc9007cdb3f94f1df807e126cc780",
+    "04_false_positive_rate.png": "641500b910394b38751d3ba5dc442036b9cfedb4e3442b9b6525807b21a90496",
+    "04_false_positive_rate.svg": "9e79e8d7d33430bc729a2c135a99159927f4cee1b17f717ee2837a7ce89aef53",
+    "04_false_positive_rate_data.csv": "5e800790009334370d19072221ee28b1aecb2f60552a7c420383902a3dc568a1",
+    "04_false_positive_rate_metadata.json": "be6da04055a828e98546f125e96d82e7de5fa9d7035016e8fac9a4e9a9fc097a",
+    "05_signed_movement.png": "e2a6672e0b6412b194e579a44ec06295feb259725c778b9d0927923a6f2c5097",
+    "05_signed_movement.svg": "1a9daee0ff1d1765a537e153b1f6cd4b52781c26cd8302f1805e4eef208fc313",
+    "05_signed_movement_data.csv": "eb39c12f1db42113b6dd5c3da7c71d3ca44b1b7454e9d148d528ec3ae359a045",
+    "05_signed_movement_metadata.json": "56d844bc464095d24a70a0bc0fc09e289b555022c8b8cede5267365b33e0dad2",
+    "06_absolute_movement.png": "6fff8c99668dcad08083ec833db2b8cf1d2c0b71517548abd16b2f593b3119a6",
+    "06_absolute_movement.svg": "22d4d73ba6ee69c1449693be298fc3677e169be77b811296f9ed1760dea12cd4",
+    "06_absolute_movement_data.csv": "2ba9d65bc775d0f37b45e8f2e551b17b1357d22938aeb2eebcb043ebe048306f",
+    "06_absolute_movement_metadata.json": "ba92ec6fb3ced15ef6a9b48bf04602d286c90dcc54be170a5370b04e0f26bbec",
+    "08_observed_crossings.png": "8639b110a8a51e8f20c391505c2fc29ebf7132640650f6f2cf1a103f3a0fc496",
+    "08_observed_crossings.svg": "1ac52b9c5a5f742af2bde9339b072dde799d4dced73d092a4028713ac22a7a54",
+    "08_observed_crossings_data.csv": "fab3be2dfc8e3b0aacbb8827a6e0c9b5b39d41322b0cd2eb737d5a161065110b",
+    "08_observed_crossings_metadata.json": "2c2643806e00e0e53084d8a08a9885a1bf892b2ce838699cbb3b4f981758d996",
+    "09_partial_example.png": "c99624ce898e1195d25a8fb98772dab8d2314b7f19739920e04e86a0d6bf0c53",
+    "09_partial_example.svg": "6d47988852bc682854cc15696467a8007c6526855ea3f39df58f6a448ef65635",
+    "09_partial_example_data.csv": "9eafab2edf78a6a3640334f18fe1af98ebe4357e12213f9c689f3d139f5f43b8",
+    "09_partial_example_metadata.json": "0fa30a85c09b3990ce33d0bff68f5185e0655a302e282084ccf3833b96ce1732"
+  },
+  "prediction_hashes": {
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv": "2aa911662ebd729cd34bde86c10cdb9a86b21e8896fcf4e72b6cafb69d91efbb",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv": "8e39e7e8d15344c689d8c9949b8342890ddb9ac4cd56da6009c6869fc1825f1a",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv": "7b9050735cc4d7c4d85ffb5009ac1acb115bc93ebc675fcb3a82ff44370a7e08"
+  },
+  "purpose": "presentation-only available-pair supplement"
+}

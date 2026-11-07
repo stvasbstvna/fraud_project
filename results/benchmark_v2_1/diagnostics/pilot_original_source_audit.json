@@ -1,0 +1,88 @@
+{
+  "timestamp_utc": "2026-11-06T22:00:11.654838+00:00",
+  "sources": [
+    {
+      "source_id": "MENDELEY-SMISH",
+      "original_dataset": "Mishra and Soni SMS Phishing Dataset v1",
+      "original_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "license_status": "CC_BY_4_0",
+      "version": "1",
+      "sha256": "9bbf3188fdad81495d8e82825648b9b63b53fc86841a3d26c02629990b233cc3",
+      "download_url": "https://data.mendeley.com/public-files/datasets/f45bkkt8pr/files/edb361de-918d-469f-9106-e84823830665/file_downloaded",
+      "archive_member_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "encoding": "utf-8-sig",
+      "attribution": "Mishra S.; Soni D. (2022). DOI 10.17632/f45bkkt8pr.1. Safe redactions and candidate filtering are project modifications.",
+      "input_rows": 5971,
+      "labels": {
+        "ham": 4844,
+        "smishing": 638,
+        "spam": 489
+      },
+      "financial_keyword_rows": 63,
+      "unsafe_held": 0,
+      "decision": "CANDIDATES_ONLY_PENDING_SOURCE_REVIEW"
+    },
+    {
+      "source_id": "SMS-GATEWAY",
+      "original_dataset": "On SMS Phishing Tactics and Infrastructure",
+      "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "license_status": "MIT_repository",
+      "version": "a4f18cedc9909cbf8234eea3c2028080a1e95cd4",
+      "sha256": "d125c394af792faeb2b71b3f7100cad3b4cece02aff78cb4ec1fb9e7db90f230",
+      "download_url": "https://raw.githubusercontent.com/wspr-ncsu/sms-phishing/a4f18cedc9909cbf8234eea3c2028080a1e95cd4/phishing_messages.csv",
+      "label_limitation": "README uses VirusTotal/APWG flags; not human message ground truth",
+      "schema_note": "Header has six names but rows have seven fields; first four ordinal fields verified; trailing metadata not interpreted; no pandas implicit index",
+      "attribution": "Nahapetyan et al., IEEE S&P 2024; Copyright (c) 2023 wspr-ncsu; MIT license retained.",
+      "input_rows": 68029,
+      "labels": {
+        "phishing": 68029
+      },
+      "financial_keyword_rows": 1197,
+      "unsafe_held": 0,
+      "decision": "CANDIDATES_ONLY_PENDING_MESSAGE_LABEL_REVIEW"
+    },
+    {
+      "source_id": "UCI-SMS",
+      "original_dataset": "UCI SMS Spam Collection",
+      "original_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection",
+      "license_status": "CC_BY_4_0",
+      "version": "original_archive",
+      "sha256": "1587ea43e58e82b14ff1f5425c88e17f8496bfcdb67a583dbff9eefaf9963ce3",
+      "download_url": "https://archive.ics.uci.edu/static/public/228/sms+spam+collection.zip",
+      "attribution": "Almeida T.; Hidalgo J. (2011). UCI SMS Spam Collection. DOI 10.24432/C5CC84. Modified by safe redaction.",
+      "input_rows": 5574,
+      "labels": {
+        "ham": 4827,
+        "spam": 747
+      },
+      "financial_keyword_rows": 27,
+      "unsafe_held": 0,
+      "decision": "BANK_NOTIFICATION_CONTROLS_ONLY_PENDING_REVIEW"
+    },
+    {
+      "source_id": "SMISHTANK",
+      "decision": "HOLD",
+      "original_url": "https://arxiv.org/abs/2402.18430",
+      "reason": "unresolved row-level rights/label provenance or training overlap; no new rows selected; previous registry evidence retained"
+    },
+    {
+      "source_id": "SMISHX",
+      "decision": "HOLD",
+      "original_url": "https://github.com/yizhu-joy/SmishX",
+      "reason": "unresolved row-level rights/label provenance or training overlap; no new rows selected; previous registry evidence retained"
+    },
+    {
+      "source_id": "SPAMHUNTER",
+      "decision": "HOLD",
+      "original_url": "https://github.com/opmusic/SpamHunter_dataset",
+      "reason": "unresolved row-level rights/label provenance or training overlap; no new rows selected; previous registry evidence retained"
+    },
+    {
+      "source_id": "SUPER-SMS",
+      "decision": "HOLD",
+      "original_url": "https://github.com/smspamresearch/spstudy",
+      "reason": "unresolved row-level rights/label provenance or training overlap; no new rows selected; previous registry evidence retained"
+    }
+  ],
+  "api_generation_calls": 0
+}

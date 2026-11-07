@@ -1,0 +1,33 @@
+﻿{
+    "pattern":  "\\b(pay|paid|paying|repay|repayment|withdraw|withdrawal|remit|remittance|funds|cheque|cash|money|dollars?|salary|wages|posb|dbs|uob|ocbc|atm|receipt|invoice|bill|bills)\\b|[$£€₹]",
+    "sources":  [
+                    {
+                        "source_id":  "nus",
+                        "path":  "external/SMISH_DT/Dataset/Singapore_smsCorpus_en_2015.03.09_all.json",
+                        "sha256":  "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+                        "novel_unique_lexical_candidates":  658,
+                        "raw_rows":  55835
+                    },
+                    {
+                        "source_id":  "mendeley",
+                        "path":  "external/SMISH_DT/Dataset/Mendeley_Dataset_5971.csv",
+                        "sha256":  "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+                        "novel_unique_lexical_candidates":  40,
+                        "raw_rows":  5971
+                    },
+                    {
+                        "source_id":  "uci",
+                        "path":  "external/SMISH_DT/Dataset/UCI_SMSSpamCollection",
+                        "sha256":  "55341228082b25b832a5868a5ab4b038142a57f70c676c123280af6ff457fe46",
+                        "novel_unique_lexical_candidates":  9,
+                        "raw_rows":  5574
+                    }
+                ],
+    "total":  707,
+    "defanging":  "URLs, emails, long digit sequences replaced; original hash only, no raw text exported",
+    "date":  "2026-11-07",
+    "algorithm":  "Expanded lexical scan; exclude prior v3 candidate and review IDs, spam labels, exact normalized prior safe_text; deduplicate normalized safe text; no sampling; no authenticity claims",
+    "ambiguous_native_ids_excluded":  [
+                                          "nus-18088: two distinct source texts; both removed"
+                                      ]
+}

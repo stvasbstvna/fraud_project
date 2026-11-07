@@ -1,0 +1,20 @@
+{
+  "status": "EVALUATED_EXPLORATORY_AVAILABLE_PAIRS",
+  "review_mode": "automated",
+  "rows": 20,
+  "primary_complete_cases": 0,
+  "threshold": 0.5,
+  "fit_calls": 0,
+  "frozen_data_sha256": "af6c3698d7e455eaacd75a7cd314f90064a1278914d878ec8d7783a1ec2cdac1",
+  "predictions_sha256": "704735d8760bd0452b62bbca08553990114d3c83fe056d83342ed055d792b23f",
+  "models": [
+    {
+      "path": "models/final/tfidf_logistic_regression.joblib",
+      "sha256": "84ba84863ce9a8fd757cd4e9babc6dacf39496223299a06df0054f94ca688fcc"
+    },
+    {
+      "path": "models/final/tfidf_random_forest.joblib",
+      "sha256": "99c4a06e7ad52ff000c0a1d8818ca61cdc268d929a1a970e79d74b6e0c38b4fc"
+    }
+  ]
+}

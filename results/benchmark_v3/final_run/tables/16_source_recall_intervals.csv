@@ -1,0 +1,4 @@
+model,TP,N,recall,ci95_low,ci95_high,scope
+LR,167,167,1.0,0.9781530791693882,1.0,conditional_source_phishing_recall_only
+RF,167,167,1.0,0.9781530791693882,1.0,conditional_source_phishing_recall_only
+ModernBERT,147,167,0.8802395209580839,0.8211133530553472,0.9252904463334453,conditional_source_phishing_recall_only

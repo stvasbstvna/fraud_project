@@ -1,0 +1,17 @@
+{
+  "confirmed_pair": [
+    "mendeley-334",
+    "mendeley-1361"
+  ],
+  "correction": "Conservatively unite payee-registration templates across names, optionalURNslot and security suffix.",
+  "evaluation_status": "all corrected results exploratory; already-inspected source pool is not a fresh confirmatory sample",
+  "model_hyperparameters": "UNCHANGED",
+  "old_files_overwritten": false,
+  "original_run_status": "INVALIDATED_FOR_CROSS_TEMPLATE_LEAKAGE",
+  "policy_checks": [
+    "mendeley-4",
+    "nus-5489"
+  ],
+  "robustness": "Reuse only unchanged approved stimuli whose frame IDs remain in corrected heldout; selection uses IDs/family membership only; rescore corrected models, never reuse original probabilities.",
+  "version": "v3.2-corrected-run"
+}

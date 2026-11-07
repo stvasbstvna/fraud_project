@@ -1,0 +1,4 @@
+| source_id | true_label | channel | banking_related | review_status | N |
+| --- | --- | --- | --- | --- | --- |
+| SYNTH-V21 | legitimate | sms | yes | pending | 187 |
+| SYNTH-V21 | phishing_scam | sms | yes | pending | 254 |

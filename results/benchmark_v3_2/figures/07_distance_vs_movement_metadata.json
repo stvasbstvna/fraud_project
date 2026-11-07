@@ -1,0 +1,35 @@
+{
+  "title": "Surface distance versus score movement (available pairs; exploratory)",
+  "research_question": "Do larger surface changes accompany larger score changes?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv",
+    "results\\benchmark_v3_2\\manipulation\\per_variant_distances.csv"
+  ],
+  "filters": "all approved available non-C0 pairs; exploratory association because primary complete cohort is empty",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 42,
+    "distinct_frames_in_data": 10
+  },
+  "models": [
+    "LR",
+    "ModernBERT",
+    "RF"
+  ],
+  "conditions": [
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Surface distance",
+  "y_axis": "Absolute phishing-probability movement",
+  "main_observation": "42 model-variant observations have surface distance; missing distances are omitted from marks.",
+  "allowed_interpretation": "The plot describes association, with repeated observations belonging to frames. When the primary cohort is empty, these are explicitly exploratory available-pair observations.",
+  "forbidden_interpretation": "Association is not causation; surface distance is not semantic distance. Available-pair observations are not complete-cohort inference.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

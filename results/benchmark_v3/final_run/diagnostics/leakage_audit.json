@@ -1,0 +1,10 @@
+{
+  "all228_prior_representatives_received_explicit_eligibility_audit": true,
+  "exact_cross_split": false,
+  "known_payee_template_united": true,
+  "labels": "automated, not independent human annotation",
+  "previous_runs_preserved_not_authoritative": true,
+  "source_holdout_origin_cross_split": false,
+  "status": "FINAL_SPLIT_VERIFIED_BEFORE_REFIT",
+  "template_cross_split": false
+}

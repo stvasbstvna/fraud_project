@@ -1,0 +1,22 @@
+{
+  "actual_call_rows": 261,
+  "baseline_files_changed": 0,
+  "baseline_historical_files": 1044,
+  "clinical_or_deployment_validation": false,
+  "evidence_index_cells_verified": 3510,
+  "figure_bundles": 12,
+  "modernbert_replay": {
+    "N": 26,
+    "matrix_sha256": "1390b12572da926595b34042f2c14d1c64117c414d8a4ebeb0808acbfd78f885",
+    "max_absolute_difference": 0.0,
+    "model_sha256": "7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43",
+    "new_fit_performed": false
+  },
+  "primary_tests_defined": 0,
+  "primary_tests_preregistered": 24,
+  "protected_file_list_unchanged": true,
+  "protected_final_v3_files": 118,
+  "run_output_hashes_verified": 105,
+  "scientific_primary_status": "NOT_RUN_PRIMARY_NO_COMPLETE_CASES_AVAILABLE_PAIRS_AVAILABLE",
+  "status": "PASSED_READ_ONLY_CONSISTENCY"
+}

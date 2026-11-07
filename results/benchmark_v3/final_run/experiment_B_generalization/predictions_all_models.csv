@@ -1,0 +1,952 @@
+id,template_family_id,source_id,origin_type,label,message_function,safe_text,model,probability,prediction,true_binary,model_sha256
+gateway-6354,V3-TF-160923029b4855603cd4,gateway,uncertain,phishing,payment,"truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",LR,0.6805593953583229,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17683,V3-TF-d3260468729b9e2e0ce1,gateway,uncertain,phishing,refund,"
+MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",LR,0.6751171172221758,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8787,V3-TF-29782509abc0760a7880,gateway,uncertain,phishing,payment,Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1],LR,0.6640534918516229,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2268,V3-TF-8ae465efcc89539f40c7,gateway,uncertain,phishing,transfer,CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1],LR,0.7039024777311177,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-9024,V3-TF-8d0798f22a1515854074,gateway,uncertain,phishing,account_security,regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1],LR,0.6890591541935339,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2424,V3-TF-2e114866d8b947ddbb74,gateway,uncertain,phishing,account_security,"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",LR,0.7036702052387204,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-1347,V3-TF-63753d011410e21f8f17,gateway,uncertain,phishing,account_restriction,"Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",LR,0.709292800488031,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-15899,V3-TF-b5a8cac0e5c4a3fbe033,gateway,uncertain,phishing,account_restriction,"
+41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54
+",LR,0.7084989764882681,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-34441,V3-TF-f8c5551048897acebd49,gateway,uncertain,phishing,payment,"
+To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]
+",LR,0.699823921438321,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-15505,V3-TF-fa6bcff85c4f33726345,gateway,uncertain,phishing,account_security,"[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",LR,0.7087475924494371,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8048,V3-TF-319601b18599cee9f87c,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]
+",LR,0.6826770841535813,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-9275,V3-TF-7df5392a8d33fe25dbb1,gateway,uncertain,phishing,account_restriction,[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.,LR,0.6994048658889915,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-13413,V3-TF-86194b187544745430f1,gateway,uncertain,phishing,account_security,[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1],LR,0.7166159736727394,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8251,V3-TF-376ea0d82d082e0314e0,gateway,uncertain,phishing,account_security,"
+7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]
+",LR,0.690344725014307,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-7774,V3-TF-445607a6d89a858bda77,gateway,uncertain,phishing,account_security,"
+Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.
+",LR,0.7077599005451777,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17578,V3-TF-8813ae57ebb7ee18d251,gateway,uncertain,phishing,refund,"
+74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.
+",LR,0.6913754471710999,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8085,V3-TF-622f000d2876a6095c94,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]
+",LR,0.6503838770034204,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17805,V3-TF-c8eb2d6b0c19d545f1e9,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]
+",LR,0.7171653399321711,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-67128,V3-TF-51f42d8596268ac11006,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN
+",LR,0.6831127410053603,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-12408,V3-TF-2ac52ee4191440f9230f,gateway,uncertain,phishing,verification,"Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",LR,0.6606972925674315,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-66616,V3-TF-e8669c42d4d7a1444c34,gateway,uncertain,phishing,verification,"
+UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP
+",LR,0.6965269388169144,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17724,V3-TF-c1ccef490f22070d9fb7,gateway,uncertain,phishing,account_security,"
+MyGov: The bank information in your MYGOV profile has been successfully changed. Not you? you can address this by going to [SAFE-URL-1]
+",LR,0.6750923355188387,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3215,V3-TF-d82e046aa0ede3ed17f5,gateway,uncertain,phishing,account_security,"PayPal:[Important] Dear Customer, Your PayPal password has been successfully changed. If you do not make this change, please contact us immediately. [SAFE-URL-1]",LR,0.6546923501597033,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17723,V3-TF-7b057e3ddc84e4d396a1,gateway,uncertain,phishing,account_security,"
+You've successfully updated your Centrelink bank information from your MYGOV profile. Not you? visit [SAFE-URL-1] to resolve.
+",LR,0.6725426062582665,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-633,V3-TF-a225162f2c42988d0f6d,gateway,uncertain,phishing,account_restriction,FROM BANK: Account is on hold confirm here within 5min: [SAFE-URL-1],LR,0.6666537022732227,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8998,V3-TF-bb00fdad0ef52749e059,gateway,uncertain,phishing,card,regions: Your debit has been deactivated due to concerning behavior. Go to [SAFE-URL-1] and follow the on screen instructions asap.,LR,0.67355162098163,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17484,V3-TF-551a0db81b15c4ca1f9c,gateway,uncertain,phishing,payment,"
+MyGov: Your payment could not be processed due to invalid information visit [SAFE-URL-1] to update
+",LR,0.6862570220168057,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-5682,V3-TF-4f81e553b0b03836617a,gateway,uncertain,phishing,account_restriction,[SAFE-EMAIL-1]  /  s  /  PAYPAL's  :  Restricted  Account.  For  more  information  check  at  [SAFE-URL-1]  /t395W7MH,LR,0.6696754706174445,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2468,V3-TF-03a392d1807371ad81b3,gateway,uncertain,phishing,card,"BofA [V2]: Due to recent fraudulent activity on your card,we have restricted your funds for your [SAFE-URL-1] here [SAFE-URL-2] to regain access.",LR,0.7075606909146216,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-13037,V3-TF-5775da1e69f704a7f9c4,gateway,uncertain,phishing,account_security,"On 11/8/2022 your Savings account was signed in from an unknown device iPhone [SAFE-URL-1] and Dispute [SAFE-URL-2] avoid your Account from being Frozen
+[SAFE-URL-3]
+WoodForest National Bank",LR,0.6833616644422523,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-187,V3-TF-9f304df860ffcda246b7,gateway,uncertain,phishing,account_restriction,"Your account has been limited due to a suspicious transaction, Please visit [SAFE-URL-1] reactivate",LR,0.7034447792993869,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16409,V3-TF-68dc59e8a588cd314204,gateway,uncertain,phishing,payment,"
+WellsFargoUS: A payment of 3456.76 has been attempted. Not you? Secure your account: [SAFE-URL-1]
+",LR,0.7039255434576345,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-1018,V3-TF-b5705ebb97016dfe1f62,gateway,uncertain,phishing,account_restriction,"CommBank:  We  have  temporarily  frozen  your  account  due  to  unusual  payment  requests,  please  visit  [SAFE-URL-1]  immediately.",LR,0.7098318745975447,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-45621,V3-TF-6198151f8a0d5e4fefce,gateway,uncertain,phishing,verification,"
+[email protected]m / TDMobileAlert ID#30419 / TD Bank Validate Your Login: [SAFE-URL-1] ID#19
+",LR,0.6952320548686423,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-195,V3-TF-3f959827dc3400da1622,gateway,uncertain,phishing,account_security,Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (Y),LR,0.7021942161548298,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2435,V3-TF-4d84790a1e85206271ce,gateway,uncertain,phishing,verification,Paypal: A new European regulation in force imposes an audit on us. Please verify within 48 hours via [SAFE-URL-1],LR,0.6941694881954298,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-5307,V3-TF-27cfa87027f676d9a989,gateway,uncertain,phishing,payment,[SAFE-EMAIL-1] / USP / Please confirm the payment of the home delivery costs (3.00 USD) in the following link: [SAFE-URL-1],LR,0.7032552816120947,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17727,V3-TF-7475dcd13db68ea63627,gateway,uncertain,phishing,refund,"
+Update your profiIe to proceed with your refund of $30,560 AUD. CIick [SAFE-URL-1] to complete the process
+",LR,0.7209251596143712,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2300,V3-TF-c7f748e90e182d006096,gateway,uncertain,phishing,transaction,lNG Push Notification : A new Payment of $800 has been made in Bedford. Confirm if this was you at: [SAFE-URL-1],LR,0.6719240647844786,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-15719,V3-TF-046157da40c5c8fee1f3,gateway,uncertain,phishing,transfer,"Y=ou rece tly s,et up new recipients via mobile banking on 12/08/22. If this was NOT you, please visit: [SAFE-URL-1]",LR,0.6627654677407486,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-5344,V3-TF-9cdc6ee438f14b404207,gateway,uncertain,phishing,transaction,Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction [0000],LR,0.6687757530510346,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-740,V3-TF-7c06310589757b50694f,gateway,uncertain,phishing,account_restriction,"Due to ssecurity procedures, your account has been blocked; to immediately unblock your account, please visit: [SAFE-URL-1]",LR,0.7135435566978544,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-67127,V3-TF-f7ed6b1cb26172debf12,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1]
+",LR,0.695617617317458,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-4963,V3-TF-7f44c8f52fed294e8f21,gateway,uncertain,phishing,payment,Citi: Your $649.00 payment to monteral marquez using Zelle(R) is being processed visit [SAFE-URL-1] to verify or cancel payment anytime,LR,0.6660079168896402,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8084,V3-TF-ebb708edfa6a3eb31179,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction of 6234$ has been attempted on your account. if you do not recognise please access [SAFE-URL-1]
+",LR,0.6655819587657369,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-1487,V3-TF-81b359c9f15642c2583c,gateway,uncertain,phishing,credential_request,BOA BANK: TO REGAIN ACCESS YOUR ACCOUNT FOLLOW HERE [SAFE-URL-1] AND CONFRIM YOUR DC PIN,LR,0.6902511935331369,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3219,V3-TF-1f6b4eb2dc88cab00720,gateway,uncertain,phishing,account_restriction,"Secure Veridian Credit Union Msg: We detect an unusual login attempt on your account, we forcibly suspend your access temporarily freeze your funds and reject any pending deposits. Visit [SAFE-URL-1] to restore your account.",LR,0.7016033623017605,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-13383,V3-TF-07da9eba6b19c74480ec,gateway,uncertain,phishing,account_security,"PayPal: Your account has been flagged due to an unauthorised sign-in attempt. If this was not you, verify via: [SAFE-URL-1]",LR,0.700870769870665,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17749,V3-TF-74ed368de3083cdeb436,gateway,uncertain,phishing,payment,"
+You have sold the goods! Receiving payment: [SAFE-URL-1]
+",LR,0.6883979864507201,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8125,V3-TF-5b6452501d01e999176d,gateway,uncertain,phishing,banking_app,"
+A new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (X)
+",LR,0.6620446982366757,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2431,V3-TF-46dc4785795c7267a051,gateway,uncertain,phishing,account_restriction,TRUIST[ALERTS]: YOUR CHECKING ACCOUNT IS BLOCKED VISIT HERE TO UNBLOCK: [SAFE-URL-1],LR,0.6984510843521778,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8082,V3-TF-cf55056d1a5564854e05,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction on your account. Please verify here [SAFE-URL-1] route:2
+",LR,0.689792232892201,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17770,V3-TF-a4ee2c4d1dd59f810cb2,gateway,uncertain,phishing,refund,"
+Your refund is ready to be claimed and you have a pending profile update visit [SAFE-URL-1] to lodge claim.
+",LR,0.6924061203151484,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-38759,V3-TF-c27bd7e61301e7ba99bd,gateway,uncertain,phishing,payment,"
+Sign up for brightwheel: [SAFE-URL-1] SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-2] . incase of any question SHAHID has invited you to brightwheel! Create your account using the unique invite link above. Reply STOP to unsubscribe.
+",LR,0.7060215012256887,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8212,V3-TF-b9b0c55f886542941783,gateway,uncertain,phishing,account_security,SANTANDER: A login attempt from a new device has been flagged. Please secure your account: [SAFE-URL-1],LR,0.701517108914428,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2089,V3-TF-9bb832b42615849395fb,gateway,uncertain,phishing,card,NOTICE -982735 FROM:CHASE-0NLINE: YOUR CARD IS TEMPORARY LOCKED! VISIT: [SAFE-URL-1] TO UNLOCK,LR,0.668800462602201,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17701,V3-TF-b69fa9ba569371935bfa,gateway,uncertain,phishing,refund,"
+Your fund is available. You can access your refund online for 9780.78 AUD; To claim sign [SAFE-URL-1] MyGov team, thank you.
+",LR,0.6974350801755658,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2334,V3-TF-fea684b20dede004ca19,gateway,uncertain,phishing,card,Truist ONLINE : we have placed a hold on your debit card. Please prove your identity to unlock it : [SAFE-URL-1],LR,0.6834995552018994,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3419,V3-TF-1bfc1242038e6804005c,gateway,uncertain,phishing,transaction,"Your Bendigo account has been debited by an unauthorized transaction in the amount of ¤573.68. No, you? Visit: [SAFE-URL-1]",LR,0.6709995975492821,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8854,V3-TF-f711971cf97fcb51f415,gateway,uncertain,phishing,account_security,[email protected]  /  SouthState:  /  Online  access  to  your  account  has  been  blocked  for  security  reasons.  Visit  [SAFE-URL-1]  to  reactivate  your  account.,LR,0.700825664617933,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17852,V3-TF-90d8e03eced59d2292ed,gateway,uncertain,phishing,refund,"
+You have an unresolved issue on your ato refund click here [SAFE-URL-1]
+",LR,0.7059751408846309,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3192,V3-TF-7befd1fc8ae467438fa1,gateway,uncertain,phishing,transfer,<M&T> Zelle transfer of 150.00 to dave was stopped! it is a sign of identity theft. Tap [SAFE-URL-1] To Opt-out 4863 ,LR,0.7009136164688607,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-14731,V3-TF-df9e3d10aa49abc373e4,gateway,uncertain,phishing,payment,"
+Netflix : Dear client Your account is on holding Unfortunately, we have not been able to resolve the issue with your payment:[SAFE-URL-1]
+",LR,0.6784789506495675,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17775,V3-TF-e1d086179a3d3363a399,gateway,uncertain,phishing,refund,"
+Your refund is ready to be claimed and a recent change was just made on your MYGOV portal visit if you didn't make the change [SAFE-URL-1]
+",LR,0.6742405599654823,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2237,V3-TF-b96c48612e7bc8fe5885,gateway,uncertain,phishing,account_restriction,"FRM: *Summit CU*
+MSG:*********9643** Your Account is Blocked
+To unlock click here [SAFE-URL-1] to regain access.",LR,0.709702796374224,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17620,V3-TF-d7bd8cb6bb9fc3d68c50,gateway,uncertain,phishing,refund,"
+We need more records to substantiate your claimed refund , kindly verify at [SAFE-URL-1] avoid being sanctioned.
+",LR,0.6979266239942811,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2193,V3-TF-6988518a9803c05d1dfe,gateway,uncertain,phishing,account_restriction,"Commbank: We have noticed suspicious activity on your Mobile Banking, we have temporarily locked your account. To re-activate visit: [SAFE-URL-1]",LR,0.7041143211355056,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2146,V3-TF-76dcce71660eda9441b0,gateway,uncertain,phishing,payment,A payment has been attempted for 6000$ if you do not recognise please access [SAFE-URL-1] (U6),LR,0.6465665276159941,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2357,V3-TF-c2a7226fab72b2ec8e31,gateway,uncertain,phishing,transaction,A recent payment has been flagged on our system through Netbank. For the next steps please visit: [SAFE-URL-1],LR,0.6760662953084285,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8040,V3-TF-87fcf49cfbc267c94681,gateway,uncertain,phishing,payment,"
+MTB Alert : New ACH payment added. visit [SAFE-URL-1] to remove or proceed
+",LR,0.6824576418824364,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-14354,V3-TF-9c81af22cf687e331f24,gateway,uncertain,phishing,account_restriction,"Wells Fargo Bank: We have frozen your online access due to failed login attempts from a new device. To reinstate, click here [SAFE-URL-1]",LR,0.7096307602880794,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2387,V3-TF-a15b6017763428a7d04f,gateway,uncertain,phishing,transaction,Affiliate There was an attempted transaction of 93 on your account to the company Amazon. If this was NOT you visit [SAFE-URL-1],LR,0.6789216375731224,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8886,V3-TF-562c691dee7babc796b4,gateway,uncertain,phishing,account_security,Wells-Fargo : Account Suspended. Please verify your Iden***y by signing into your account at [SAFE-URL-1],LR,0.690560610059142,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17562,V3-TF-76da79faac3641348e73,gateway,uncertain,phishing,refund,"
+MyGov Alert: Your Refund has been approved. Your available balance is now 36272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",LR,0.6882852453314636,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17608,V3-TF-9f8783b338df019eb9eb,gateway,uncertain,phishing,payment,"
+DHL Messages AWB: 596255** Requires Payment of Customs Duties, 06/12/22 - Customs Status Updated - DUBLIN, IRELAND - [SAFE-URL-1]
+",LR,0.6948571888988495,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-63,V3-TF-71f333de06514bf359d7,gateway,uncertain,phishing,account_security,"[email protected]   /   M&T   Bank   /   M&T   (#716187):   For   security   reasons,   We   have   Iocked   your   account.   Please   visit   [SAFE-URL-1]   to   verify   your   details   and   unlock   your   account   or   call   us.",LR,0.6889343778471684,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-74,V3-TF-5cc07d22f043befd0cd3,gateway,uncertain,phishing,card,CommB: A transaction was performed using your debit card. You can secure or cancel request at [SAFE-URL-1] route:5,LR,0.6427417945415569,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2177,V3-TF-813726a46ee14466bab6,gateway,uncertain,phishing,fraud_alert,"This is a fraud alert!Possible unauthorised access to your online banking. Please confirm your Account. For advice,visit [SAFE-URL-1]",LR,0.6771771389625738,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16431,V3-TF-fbec1c01aa5db07f4988,gateway,uncertain,phishing,payment,"
+Your package is waiting for tax payment,Please Pay(1.75)JOR to receive [SAFE-URL-1]
+",LR,0.6767165512574607,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2271,V3-TF-512c6ebc601fd7e83579,gateway,uncertain,phishing,transaction,"CITI- Your payment of $200.99 approved, if this wasn’t you cancel at: [SAFE-URL-1] ",LR,0.684685757123637,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-1385,V3-TF-9efe403b4eb5994dad17,gateway,uncertain,phishing,account_restriction,your  account  has  been  suspended  due  to  expired  identity  information.  restore  after  authentication  information:  [SAFE-URL-1],LR,0.7049001402621056,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3877,V3-TF-cae85ea7db3ee9b4b854,gateway,uncertain,phishing,transaction,eva   A   debit   authorisation   of   $327.68   has   been   processed   on   your   mobile   banking.   Not   you?   visit:   [SAFE-URL-1],LR,0.6769654521575977,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-12554,V3-TF-2625826f9f77e6325d24,gateway,uncertain,phishing,transaction,"FNBO  ALERT  :  A  CHK  withdrawal  of  $334.87  has  been  charged  on  your  account  made  on  11/04/2022  ,  visit  [SAFE-URL-1]  to  cancel  payment.",LR,0.6915971565407912,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-7996,V3-TF-34cb1d0d7c86dea7ce65,gateway,uncertain,phishing,account_restriction,"
+s8 Your account is temporarilyrestricted. Please confirm to restoreaccess: [SAFE-URL-1]
+",LR,0.6821264676006276,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-13621,V3-TF-86df914db43e53003f69,gateway,uncertain,phishing,transaction,FIFTH   THIRD:$20.30   zelle   transaction   is   pending   on   your   account   click   this   link   [SAFE-URL-1]   to   stop   the   transaction   and   secure   your   account,LR,0.6870919005567434,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-4095,V3-TF-302664fc535f739f7747,gateway,uncertain,phishing,payment,"Apple pay has been temporarily suspended. To continue using contactless payment vist lInk below.
+[SAFE-URL-1]",LR,0.7014866773334268,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2087,V3-TF-6febb5de322b698e6ea4,gateway,uncertain,phishing,card,"A Unknown Transaction Has Been Made With Your Mastercard, Please Confirm If This Was You At [SAFE-URL-1]",LR,0.6516858667048537,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17705,V3-TF-8c58d732722933263526,gateway,uncertain,phishing,account_restriction,"
+Your chase account is suspended due to fraud. To unsuspend go to: [SAFE-URL-1]
+",LR,0.6918104667702918,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3393,V3-TF-1fd621080ad36e58e3dc,gateway,uncertain,phishing,transaction,An amount of $327.68 has been deducted from your bank account. Not you? visit: [SAFE-URL-1],LR,0.6923478255615785,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17793,V3-TF-51bfdfc2432970f48bca,gateway,uncertain,phishing,payment,"
+NEW AU-MYGOV: Review Your Account For Payment To Process... visit [SAFE-URL-1]
+",LR,0.6845125257801484,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8373,V3-TF-f557495421bb56e08f5c,gateway,uncertain,phishing,fraud_alert,"
+SANTANDER: Confirmation. You recently set up a new payee on 23/09. If this was NOT you, please visit: [SAFE-URL-1]
+",LR,0.6471866873465896,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16110,V3-TF-a606c35b6c8b8f68fbbc,gateway,uncertain,phishing,transaction,"
+R1 Hi, we've detected an auto debit for $1258.95 on your account to M Kudus on 12-18. Not expecting this [SAFE-URL-1] (G)
+",LR,0.6759189155367014,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-10597,V3-TF-8b96266f40edd9040c0f,gateway,uncertain,phishing,payment,Sky: We have been unable to take payment for your most recent bill. Please update your information to avoid extra charges: [SAFE-URL-1],LR,0.6967932429591771,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17622,V3-TF-766a2e768af78ca4dbe6,gateway,uncertain,phishing,refund,"
+MYGOV ALERT: Approval of Your Refund Requires Authorization. Your balance is currently 35272.32 AUD. To approve your funds, go to [SAFE-URL-1]
+",LR,0.7029263938897551,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17695,V3-TF-0e499b874e7b68a651ef,gateway,uncertain,phishing,refund,"
+Our system indicates that you are eligible for this payment. Please submit a claim as soon as possible for your 14303.88 AUD refund here; [SAFE-URL-1]
+",LR,0.6931641808217002,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3573,V3-TF-b55c4a98d242826a8705,gateway,uncertain,phishing,payment,"West-Pac:  A  payment  has  been  setup  on  05/08  to  MIKE  ROSS,  if  this  was  not  you  please  continue  here:  [SAFE-URL-1]  to  cancel.",LR,0.6803793717384559,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17841,V3-TF-40cad4219f2455a966cc,gateway,uncertain,phishing,refund,"
+You have a pending issue on your Centerlink , click on the [SAFE-URL-1] link to get it resolved and get your ATO refund of AUD 7,264 .
+",LR,0.701462622151516,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2439,V3-TF-4960abbfe72bbf2d4707,gateway,uncertain,phishing,transfer,"LIoydsbank : You have successfully added a new payee via mobile banking at 15:05PM. If this WAS NOT you, please visit: [SAFE-URL-1]",LR,0.6615505229382221,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17742,V3-TF-4753b37cb184a8e56fef,gateway,uncertain,phishing,financial_service,"
+Update your MyGov details to receive payment click: [SAFE-URL-1] stainless
+",LR,0.707124190810144,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17625,V3-TF-dd09b1d9488e27da6917,gateway,uncertain,phishing,account_restriction,"
+{ MYG0VAU } Annual upgrade in progress and Account is restricted please visit [SAFE-URL-1] to restore Account now
+",LR,0.6779250407464777,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-5360,V3-TF-786da99ad3f1c1aacafe,gateway,uncertain,phishing,account_restriction,[SAFE-EMAIL-1] / Alerts!!! / Your RBFCU Online Banking has been restricted Action required: [SAFE-URL-1],LR,0.7057210852395258,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3013,V3-TF-589b376ef4df68b34e8d,gateway,uncertain,phishing,transaction,BendigoBank:   Payment   authorised   of   '$82.31'   to   KIERAN   TIERNEY.   If   this   was   not   you   visit:   [SAFE-URL-1],LR,0.6821174966032486,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-15193,V3-TF-66e6d629f3e8f2c72a4c,gateway,uncertain,phishing,account_security,"
+"" CommAlert: A New device has been registered for mobile banking. If this was NOT you, Immediately Deregister via [SAFE-URL-1] ""
+",LR,0.6748585633817692,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3499,V3-TF-6912208849e3348f5d6a,gateway,uncertain,phishing,payment,"Bendigo: A payment of $5400 has been setup, to confirm or cancel your payment please login: [SAFE-URL-1]",LR,0.6737079966738645,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2195,V3-TF-fc6ca126e7d10c46fbdb,gateway,uncertain,phishing,transfer,"ANZ: Your ANZ internet banking sent a new PayID request to MR A KHAN. Unless you specifically requested otherwise, please go to: [SAFE-URL-1]",LR,0.7036910877407344,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-1112,V3-TF-361de3ffa852f46205ad,gateway,uncertain,phishing,card,"17930ssXX   ALERT:   Your   card   has   been   blocked   due   to   suspicious   activity,   if   this   was   a   mistake   please   visit:   [SAFE-URL-1]   in   order   to   reactivatecoding=0",LR,0.6998177304772735,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-50334,V3-TF-1cdc925290a0d483da2d,gateway,uncertain,phishing,account_security,"
+800-951-8418TD#[email protected] / (URGENT) TD#ID00914 / TD Bank#09-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]
+",LR,0.6960124331279854,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3010,V3-TF-62436154626b2646afe0,gateway,uncertain,phishing,transaction,BendigoBank:  Payment  authorised  of  $86.45  to  Joseph  Parker.  If  this  was  not  you  please  visit:  [SAFE-URL-1],LR,0.6729331879238637,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17831,V3-TF-85f02d18cb8033d32f72,gateway,uncertain,phishing,refund,"
+Update!!! Your tax profile was successfully linked. Visit [SAFE-URL-1] to find out more. to authorize your payments and ask for a refund.
+",LR,0.7049473401367515,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3198,V3-TF-cf760c797d7e29d2783e,gateway,uncertain,phishing,refund,ATO: you are entitled to a tax refund. Complete the refund on our website: [SAFE-URL-1],LR,0.7182647700717834,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17834,V3-TF-1b3b227ab71a510436f1,gateway,uncertain,phishing,refund,"
+[Alert] : Your MYgov payment is ready for claim. Visit [SAFE-URL-1]
+",LR,0.6770352536355405,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-66144,V3-TF-7830d5578e572d817f9a,gateway,uncertain,phishing,transaction,"
+3601ING: A suspicious transaction has been placed on hold. Please visit [SAFE-URL-1] to review this payment.
+",LR,0.6777844449870926,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17735,V3-TF-4d19d94a8be7a36b970f,gateway,uncertain,phishing,refund,"
+ATO: Congratulations! your pending refund has been approved and your balance is now $22,844.05. Visit: [SAFE-URL-1] to authorize
+",LR,0.6639366952946055,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-68026,V3-TF-1548f8b7a396972f3a97,gateway,uncertain,phishing,verification,"[SAFE-EMAIL-1] / Zelle Detected / Please, log in to [SAFE-URL-1] and verify your latest zelle payment. This is an automated alert",LR,0.6812098286802002,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-204,V3-TF-902e2a7f1c2b510df83f,gateway,uncertain,phishing,transaction,"You have attempted to authorize a new direct debit on 06/05 to J Matthews. If you do NOT recognize this, please visit: [SAFE-URL-1]",LR,0.6558665930326245,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3011,V3-TF-6c9dd99d957b8bc34beb,gateway,uncertain,phishing,transaction,"Bendigo:  A  payment  was  sent  to  'BARRY  SMITH'  at  10:45AM  for  $61.99.  Was  this  you?  If  it  was  not  you,  visit  [SAFE-URL-1]",LR,0.661189325970154,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17799,V3-TF-5cfc5f8bccc94f14b322,gateway,uncertain,phishing,refund,"
+Your Medicare claims and payment are now available for filing and disbursement. To complete, visit [SAFE-URL-1]
+",LR,0.6609910885628122,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2330,V3-TF-68643a07fbd13b36a040,gateway,uncertain,phishing,card,BOA ALERT: PLEASE CONFIRM YOUR DEBIT CARD AND PIN HERE : [SAFE-URL-1],LR,0.6566476202575501,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-49333,V3-TF-2dd1655921d31457af1e,gateway,uncertain,phishing,refund,"
+my-Gov: Our algorithm determined that you are eligible for a refund of 52669. You can request your refund at [SAFE-URL-1]
+",LR,0.7056632923817302,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17495,V3-TF-5834cdac7fc12adfaa6a,gateway,uncertain,phishing,refund,"
+MyGov:You just received a credit of $1,924.89 AUD to accept payment click [SAFE-URL-1] Now.
+",LR,0.697261962122372,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-67788,V3-TF-3e6b82d9f2c64a39aa1e,gateway,uncertain,phishing,card,[SAFE-URL-1] / WellsFargo Alrt / Your debit card was locked. Please follow the link to unlock [SAFE-URL-2],LR,0.6910497503261597,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2116,V3-TF-f63aa090844e8ea4307f,gateway,uncertain,phishing,card,An Unauthorised Transaction was performed using your Commbank Visa/Debit card. Please visit [SAFE-URL-1] to Authorise or Cancel this request.,LR,0.6587769575683524,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17684,V3-TF-9a575433ce41fe6582d1,gateway,uncertain,phishing,account_restriction,"
+Your account has been restricted due to suspicious activity. To resolve the issue click on [SAFE-URL-1]
+ ",LR,0.7098159494460454,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-60016,V3-TF-7b74316add5536bdaf70,gateway,uncertain,phishing,account_security,"[email protected] / Support / Account locked , unlock now at : [SAFE-URL-1]",LR,0.6758063863023377,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-15797,V3-TF-3ccd36c7491308497f24,gateway,uncertain,phishing,account_restriction,"
+Bendigo Bank: Your account has been suspended. Please visit: [SAFE-URL-1] Bendigo Security Team.
+",LR,0.7244609543704402,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-67491,V3-TF-299654412cb6a5a38a3b,gateway,uncertain,phishing,payment,"
+Ntflx : Subscription automatic debit failed. Log in to update your information via: [SAFE-URL-1]
+",LR,0.6945011893735047,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17529,V3-TF-48d6935d130d6d6a75b0,gateway,uncertain,phishing,refund,"
+A payment of $5,045.00 is awaiting verification. To get started with accessing your state and federal returns. Visit [SAFE-URL-1]
+",LR,0.6682130713214748,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2145,V3-TF-1936d4777b773b69c303,gateway,uncertain,phishing,verification,INGBank Alert Notification: We need you to confirm if this payment just made was really you. Visit [SAFE-URL-1] and follow instructions.,LR,0.6646145277924325,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-38758,V3-TF-c06056b77a966cf342a1,gateway,uncertain,phishing,payment,"
+SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-1] . incase of any question SHAHID has invited you to make online payments. Login to brightwheel to get setup. Reply STOP to unsubscribe.
+",LR,0.6909523934676958,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16392,V3-TF-fc4f877d78164795ed5a,gateway,uncertain,phishing,account_restriction,"
+[M&T Bank] Your account has been temporarily disabled. Please login again to regain access . [SAFE-URL-1]
+",LR,0.7139730653008848,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-13622,V3-TF-b3f0be606192f40f5a46,gateway,uncertain,phishing,verification,"CACU: Multiple failed ATTEMPTS, Confirm transaction by clicking [SAFE-URL-1] we worry about any threats to your data security.",LR,0.6472378752652136,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17642,V3-TF-bdd14e7fd707f750c934,gateway,uncertain,phishing,account_restriction,951842 Your Account .has been suspended Due to Some security reasons please VERIFY your information Now clik here [SAFE-URL-1],LR,0.7156549306485075,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2525,V3-TF-b7b114492854baa24966,gateway,uncertain,phishing,transaction,"Bendigo: A payment was made of '$90.99' to a new payee 'RYAN TAYLOR' just now. If you did NOT make this, please visit: [SAFE-URL-1]",LR,0.6828988842780795,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-60564,V3-TF-4be63b83edc280a615c4,gateway,uncertain,phishing,verification,[email protected] / TD Bank Alert / Verify your online bank account now at : [SAFE-URL-1],LR,0.6832937947120774,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2346,V3-TF-1c24a4952fb0fba47c26,gateway,uncertain,phishing,payment,COMMBANK: We have temporarily put a hold on recent payment. For the next steps please follow our link [SAFE-URL-1],LR,0.6912665509772483,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17464,V3-TF-44778f22a41b9c254bb5,gateway,uncertain,phishing,transaction,"
+NET-Commonwealth: Transaction made at MEL and remitted to DWFinance. If this was not you?, Visit [[SAFE-URL-1] to cancel activity #V747
+",LR,0.6630660865180954,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3881,V3-TF-dbd05521e3605ad3199d,gateway,uncertain,phishing,fraud_alert,eva Bendigo Bank: URGENT action required due to a suspicious withdrawal of $1099.21 to M BAXTER. Visit [SAFE-URL-1] to prevent this action.,LR,0.7109227209863183,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-539,V3-TF-071eb747914ba20b6e85,gateway,uncertain,phishing,payment,"ANZ: you have set up a new payment to MR C JONES. If this was not you, please visit: [SAFE-URL-1] route:3",LR,0.6641094232349388,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2340,V3-TF-56154583131044848ddd,gateway,uncertain,phishing,fraud_alert,Alert: Suspicious transaction has been detected on your account. Please visit [SAFE-URL-1],LR,0.6899253236087363,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2526,V3-TF-cbe82c459f3a1412b76d,gateway,uncertain,phishing,transaction,"Bendigo: A payment was made of '$90.99' to RYAN TAYLOR just now. If you didn't make this transaction, block it here: [SAFE-URL-1]",LR,0.6930338482225836,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-13410,V3-TF-6fa71a1e64071fca0577,gateway,uncertain,phishing,card,CA  Prepaid  Debit  :  You  are  required  to  reactivate  your  CA  prepaid  starting  4427**  at  [SAFE-URL-1]  to  avoid  loss  of  bals.,LR,0.6906515479654525,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3373,V3-TF-da75fc63428e2105d01c,gateway,uncertain,phishing,transaction,"An amount of 348.93$ has been debited from your mobile banking, Not you? Visit: [SAFE-URL-1]",LR,0.673704880152187,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2111,V3-TF-f30dea4611be60445f15,gateway,uncertain,phishing,card,An Unauthorised Transaction was done with the use of your Commbank Visa/Debit card. Please go to [SAFE-URL-1] to Authorise or Cancel this request. route:3,LR,0.6645321699700973,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-4073,V3-TF-67f12a0be416b2bdc0dd,gateway,uncertain,phishing,refund,You  have  an  outstanding  refund  From  MyGov.  Your  refund  is  available  online  :701.98  AUD  To  accept  this  online  payment  go  to:  [SAFE-URL-1],LR,0.6997436903085448,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2874,V3-TF-386c48d1a0e904bf2200,gateway,uncertain,phishing,payment,"Bendigo: You've scheduled a payment of '$58.85' to 'JOE BROOKE' on 22/07. Is this recognisable? If NOT, please visit: [SAFE-URL-1]",LR,0.6574226504988087,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-36662,V3-TF-78fcd29e19970ab21557,gateway,uncertain,phishing,payment,"
+Payment in the amount of 50.00 CAD was sent to you. Get it by the e-transfer here: [SAFE-URL-1]
+",LR,0.6980936876892107,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17585,V3-TF-469f06a0a21c2e85db71,gateway,uncertain,phishing,transfer,"
+[Veridian_CU]: A transfer was requested to debit $665.66 on 11/8/22 via ACH/checking ref #6473. If not you, visit [SAFE-URL-1] to cancel.
+",LR,0.6620848529949652,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-8429,V3-TF-b43512cad7f74dacf457,gateway,uncertain,phishing,account_security,"
+[WELLS’Alert] : New ACH account linked. visit [SAFE-URL-1] to remove or proceed with payment.
+",LR,0.6736693620307437,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-24241,V3-TF-62b264679af05499704f,gateway,uncertain,phishing,transaction,"
+A payment of ?387.62 has been attempted on 13/04 at 09:15AM from a new device. If this was NOT you, please cancel via: [SAFE-URL-1] route:2
+",LR,0.6660067227342348,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-5376,V3-TF-d097a6ffe8666cad5e4a,gateway,uncertain,phishing,payment,"BENDlGO: A payment has been setup on 15/08 to MlKE ROSE, if this was not you please continue here: [SAFE-URL-1]",LR,0.6755546767068429,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17553,V3-TF-f3f75deb6db482da14a9,gateway,uncertain,phishing,refund,"
+You have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1] t1
+",LR,0.7039444296229336,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-1688,V3-TF-394c9f40f94416956c6a,gateway,uncertain,phishing,account_restriction,[email protected]  /  Your  Account  Has  Been  Locked  /  CITI_SERVICE  #27150:  Your  account  access  has  been  limited  due  to  fraudulent  activity.  Please  visit  [SAFE-URL-1]  to  unlock  your  account.,LR,0.7143856735851445,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-30,V3-TF-fa848cf03e2061bf258f,gateway,uncertain,phishing,account_security,PayPal:  Your  account  has  been  limited  because  we  detected  unusual  sign  in  activity  on  your  account  with  CASE-ID#PP-L-3037638964536.  Check  now  and  login  to  verify:  [SAFE-URL-1],LR,0.6903033937755468,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2211,V3-TF-f8e1cec7d3fc6e2adf1a,gateway,uncertain,phishing,card,"Your debit card has been deactivated for your security. Not expecting this?. Visit [SAFE-URL-1] to review the activity.
+",LR,0.6752222536302313,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-14,V3-TF-feed473e040af2b4b129,gateway,uncertain,phishing,card,An unauthorised transaction was performed using your PTSB Visa Card. You can Authorize or Cancel this request at:[SAFE-URL-1],LR,0.646618800772872,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17569,V3-TF-8eb89a9e22e2b5b7eddf,gateway,uncertain,phishing,account_restriction,"
+Your account as been restricted please Visit [SAFE-URL-1]
+",LR,0.7057315124758625,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16315,V3-TF-616466256e4a887fcf41,gateway,uncertain,phishing,payment,"
+489817 Wells Fargo: A payment of $216 was placed on hold to APPLE. Please visit [SAFE-URL-1] to review this payment
+",LR,0.6807211094152283,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-5533,V3-TF-3479305b7b3967369a56,gateway,uncertain,phishing,verification,We have but a block on your C1tizen 0nline Banking acc0unt due to Unusual Activity. Kindly l0gin to verify your info at [SAFE-URL-1],LR,0.6947820782635156,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16333,V3-TF-ee0f3aef7c6e40a5254d,gateway,uncertain,phishing,account_security,"
+79BendigoBank: Your new PayID: Samir Khan, was set up on mobile banking on 28/12/22 if this was not you please visit: [SAFE-URL-1]
+",LR,0.6520289715884992,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-16180,V3-TF-8b31c5372c8c40575175,gateway,uncertain,phishing,account_security,"
+Notice-4536from WellsFargo-Bank: Your account has been temporarily locked for security reason, Please contact us now at [SAFE-URL-1]
+",LR,0.6856537707290138,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17811,V3-TF-1002b1ab57ef17eaa4dc,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your Account information now to claim your refund [2023]. Kindly visit [SAFE-URL-1]
+",LR,0.718119111036425,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17802,V3-TF-0cf7ebca50e0e4f32d06,gateway,uncertain,phishing,refund,"
+We determine you are entitled to receive this payment. Your refund is 6980.85 AUD. Go to [SAFE-URL-1] quickly to claim MyG0V Team.
+",LR,0.7113049964437463,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-318,V3-TF-e4c9e7e4ca5aa642c9c1,gateway,uncertain,phishing,account_security,"Your   account   has   been   suspended   due   to   multiple   failed   login   attempts.   To   unblock   your   account,   please   visit:   [SAFE-URL-1]",LR,0.721394308962596,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17842,V3-TF-9f83f89c57e1c601c33a,gateway,uncertain,phishing,refund,"
+You are eligible for a Tax Refund of 19,057 , click on this link to authenticate your account [SAFE-URL-1] and receive your refund .
+",LR,0.7197947181371634,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-2131,V3-TF-1cc5b185536c81251b18,gateway,uncertain,phishing,transaction,A transaction was made from your account to an international account please visit [SAFE-URL-1] to verify if this was you.,LR,0.687201830026538,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-17482,V3-TF-6dd331a572f8bc020650,gateway,uncertain,phishing,payment,"
+Pending ATO payment, Resolve now to get payment at [SAFE-URL-1]
+",LR,0.6606718377246844,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-3786,V3-TF-2587390b803e034c1c29,gateway,uncertain,phishing,fraud_alert,Your bendigo account has been debited $1097 from an unusual location. If you did not authorise this transaction please visit [SAFE-URL-1],LR,0.6790748725102226,1,1,f0f5aeda3fabd3c68807e599d7228b53c412111e01442783ac26b1ade24037c2
+gateway-6354,V3-TF-160923029b4855603cd4,gateway,uncertain,phishing,payment,"truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17683,V3-TF-d3260468729b9e2e0ce1,gateway,uncertain,phishing,refund,"
+MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",RF,0.825,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8787,V3-TF-29782509abc0760a7880,gateway,uncertain,phishing,payment,Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1],RF,0.805,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2268,V3-TF-8ae465efcc89539f40c7,gateway,uncertain,phishing,transfer,CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1],RF,0.91,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-9024,V3-TF-8d0798f22a1515854074,gateway,uncertain,phishing,account_security,regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1],RF,0.91,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2424,V3-TF-2e114866d8b947ddbb74,gateway,uncertain,phishing,account_security,"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",RF,0.9,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-1347,V3-TF-63753d011410e21f8f17,gateway,uncertain,phishing,account_restriction,"Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-15899,V3-TF-b5a8cac0e5c4a3fbe033,gateway,uncertain,phishing,account_restriction,"
+41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54
+",RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-34441,V3-TF-f8c5551048897acebd49,gateway,uncertain,phishing,payment,"
+To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]
+",RF,0.95,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-15505,V3-TF-fa6bcff85c4f33726345,gateway,uncertain,phishing,account_security,"[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8048,V3-TF-319601b18599cee9f87c,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]
+",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-9275,V3-TF-7df5392a8d33fe25dbb1,gateway,uncertain,phishing,account_restriction,[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.,RF,0.85,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-13413,V3-TF-86194b187544745430f1,gateway,uncertain,phishing,account_security,[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1],RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8251,V3-TF-376ea0d82d082e0314e0,gateway,uncertain,phishing,account_security,"
+7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]
+",RF,0.885,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-7774,V3-TF-445607a6d89a858bda77,gateway,uncertain,phishing,account_security,"
+Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.
+",RF,0.97,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17578,V3-TF-8813ae57ebb7ee18d251,gateway,uncertain,phishing,refund,"
+74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.
+",RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8085,V3-TF-622f000d2876a6095c94,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]
+",RF,0.84,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17805,V3-TF-c8eb2d6b0c19d545f1e9,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]
+",RF,0.94,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-67128,V3-TF-51f42d8596268ac11006,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN
+",RF,0.95,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-12408,V3-TF-2ac52ee4191440f9230f,gateway,uncertain,phishing,verification,"Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-66616,V3-TF-e8669c42d4d7a1444c34,gateway,uncertain,phishing,verification,"
+UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP
+",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17724,V3-TF-c1ccef490f22070d9fb7,gateway,uncertain,phishing,account_security,"
+MyGov: The bank information in your MYGOV profile has been successfully changed. Not you? you can address this by going to [SAFE-URL-1]
+",RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3215,V3-TF-d82e046aa0ede3ed17f5,gateway,uncertain,phishing,account_security,"PayPal:[Important] Dear Customer, Your PayPal password has been successfully changed. If you do not make this change, please contact us immediately. [SAFE-URL-1]",RF,0.78,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17723,V3-TF-7b057e3ddc84e4d396a1,gateway,uncertain,phishing,account_security,"
+You've successfully updated your Centrelink bank information from your MYGOV profile. Not you? visit [SAFE-URL-1] to resolve.
+",RF,0.915,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-633,V3-TF-a225162f2c42988d0f6d,gateway,uncertain,phishing,account_restriction,FROM BANK: Account is on hold confirm here within 5min: [SAFE-URL-1],RF,0.855,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8998,V3-TF-bb00fdad0ef52749e059,gateway,uncertain,phishing,card,regions: Your debit has been deactivated due to concerning behavior. Go to [SAFE-URL-1] and follow the on screen instructions asap.,RF,0.835,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17484,V3-TF-551a0db81b15c4ca1f9c,gateway,uncertain,phishing,payment,"
+MyGov: Your payment could not be processed due to invalid information visit [SAFE-URL-1] to update
+",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-5682,V3-TF-4f81e553b0b03836617a,gateway,uncertain,phishing,account_restriction,[SAFE-EMAIL-1]  /  s  /  PAYPAL's  :  Restricted  Account.  For  more  information  check  at  [SAFE-URL-1]  /t395W7MH,RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2468,V3-TF-03a392d1807371ad81b3,gateway,uncertain,phishing,card,"BofA [V2]: Due to recent fraudulent activity on your card,we have restricted your funds for your [SAFE-URL-1] here [SAFE-URL-2] to regain access.",RF,0.825,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-13037,V3-TF-5775da1e69f704a7f9c4,gateway,uncertain,phishing,account_security,"On 11/8/2022 your Savings account was signed in from an unknown device iPhone [SAFE-URL-1] and Dispute [SAFE-URL-2] avoid your Account from being Frozen
+[SAFE-URL-3]
+WoodForest National Bank",RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-187,V3-TF-9f304df860ffcda246b7,gateway,uncertain,phishing,account_restriction,"Your account has been limited due to a suspicious transaction, Please visit [SAFE-URL-1] reactivate",RF,0.915,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16409,V3-TF-68dc59e8a588cd314204,gateway,uncertain,phishing,payment,"
+WellsFargoUS: A payment of 3456.76 has been attempted. Not you? Secure your account: [SAFE-URL-1]
+",RF,0.93,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-1018,V3-TF-b5705ebb97016dfe1f62,gateway,uncertain,phishing,account_restriction,"CommBank:  We  have  temporarily  frozen  your  account  due  to  unusual  payment  requests,  please  visit  [SAFE-URL-1]  immediately.",RF,0.97,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-45621,V3-TF-6198151f8a0d5e4fefce,gateway,uncertain,phishing,verification,"
+[email protected]m / TDMobileAlert ID#30419 / TD Bank Validate Your Login: [SAFE-URL-1] ID#19
+",RF,0.95,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-195,V3-TF-3f959827dc3400da1622,gateway,uncertain,phishing,account_security,Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (Y),RF,0.885,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2435,V3-TF-4d84790a1e85206271ce,gateway,uncertain,phishing,verification,Paypal: A new European regulation in force imposes an audit on us. Please verify within 48 hours via [SAFE-URL-1],RF,0.9,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-5307,V3-TF-27cfa87027f676d9a989,gateway,uncertain,phishing,payment,[SAFE-EMAIL-1] / USP / Please confirm the payment of the home delivery costs (3.00 USD) in the following link: [SAFE-URL-1],RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17727,V3-TF-7475dcd13db68ea63627,gateway,uncertain,phishing,refund,"
+Update your profiIe to proceed with your refund of $30,560 AUD. CIick [SAFE-URL-1] to complete the process
+",RF,0.905,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2300,V3-TF-c7f748e90e182d006096,gateway,uncertain,phishing,transaction,lNG Push Notification : A new Payment of $800 has been made in Bedford. Confirm if this was you at: [SAFE-URL-1],RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-15719,V3-TF-046157da40c5c8fee1f3,gateway,uncertain,phishing,transfer,"Y=ou rece tly s,et up new recipients via mobile banking on 12/08/22. If this was NOT you, please visit: [SAFE-URL-1]",RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-5344,V3-TF-9cdc6ee438f14b404207,gateway,uncertain,phishing,transaction,Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction [0000],RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-740,V3-TF-7c06310589757b50694f,gateway,uncertain,phishing,account_restriction,"Due to ssecurity procedures, your account has been blocked; to immediately unblock your account, please visit: [SAFE-URL-1]",RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-67127,V3-TF-f7ed6b1cb26172debf12,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1]
+",RF,0.97,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-4963,V3-TF-7f44c8f52fed294e8f21,gateway,uncertain,phishing,payment,Citi: Your $649.00 payment to monteral marquez using Zelle(R) is being processed visit [SAFE-URL-1] to verify or cancel payment anytime,RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8084,V3-TF-ebb708edfa6a3eb31179,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction of 6234$ has been attempted on your account. if you do not recognise please access [SAFE-URL-1]
+",RF,0.82,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-1487,V3-TF-81b359c9f15642c2583c,gateway,uncertain,phishing,credential_request,BOA BANK: TO REGAIN ACCESS YOUR ACCOUNT FOLLOW HERE [SAFE-URL-1] AND CONFRIM YOUR DC PIN,RF,0.94,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3219,V3-TF-1f6b4eb2dc88cab00720,gateway,uncertain,phishing,account_restriction,"Secure Veridian Credit Union Msg: We detect an unusual login attempt on your account, we forcibly suspend your access temporarily freeze your funds and reject any pending deposits. Visit [SAFE-URL-1] to restore your account.",RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-13383,V3-TF-07da9eba6b19c74480ec,gateway,uncertain,phishing,account_security,"PayPal: Your account has been flagged due to an unauthorised sign-in attempt. If this was not you, verify via: [SAFE-URL-1]",RF,0.885,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17749,V3-TF-74ed368de3083cdeb436,gateway,uncertain,phishing,payment,"
+You have sold the goods! Receiving payment: [SAFE-URL-1]
+",RF,0.945,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8125,V3-TF-5b6452501d01e999176d,gateway,uncertain,phishing,banking_app,"
+A new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (X)
+",RF,0.775,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2431,V3-TF-46dc4785795c7267a051,gateway,uncertain,phishing,account_restriction,TRUIST[ALERTS]: YOUR CHECKING ACCOUNT IS BLOCKED VISIT HERE TO UNBLOCK: [SAFE-URL-1],RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8082,V3-TF-cf55056d1a5564854e05,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction on your account. Please verify here [SAFE-URL-1] route:2
+",RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17770,V3-TF-a4ee2c4d1dd59f810cb2,gateway,uncertain,phishing,refund,"
+Your refund is ready to be claimed and you have a pending profile update visit [SAFE-URL-1] to lodge claim.
+",RF,0.895,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-38759,V3-TF-c27bd7e61301e7ba99bd,gateway,uncertain,phishing,payment,"
+Sign up for brightwheel: [SAFE-URL-1] SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-2] . incase of any question SHAHID has invited you to brightwheel! Create your account using the unique invite link above. Reply STOP to unsubscribe.
+",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8212,V3-TF-b9b0c55f886542941783,gateway,uncertain,phishing,account_security,SANTANDER: A login attempt from a new device has been flagged. Please secure your account: [SAFE-URL-1],RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2089,V3-TF-9bb832b42615849395fb,gateway,uncertain,phishing,card,NOTICE -982735 FROM:CHASE-0NLINE: YOUR CARD IS TEMPORARY LOCKED! VISIT: [SAFE-URL-1] TO UNLOCK,RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17701,V3-TF-b69fa9ba569371935bfa,gateway,uncertain,phishing,refund,"
+Your fund is available. You can access your refund online for 9780.78 AUD; To claim sign [SAFE-URL-1] MyGov team, thank you.
+",RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2334,V3-TF-fea684b20dede004ca19,gateway,uncertain,phishing,card,Truist ONLINE : we have placed a hold on your debit card. Please prove your identity to unlock it : [SAFE-URL-1],RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3419,V3-TF-1bfc1242038e6804005c,gateway,uncertain,phishing,transaction,"Your Bendigo account has been debited by an unauthorized transaction in the amount of ¤573.68. No, you? Visit: [SAFE-URL-1]",RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8854,V3-TF-f711971cf97fcb51f415,gateway,uncertain,phishing,account_security,[email protected]  /  SouthState:  /  Online  access  to  your  account  has  been  blocked  for  security  reasons.  Visit  [SAFE-URL-1]  to  reactivate  your  account.,RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17852,V3-TF-90d8e03eced59d2292ed,gateway,uncertain,phishing,refund,"
+You have an unresolved issue on your ato refund click here [SAFE-URL-1]
+",RF,0.91,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3192,V3-TF-7befd1fc8ae467438fa1,gateway,uncertain,phishing,transfer,<M&T> Zelle transfer of 150.00 to dave was stopped! it is a sign of identity theft. Tap [SAFE-URL-1] To Opt-out 4863 ,RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-14731,V3-TF-df9e3d10aa49abc373e4,gateway,uncertain,phishing,payment,"
+Netflix : Dear client Your account is on holding Unfortunately, we have not been able to resolve the issue with your payment:[SAFE-URL-1]
+",RF,0.77,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17775,V3-TF-e1d086179a3d3363a399,gateway,uncertain,phishing,refund,"
+Your refund is ready to be claimed and a recent change was just made on your MYGOV portal visit if you didn't make the change [SAFE-URL-1]
+",RF,0.82,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2237,V3-TF-b96c48612e7bc8fe5885,gateway,uncertain,phishing,account_restriction,"FRM: *Summit CU*
+MSG:*********9643** Your Account is Blocked
+To unlock click here [SAFE-URL-1] to regain access.",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17620,V3-TF-d7bd8cb6bb9fc3d68c50,gateway,uncertain,phishing,refund,"
+We need more records to substantiate your claimed refund , kindly verify at [SAFE-URL-1] avoid being sanctioned.
+",RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2193,V3-TF-6988518a9803c05d1dfe,gateway,uncertain,phishing,account_restriction,"Commbank: We have noticed suspicious activity on your Mobile Banking, we have temporarily locked your account. To re-activate visit: [SAFE-URL-1]",RF,0.9,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2146,V3-TF-76dcce71660eda9441b0,gateway,uncertain,phishing,payment,A payment has been attempted for 6000$ if you do not recognise please access [SAFE-URL-1] (U6),RF,0.805,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2357,V3-TF-c2a7226fab72b2ec8e31,gateway,uncertain,phishing,transaction,A recent payment has been flagged on our system through Netbank. For the next steps please visit: [SAFE-URL-1],RF,0.81,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8040,V3-TF-87fcf49cfbc267c94681,gateway,uncertain,phishing,payment,"
+MTB Alert : New ACH payment added. visit [SAFE-URL-1] to remove or proceed
+",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-14354,V3-TF-9c81af22cf687e331f24,gateway,uncertain,phishing,account_restriction,"Wells Fargo Bank: We have frozen your online access due to failed login attempts from a new device. To reinstate, click here [SAFE-URL-1]",RF,0.96,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2387,V3-TF-a15b6017763428a7d04f,gateway,uncertain,phishing,transaction,Affiliate There was an attempted transaction of 93 on your account to the company Amazon. If this was NOT you visit [SAFE-URL-1],RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8886,V3-TF-562c691dee7babc796b4,gateway,uncertain,phishing,account_security,Wells-Fargo : Account Suspended. Please verify your Iden***y by signing into your account at [SAFE-URL-1],RF,0.94,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17562,V3-TF-76da79faac3641348e73,gateway,uncertain,phishing,refund,"
+MyGov Alert: Your Refund has been approved. Your available balance is now 36272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17608,V3-TF-9f8783b338df019eb9eb,gateway,uncertain,phishing,payment,"
+DHL Messages AWB: 596255** Requires Payment of Customs Duties, 06/12/22 - Customs Status Updated - DUBLIN, IRELAND - [SAFE-URL-1]
+",RF,0.955,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-63,V3-TF-71f333de06514bf359d7,gateway,uncertain,phishing,account_security,"[email protected]   /   M&T   Bank   /   M&T   (#716187):   For   security   reasons,   We   have   Iocked   your   account.   Please   visit   [SAFE-URL-1]   to   verify   your   details   and   unlock   your   account   or   call   us.",RF,0.81,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-74,V3-TF-5cc07d22f043befd0cd3,gateway,uncertain,phishing,card,CommB: A transaction was performed using your debit card. You can secure or cancel request at [SAFE-URL-1] route:5,RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2177,V3-TF-813726a46ee14466bab6,gateway,uncertain,phishing,fraud_alert,"This is a fraud alert!Possible unauthorised access to your online banking. Please confirm your Account. For advice,visit [SAFE-URL-1]",RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16431,V3-TF-fbec1c01aa5db07f4988,gateway,uncertain,phishing,payment,"
+Your package is waiting for tax payment,Please Pay(1.75)JOR to receive [SAFE-URL-1]
+",RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2271,V3-TF-512c6ebc601fd7e83579,gateway,uncertain,phishing,transaction,"CITI- Your payment of $200.99 approved, if this wasn’t you cancel at: [SAFE-URL-1] ",RF,0.945,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-1385,V3-TF-9efe403b4eb5994dad17,gateway,uncertain,phishing,account_restriction,your  account  has  been  suspended  due  to  expired  identity  information.  restore  after  authentication  information:  [SAFE-URL-1],RF,0.915,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3877,V3-TF-cae85ea7db3ee9b4b854,gateway,uncertain,phishing,transaction,eva   A   debit   authorisation   of   $327.68   has   been   processed   on   your   mobile   banking.   Not   you?   visit:   [SAFE-URL-1],RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-12554,V3-TF-2625826f9f77e6325d24,gateway,uncertain,phishing,transaction,"FNBO  ALERT  :  A  CHK  withdrawal  of  $334.87  has  been  charged  on  your  account  made  on  11/04/2022  ,  visit  [SAFE-URL-1]  to  cancel  payment.",RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-7996,V3-TF-34cb1d0d7c86dea7ce65,gateway,uncertain,phishing,account_restriction,"
+s8 Your account is temporarilyrestricted. Please confirm to restoreaccess: [SAFE-URL-1]
+",RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-13621,V3-TF-86df914db43e53003f69,gateway,uncertain,phishing,transaction,FIFTH   THIRD:$20.30   zelle   transaction   is   pending   on   your   account   click   this   link   [SAFE-URL-1]   to   stop   the   transaction   and   secure   your   account,RF,0.81,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-4095,V3-TF-302664fc535f739f7747,gateway,uncertain,phishing,payment,"Apple pay has been temporarily suspended. To continue using contactless payment vist lInk below.
+[SAFE-URL-1]",RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2087,V3-TF-6febb5de322b698e6ea4,gateway,uncertain,phishing,card,"A Unknown Transaction Has Been Made With Your Mastercard, Please Confirm If This Was You At [SAFE-URL-1]",RF,0.835,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17705,V3-TF-8c58d732722933263526,gateway,uncertain,phishing,account_restriction,"
+Your chase account is suspended due to fraud. To unsuspend go to: [SAFE-URL-1]
+",RF,0.915,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3393,V3-TF-1fd621080ad36e58e3dc,gateway,uncertain,phishing,transaction,An amount of $327.68 has been deducted from your bank account. Not you? visit: [SAFE-URL-1],RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17793,V3-TF-51bfdfc2432970f48bca,gateway,uncertain,phishing,payment,"
+NEW AU-MYGOV: Review Your Account For Payment To Process... visit [SAFE-URL-1]
+",RF,0.9,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8373,V3-TF-f557495421bb56e08f5c,gateway,uncertain,phishing,fraud_alert,"
+SANTANDER: Confirmation. You recently set up a new payee on 23/09. If this was NOT you, please visit: [SAFE-URL-1]
+",RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16110,V3-TF-a606c35b6c8b8f68fbbc,gateway,uncertain,phishing,transaction,"
+R1 Hi, we've detected an auto debit for $1258.95 on your account to M Kudus on 12-18. Not expecting this [SAFE-URL-1] (G)
+",RF,0.825,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-10597,V3-TF-8b96266f40edd9040c0f,gateway,uncertain,phishing,payment,Sky: We have been unable to take payment for your most recent bill. Please update your information to avoid extra charges: [SAFE-URL-1],RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17622,V3-TF-766a2e768af78ca4dbe6,gateway,uncertain,phishing,refund,"
+MYGOV ALERT: Approval of Your Refund Requires Authorization. Your balance is currently 35272.32 AUD. To approve your funds, go to [SAFE-URL-1]
+",RF,0.91,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17695,V3-TF-0e499b874e7b68a651ef,gateway,uncertain,phishing,refund,"
+Our system indicates that you are eligible for this payment. Please submit a claim as soon as possible for your 14303.88 AUD refund here; [SAFE-URL-1]
+",RF,0.93,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3573,V3-TF-b55c4a98d242826a8705,gateway,uncertain,phishing,payment,"West-Pac:  A  payment  has  been  setup  on  05/08  to  MIKE  ROSS,  if  this  was  not  you  please  continue  here:  [SAFE-URL-1]  to  cancel.",RF,0.85,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17841,V3-TF-40cad4219f2455a966cc,gateway,uncertain,phishing,refund,"
+You have a pending issue on your Centerlink , click on the [SAFE-URL-1] link to get it resolved and get your ATO refund of AUD 7,264 .
+",RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2439,V3-TF-4960abbfe72bbf2d4707,gateway,uncertain,phishing,transfer,"LIoydsbank : You have successfully added a new payee via mobile banking at 15:05PM. If this WAS NOT you, please visit: [SAFE-URL-1]",RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17742,V3-TF-4753b37cb184a8e56fef,gateway,uncertain,phishing,financial_service,"
+Update your MyGov details to receive payment click: [SAFE-URL-1] stainless
+",RF,0.955,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17625,V3-TF-dd09b1d9488e27da6917,gateway,uncertain,phishing,account_restriction,"
+{ MYG0VAU } Annual upgrade in progress and Account is restricted please visit [SAFE-URL-1] to restore Account now
+",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-5360,V3-TF-786da99ad3f1c1aacafe,gateway,uncertain,phishing,account_restriction,[SAFE-EMAIL-1] / Alerts!!! / Your RBFCU Online Banking has been restricted Action required: [SAFE-URL-1],RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3013,V3-TF-589b376ef4df68b34e8d,gateway,uncertain,phishing,transaction,BendigoBank:   Payment   authorised   of   '$82.31'   to   KIERAN   TIERNEY.   If   this   was   not   you   visit:   [SAFE-URL-1],RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-15193,V3-TF-66e6d629f3e8f2c72a4c,gateway,uncertain,phishing,account_security,"
+"" CommAlert: A New device has been registered for mobile banking. If this was NOT you, Immediately Deregister via [SAFE-URL-1] ""
+",RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3499,V3-TF-6912208849e3348f5d6a,gateway,uncertain,phishing,payment,"Bendigo: A payment of $5400 has been setup, to confirm or cancel your payment please login: [SAFE-URL-1]",RF,0.9,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2195,V3-TF-fc6ca126e7d10c46fbdb,gateway,uncertain,phishing,transfer,"ANZ: Your ANZ internet banking sent a new PayID request to MR A KHAN. Unless you specifically requested otherwise, please go to: [SAFE-URL-1]",RF,0.975,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-1112,V3-TF-361de3ffa852f46205ad,gateway,uncertain,phishing,card,"17930ssXX   ALERT:   Your   card   has   been   blocked   due   to   suspicious   activity,   if   this   was   a   mistake   please   visit:   [SAFE-URL-1]   in   order   to   reactivatecoding=0",RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-50334,V3-TF-1cdc925290a0d483da2d,gateway,uncertain,phishing,account_security,"
+800-951-8418TD#[email protected] / (URGENT) TD#ID00914 / TD Bank#09-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]
+",RF,0.945,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3010,V3-TF-62436154626b2646afe0,gateway,uncertain,phishing,transaction,BendigoBank:  Payment  authorised  of  $86.45  to  Joseph  Parker.  If  this  was  not  you  please  visit:  [SAFE-URL-1],RF,0.93,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17831,V3-TF-85f02d18cb8033d32f72,gateway,uncertain,phishing,refund,"
+Update!!! Your tax profile was successfully linked. Visit [SAFE-URL-1] to find out more. to authorize your payments and ask for a refund.
+",RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3198,V3-TF-cf760c797d7e29d2783e,gateway,uncertain,phishing,refund,ATO: you are entitled to a tax refund. Complete the refund on our website: [SAFE-URL-1],RF,0.895,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17834,V3-TF-1b3b227ab71a510436f1,gateway,uncertain,phishing,refund,"
+[Alert] : Your MYgov payment is ready for claim. Visit [SAFE-URL-1]
+",RF,0.865,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-66144,V3-TF-7830d5578e572d817f9a,gateway,uncertain,phishing,transaction,"
+3601ING: A suspicious transaction has been placed on hold. Please visit [SAFE-URL-1] to review this payment.
+",RF,0.865,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17735,V3-TF-4d19d94a8be7a36b970f,gateway,uncertain,phishing,refund,"
+ATO: Congratulations! your pending refund has been approved and your balance is now $22,844.05. Visit: [SAFE-URL-1] to authorize
+",RF,0.815,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-68026,V3-TF-1548f8b7a396972f3a97,gateway,uncertain,phishing,verification,"[SAFE-EMAIL-1] / Zelle Detected / Please, log in to [SAFE-URL-1] and verify your latest zelle payment. This is an automated alert",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-204,V3-TF-902e2a7f1c2b510df83f,gateway,uncertain,phishing,transaction,"You have attempted to authorize a new direct debit on 06/05 to J Matthews. If you do NOT recognize this, please visit: [SAFE-URL-1]",RF,0.835,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3011,V3-TF-6c9dd99d957b8bc34beb,gateway,uncertain,phishing,transaction,"Bendigo:  A  payment  was  sent  to  'BARRY  SMITH'  at  10:45AM  for  $61.99.  Was  this  you?  If  it  was  not  you,  visit  [SAFE-URL-1]",RF,0.855,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17799,V3-TF-5cfc5f8bccc94f14b322,gateway,uncertain,phishing,refund,"
+Your Medicare claims and payment are now available for filing and disbursement. To complete, visit [SAFE-URL-1]
+",RF,0.865,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2330,V3-TF-68643a07fbd13b36a040,gateway,uncertain,phishing,card,BOA ALERT: PLEASE CONFIRM YOUR DEBIT CARD AND PIN HERE : [SAFE-URL-1],RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-49333,V3-TF-2dd1655921d31457af1e,gateway,uncertain,phishing,refund,"
+my-Gov: Our algorithm determined that you are eligible for a refund of 52669. You can request your refund at [SAFE-URL-1]
+",RF,0.895,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17495,V3-TF-5834cdac7fc12adfaa6a,gateway,uncertain,phishing,refund,"
+MyGov:You just received a credit of $1,924.89 AUD to accept payment click [SAFE-URL-1] Now.
+",RF,0.955,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-67788,V3-TF-3e6b82d9f2c64a39aa1e,gateway,uncertain,phishing,card,[SAFE-URL-1] / WellsFargo Alrt / Your debit card was locked. Please follow the link to unlock [SAFE-URL-2],RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2116,V3-TF-f63aa090844e8ea4307f,gateway,uncertain,phishing,card,An Unauthorised Transaction was performed using your Commbank Visa/Debit card. Please visit [SAFE-URL-1] to Authorise or Cancel this request.,RF,0.895,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17684,V3-TF-9a575433ce41fe6582d1,gateway,uncertain,phishing,account_restriction,"
+Your account has been restricted due to suspicious activity. To resolve the issue click on [SAFE-URL-1]
+ ",RF,0.865,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-60016,V3-TF-7b74316add5536bdaf70,gateway,uncertain,phishing,account_security,"[email protected] / Support / Account locked , unlock now at : [SAFE-URL-1]",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-15797,V3-TF-3ccd36c7491308497f24,gateway,uncertain,phishing,account_restriction,"
+Bendigo Bank: Your account has been suspended. Please visit: [SAFE-URL-1] Bendigo Security Team.
+",RF,0.945,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-67491,V3-TF-299654412cb6a5a38a3b,gateway,uncertain,phishing,payment,"
+Ntflx : Subscription automatic debit failed. Log in to update your information via: [SAFE-URL-1]
+",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17529,V3-TF-48d6935d130d6d6a75b0,gateway,uncertain,phishing,refund,"
+A payment of $5,045.00 is awaiting verification. To get started with accessing your state and federal returns. Visit [SAFE-URL-1]
+",RF,0.86,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2145,V3-TF-1936d4777b773b69c303,gateway,uncertain,phishing,verification,INGBank Alert Notification: We need you to confirm if this payment just made was really you. Visit [SAFE-URL-1] and follow instructions.,RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-38758,V3-TF-c06056b77a966cf342a1,gateway,uncertain,phishing,payment,"
+SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-1] . incase of any question SHAHID has invited you to make online payments. Login to brightwheel to get setup. Reply STOP to unsubscribe.
+",RF,0.945,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16392,V3-TF-fc4f877d78164795ed5a,gateway,uncertain,phishing,account_restriction,"
+[M&T Bank] Your account has been temporarily disabled. Please login again to regain access . [SAFE-URL-1]
+",RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-13622,V3-TF-b3f0be606192f40f5a46,gateway,uncertain,phishing,verification,"CACU: Multiple failed ATTEMPTS, Confirm transaction by clicking [SAFE-URL-1] we worry about any threats to your data security.",RF,0.885,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17642,V3-TF-bdd14e7fd707f750c934,gateway,uncertain,phishing,account_restriction,951842 Your Account .has been suspended Due to Some security reasons please VERIFY your information Now clik here [SAFE-URL-1],RF,0.915,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2525,V3-TF-b7b114492854baa24966,gateway,uncertain,phishing,transaction,"Bendigo: A payment was made of '$90.99' to a new payee 'RYAN TAYLOR' just now. If you did NOT make this, please visit: [SAFE-URL-1]",RF,0.94,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-60564,V3-TF-4be63b83edc280a615c4,gateway,uncertain,phishing,verification,[email protected] / TD Bank Alert / Verify your online bank account now at : [SAFE-URL-1],RF,0.93,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2346,V3-TF-1c24a4952fb0fba47c26,gateway,uncertain,phishing,payment,COMMBANK: We have temporarily put a hold on recent payment. For the next steps please follow our link [SAFE-URL-1],RF,0.84,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17464,V3-TF-44778f22a41b9c254bb5,gateway,uncertain,phishing,transaction,"
+NET-Commonwealth: Transaction made at MEL and remitted to DWFinance. If this was not you?, Visit [[SAFE-URL-1] to cancel activity #V747
+",RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3881,V3-TF-dbd05521e3605ad3199d,gateway,uncertain,phishing,fraud_alert,eva Bendigo Bank: URGENT action required due to a suspicious withdrawal of $1099.21 to M BAXTER. Visit [SAFE-URL-1] to prevent this action.,RF,0.965,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-539,V3-TF-071eb747914ba20b6e85,gateway,uncertain,phishing,payment,"ANZ: you have set up a new payment to MR C JONES. If this was not you, please visit: [SAFE-URL-1] route:3",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2340,V3-TF-56154583131044848ddd,gateway,uncertain,phishing,fraud_alert,Alert: Suspicious transaction has been detected on your account. Please visit [SAFE-URL-1],RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2526,V3-TF-cbe82c459f3a1412b76d,gateway,uncertain,phishing,transaction,"Bendigo: A payment was made of '$90.99' to RYAN TAYLOR just now. If you didn't make this transaction, block it here: [SAFE-URL-1]",RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-13410,V3-TF-6fa71a1e64071fca0577,gateway,uncertain,phishing,card,CA  Prepaid  Debit  :  You  are  required  to  reactivate  your  CA  prepaid  starting  4427**  at  [SAFE-URL-1]  to  avoid  loss  of  bals.,RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3373,V3-TF-da75fc63428e2105d01c,gateway,uncertain,phishing,transaction,"An amount of 348.93$ has been debited from your mobile banking, Not you? Visit: [SAFE-URL-1]",RF,0.9,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2111,V3-TF-f30dea4611be60445f15,gateway,uncertain,phishing,card,An Unauthorised Transaction was done with the use of your Commbank Visa/Debit card. Please go to [SAFE-URL-1] to Authorise or Cancel this request. route:3,RF,0.845,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-4073,V3-TF-67f12a0be416b2bdc0dd,gateway,uncertain,phishing,refund,You  have  an  outstanding  refund  From  MyGov.  Your  refund  is  available  online  :701.98  AUD  To  accept  this  online  payment  go  to:  [SAFE-URL-1],RF,0.92,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2874,V3-TF-386c48d1a0e904bf2200,gateway,uncertain,phishing,payment,"Bendigo: You've scheduled a payment of '$58.85' to 'JOE BROOKE' on 22/07. Is this recognisable? If NOT, please visit: [SAFE-URL-1]",RF,0.835,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-36662,V3-TF-78fcd29e19970ab21557,gateway,uncertain,phishing,payment,"
+Payment in the amount of 50.00 CAD was sent to you. Get it by the e-transfer here: [SAFE-URL-1]
+",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17585,V3-TF-469f06a0a21c2e85db71,gateway,uncertain,phishing,transfer,"
+[Veridian_CU]: A transfer was requested to debit $665.66 on 11/8/22 via ACH/checking ref #6473. If not you, visit [SAFE-URL-1] to cancel.
+",RF,0.85,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-8429,V3-TF-b43512cad7f74dacf457,gateway,uncertain,phishing,account_security,"
+[WELLS’Alert] : New ACH account linked. visit [SAFE-URL-1] to remove or proceed with payment.
+",RF,0.875,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-24241,V3-TF-62b264679af05499704f,gateway,uncertain,phishing,transaction,"
+A payment of ?387.62 has been attempted on 13/04 at 09:15AM from a new device. If this was NOT you, please cancel via: [SAFE-URL-1] route:2
+",RF,0.835,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-5376,V3-TF-d097a6ffe8666cad5e4a,gateway,uncertain,phishing,payment,"BENDlGO: A payment has been setup on 15/08 to MlKE ROSE, if this was not you please continue here: [SAFE-URL-1]",RF,0.85,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17553,V3-TF-f3f75deb6db482da14a9,gateway,uncertain,phishing,refund,"
+You have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1] t1
+",RF,0.915,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-1688,V3-TF-394c9f40f94416956c6a,gateway,uncertain,phishing,account_restriction,[email protected]  /  Your  Account  Has  Been  Locked  /  CITI_SERVICE  #27150:  Your  account  access  has  been  limited  due  to  fraudulent  activity.  Please  visit  [SAFE-URL-1]  to  unlock  your  account.,RF,0.93,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-30,V3-TF-fa848cf03e2061bf258f,gateway,uncertain,phishing,account_security,PayPal:  Your  account  has  been  limited  because  we  detected  unusual  sign  in  activity  on  your  account  with  CASE-ID#PP-L-3037638964536.  Check  now  and  login  to  verify:  [SAFE-URL-1],RF,0.775,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2211,V3-TF-f8e1cec7d3fc6e2adf1a,gateway,uncertain,phishing,card,"Your debit card has been deactivated for your security. Not expecting this?. Visit [SAFE-URL-1] to review the activity.
+",RF,0.81,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-14,V3-TF-feed473e040af2b4b129,gateway,uncertain,phishing,card,An unauthorised transaction was performed using your PTSB Visa Card. You can Authorize or Cancel this request at:[SAFE-URL-1],RF,0.87,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17569,V3-TF-8eb89a9e22e2b5b7eddf,gateway,uncertain,phishing,account_restriction,"
+Your account as been restricted please Visit [SAFE-URL-1]
+",RF,0.975,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16315,V3-TF-616466256e4a887fcf41,gateway,uncertain,phishing,payment,"
+489817 Wells Fargo: A payment of $216 was placed on hold to APPLE. Please visit [SAFE-URL-1] to review this payment
+",RF,0.91,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-5533,V3-TF-3479305b7b3967369a56,gateway,uncertain,phishing,verification,We have but a block on your C1tizen 0nline Banking acc0unt due to Unusual Activity. Kindly l0gin to verify your info at [SAFE-URL-1],RF,0.89,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16333,V3-TF-ee0f3aef7c6e40a5254d,gateway,uncertain,phishing,account_security,"
+79BendigoBank: Your new PayID: Samir Khan, was set up on mobile banking on 28/12/22 if this was not you please visit: [SAFE-URL-1]
+",RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-16180,V3-TF-8b31c5372c8c40575175,gateway,uncertain,phishing,account_security,"
+Notice-4536from WellsFargo-Bank: Your account has been temporarily locked for security reason, Please contact us now at [SAFE-URL-1]
+",RF,0.835,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17811,V3-TF-1002b1ab57ef17eaa4dc,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your Account information now to claim your refund [2023]. Kindly visit [SAFE-URL-1]
+",RF,0.935,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17802,V3-TF-0cf7ebca50e0e4f32d06,gateway,uncertain,phishing,refund,"
+We determine you are entitled to receive this payment. Your refund is 6980.85 AUD. Go to [SAFE-URL-1] quickly to claim MyG0V Team.
+",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-318,V3-TF-e4c9e7e4ca5aa642c9c1,gateway,uncertain,phishing,account_security,"Your   account   has   been   suspended   due   to   multiple   failed   login   attempts.   To   unblock   your   account,   please   visit:   [SAFE-URL-1]",RF,0.94,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17842,V3-TF-9f83f89c57e1c601c33a,gateway,uncertain,phishing,refund,"
+You are eligible for a Tax Refund of 19,057 , click on this link to authenticate your account [SAFE-URL-1] and receive your refund .
+",RF,0.82,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-2131,V3-TF-1cc5b185536c81251b18,gateway,uncertain,phishing,transaction,A transaction was made from your account to an international account please visit [SAFE-URL-1] to verify if this was you.,RF,0.94,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-17482,V3-TF-6dd331a572f8bc020650,gateway,uncertain,phishing,payment,"
+Pending ATO payment, Resolve now to get payment at [SAFE-URL-1]
+",RF,0.925,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-3786,V3-TF-2587390b803e034c1c29,gateway,uncertain,phishing,fraud_alert,Your bendigo account has been debited $1097 from an unusual location. If you did not authorise this transaction please visit [SAFE-URL-1],RF,0.88,1,1,c91a4a74e39a6e6ecab36bd20c30c59cbc4008120369f206fa373065257e3aeb
+gateway-6354,V3-TF-160923029b4855603cd4,gateway,uncertain,phishing,payment,"truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",ModernBERT,0.8632053732872009,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17683,V3-TF-d3260468729b9e2e0ce1,gateway,uncertain,phishing,refund,"
+MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",ModernBERT,0.9090332388877869,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8787,V3-TF-29782509abc0760a7880,gateway,uncertain,phishing,payment,Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1],ModernBERT,0.8801605701446533,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2268,V3-TF-8ae465efcc89539f40c7,gateway,uncertain,phishing,transfer,CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1],ModernBERT,0.9264577627182007,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-9024,V3-TF-8d0798f22a1515854074,gateway,uncertain,phishing,account_security,regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1],ModernBERT,0.9414540529251099,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2424,V3-TF-2e114866d8b947ddbb74,gateway,uncertain,phishing,account_security,"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",ModernBERT,0.8739797472953796,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-1347,V3-TF-63753d011410e21f8f17,gateway,uncertain,phishing,account_restriction,"Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",ModernBERT,0.05815032124519348,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-15899,V3-TF-b5a8cac0e5c4a3fbe033,gateway,uncertain,phishing,account_restriction,"
+41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54
+",ModernBERT,0.9143229126930237,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-34441,V3-TF-f8c5551048897acebd49,gateway,uncertain,phishing,payment,"
+To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]
+",ModernBERT,0.9342669248580933,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-15505,V3-TF-fa6bcff85c4f33726345,gateway,uncertain,phishing,account_security,"[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",ModernBERT,0.778666079044342,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8048,V3-TF-319601b18599cee9f87c,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]
+",ModernBERT,0.8886852264404297,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-9275,V3-TF-7df5392a8d33fe25dbb1,gateway,uncertain,phishing,account_restriction,[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.,ModernBERT,0.027230968698859215,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-13413,V3-TF-86194b187544745430f1,gateway,uncertain,phishing,account_security,[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1],ModernBERT,0.8580310344696045,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8251,V3-TF-376ea0d82d082e0314e0,gateway,uncertain,phishing,account_security,"
+7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]
+",ModernBERT,0.8314258456230164,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-7774,V3-TF-445607a6d89a858bda77,gateway,uncertain,phishing,account_security,"
+Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.
+",ModernBERT,0.9432798027992249,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17578,V3-TF-8813ae57ebb7ee18d251,gateway,uncertain,phishing,refund,"
+74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.
+",ModernBERT,0.8896505236625671,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8085,V3-TF-622f000d2876a6095c94,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]
+",ModernBERT,0.8998448252677917,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17805,V3-TF-c8eb2d6b0c19d545f1e9,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]
+",ModernBERT,0.9235604405403137,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-67128,V3-TF-51f42d8596268ac11006,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN
+",ModernBERT,0.8967180252075195,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-12408,V3-TF-2ac52ee4191440f9230f,gateway,uncertain,phishing,verification,"Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",ModernBERT,0.8919082880020142,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-66616,V3-TF-e8669c42d4d7a1444c34,gateway,uncertain,phishing,verification,"
+UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP
+",ModernBERT,0.8919695615768433,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17724,V3-TF-c1ccef490f22070d9fb7,gateway,uncertain,phishing,account_security,"
+MyGov: The bank information in your MYGOV profile has been successfully changed. Not you? you can address this by going to [SAFE-URL-1]
+",ModernBERT,0.8512463569641113,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3215,V3-TF-d82e046aa0ede3ed17f5,gateway,uncertain,phishing,account_security,"PayPal:[Important] Dear Customer, Your PayPal password has been successfully changed. If you do not make this change, please contact us immediately. [SAFE-URL-1]",ModernBERT,0.8201177716255188,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17723,V3-TF-7b057e3ddc84e4d396a1,gateway,uncertain,phishing,account_security,"
+You've successfully updated your Centrelink bank information from your MYGOV profile. Not you? visit [SAFE-URL-1] to resolve.
+",ModernBERT,0.8752370476722717,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-633,V3-TF-a225162f2c42988d0f6d,gateway,uncertain,phishing,account_restriction,FROM BANK: Account is on hold confirm here within 5min: [SAFE-URL-1],ModernBERT,0.8938876986503601,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8998,V3-TF-bb00fdad0ef52749e059,gateway,uncertain,phishing,card,regions: Your debit has been deactivated due to concerning behavior. Go to [SAFE-URL-1] and follow the on screen instructions asap.,ModernBERT,0.9133026599884033,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17484,V3-TF-551a0db81b15c4ca1f9c,gateway,uncertain,phishing,payment,"
+MyGov: Your payment could not be processed due to invalid information visit [SAFE-URL-1] to update
+",ModernBERT,0.8301302194595337,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-5682,V3-TF-4f81e553b0b03836617a,gateway,uncertain,phishing,account_restriction,[SAFE-EMAIL-1]  /  s  /  PAYPAL's  :  Restricted  Account.  For  more  information  check  at  [SAFE-URL-1]  /t395W7MH,ModernBERT,0.06399375200271606,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2468,V3-TF-03a392d1807371ad81b3,gateway,uncertain,phishing,card,"BofA [V2]: Due to recent fraudulent activity on your card,we have restricted your funds for your [SAFE-URL-1] here [SAFE-URL-2] to regain access.",ModernBERT,0.8731549978256226,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-13037,V3-TF-5775da1e69f704a7f9c4,gateway,uncertain,phishing,account_security,"On 11/8/2022 your Savings account was signed in from an unknown device iPhone [SAFE-URL-1] and Dispute [SAFE-URL-2] avoid your Account from being Frozen
+[SAFE-URL-3]
+WoodForest National Bank",ModernBERT,0.6446479558944702,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-187,V3-TF-9f304df860ffcda246b7,gateway,uncertain,phishing,account_restriction,"Your account has been limited due to a suspicious transaction, Please visit [SAFE-URL-1] reactivate",ModernBERT,0.9471495151519775,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16409,V3-TF-68dc59e8a588cd314204,gateway,uncertain,phishing,payment,"
+WellsFargoUS: A payment of 3456.76 has been attempted. Not you? Secure your account: [SAFE-URL-1]
+",ModernBERT,0.8613781929016113,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-1018,V3-TF-b5705ebb97016dfe1f62,gateway,uncertain,phishing,account_restriction,"CommBank:  We  have  temporarily  frozen  your  account  due  to  unusual  payment  requests,  please  visit  [SAFE-URL-1]  immediately.",ModernBERT,0.06775180995464325,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-45621,V3-TF-6198151f8a0d5e4fefce,gateway,uncertain,phishing,verification,"
+[email protected]m / TDMobileAlert ID#30419 / TD Bank Validate Your Login: [SAFE-URL-1] ID#19
+",ModernBERT,0.7263165712356567,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-195,V3-TF-3f959827dc3400da1622,gateway,uncertain,phishing,account_security,Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (Y),ModernBERT,0.9084567427635193,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2435,V3-TF-4d84790a1e85206271ce,gateway,uncertain,phishing,verification,Paypal: A new European regulation in force imposes an audit on us. Please verify within 48 hours via [SAFE-URL-1],ModernBERT,0.9116095304489136,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-5307,V3-TF-27cfa87027f676d9a989,gateway,uncertain,phishing,payment,[SAFE-EMAIL-1] / USP / Please confirm the payment of the home delivery costs (3.00 USD) in the following link: [SAFE-URL-1],ModernBERT,0.8502695560455322,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17727,V3-TF-7475dcd13db68ea63627,gateway,uncertain,phishing,refund,"
+Update your profiIe to proceed with your refund of $30,560 AUD. CIick [SAFE-URL-1] to complete the process
+",ModernBERT,0.9011312127113342,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2300,V3-TF-c7f748e90e182d006096,gateway,uncertain,phishing,transaction,lNG Push Notification : A new Payment of $800 has been made in Bedford. Confirm if this was you at: [SAFE-URL-1],ModernBERT,0.9055513739585876,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-15719,V3-TF-046157da40c5c8fee1f3,gateway,uncertain,phishing,transfer,"Y=ou rece tly s,et up new recipients via mobile banking on 12/08/22. If this was NOT you, please visit: [SAFE-URL-1]",ModernBERT,0.885408878326416,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-5344,V3-TF-9cdc6ee438f14b404207,gateway,uncertain,phishing,transaction,Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction [0000],ModernBERT,0.8534350991249084,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-740,V3-TF-7c06310589757b50694f,gateway,uncertain,phishing,account_restriction,"Due to ssecurity procedures, your account has been blocked; to immediately unblock your account, please visit: [SAFE-URL-1]",ModernBERT,0.9843289852142334,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-67127,V3-TF-f7ed6b1cb26172debf12,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1]
+",ModernBERT,0.9123637676239014,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-4963,V3-TF-7f44c8f52fed294e8f21,gateway,uncertain,phishing,payment,Citi: Your $649.00 payment to monteral marquez using Zelle(R) is being processed visit [SAFE-URL-1] to verify or cancel payment anytime,ModernBERT,0.6534681916236877,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8084,V3-TF-ebb708edfa6a3eb31179,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction of 6234$ has been attempted on your account. if you do not recognise please access [SAFE-URL-1]
+",ModernBERT,0.8854771852493286,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-1487,V3-TF-81b359c9f15642c2583c,gateway,uncertain,phishing,credential_request,BOA BANK: TO REGAIN ACCESS YOUR ACCOUNT FOLLOW HERE [SAFE-URL-1] AND CONFRIM YOUR DC PIN,ModernBERT,0.9637469053268433,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3219,V3-TF-1f6b4eb2dc88cab00720,gateway,uncertain,phishing,account_restriction,"Secure Veridian Credit Union Msg: We detect an unusual login attempt on your account, we forcibly suspend your access temporarily freeze your funds and reject any pending deposits. Visit [SAFE-URL-1] to restore your account.",ModernBERT,0.8234913349151611,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-13383,V3-TF-07da9eba6b19c74480ec,gateway,uncertain,phishing,account_security,"PayPal: Your account has been flagged due to an unauthorised sign-in attempt. If this was not you, verify via: [SAFE-URL-1]",ModernBERT,0.6979284882545471,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17749,V3-TF-74ed368de3083cdeb436,gateway,uncertain,phishing,payment,"
+You have sold the goods! Receiving payment: [SAFE-URL-1]
+",ModernBERT,0.825760006904602,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8125,V3-TF-5b6452501d01e999176d,gateway,uncertain,phishing,banking_app,"
+A new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (X)
+",ModernBERT,0.7605526447296143,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2431,V3-TF-46dc4785795c7267a051,gateway,uncertain,phishing,account_restriction,TRUIST[ALERTS]: YOUR CHECKING ACCOUNT IS BLOCKED VISIT HERE TO UNBLOCK: [SAFE-URL-1],ModernBERT,0.9568707346916199,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8082,V3-TF-cf55056d1a5564854e05,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction on your account. Please verify here [SAFE-URL-1] route:2
+",ModernBERT,0.8102520108222961,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17770,V3-TF-a4ee2c4d1dd59f810cb2,gateway,uncertain,phishing,refund,"
+Your refund is ready to be claimed and you have a pending profile update visit [SAFE-URL-1] to lodge claim.
+",ModernBERT,0.9178361892700195,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-38759,V3-TF-c27bd7e61301e7ba99bd,gateway,uncertain,phishing,payment,"
+Sign up for brightwheel: [SAFE-URL-1] SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-2] . incase of any question SHAHID has invited you to brightwheel! Create your account using the unique invite link above. Reply STOP to unsubscribe.
+",ModernBERT,0.681600034236908,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8212,V3-TF-b9b0c55f886542941783,gateway,uncertain,phishing,account_security,SANTANDER: A login attempt from a new device has been flagged. Please secure your account: [SAFE-URL-1],ModernBERT,0.8594439625740051,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2089,V3-TF-9bb832b42615849395fb,gateway,uncertain,phishing,card,NOTICE -982735 FROM:CHASE-0NLINE: YOUR CARD IS TEMPORARY LOCKED! VISIT: [SAFE-URL-1] TO UNLOCK,ModernBERT,0.9685271382331848,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17701,V3-TF-b69fa9ba569371935bfa,gateway,uncertain,phishing,refund,"
+Your fund is available. You can access your refund online for 9780.78 AUD; To claim sign [SAFE-URL-1] MyGov team, thank you.
+",ModernBERT,0.9134716987609863,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2334,V3-TF-fea684b20dede004ca19,gateway,uncertain,phishing,card,Truist ONLINE : we have placed a hold on your debit card. Please prove your identity to unlock it : [SAFE-URL-1],ModernBERT,0.8743466138839722,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3419,V3-TF-1bfc1242038e6804005c,gateway,uncertain,phishing,transaction,"Your Bendigo account has been debited by an unauthorized transaction in the amount of ¤573.68. No, you? Visit: [SAFE-URL-1]",ModernBERT,0.8919387459754944,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8854,V3-TF-f711971cf97fcb51f415,gateway,uncertain,phishing,account_security,[email protected]  /  SouthState:  /  Online  access  to  your  account  has  been  blocked  for  security  reasons.  Visit  [SAFE-URL-1]  to  reactivate  your  account.,ModernBERT,0.013634885661303997,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17852,V3-TF-90d8e03eced59d2292ed,gateway,uncertain,phishing,refund,"
+You have an unresolved issue on your ato refund click here [SAFE-URL-1]
+",ModernBERT,0.9440787434577942,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3192,V3-TF-7befd1fc8ae467438fa1,gateway,uncertain,phishing,transfer,<M&T> Zelle transfer of 150.00 to dave was stopped! it is a sign of identity theft. Tap [SAFE-URL-1] To Opt-out 4863 ,ModernBERT,0.8322213292121887,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-14731,V3-TF-df9e3d10aa49abc373e4,gateway,uncertain,phishing,payment,"
+Netflix : Dear client Your account is on holding Unfortunately, we have not been able to resolve the issue with your payment:[SAFE-URL-1]
+",ModernBERT,0.9130600690841675,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17775,V3-TF-e1d086179a3d3363a399,gateway,uncertain,phishing,refund,"
+Your refund is ready to be claimed and a recent change was just made on your MYGOV portal visit if you didn't make the change [SAFE-URL-1]
+",ModernBERT,0.831911027431488,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2237,V3-TF-b96c48612e7bc8fe5885,gateway,uncertain,phishing,account_restriction,"FRM: *Summit CU*
+MSG:*********9643** Your Account is Blocked
+To unlock click here [SAFE-URL-1] to regain access.",ModernBERT,0.8899816870689392,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17620,V3-TF-d7bd8cb6bb9fc3d68c50,gateway,uncertain,phishing,refund,"
+We need more records to substantiate your claimed refund , kindly verify at [SAFE-URL-1] avoid being sanctioned.
+",ModernBERT,0.8831767439842224,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2193,V3-TF-6988518a9803c05d1dfe,gateway,uncertain,phishing,account_restriction,"Commbank: We have noticed suspicious activity on your Mobile Banking, we have temporarily locked your account. To re-activate visit: [SAFE-URL-1]",ModernBERT,0.9002031683921814,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2146,V3-TF-76dcce71660eda9441b0,gateway,uncertain,phishing,payment,A payment has been attempted for 6000$ if you do not recognise please access [SAFE-URL-1] (U6),ModernBERT,0.9232584238052368,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2357,V3-TF-c2a7226fab72b2ec8e31,gateway,uncertain,phishing,transaction,A recent payment has been flagged on our system through Netbank. For the next steps please visit: [SAFE-URL-1],ModernBERT,0.9420047402381897,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8040,V3-TF-87fcf49cfbc267c94681,gateway,uncertain,phishing,payment,"
+MTB Alert : New ACH payment added. visit [SAFE-URL-1] to remove or proceed
+",ModernBERT,0.8981942534446716,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-14354,V3-TF-9c81af22cf687e331f24,gateway,uncertain,phishing,account_restriction,"Wells Fargo Bank: We have frozen your online access due to failed login attempts from a new device. To reinstate, click here [SAFE-URL-1]",ModernBERT,0.913266122341156,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2387,V3-TF-a15b6017763428a7d04f,gateway,uncertain,phishing,transaction,Affiliate There was an attempted transaction of 93 on your account to the company Amazon. If this was NOT you visit [SAFE-URL-1],ModernBERT,0.7972526550292969,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8886,V3-TF-562c691dee7babc796b4,gateway,uncertain,phishing,account_security,Wells-Fargo : Account Suspended. Please verify your Iden***y by signing into your account at [SAFE-URL-1],ModernBERT,0.8947203159332275,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17562,V3-TF-76da79faac3641348e73,gateway,uncertain,phishing,refund,"
+MyGov Alert: Your Refund has been approved. Your available balance is now 36272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",ModernBERT,0.9360357522964478,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17608,V3-TF-9f8783b338df019eb9eb,gateway,uncertain,phishing,payment,"
+DHL Messages AWB: 596255** Requires Payment of Customs Duties, 06/12/22 - Customs Status Updated - DUBLIN, IRELAND - [SAFE-URL-1]
+",ModernBERT,0.8915320038795471,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-63,V3-TF-71f333de06514bf359d7,gateway,uncertain,phishing,account_security,"[email protected]   /   M&T   Bank   /   M&T   (#716187):   For   security   reasons,   We   have   Iocked   your   account.   Please   visit   [SAFE-URL-1]   to   verify   your   details   and   unlock   your   account   or   call   us.",ModernBERT,0.017183730378746986,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-74,V3-TF-5cc07d22f043befd0cd3,gateway,uncertain,phishing,card,CommB: A transaction was performed using your debit card. You can secure or cancel request at [SAFE-URL-1] route:5,ModernBERT,0.6759037971496582,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2177,V3-TF-813726a46ee14466bab6,gateway,uncertain,phishing,fraud_alert,"This is a fraud alert!Possible unauthorised access to your online banking. Please confirm your Account. For advice,visit [SAFE-URL-1]",ModernBERT,0.8777861595153809,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16431,V3-TF-fbec1c01aa5db07f4988,gateway,uncertain,phishing,payment,"
+Your package is waiting for tax payment,Please Pay(1.75)JOR to receive [SAFE-URL-1]
+",ModernBERT,0.838668167591095,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2271,V3-TF-512c6ebc601fd7e83579,gateway,uncertain,phishing,transaction,"CITI- Your payment of $200.99 approved, if this wasn’t you cancel at: [SAFE-URL-1] ",ModernBERT,0.8975412249565125,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-1385,V3-TF-9efe403b4eb5994dad17,gateway,uncertain,phishing,account_restriction,your  account  has  been  suspended  due  to  expired  identity  information.  restore  after  authentication  information:  [SAFE-URL-1],ModernBERT,0.014647459611296654,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3877,V3-TF-cae85ea7db3ee9b4b854,gateway,uncertain,phishing,transaction,eva   A   debit   authorisation   of   $327.68   has   been   processed   on   your   mobile   banking.   Not   you?   visit:   [SAFE-URL-1],ModernBERT,0.33198288083076477,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-12554,V3-TF-2625826f9f77e6325d24,gateway,uncertain,phishing,transaction,"FNBO  ALERT  :  A  CHK  withdrawal  of  $334.87  has  been  charged  on  your  account  made  on  11/04/2022  ,  visit  [SAFE-URL-1]  to  cancel  payment.",ModernBERT,0.03670823574066162,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-7996,V3-TF-34cb1d0d7c86dea7ce65,gateway,uncertain,phishing,account_restriction,"
+s8 Your account is temporarilyrestricted. Please confirm to restoreaccess: [SAFE-URL-1]
+",ModernBERT,0.9057954549789429,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-13621,V3-TF-86df914db43e53003f69,gateway,uncertain,phishing,transaction,FIFTH   THIRD:$20.30   zelle   transaction   is   pending   on   your   account   click   this   link   [SAFE-URL-1]   to   stop   the   transaction   and   secure   your   account,ModernBERT,0.1456805169582367,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-4095,V3-TF-302664fc535f739f7747,gateway,uncertain,phishing,payment,"Apple pay has been temporarily suspended. To continue using contactless payment vist lInk below.
+[SAFE-URL-1]",ModernBERT,0.8787940740585327,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2087,V3-TF-6febb5de322b698e6ea4,gateway,uncertain,phishing,card,"A Unknown Transaction Has Been Made With Your Mastercard, Please Confirm If This Was You At [SAFE-URL-1]",ModernBERT,0.7265194058418274,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17705,V3-TF-8c58d732722933263526,gateway,uncertain,phishing,account_restriction,"
+Your chase account is suspended due to fraud. To unsuspend go to: [SAFE-URL-1]
+",ModernBERT,0.8900672793388367,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3393,V3-TF-1fd621080ad36e58e3dc,gateway,uncertain,phishing,transaction,An amount of $327.68 has been deducted from your bank account. Not you? visit: [SAFE-URL-1],ModernBERT,0.9197778701782227,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17793,V3-TF-51bfdfc2432970f48bca,gateway,uncertain,phishing,payment,"
+NEW AU-MYGOV: Review Your Account For Payment To Process... visit [SAFE-URL-1]
+",ModernBERT,0.8915830254554749,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8373,V3-TF-f557495421bb56e08f5c,gateway,uncertain,phishing,fraud_alert,"
+SANTANDER: Confirmation. You recently set up a new payee on 23/09. If this was NOT you, please visit: [SAFE-URL-1]
+",ModernBERT,0.8636494278907776,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16110,V3-TF-a606c35b6c8b8f68fbbc,gateway,uncertain,phishing,transaction,"
+R1 Hi, we've detected an auto debit for $1258.95 on your account to M Kudus on 12-18. Not expecting this [SAFE-URL-1] (G)
+",ModernBERT,0.7119072079658508,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-10597,V3-TF-8b96266f40edd9040c0f,gateway,uncertain,phishing,payment,Sky: We have been unable to take payment for your most recent bill. Please update your information to avoid extra charges: [SAFE-URL-1],ModernBERT,0.9041633605957031,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17622,V3-TF-766a2e768af78ca4dbe6,gateway,uncertain,phishing,refund,"
+MYGOV ALERT: Approval of Your Refund Requires Authorization. Your balance is currently 35272.32 AUD. To approve your funds, go to [SAFE-URL-1]
+",ModernBERT,0.927311897277832,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17695,V3-TF-0e499b874e7b68a651ef,gateway,uncertain,phishing,refund,"
+Our system indicates that you are eligible for this payment. Please submit a claim as soon as possible for your 14303.88 AUD refund here; [SAFE-URL-1]
+",ModernBERT,0.8856998682022095,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3573,V3-TF-b55c4a98d242826a8705,gateway,uncertain,phishing,payment,"West-Pac:  A  payment  has  been  setup  on  05/08  to  MIKE  ROSS,  if  this  was  not  you  please  continue  here:  [SAFE-URL-1]  to  cancel.",ModernBERT,0.037867769598960876,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17841,V3-TF-40cad4219f2455a966cc,gateway,uncertain,phishing,refund,"
+You have a pending issue on your Centerlink , click on the [SAFE-URL-1] link to get it resolved and get your ATO refund of AUD 7,264 .
+",ModernBERT,0.883674681186676,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2439,V3-TF-4960abbfe72bbf2d4707,gateway,uncertain,phishing,transfer,"LIoydsbank : You have successfully added a new payee via mobile banking at 15:05PM. If this WAS NOT you, please visit: [SAFE-URL-1]",ModernBERT,0.8622788190841675,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17742,V3-TF-4753b37cb184a8e56fef,gateway,uncertain,phishing,financial_service,"
+Update your MyGov details to receive payment click: [SAFE-URL-1] stainless
+",ModernBERT,0.7728943228721619,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17625,V3-TF-dd09b1d9488e27da6917,gateway,uncertain,phishing,account_restriction,"
+{ MYG0VAU } Annual upgrade in progress and Account is restricted please visit [SAFE-URL-1] to restore Account now
+",ModernBERT,0.9059626460075378,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-5360,V3-TF-786da99ad3f1c1aacafe,gateway,uncertain,phishing,account_restriction,[SAFE-EMAIL-1] / Alerts!!! / Your RBFCU Online Banking has been restricted Action required: [SAFE-URL-1],ModernBERT,0.9633617997169495,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3013,V3-TF-589b376ef4df68b34e8d,gateway,uncertain,phishing,transaction,BendigoBank:   Payment   authorised   of   '$82.31'   to   KIERAN   TIERNEY.   If   this   was   not   you   visit:   [SAFE-URL-1],ModernBERT,0.3937830328941345,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-15193,V3-TF-66e6d629f3e8f2c72a4c,gateway,uncertain,phishing,account_security,"
+"" CommAlert: A New device has been registered for mobile banking. If this was NOT you, Immediately Deregister via [SAFE-URL-1] ""
+",ModernBERT,0.8017001748085022,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3499,V3-TF-6912208849e3348f5d6a,gateway,uncertain,phishing,payment,"Bendigo: A payment of $5400 has been setup, to confirm or cancel your payment please login: [SAFE-URL-1]",ModernBERT,0.87543123960495,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2195,V3-TF-fc6ca126e7d10c46fbdb,gateway,uncertain,phishing,transfer,"ANZ: Your ANZ internet banking sent a new PayID request to MR A KHAN. Unless you specifically requested otherwise, please go to: [SAFE-URL-1]",ModernBERT,0.8740230798721313,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-1112,V3-TF-361de3ffa852f46205ad,gateway,uncertain,phishing,card,"17930ssXX   ALERT:   Your   card   has   been   blocked   due   to   suspicious   activity,   if   this   was   a   mistake   please   visit:   [SAFE-URL-1]   in   order   to   reactivatecoding=0",ModernBERT,0.2908729016780853,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-50334,V3-TF-1cdc925290a0d483da2d,gateway,uncertain,phishing,account_security,"
+800-951-8418TD#[email protected] / (URGENT) TD#ID00914 / TD Bank#09-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]
+",ModernBERT,0.7834064960479736,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3010,V3-TF-62436154626b2646afe0,gateway,uncertain,phishing,transaction,BendigoBank:  Payment  authorised  of  $86.45  to  Joseph  Parker.  If  this  was  not  you  please  visit:  [SAFE-URL-1],ModernBERT,0.04011577367782593,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17831,V3-TF-85f02d18cb8033d32f72,gateway,uncertain,phishing,refund,"
+Update!!! Your tax profile was successfully linked. Visit [SAFE-URL-1] to find out more. to authorize your payments and ask for a refund.
+",ModernBERT,0.901960015296936,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3198,V3-TF-cf760c797d7e29d2783e,gateway,uncertain,phishing,refund,ATO: you are entitled to a tax refund. Complete the refund on our website: [SAFE-URL-1],ModernBERT,0.98509281873703,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17834,V3-TF-1b3b227ab71a510436f1,gateway,uncertain,phishing,refund,"
+[Alert] : Your MYgov payment is ready for claim. Visit [SAFE-URL-1]
+",ModernBERT,0.9112281799316406,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-66144,V3-TF-7830d5578e572d817f9a,gateway,uncertain,phishing,transaction,"
+3601ING: A suspicious transaction has been placed on hold. Please visit [SAFE-URL-1] to review this payment.
+",ModernBERT,0.8851916193962097,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17735,V3-TF-4d19d94a8be7a36b970f,gateway,uncertain,phishing,refund,"
+ATO: Congratulations! your pending refund has been approved and your balance is now $22,844.05. Visit: [SAFE-URL-1] to authorize
+",ModernBERT,0.9022102355957031,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-68026,V3-TF-1548f8b7a396972f3a97,gateway,uncertain,phishing,verification,"[SAFE-EMAIL-1] / Zelle Detected / Please, log in to [SAFE-URL-1] and verify your latest zelle payment. This is an automated alert",ModernBERT,0.6556330323219299,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-204,V3-TF-902e2a7f1c2b510df83f,gateway,uncertain,phishing,transaction,"You have attempted to authorize a new direct debit on 06/05 to J Matthews. If you do NOT recognize this, please visit: [SAFE-URL-1]",ModernBERT,0.8579148054122925,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3011,V3-TF-6c9dd99d957b8bc34beb,gateway,uncertain,phishing,transaction,"Bendigo:  A  payment  was  sent  to  'BARRY  SMITH'  at  10:45AM  for  $61.99.  Was  this  you?  If  it  was  not  you,  visit  [SAFE-URL-1]",ModernBERT,0.037102919071912766,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17799,V3-TF-5cfc5f8bccc94f14b322,gateway,uncertain,phishing,refund,"
+Your Medicare claims and payment are now available for filing and disbursement. To complete, visit [SAFE-URL-1]
+",ModernBERT,0.8836594820022583,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2330,V3-TF-68643a07fbd13b36a040,gateway,uncertain,phishing,card,BOA ALERT: PLEASE CONFIRM YOUR DEBIT CARD AND PIN HERE : [SAFE-URL-1],ModernBERT,0.9325243830680847,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-49333,V3-TF-2dd1655921d31457af1e,gateway,uncertain,phishing,refund,"
+my-Gov: Our algorithm determined that you are eligible for a refund of 52669. You can request your refund at [SAFE-URL-1]
+",ModernBERT,0.92362380027771,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17495,V3-TF-5834cdac7fc12adfaa6a,gateway,uncertain,phishing,refund,"
+MyGov:You just received a credit of $1,924.89 AUD to accept payment click [SAFE-URL-1] Now.
+",ModernBERT,0.8331476449966431,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-67788,V3-TF-3e6b82d9f2c64a39aa1e,gateway,uncertain,phishing,card,[SAFE-URL-1] / WellsFargo Alrt / Your debit card was locked. Please follow the link to unlock [SAFE-URL-2],ModernBERT,0.866707980632782,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2116,V3-TF-f63aa090844e8ea4307f,gateway,uncertain,phishing,card,An Unauthorised Transaction was performed using your Commbank Visa/Debit card. Please visit [SAFE-URL-1] to Authorise or Cancel this request.,ModernBERT,0.651193380355835,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17684,V3-TF-9a575433ce41fe6582d1,gateway,uncertain,phishing,account_restriction,"
+Your account has been restricted due to suspicious activity. To resolve the issue click on [SAFE-URL-1]
+ ",ModernBERT,0.9122143387794495,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-60016,V3-TF-7b74316add5536bdaf70,gateway,uncertain,phishing,account_security,"[email protected] / Support / Account locked , unlock now at : [SAFE-URL-1]",ModernBERT,0.724103569984436,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-15797,V3-TF-3ccd36c7491308497f24,gateway,uncertain,phishing,account_restriction,"
+Bendigo Bank: Your account has been suspended. Please visit: [SAFE-URL-1] Bendigo Security Team.
+",ModernBERT,0.9243616461753845,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-67491,V3-TF-299654412cb6a5a38a3b,gateway,uncertain,phishing,payment,"
+Ntflx : Subscription automatic debit failed. Log in to update your information via: [SAFE-URL-1]
+",ModernBERT,0.8426690101623535,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17529,V3-TF-48d6935d130d6d6a75b0,gateway,uncertain,phishing,refund,"
+A payment of $5,045.00 is awaiting verification. To get started with accessing your state and federal returns. Visit [SAFE-URL-1]
+",ModernBERT,0.8880923986434937,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2145,V3-TF-1936d4777b773b69c303,gateway,uncertain,phishing,verification,INGBank Alert Notification: We need you to confirm if this payment just made was really you. Visit [SAFE-URL-1] and follow instructions.,ModernBERT,0.8426910042762756,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-38758,V3-TF-c06056b77a966cf342a1,gateway,uncertain,phishing,payment,"
+SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-1] . incase of any question SHAHID has invited you to make online payments. Login to brightwheel to get setup. Reply STOP to unsubscribe.
+",ModernBERT,0.6919459104537964,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16392,V3-TF-fc4f877d78164795ed5a,gateway,uncertain,phishing,account_restriction,"
+[M&T Bank] Your account has been temporarily disabled. Please login again to regain access . [SAFE-URL-1]
+",ModernBERT,0.9296076893806458,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-13622,V3-TF-b3f0be606192f40f5a46,gateway,uncertain,phishing,verification,"CACU: Multiple failed ATTEMPTS, Confirm transaction by clicking [SAFE-URL-1] we worry about any threats to your data security.",ModernBERT,0.7440475225448608,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17642,V3-TF-bdd14e7fd707f750c934,gateway,uncertain,phishing,account_restriction,951842 Your Account .has been suspended Due to Some security reasons please VERIFY your information Now clik here [SAFE-URL-1],ModernBERT,0.8945079445838928,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2525,V3-TF-b7b114492854baa24966,gateway,uncertain,phishing,transaction,"Bendigo: A payment was made of '$90.99' to a new payee 'RYAN TAYLOR' just now. If you did NOT make this, please visit: [SAFE-URL-1]",ModernBERT,0.7067860960960388,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-60564,V3-TF-4be63b83edc280a615c4,gateway,uncertain,phishing,verification,[email protected] / TD Bank Alert / Verify your online bank account now at : [SAFE-URL-1],ModernBERT,0.9029004573822021,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2346,V3-TF-1c24a4952fb0fba47c26,gateway,uncertain,phishing,payment,COMMBANK: We have temporarily put a hold on recent payment. For the next steps please follow our link [SAFE-URL-1],ModernBERT,0.9455657005310059,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17464,V3-TF-44778f22a41b9c254bb5,gateway,uncertain,phishing,transaction,"
+NET-Commonwealth: Transaction made at MEL and remitted to DWFinance. If this was not you?, Visit [[SAFE-URL-1] to cancel activity #V747
+",ModernBERT,0.8876134157180786,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3881,V3-TF-dbd05521e3605ad3199d,gateway,uncertain,phishing,fraud_alert,eva Bendigo Bank: URGENT action required due to a suspicious withdrawal of $1099.21 to M BAXTER. Visit [SAFE-URL-1] to prevent this action.,ModernBERT,0.9297138452529907,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-539,V3-TF-071eb747914ba20b6e85,gateway,uncertain,phishing,payment,"ANZ: you have set up a new payment to MR C JONES. If this was not you, please visit: [SAFE-URL-1] route:3",ModernBERT,0.8878409266471863,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2340,V3-TF-56154583131044848ddd,gateway,uncertain,phishing,fraud_alert,Alert: Suspicious transaction has been detected on your account. Please visit [SAFE-URL-1],ModernBERT,0.9190805554389954,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2526,V3-TF-cbe82c459f3a1412b76d,gateway,uncertain,phishing,transaction,"Bendigo: A payment was made of '$90.99' to RYAN TAYLOR just now. If you didn't make this transaction, block it here: [SAFE-URL-1]",ModernBERT,0.815228283405304,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-13410,V3-TF-6fa71a1e64071fca0577,gateway,uncertain,phishing,card,CA  Prepaid  Debit  :  You  are  required  to  reactivate  your  CA  prepaid  starting  4427**  at  [SAFE-URL-1]  to  avoid  loss  of  bals.,ModernBERT,0.047637470066547394,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3373,V3-TF-da75fc63428e2105d01c,gateway,uncertain,phishing,transaction,"An amount of 348.93$ has been debited from your mobile banking, Not you? Visit: [SAFE-URL-1]",ModernBERT,0.9182446002960205,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2111,V3-TF-f30dea4611be60445f15,gateway,uncertain,phishing,card,An Unauthorised Transaction was done with the use of your Commbank Visa/Debit card. Please go to [SAFE-URL-1] to Authorise or Cancel this request. route:3,ModernBERT,0.5489649176597595,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-4073,V3-TF-67f12a0be416b2bdc0dd,gateway,uncertain,phishing,refund,You  have  an  outstanding  refund  From  MyGov.  Your  refund  is  available  online  :701.98  AUD  To  accept  this  online  payment  go  to:  [SAFE-URL-1],ModernBERT,0.03047838620841503,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2874,V3-TF-386c48d1a0e904bf2200,gateway,uncertain,phishing,payment,"Bendigo: You've scheduled a payment of '$58.85' to 'JOE BROOKE' on 22/07. Is this recognisable? If NOT, please visit: [SAFE-URL-1]",ModernBERT,0.8265395760536194,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-36662,V3-TF-78fcd29e19970ab21557,gateway,uncertain,phishing,payment,"
+Payment in the amount of 50.00 CAD was sent to you. Get it by the e-transfer here: [SAFE-URL-1]
+",ModernBERT,0.8732836246490479,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17585,V3-TF-469f06a0a21c2e85db71,gateway,uncertain,phishing,transfer,"
+[Veridian_CU]: A transfer was requested to debit $665.66 on 11/8/22 via ACH/checking ref #6473. If not you, visit [SAFE-URL-1] to cancel.
+",ModernBERT,0.7945476770401001,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-8429,V3-TF-b43512cad7f74dacf457,gateway,uncertain,phishing,account_security,"
+[WELLS’Alert] : New ACH account linked. visit [SAFE-URL-1] to remove or proceed with payment.
+",ModernBERT,0.7825290560722351,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-24241,V3-TF-62b264679af05499704f,gateway,uncertain,phishing,transaction,"
+A payment of ?387.62 has been attempted on 13/04 at 09:15AM from a new device. If this was NOT you, please cancel via: [SAFE-URL-1] route:2
+",ModernBERT,0.8150249123573303,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-5376,V3-TF-d097a6ffe8666cad5e4a,gateway,uncertain,phishing,payment,"BENDlGO: A payment has been setup on 15/08 to MlKE ROSE, if this was not you please continue here: [SAFE-URL-1]",ModernBERT,0.8965069055557251,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17553,V3-TF-f3f75deb6db482da14a9,gateway,uncertain,phishing,refund,"
+You have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1] t1
+",ModernBERT,0.9531382918357849,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-1688,V3-TF-394c9f40f94416956c6a,gateway,uncertain,phishing,account_restriction,[email protected]  /  Your  Account  Has  Been  Locked  /  CITI_SERVICE  #27150:  Your  account  access  has  been  limited  due  to  fraudulent  activity.  Please  visit  [SAFE-URL-1]  to  unlock  your  account.,ModernBERT,0.010324863716959953,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-30,V3-TF-fa848cf03e2061bf258f,gateway,uncertain,phishing,account_security,PayPal:  Your  account  has  been  limited  because  we  detected  unusual  sign  in  activity  on  your  account  with  CASE-ID#PP-L-3037638964536.  Check  now  and  login  to  verify:  [SAFE-URL-1],ModernBERT,0.017342284321784973,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2211,V3-TF-f8e1cec7d3fc6e2adf1a,gateway,uncertain,phishing,card,"Your debit card has been deactivated for your security. Not expecting this?. Visit [SAFE-URL-1] to review the activity.
+",ModernBERT,0.8601789474487305,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-14,V3-TF-feed473e040af2b4b129,gateway,uncertain,phishing,card,An unauthorised transaction was performed using your PTSB Visa Card. You can Authorize or Cancel this request at:[SAFE-URL-1],ModernBERT,0.7543532848358154,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17569,V3-TF-8eb89a9e22e2b5b7eddf,gateway,uncertain,phishing,account_restriction,"
+Your account as been restricted please Visit [SAFE-URL-1]
+",ModernBERT,0.9027738571166992,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16315,V3-TF-616466256e4a887fcf41,gateway,uncertain,phishing,payment,"
+489817 Wells Fargo: A payment of $216 was placed on hold to APPLE. Please visit [SAFE-URL-1] to review this payment
+",ModernBERT,0.8312100172042847,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-5533,V3-TF-3479305b7b3967369a56,gateway,uncertain,phishing,verification,We have but a block on your C1tizen 0nline Banking acc0unt due to Unusual Activity. Kindly l0gin to verify your info at [SAFE-URL-1],ModernBERT,0.7904981374740601,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16333,V3-TF-ee0f3aef7c6e40a5254d,gateway,uncertain,phishing,account_security,"
+79BendigoBank: Your new PayID: Samir Khan, was set up on mobile banking on 28/12/22 if this was not you please visit: [SAFE-URL-1]
+",ModernBERT,0.7693848013877869,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-16180,V3-TF-8b31c5372c8c40575175,gateway,uncertain,phishing,account_security,"
+Notice-4536from WellsFargo-Bank: Your account has been temporarily locked for security reason, Please contact us now at [SAFE-URL-1]
+",ModernBERT,0.8669309020042419,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17811,V3-TF-1002b1ab57ef17eaa4dc,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your Account information now to claim your refund [2023]. Kindly visit [SAFE-URL-1]
+",ModernBERT,0.9043155908584595,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17802,V3-TF-0cf7ebca50e0e4f32d06,gateway,uncertain,phishing,refund,"
+We determine you are entitled to receive this payment. Your refund is 6980.85 AUD. Go to [SAFE-URL-1] quickly to claim MyG0V Team.
+",ModernBERT,0.8936659097671509,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-318,V3-TF-e4c9e7e4ca5aa642c9c1,gateway,uncertain,phishing,account_security,"Your   account   has   been   suspended   due   to   multiple   failed   login   attempts.   To   unblock   your   account,   please   visit:   [SAFE-URL-1]",ModernBERT,0.08133012056350708,0,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17842,V3-TF-9f83f89c57e1c601c33a,gateway,uncertain,phishing,refund,"
+You are eligible for a Tax Refund of 19,057 , click on this link to authenticate your account [SAFE-URL-1] and receive your refund .
+",ModernBERT,0.9132501482963562,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-2131,V3-TF-1cc5b185536c81251b18,gateway,uncertain,phishing,transaction,A transaction was made from your account to an international account please visit [SAFE-URL-1] to verify if this was you.,ModernBERT,0.7792896628379822,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-17482,V3-TF-6dd331a572f8bc020650,gateway,uncertain,phishing,payment,"
+Pending ATO payment, Resolve now to get payment at [SAFE-URL-1]
+",ModernBERT,0.8538806438446045,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e
+gateway-3786,V3-TF-2587390b803e034c1c29,gateway,uncertain,phishing,fraud_alert,Your bendigo account has been debited $1097 from an unusual location. If you did not authorise this transaction please visit [SAFE-URL-1],ModernBERT,0.8974905610084534,1,1,a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e

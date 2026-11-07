@@ -1,0 +1,23 @@
+{
+  "status": "PILOT NOT READY",
+  "historical_files_checked": 440,
+  "unchanged_files": 439,
+  "authorized_updates": [
+    "results/benchmark_v2_1/PRESENTATION_SUMMARY.md"
+  ],
+  "prior_summary_archive_matches": true,
+  "selected_candidate_frames": 29,
+  "candidate_labels": {
+    "phishing_scam": 24,
+    "legitimate": 5
+  },
+  "template_families": 29,
+  "unsafe_selected_texts": 0,
+  "stage_A_assignments": 58,
+  "source_approvals": 0,
+  "api_generation_calls": 0,
+  "generation_allowed": false,
+  "complete_case_frames": 0,
+  "frozen_condition_rows": 0,
+  "tests_passed": 159
+}

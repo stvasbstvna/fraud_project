@@ -1,0 +1,7 @@
+split,label,N
+held_out_test,legitimate,2
+held_out_test,phishing,33
+train,legitimate,8
+train,phishing,153
+validation,legitimate,2
+validation,phishing,33

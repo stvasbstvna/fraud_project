@@ -1,0 +1,9 @@
+# 04 original detection
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model | experiment | model_sha256 | N | phishing | legitimate | accuracy | precision | recall | F1 | specificity | false_negative_rate | false_positive_rate | ROC_AUC | PR_AUC | average_precision | TN | FP | FN | TP | threshold |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR | primary | 2bf761f765c22ab418d15c596e7a454b7db8d70f39ec346eec9b0058fdd01e4f | 34 | 33 | 1 | 0.9705882352941176 | 0.9705882352941176 | 1.0 | 0.9850746268656716 | 0.0 | 0.0 | 1.0 | 1.0 | 1.0 | 1.0 | 0 | 1 | 0 | 33 | 0.5 |
+| RF | primary | 774565ec21111867d26dc8c0874fcab2da363e89d3da110c9cf864ae821ec104 | 34 | 33 | 1 | 0.9705882352941176 | 0.9705882352941176 | 1.0 | 0.9850746268656716 | 0.0 | 0.0 | 1.0 | 1.0 | 1.0 | 1.0 | 0 | 1 | 0 | 33 | 0.5 |
+| ModernBERT | primary | 2f22676530245bcbd2492e0ef406e1b2abad8712a4be96b90897fc31bba5e7b4 | 34 | 33 | 1 | 0.9705882352941176 | 0.9705882352941176 | 1.0 | 0.9850746268656716 | 0.0 | 0.0 | 1.0 | 1.0 | 1.0 | 1.0 | 0 | 1 | 0 | 33 | 0.5 |

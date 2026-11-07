@@ -1,0 +1,35 @@
+{
+  "N": {
+    "primary_complete_frames": 0,
+    "rows": 6,
+    "source_frames": 1
+  },
+  "allowed_interpretation": "Conditional descriptive paired observations",
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "filters": "approved available pairs; no complete-case requirement",
+  "forbidden_interpretation": "Primary completeness, population robustness or causal model ranking",
+  "generated_at": "2026-11-07T11:42:25.308364+00:00",
+  "main_observation": "Nearest median available-frame movement; NOT a complete or primary representative. Lines break at missing conditions.",
+  "models": [
+    "LR",
+    "RF",
+    "ModernBERT"
+  ],
+  "research_question": "Partial diagnostic example: mendeley-4882",
+  "script": "src/benchmark_v3_2/available_figures.py",
+  "source_data": [
+    "data/benchmark_v3_2/frozen/robustness_matrix.csv",
+    "results/benchmark_v3_2/predictions/LR_predictions.csv",
+    "results/benchmark_v3_2/predictions/RF_predictions.csv",
+    "results/benchmark_v3_2/predictions/ModernBERT_predictions.csv"
+  ],
+  "title": "Partial diagnostic example: mendeley-4882",
+  "x_axis": "Condition or frame as labelled",
+  "y_axis": "As labelled on plot"
+}

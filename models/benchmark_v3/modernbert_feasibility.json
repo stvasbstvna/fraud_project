@@ -1,0 +1,51 @@
+{
+  "status": "NOT_RESEARCH_SYNTHETIC_FEASIBILITY_ONLY",
+  "hardware": {
+    "device": "cpu",
+    "cuda_available": false,
+    "mps_available": false,
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+    "logical_cpus": 24,
+    "total_ram_bytes": 33752997888,
+    "available_ram_bytes": 4844978176,
+    "torch": "2.15.0+cpu"
+  },
+  "seed": 42,
+  "batch_size": 2,
+  "max_length": 128,
+  "optimizer": "AdamW",
+  "all_parameters_trainable": true,
+  "parameters": 149606402,
+  "steps": [
+    {
+      "step": 1,
+      "loss": 0.6563669443130493,
+      "seconds": 1.5240004999795929
+    },
+    {
+      "step": 2,
+      "loss": 0.3737596869468689,
+      "seconds": 0.9293961999937892
+    }
+  ],
+  "process_memory_bytes": {
+    "rss": 2975326208,
+    "vms": 4656218112,
+    "num_page_faults": 976601,
+    "peak_wset": 3294257152,
+    "wset": 2975326208,
+    "peak_paged_pool": 3547320,
+    "paged_pool": 2378200,
+    "peak_nonpaged_pool": 96824,
+    "nonpaged_pool": 96824,
+    "pagefile": 4656218112,
+    "peak_pagefile": 5008003072,
+    "private": 4656218112
+  },
+  "estimated_training_seconds_per_epoch_at_128_tokens": {
+    "100": 46.46980999968946,
+    "1000": 464.6980999968946,
+    "10000": 4646.980999968946
+  }
+}

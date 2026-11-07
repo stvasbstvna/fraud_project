@@ -1,0 +1,11 @@
+{
+  "primary_generator_model": "gpt-5.4-mini-2026-03-17",
+  "prompt_id": "neutral_rewrite_v1",
+  "frozen_input": "data\\rewrite_experiment\\original_banking_test_frozen.csv",
+  "pairs": 156,
+  "rows": 312,
+  "phishing_pairs": 146,
+  "non_phishing_pairs": 10,
+  "detector_feedback_used": false,
+  "detectors_retrained": false
+}

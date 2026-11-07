@@ -1,0 +1,58 @@
+{
+  "cohort_sha256": "e5fa9d7277ff19b78c21f8d7e79eb088b5dc5583792f31de186747d5bacdc74f",
+  "control_limitation": "Very few independent controls; all model results exploratory, not a population benchmark",
+  "correction_note": "Explicit full-cohort language/financial eligibility audit corrects ASCII false positives before final refits. Labels are not flipped; retained cases keep their prior labels. Hyperparameters unchanged; earlier inspected pools mean exploratory results only.",
+  "correction_plan_sha256": "ac7c7ce5c25060326823ab6cd84b83ec21196fb90838109fd8963ef86be44149",
+  "final_eligibility_decisions_sha256": "0801c120c4e76c24868c22973a6470c368980e0ec4c8f28b40fb8a77dee5c3db",
+  "final_eligibility_exclusions": 33,
+  "final_eligibility_plan_sha256": "bbf66a1e1afa7b95085ec27b1464e6c2a70aef59160c270035009447481b2ce3",
+  "labels": {
+    "legitimate": 9,
+    "phishing": 186
+  },
+  "minimum_desired_300_per_class_met": false,
+  "origin_types": {
+    "real": 28,
+    "uncertain": 167
+  },
+  "previous_cohort_sha256": "cd81703bba914ea63379ed9535003661246c46c200de75594e4c743a0082da38",
+  "primary_split_counts": {
+    "held_out_test": {
+      "legitimate": 1,
+      "phishing": 28
+    },
+    "train": {
+      "legitimate": 7,
+      "phishing": 130
+    },
+    "validation": {
+      "legitimate": 1,
+      "phishing": 28
+    }
+  },
+  "protocol_sha256": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+  "raw_machine_approved": 312,
+  "robustness_status": "NOT RUN if held-out controls below predeclared10 per class",
+  "rows": 195,
+  "source_holdout_cohort_sha256": "39aaa647f6d875aa88d7f741e8435d3b52c0d3bbabce55ece377e22bdd912894",
+  "source_holdout_counts": {
+    "source_test": 167,
+    "train": 24,
+    "validation": 4
+  },
+  "source_holdout_label_counts": {
+    "phishing": 167
+  },
+  "source_registry_sha256": "197255540c7da5f1afb3de487f6cab85456dcffb64c6909b77c7bba9e376ecde",
+  "source_review_protocol_sha256": "8fc9cb3738e37052db8c5a63fbeb086c5ad7887dc7ea77722ded5a3e866116ff",
+  "sources": {
+    "gateway": 167,
+    "mendeley": 24,
+    "nus": 4
+  },
+  "status": "FROZEN_FINAL_EXPLORATORY_SOURCE_QA_CORRECTED",
+  "template_exclusions": 84,
+  "template_families": 195,
+  "temporal_status": "NOT RUN unreliable original message timestamps; collection/submission time not substituted",
+  "validation_type": "automated_semantic_review_not_independent_human"
+}

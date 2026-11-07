@@ -1,0 +1,118 @@
+benchmark:
+  name: banking_smishing_robustness_v2
+  dataset_version: "0.2.0-methodology-review"
+  status: protocol_design_no_samples_generated
+  unit_of_independence: scenario_id
+  populations:
+    prompt_development_pilot:
+      included_in_benchmark_v2: false
+      phishing_scenarios: 24
+      legitimate_scenarios: 24
+    quality_validation:
+      included_in_confirmatory_analysis: false
+      phishing_scenarios: TBD_AFTER_POWER_AND_REVIEW_PLAN
+      legitimate_scenarios: TBD_AFTER_POWER_AND_REVIEW_PLAN
+    confirmatory_final_test:
+      untouched_until_protocol_and_quality_freeze: true
+      phishing_scenarios: TBD_BY_POWER_ANALYSIS
+      legitimate_scenarios: TBD_BY_POWER_ANALYSIS
+  variants_per_scenario: 4
+  conditions:
+    C0_template: {parent: null, anchor: self, transformation: anchor_template}
+    C1_fluent: {parent: C0_template, anchor: C0_template, transformation: fluency_correction_only}
+    C2_natural: {parent: C0_template, anchor: C0_template, transformation: composite_naturalization}
+    C3_natural_softened: {parent: C2_natural, anchor: C0_template, transformation: action_explicitness_reduction_only_from_C2}
+  event_distribution: REQUIRES_FACULTY_APPROVAL
+  tactic_distribution: REQUIRES_FACULTY_APPROVAL
+  requested_action_distribution: REQUIRES_FACULTY_APPROVAL
+  source_proportions: REQUIRES_SOURCE_AUTHORIZATION_DECISION
+generation:
+  generator_pool:
+    version: "0.1.0-unfrozen"
+    entries:
+      - generator_block_id: GB-CANDIDATE-001
+        provider: OpenAI
+        model: gpt-5.4-mini
+        exact_model_version: gpt-5.4-mini-2026-03-17
+        access_method: Responses API with strict JSON-schema structured output
+        supported_seed_behavior: no_seed_used_and_deterministic_sampling_not_claimed
+        temperature: 0.2
+        structured_output_support: true
+        assignment_weight: 0.0
+        status: inactive
+  assignment_unit: scenario_id
+  assignment_rule: one_generator_produces_C1_C2_C3_within_each_scenario
+  balance_blocks_across: [label, banking_event, requested_action, source_type, population]
+  assignment_method: seeded_stratified_block_randomization
+  assignment_manifest_version: TBD_AT_PROTOCOL_FREEZE
+  prohibit_generator_condition_confounding: true
+  fully_crossed_generator_subset:
+    enabled: TBD_AFTER_POWER_AND_BUDGET_REVIEW
+    purpose: estimate_generator_specific_stylistic_effects
+    independent_scenario_credit: false
+    size: TBD_AFTER_POWER_AND_BUDGET_REVIEW
+  settings: {temperature: 0.2, top_p: 1.0, seed: null, replicates_per_condition: 1}
+  prompts:
+    C0_template: {prompt_id: null, version: null}
+    C1_fluent: {prompt_id: b2_c1_v0_1_DRAFT, version: 0.1-draft}
+    C2_natural: {prompt_id: b2_c2_v0_1_DRAFT, version: 0.1-draft}
+    C3_natural_softened: {prompt_id: b2_c3_v0_1_DRAFT, version: 0.1-draft}
+  leakage_prohibition: detector_outputs_features_thresholds_errors_and_detector_selected_examples_never_available_to_generator
+validation:
+  sms_length_characters: {minimum: 10, maximum: 480}
+  near_duplicate_similarity_threshold: 0.92
+  condition_specific:
+    C0_template: {required: [template_fidelity, semantic_preservation]}
+    C1_fluent: {required: [correction_fidelity, semantic_preservation, minimal_lexical_change]}
+    C2_natural: {required: [naturalness, semantic_preservation, condition_fit]}
+    C3_natural_softened: {required: [naturalness, semantic_preservation, condition_fit, action_explicitness_reduction]}
+  naturalness_rating_scale: {minimum: 1, maximum: 5}
+  action_explicitness_rating_scale: {minimum: 1, maximum: 5}
+  C3_manipulation_check:
+    variant_level: condition_fit_review_without_automatic_rejection_for_a_single_rating_tie
+    reviewer_aggregation: median_within_variant_then_scenario_paired_difference
+    ties: retained_as_zero_difference
+    acceptable_aggregate_effect: TBD_BEFORE_EVALUATION
+    ordered_direction: aggregate_C3_explicitness_lower_than_C2
+    disagreement: blinded_adjudication_without_detector_outputs
+  reject_active_urls: true
+  reject_www_or_non_defanged_domains: true
+  reject_emails: true
+  reject_unexpected_phone_numbers: true
+review:
+  blinded_conditions_where_practical: true
+  detector_results_hidden: true
+  second_reviewer_fraction: {minimum: 0.10, maximum: 0.20}
+  adjudication_required: true
+populations:
+  allowed: [quality_validation, confirmatory_final_test]
+  prompt_development_storage: data/benchmark_v2_prompt_pilot
+  group_by: [scenario_id, scenario_family_id]
+  prevent_near_duplicate_cross_population: true
+analysis:
+  primary_population: complete_approved_condition_set_for_each_contrast
+  sensitivity_population: available_approved_pairs
+  primary_outcome: binary phishing prediction at the detector's frozen threshold
+  primary_estimands:
+    H1: paired_recall_difference_C2_minus_C0
+    H3: paired_recall_difference_C3_minus_C2
+    H2: mean_of_indicator_C0_ne_C2_minus_indicator_C0_ne_C1
+  confirmatory_tests:
+    - H1_logistic_regression
+    - H1_random_forest
+    - H2_logistic_regression
+    - H2_random_forest
+    - H3_logistic_regression
+    - H3_random_forest
+    - H4_detector_interaction
+  confirmatory_test_count: 7
+  confirmatory_familywise_alpha: 0.05
+  multiplicity_method: Holm
+random_seed: 20260827
+outputs:
+  semantic_frames: data/benchmark_v2/semantic_frames.jsonl
+  variants: data/benchmark_v2/variants.jsonl
+  source_manifest: data/benchmark_v2/source_manifest.jsonl
+  reviews: data/benchmark_v2/reviews.jsonl
+  validation_report: results/benchmark_v2/validation_report.json
+  split_manifest: data/benchmark_v2/population_manifest.csv

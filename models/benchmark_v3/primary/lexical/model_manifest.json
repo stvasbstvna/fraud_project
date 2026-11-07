@@ -1,0 +1,34 @@
+{
+  "experiment": "primary",
+  "fitted_feature_count": 2821,
+  "frozen_cohort_sha256": "6ca8c803e02f3135f094cfc2cd42a7ea5f780047bfd5f049c890c4ba9ff2f0f3",
+  "hyperparameters": "fixed prospectively in experiment_protocol.json",
+  "identical_fitted_tfidf": true,
+  "models": {
+    "LR": {
+      "class_mapping": {
+        "0": "legitimate",
+        "1": "phishing"
+      },
+      "file": "LR.joblib",
+      "sha256": "0dcca08dc2ad0fe78c15eaf5127d2200ab480bcf74f391a40d25d4854223ebce"
+    },
+    "RF": {
+      "class_mapping": {
+        "0": "legitimate",
+        "1": "phishing"
+      },
+      "file": "RF.joblib",
+      "sha256": "20d390eae706ba9f4a0e2ff07b52977b72ef07b4a342481bac6ca645e1c95b3b"
+    }
+  },
+  "protocol_sha256": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+  "status": "FROZEN_EXPLORATORY",
+  "test_used_for_fitting_or_tuning": false,
+  "threshold": 0.5,
+  "training_labels": {
+    "legitimate": 8,
+    "phishing": 153
+  },
+  "training_rows": 161
+}

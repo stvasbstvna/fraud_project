@@ -1,0 +1,4 @@
+model,experiment,model_sha256,N,phishing,legitimate,accuracy,precision,recall,F1,specificity,false_negative_rate,false_positive_rate,ROC_AUC,PR_AUC,average_precision,TN,FP,FN,TP,threshold
+LR,source_holdout,7184ef35c32785efdb21741f6d333f25379a5180b326dce92980d63274ac0ff6,194,194,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,194,0.5
+RF,source_holdout,ebb7d2b4cbf6b23e78ffd909ac216fcb3703bde9da6a3e20f2f950f7feeac7a7,194,194,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,194,0.5
+ModernBERT,source_holdout,476307f7951d62e21821fd9eaf26997a791c099ecc4992360c6cf11b96ae6301,194,194,0,0.8298969072164949,1.0,0.8298969072164949,0.9070422535211268,,0.17010309278350516,,,,,0,0,33,161,0.5

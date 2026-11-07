@@ -1,0 +1,5 @@
+frame_id,semantic_review_label,decision,reason,before_generation_and_scoring
+gateway-8251,phishing,exclude_not_relabel,Generic account identity verification with no explicit financial institution or financial event,True
+nus-3592,legitimate,exclude_not_relabel,UniPay2U gold monthly bonus investment claim: institutional legitimacy unresolved; no confident legitimate control,True
+nus-1889,legitimate,exclude_not_relabel,"Developer-company bank details sharing, not institutional financial-service notification",True
+nus-3847,legitimate,exclude_not_relabel,"Unspecified refill/pay-retailer service, possible telco top-up; financial eligibility unresolved",True

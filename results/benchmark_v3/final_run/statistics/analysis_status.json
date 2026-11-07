@@ -1,0 +1,11 @@
+{
+  "Holm_family": "three primary-model exact McNemar tests",
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 42,
+  "confirmatory_inference": false,
+  "control_test_N": 1,
+  "independent_unit": "template family representative",
+  "note": "Stratified bootstrap conditions on observed class composition; exact binomial control intervals show uncertainty absent from degenerate resamples.",
+  "paired_tests": 3,
+  "status": "EXPLORATORY"
+}

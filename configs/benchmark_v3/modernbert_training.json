@@ -1,0 +1,18 @@
+{
+  "model_id": "answerdotai/ModernBERT-base",
+  "learning_rate": 0.00002,
+  "batch_size": 2,
+  "epochs": 2,
+  "weight_decay": 0.01,
+  "warmup": 0,
+  "max_length": "128 or 256, train+validation token lengths at 99th percentile",
+  "random_seed": 42,
+  "optimizer": "AdamW",
+  "scheduler": "constant",
+  "early_stopping": false,
+  "checkpoint_selection": "save best validation cross entropy checkpoint",
+  "decision_threshold": 0.5,
+  "reference_compile": false,
+  "attn_implementation": "sdpa",
+  "tuning_policy": "No test examples or labels enter fitting, checkpoint selection, or length selection."
+}

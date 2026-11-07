@@ -1,0 +1,5 @@
+frame_id,true_label,pilot_complete_case,rejected_conditions,reason
+BV21-002c3077ab11be66f6cdcd21,legitimate,False,C1;C2,one_or_more_required_conditions_failed
+BV21-1342c95e697ef60f72baeaad,legitimate,False,C2,one_or_more_required_conditions_failed
+P48-197b92bfdb2dcf81df2da056,phishing_scam,False,C1;C2;C6,one_or_more_required_conditions_failed
+P48-2e9ff1c7f923e0cd7670dfc6,phishing_scam,False,C1;C2,one_or_more_required_conditions_failed

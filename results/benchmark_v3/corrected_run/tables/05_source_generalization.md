@@ -1,0 +1,9 @@
+# 05 source generalization
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model | experiment | model_sha256 | N | phishing | legitimate | accuracy | precision | recall | F1 | specificity | false_negative_rate | false_positive_rate | ROC_AUC | PR_AUC | average_precision | TN | FP | FN | TP | threshold |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR | source_holdout | b1637d4e58fcaee6b9b5a692ec8f1e5b228f8bba1379aa5a09f32cba006a2293 | 194 | 194 | 0 | 1.0 | 1.0 | 1.0 | 1.0 |  | 0.0 |  |  |  |  | 0 | 0 | 0 | 194 | 0.5 |
+| RF | source_holdout | 4b90fde5a98e470eb25eca18de4c213208eb76bbf05a3a4a2aa92461cba012f7 | 194 | 194 | 0 | 1.0 | 1.0 | 1.0 | 1.0 |  | 0.0 |  |  |  |  | 0 | 0 | 0 | 194 | 0.5 |
+| ModernBERT | source_holdout | 829fdb7b674765099413ada0473454a888169531289fa2f501bd8f8880b2389c | 194 | 194 | 0 | 0.8711340206185567 | 1.0 | 0.8711340206185567 | 0.931129476584022 |  | 0.1288659793814432 |  |  |  |  | 0 | 0 | 25 | 169 | 0.5 |

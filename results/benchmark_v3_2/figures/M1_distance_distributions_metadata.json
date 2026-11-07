@@ -1,0 +1,31 @@
+{
+  "title": "Manipulation-check distance distributions",
+  "research_question": "How much surface variation did each condition produce?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv",
+    "results\\benchmark_v3_2\\manipulation\\per_variant_distances.csv"
+  ],
+  "filters": "all approved available non-C0 rewrites; manipulation check independent of primary complete-case eligibility",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 56,
+    "distinct_frames_in_data": 10
+  },
+  "models": [],
+  "conditions": [
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Condition and distance measure",
+  "y_axis": "Observed distance / similarity",
+  "main_observation": "Distributions retain each metric's definition; unavailable values are omitted and observed N is exported.",
+  "allowed_interpretation": "TF-IDF cosine is lexical feature similarity; Jaccard and edit measures describe surface changes.",
+  "forbidden_interpretation": "Lexical cosine similarity must not be described as semantic preservation.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

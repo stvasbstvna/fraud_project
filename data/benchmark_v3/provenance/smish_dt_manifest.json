@@ -1,0 +1,81 @@
+{
+  "commit_sha": "cc54e15c188376d82019631d9198f667b1de862e",
+  "excluded_primary_paths": [
+    "ENRON Spam Dataset",
+    "KOR_smishing_data_raw",
+    "Bangla collections",
+    "british-english-sms-corpora.doc",
+    "revisedindiandataset.xls"
+  ],
+  "exclusion_note": "Non-SMS/non-English/unsupported source schema or unresolved original license; not silently pooled",
+  "files": [
+    {
+      "bytes": 595987,
+      "git_blob": "30aa7accdb18d8d932f296c70f95090d46eb7c39",
+      "git_identity_method": "exact_git_blob",
+      "path": "Dataset/Mendeley_Dataset_5971.csv",
+      "rows": 5971,
+      "sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e"
+    },
+    {
+      "bytes": 483481,
+      "git_blob": "02462fc99afb936b869333c27668d872b252c811",
+      "git_identity_method": "git_checkout_CRLF_only",
+      "path": "Dataset/UCI_SMSSpamCollection",
+      "rows": 5574,
+      "sha256": "55341228082b25b832a5868a5ab4b038142a57f70c676c123280af6ff457fe46"
+    },
+    {
+      "bytes": 12921482,
+      "git_blob": "7fe43b5161fa1ce524ab45cf1fb12c136597faec",
+      "git_identity_method": "git_checkout_CRLF_only",
+      "path": "Dataset/sp24-smishing/phishing_messages.csv",
+      "rows": 68029,
+      "sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295"
+    },
+    {
+      "bytes": 45984579,
+      "git_blob": "99f8a26f1665597ded357eca30a35d7a13bcad02",
+      "git_identity_method": "exact_git_blob",
+      "path": "Dataset/Singapore_smsCorpus_en_2015.03.09_all.json",
+      "rows": 55835,
+      "sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292"
+    },
+    {
+      "bytes": 731902,
+      "git_blob": "6a4fd83efa57912ff053698bd2b09b4cd16e5580",
+      "git_identity_method": "exact_git_blob",
+      "path": "Dataset/smishtank.csv",
+      "rows": 1062,
+      "sha256": "55dd9a19d48b51a86acd35b97cfa50f77453488434498521ce1f6ba5d52bef15"
+    },
+    {
+      "bytes": 3929616,
+      "git_blob": "c7882c7ac9d7f26e8eae435d710af4a870580195",
+      "git_identity_method": "git_checkout_CRLF_only",
+      "path": "Dataset/SPAM-Hunter_full_dataset_messages.csv",
+      "rows": 25826,
+      "sha256": "ad9124f8c1263ca01189652212adf23c35d572d46b61d9ea788fdba3b2f9ec1e"
+    },
+    {
+      "bytes": 6728482,
+      "git_blob": "0bc76ee5b855e2ee78c0cae9db2106d1482e8bf2",
+      "git_identity_method": "exact_git_blob",
+      "path": "Dataset/super_sms_dataset.csv",
+      "rows": 67010,
+      "sha256": "ba825b468b59fb229cc56c15a6c2d14d593a88051d54ea2f402166bf2ab894d3"
+    },
+    {
+      "bytes": 1007666,
+      "git_blob": "1263f149c0ed15e3d60d1fcdf5a630cfc235ef98",
+      "git_identity_method": "exact_git_blob",
+      "path": "Dataset/ExAIS_SMS Spam Dataset/all_ExAIS_SPAM_Dataset.csv",
+      "rows": 5240,
+      "sha256": "7e4eec5d9789dcaa4297eacc16ca81f7c97fc0fa39958f496b9e4631d9b9da61"
+    }
+  ],
+  "method": "git clone; required non-LFS SMS files verified against pinned Git objects; unrelated email LFS transfer interrupted",
+  "repository_url": "https://github.com/MarazMia/SMISH_DT",
+  "retrieval_timestamp_utc": "2026-11-07T03:32:28.206371+00:00",
+  "source_files_unmodified": true
+}

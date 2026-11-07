@@ -1,0 +1,1 @@
+Compare two saved, non-operational SMS variants C2 (direct) and C3 (indirect) of the same frame. Do not rewrite them. Is the recipient still asked to do the same action, and is C3 genuinely less direct than C2? Merely removing the action is not valid. No detector information is present. Return only the required booleans, subjective confidence and a brief reason.

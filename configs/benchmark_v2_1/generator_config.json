@@ -1,0 +1,57 @@
+{
+  "status": "PENDING_SOURCE_REVIEW_AND_PROVIDER_EXECUTION",
+  "active": false,
+  "provider": "OpenAI",
+  "exact_model_version": "gpt-5.4-mini-2026-03-17",
+  "model_availability": "NOT VERIFIED; inherited candidate, never silently substitute",
+  "api_type": "Responses API; external execution/JSONL ingestion adapter",
+  "temperature": 0.2,
+  "top_p": 1.0,
+  "seed": null,
+  "seed_support": "not assumed",
+  "generations_per_frame": 6,
+  "generations_per_frame_condition": 1,
+  "max_attempts": 2,
+  "retry_policy": "technical transport failure only; retain all attempts; no detector-guided or best-of selection",
+  "max_output_tokens": 500,
+  "structured_output_schema": {
+    "type": "object",
+    "properties": {
+      "frame_id": {
+        "type": "string"
+      },
+      "condition": {
+        "type": "string",
+        "enum": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6"
+        ]
+      },
+      "text": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "frame_id",
+      "condition",
+      "text"
+    ],
+    "additionalProperties": false
+  },
+  "timestamp_utc": "2026-11-06T16:17:42.759974+00:00",
+  "prompt_version": "canonical-v1",
+  "prompt_files": {
+    "C1": "C1_light_lexical_v1.txt",
+    "C2": "C2_direct_action_v1.txt",
+    "C3": "C3_softened_action_v1.txt",
+    "C4": "C4_natural_normalization_v1.txt",
+    "C5": "C5_strong_paraphrase_v1.txt",
+    "C6": "C6_high_distance_v1.txt"
+  },
+  "detector_feedback": "prohibited",
+  "execution_status": "NOT RUN"
+}

@@ -2,4 +2,11 @@ pandas>=2.2,<3
 scikit-learn>=1.5,<2
 joblib>=1.4,<2
 openpyxl>=3.1,<4
+matplotlib>=3.8,<4
 # Optional: xgboost, transformers, and torch for later model groups.
+openai>=1.66,<3
+python-dotenv>=1,<2
+streamlit>=1.57,<2
+jsonschema>=4.23,<5
+PyYAML>=6.0,<7
+pytest>=8,<9

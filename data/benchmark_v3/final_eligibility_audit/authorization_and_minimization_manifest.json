@@ -1,0 +1,2075 @@
+{
+  "purpose": "User-requested English financial SMS semantic population validation before final model refits",
+  "user_task_attachment": "d00c49dc-d084-48e9-a98d-07acccce97dc/Pasted text.txt sections7-11,42; current user explicitly continued work",
+  "authorization_context": "Public-source semantic review explicitly included in the requested automated benchmark; the same228defanged texts are a subset of707already reviewed public messages.",
+  "packet_sha256": "121b5e16016fedf4adb992886921325c1a45b8cfa1276d93235fbfc3270fe0df",
+  "source_cohort_sha256": "cd81703bba914ea63379ed9535003661246c46c200de75594e4c743a0082da38",
+  "record_count": 228,
+  "fields": [
+    "id",
+    "safe_text",
+    "label",
+    "source_id"
+  ],
+  "excluded": "API keys, headers, private inbox content, detector probabilities/predictions/features, raw operational endpoints",
+  "model_roles": {
+    "A": "gpt-5.4-mini-2026-03-17",
+    "B": "gpt-4.1-mini-2025-04-14",
+    "J": "gpt-4.1-2025-04-14"
+  },
+  "maximum_calls": 36,
+  "data_origins": [
+    {
+      "id": "gateway-6354",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "d138c336af9aa2aae4560099ef866de57df40b1995088652502d2f0ee1676e6c"
+    },
+    {
+      "id": "gateway-17683",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "5e42924341761cefa479b5a6db252bbd3ffc0eb83fb3e0d2fa1bbed463cc9aea"
+    },
+    {
+      "id": "gateway-8787",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "50b97715c6c5ae50e21b261694592cc5aedb997af6dc6e3feaee4ebd6742ea53"
+    },
+    {
+      "id": "gateway-2268",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "637bf4b5025375ea1b1723d8231e21cde0655a4dbe00b339998b8ac0ef309875"
+    },
+    {
+      "id": "mendeley-4088",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "fb573076f310809acc58e1952fcd1d1319ba4f832261bf967661e7e5d04bb5e9"
+    },
+    {
+      "id": "mendeley-1436",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "d19b3bcadf796a69467518244fa22aeb7ed48079422823e0234bf7df3bd441ea"
+    },
+    {
+      "id": "mendeley-4882",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "fea43f6f86507605dd59b5edfd6a9a0638309f79fc2b5ef35cae077aec988851"
+    },
+    {
+      "id": "gateway-9024",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "0e28ccde357053dfefe8025b43b72a199e67144f14f29946823cd77cd1a54ddf"
+    },
+    {
+      "id": "gateway-2424",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "b57bc2a638ee87af5fee20e6df0a066cda521ff8939b8163df7aa78d030c8748"
+    },
+    {
+      "id": "gateway-1347",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "bf7200ec45cda4beb8c4f64e84af1951e4bbca4886c756063915d8b76a70b951"
+    },
+    {
+      "id": "gateway-15899",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "c82b13796d97b5a031977d5ee8bafd5ce8df69a850118767f17af1c2df470b96"
+    },
+    {
+      "id": "gateway-34441",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "ee662fd54a1de3656d30e67504fb94a956a5dc5982d82e1c4b2ede970e795472"
+    },
+    {
+      "id": "gateway-15505",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "810ce5f833e29f0ade24990f465a1568560a14ce664d72738fb0e2f508a1bdd3"
+    },
+    {
+      "id": "gateway-8048",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "979999be720108bfac0fa019f73fcb63a773ab398f6c64a014daa0a7d7eb6cde"
+    },
+    {
+      "id": "mendeley-379",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "85a4c3d56617cbb23c63b62c3ec6ebe32f1305c0c7cda17cb052b229508e5862"
+    },
+    {
+      "id": "gateway-9275",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "af421bb9b2ff38ce2d5ea34d1a7d7f6ea03a982b960030e07df26d9c9e6f32b1"
+    },
+    {
+      "id": "gateway-13413",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "af40e2f5a729a6fdb054c53f7290b8c192ad378c10a5e0943fe6ecdc515a6a7f"
+    },
+    {
+      "id": "gateway-8251",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "86ee74fe6744430441b4fa2f23c7f8185bdae56dbbcc5a3801ba520a93b2c503"
+    },
+    {
+      "id": "gateway-7774",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "7f89cf35aecbef7bbfe5c67bbd09a1a1de22aa0cac222e5d0a12b446b742b790"
+    },
+    {
+      "id": "gateway-8899",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "4c95eb158c599bd9473eb408a03143fba1d2b4c12da24609b72c749772a83e5a"
+    },
+    {
+      "id": "gateway-17578",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "39b10130f5d9a630e5a15889f9701f217f5495da7d70f179f3679eb063a8b88c"
+    },
+    {
+      "id": "gateway-766",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "8521693f1e2674a6feebf2d31eff59b9c2597838310a0cc3ba518808494ab4bf"
+    },
+    {
+      "id": "gateway-1114",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "1a2d8028bca341f09b5688528083338a804feb74ede1837f17c4aae61e2c51f9"
+    },
+    {
+      "id": "gateway-8085",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "9d48f44c3b0766953ba85d419f2baa256974b9106ab93a3932129b95dae28728"
+    },
+    {
+      "id": "gateway-17805",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "84e4812aeecfc4af29d07bb51f3ec33fd6e0e42a9db3c0b4f7ec13d5eb20a113"
+    },
+    {
+      "id": "gateway-17698",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "23b437be388355a7a849d132a410c9c194fb9509d8e880289e610817ea042749"
+    },
+    {
+      "id": "gateway-67128",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "576a434a3d86ac4266e171cd14a53c720830c80ef716c010fdfb5211185495e4"
+    },
+    {
+      "id": "gateway-14507",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "299fab0011e11c82e2c3de3d306d8defaca38245540ce585779780092c6e1299"
+    },
+    {
+      "id": "mendeley-737",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "e321dcace0a9a1542c845ffca59321f2e9075d72c77c35cf31c6c390dfb3a90f"
+    },
+    {
+      "id": "mendeley-1704",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "d0069ce9e03c0937102406e297fb1a21cfde58158bb9c8317f2977c003e9bddd"
+    },
+    {
+      "id": "gateway-12309",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "7238b6bfbc6349c72f29b8fc4c49e489496847ec408e9b1642f49e332200bdef"
+    },
+    {
+      "id": "gateway-12408",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "1c34785d2711c887ecf159c4e84701dce112586e0407dd66cab5c2428eb78659"
+    },
+    {
+      "id": "gateway-66616",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "e3a472efeed61a7c7300161167072ed873f5e58cf1064713852ef49949b077a8"
+    },
+    {
+      "id": "mendeley-5033",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "11340cc298c3d58866e914334e6321de40507fe2cd52028ea28d21e34abec73b"
+    },
+    {
+      "id": "mendeley-1389",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "dfdeda12b084d090c8ea60f09de4b5473e773e1e21e816b5abc204f1de3f6277"
+    },
+    {
+      "id": "gateway-17724",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "e954e648ef0078f014ddb21109a6a2d741c06de0aa28e07b3282cdc47c1b6806"
+    },
+    {
+      "id": "gateway-3215",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "f78f4d85d147f9e6e963bd2ea2ff21b29adb2f4d78315e6cec92eb163e096312"
+    },
+    {
+      "id": "gateway-17723",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "177cbf88745f7a367ce5611da65b0093759db68d43f44353ce958681b55990ff"
+    },
+    {
+      "id": "gateway-633",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "780c0922b51efe73784db95c5a685912629654317f4936abb6acbbed6a8acecd"
+    },
+    {
+      "id": "gateway-8998",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "ac968a0c47f1366fef051071177fbaba838e8fdb25af956be3cced2be22e1c34"
+    },
+    {
+      "id": "gateway-17484",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "439c0532624fde9f78c46b83400260fd742821d8804d6a154f91334f668b4406"
+    },
+    {
+      "id": "gateway-5682",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "9b0058a0bb1e05239bbb806032c9c286b3e41fbb8bee54ab23367df67578d61a"
+    },
+    {
+      "id": "gateway-2468",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "d4fafb7bcd4088eb895220462497b3161b66bcba857895956fd498c8b7849415"
+    },
+    {
+      "id": "gateway-13037",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "f7d6ea6d34a543bb00198e52650855587cf82931e6598d577b8d8f91c46bb4cf"
+    },
+    {
+      "id": "gateway-187",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "3f7479c4f9a9aa18ec091225a1baa2eb3e8283ef78334146f6ee7779b937241e"
+    },
+    {
+      "id": "gateway-16409",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "109e426e3edcfe94bcc298df3c10f8b0916ad7dd149d91a6f0793d3f36b6240f"
+    },
+    {
+      "id": "gateway-1018",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "b993f9212f2155c77e6b75a33cd6c70b90c497ef7651f2cdb33814aab45b6b6b"
+    },
+    {
+      "id": "gateway-10658",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "f03a9947bc500e43b7cffc9050f8d288aa0f543a9f28fa2c753b51550b9118ba"
+    },
+    {
+      "id": "gateway-45621",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "40413c2c3adf599fa8074c6f642807b405bea73f1eb30dc704207ed018f40ba8"
+    },
+    {
+      "id": "gateway-8340",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "c5b9c62d00b318bf859093c5bc36cec766d34968388ed7df7b1e5057f2f8852f"
+    },
+    {
+      "id": "gateway-5523",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "0a2b76253111eebfc8b9fe1ffedba0aa50265b5f5f7468e5706c0caf3683ecdf"
+    },
+    {
+      "id": "gateway-17609",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "9c1e3754716e5a9696d4b22e4a04c03cd280016eb7eaf6a0ee663376d74aad99"
+    },
+    {
+      "id": "mendeley-5",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "c4faf26d698b3bf840d057332a628adfd2a93d6cabbf2d5f96cc739cdbab4c92"
+    },
+    {
+      "id": "gateway-13273",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "1c11d303d6fd89b7dec27a829d7e4ae69ad04d837a3954e018fef7e6830ae73e"
+    },
+    {
+      "id": "gateway-195",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "ea9c4dc946c79a0e254df683f2913dcf1615f484ac39c66e535e1a8b0799ae96"
+    },
+    {
+      "id": "gateway-2435",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "124e4c883c4ef1b966318a2a3797324608ff33cabbe093171bb90d5c39d19696"
+    },
+    {
+      "id": "gateway-5307",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "e5a6e3729cb38c7266e00f13db077f8626c6ad75029ee8fe6b2817a1eedf4490"
+    },
+    {
+      "id": "gateway-17727",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "097ac3e37354634e896c9cc8405bda430d0d5fff7220ac555401d7aadc1de189"
+    },
+    {
+      "id": "gateway-2300",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "333b20a0cb6b98738bd39d8d5f2c0c66dec579aab2d9a46834d110656acefe84"
+    },
+    {
+      "id": "gateway-15719",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "9eb007be25a5f48d5d0b6b33e6b422eb3dea32384c2565fcb3fdeac26324a1ed"
+    },
+    {
+      "id": "mendeley-1721",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "e52441a9a22d29d7715e17ce5f3b6d13ffa5a3f2f822c20e97e15070f1808a76"
+    },
+    {
+      "id": "gateway-5344",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "7763321c0fa04061c23b08c5154468301f990f20563c6e1d2c7a8db2589eaa8b"
+    },
+    {
+      "id": "gateway-740",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "86fd4ccaf55a685672e4619325236929c9ac1cd5364fe1739fbf6029035dba26"
+    },
+    {
+      "id": "gateway-67127",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "78817e6273abc07a3c12e385daae276ca6605e0dede610e4f76b35ef06c55339"
+    },
+    {
+      "id": "gateway-4963",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "a5547acd6bfe62d9d5711a7cd38a498906a7af1fe2bb7e2077f069f89ae7426c"
+    },
+    {
+      "id": "gateway-8084",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "7b92f45deec926b906501a87f360b7f5437b95b9178f205651e6ebaa39692a3f"
+    },
+    {
+      "id": "gateway-1487",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "ed959b6541e390b0bd5d1acccc26826e69981e08c3561a88b1e3bd4c4113c88a"
+    },
+    {
+      "id": "gateway-3219",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "f105ece48f0a0ca5029d066e735453dac1e50cb89c8b1b2acea731caecd166b5"
+    },
+    {
+      "id": "mendeley-5070",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "241072c93350ae8cd5aaffcf884c7fa37b87ee5c32536646cd5adfa75a1868ed"
+    },
+    {
+      "id": "gateway-13383",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "dd729ebe460fea68e7e61770b1954c045aeba0e87000d4db8bab9c283170a869"
+    },
+    {
+      "id": "nus-21239",
+      "source_id": "nus",
+      "source_url": "https://github.com/kite1988/nus-sms-corpus",
+      "source_file_sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+      "license_text": "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+      "prior_provider_request_hash": "57f929542fa2cacbf87137093bd94248e3a0bdd05c208b4a4d1166107cfc9c35",
+      "safe_text_sha256": "bea094096bc79890a143bdd6dd009c777bc8b7a0967cf2c06008df79e063a2b8"
+    },
+    {
+      "id": "gateway-17749",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "10aeafdba857cc574ef027721898bbf5db6613b2bd1cbec9b995f5275be24463"
+    },
+    {
+      "id": "gateway-8125",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "35e8d88bf88ff1b99fce84100602572413d759364be04e8db8616cf0abe8da74"
+    },
+    {
+      "id": "gateway-2431",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "b49101686915600be565516aa5d6028ae2fef6ccf251b22e3bc9f7f574fa407e"
+    },
+    {
+      "id": "gateway-67713",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "d0e8b262346b8319f7b44c038829e2f5c8916cb566883bdaed20728226bcbc35"
+    },
+    {
+      "id": "gateway-8082",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "b4d8d9a802492448928b138549235973fb82e741d1a9082ff9f1d0160334d6a3"
+    },
+    {
+      "id": "mendeley-4044",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "cf07a420def374a1e40471f6536471ab1d0250e65e158513d241061a246be92c"
+    },
+    {
+      "id": "gateway-17770",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "7122b0ed05a644b47230376c68bda6adfd5dd95b9419f7c5499b7cf88663fbca"
+    },
+    {
+      "id": "gateway-38759",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "ba96e54047e6fcf379acef92f81e2d03f4c9fce317eb49ad36486f29aa765127"
+    },
+    {
+      "id": "gateway-8212",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "23c9b6bc1e37c8d2ad2c9434efad1b8319f2c95bad131430307dfbdf7955257d"
+    },
+    {
+      "id": "gateway-2089",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "33ba8e2d6b26047be14ad6ec4fb5b381330869f372385cbe8b7056c4203320ef"
+    },
+    {
+      "id": "nus-8588",
+      "source_id": "nus",
+      "source_url": "https://github.com/kite1988/nus-sms-corpus",
+      "source_file_sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+      "license_text": "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+      "prior_provider_request_hash": "cfa967fbac4d8b540472131ecc6ef4299be8d74aefa254d8c751bdfdcbc2e5c5",
+      "safe_text_sha256": "38ce4fce883cb4cf684fb20bb565a6ba2f24518adb841ea858e9477625e0b878"
+    },
+    {
+      "id": "gateway-17701",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "99051013fd2312162cb56e39a9d47e6c0494d6b5254da6c646fb297f5b063d21"
+    },
+    {
+      "id": "gateway-13300",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "ad775ba4170d56f2f7e5013355bfc38e8568c6d2f59754a4b2e3801e69048add"
+    },
+    {
+      "id": "gateway-2334",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "5db288eb9716b6d462bd7e58eda8ddc93980e709488581315505c3983813e6aa"
+    },
+    {
+      "id": "gateway-3419",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "d55e7856ddb5bf9f53f33873b1fa964674ea46377d3662ee38b8f76396441e5b"
+    },
+    {
+      "id": "gateway-8854",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "bb7d575fa5ed61ee323e1f56da47af3be0c2e76655a0ef9e2933152cd2dba85e"
+    },
+    {
+      "id": "gateway-17852",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "5f3ac70056f9c5ae5c11f6fa3967e1919596617575f18cd1198139069b9eb553"
+    },
+    {
+      "id": "gateway-12314",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "06b170e6b6b55ae41f64a5a5ac0b4e59b7b9bc9158ea63d67b2bd5e461641f8e"
+    },
+    {
+      "id": "gateway-3192",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "07c3f3d78e4a07f571ccd29741b2d972fbe94093c611927d9cd6b50a9b424989"
+    },
+    {
+      "id": "gateway-14731",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "01ee1152ad0ae5f3f9e71ad7457fd207cbae01abfde837acdc37b49dfc38d6f6"
+    },
+    {
+      "id": "gateway-17775",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "8c0c7a120f179aae989561b884f5229db90cb7fcfaed4566faad92a9562800d7"
+    },
+    {
+      "id": "gateway-2237",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "d5490203aba202a7a9ca378ad7ba8b77502b793514f9e2edefc0db0e7684f220"
+    },
+    {
+      "id": "mendeley-4673",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "a52084ee04c28b0083c3d8cbdbd1dc8908e7d1f5b88e5b25417de5e9a04413a9"
+    },
+    {
+      "id": "mendeley-5088",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "49ff3168ffdba694926169f63f810895ef06c3ce9650d0eb2cdadd88adcc115a"
+    },
+    {
+      "id": "gateway-17620",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "c1842372e399b6c202baf7279f052e8f9f486eb06629dde200d72fcdce2b9f39"
+    },
+    {
+      "id": "gateway-2193",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "2aa2955c7394777d71cc8f037b05cba8d4b2d6b86571c595e6fb87f6ee310dd3"
+    },
+    {
+      "id": "mendeley-588",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "59425e631978b9ec22a7100bded33f3ca3f9bb1c2b32af6660006265317ad94a"
+    },
+    {
+      "id": "gateway-2146",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "efbf1ad8fa4601b7b8af4525d564de33ff09a39377a78c9550ae3fa0c6410310"
+    },
+    {
+      "id": "gateway-2357",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "3e307962e6d6e558cc972cdaa2b6dfc9b2b57793e7cbc77bbd5750228da9c649"
+    },
+    {
+      "id": "gateway-14501",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "0e269724861b1dd8ca6600b5ec7326b13c0b27aa066f46bfa4074d3c18c5b434"
+    },
+    {
+      "id": "gateway-8040",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "1a787756e282538452911a93707ef2d4b8909c05050aed59a4fd868aca332f38"
+    },
+    {
+      "id": "gateway-14354",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "746e83629fe2c05234149e3eaf1dc4a1aebfa5fca66c34c808d121473ca9007a"
+    },
+    {
+      "id": "gateway-2387",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "e1a07dba2428dcb26c0c225d48f574e73109a9531717332589137b6c0d257b70"
+    },
+    {
+      "id": "gateway-8886",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "b891e8cd697109b6cc8c22f1b69f744fcd7451ac0321425adb0967f9e10868e4"
+    },
+    {
+      "id": "gateway-17562",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "208e829b9257b3bce66c7ef0197cbddbe3f817c1877215a9cdfbc1e31b459761"
+    },
+    {
+      "id": "gateway-17608",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "ca233b92610bb6e8cbac0f1cfb215a5f737357dc43eeb1420f212a1548cc3184"
+    },
+    {
+      "id": "gateway-63",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "44b3339764615acd6e3d1a412fe7cd699969934f9e210a5dba10d0f77c2ed10d"
+    },
+    {
+      "id": "mendeley-5944",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "ac748d29f2731bb63978719006e18e664950f5ef7761351974a517eda8322a2b",
+      "safe_text_sha256": "714e69b6510481f80b4310e9c530b58bc464f32cb67ffbb6e8eb7a6778b495af"
+    },
+    {
+      "id": "gateway-74",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "8d6d06e8cd5de03a6845e657663bc0707e88279aa14b754748b876e17d3ac5ef"
+    },
+    {
+      "id": "gateway-2177",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "bbc6675e1ff3d5e17cee505c3c7869d38e8d2c84b2bf406ec98a523799c0d39c"
+    },
+    {
+      "id": "gateway-16431",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "efbe9620704fdb3ffa5c98a2836135f3c981b062be0cc601fa34a01dde605c62"
+    },
+    {
+      "id": "gateway-2271",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "725d8d18e5d9534b6630819308e6e85bfeba951034e49bea52055ec366ebb661"
+    },
+    {
+      "id": "gateway-1385",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "1b5c064e5e74ae9e203c7ae1fb6fb9f07a5c07f71edd8eefdc54d20ecfd19fce"
+    },
+    {
+      "id": "gateway-3877",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "8a94f867fc0a85726d40f21f7ea346005a3d60240347b44c2d5739b81ce38bb0"
+    },
+    {
+      "id": "gateway-12554",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "1eb3f82d9917017650ef9b366cd0a0b4b310d1bf6c3f233c890600840df7d06f"
+    },
+    {
+      "id": "gateway-10010",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "43267021e6559246f3835e6b1cd7c7c5d0a7713123ea394f0d339d3e09278cf2"
+    },
+    {
+      "id": "gateway-7996",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "7f16ffa66dc7d85383440a02a735644cc66ee79d3a82343e820a6f91db9fe6fe"
+    },
+    {
+      "id": "gateway-13621",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "7c69934b6e896d47b423505c9848027e789e4ddd3b52d0a20c6339dbb3bbdd2b"
+    },
+    {
+      "id": "gateway-4095",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "6b081df24c18b44f3248552e9fabaa580a02c85d8679fa468d5216d0bc7f03c0"
+    },
+    {
+      "id": "gateway-2087",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "9c91e4d813bfa535e74f58a35504957deeca104067ab6c254ba5b99be6436b52"
+    },
+    {
+      "id": "gateway-17705",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "a025377f9da9ae91c214b44eaf060b26f4ba53699af615397a151205d2d59d50"
+    },
+    {
+      "id": "gateway-3393",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "c9efcb46fc80fde040a3cfb9eff03a87fc6f559551ef7b3b9bca6b2e38157a29"
+    },
+    {
+      "id": "gateway-17793",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "bbeec3256b540c9899d6a86bad2bab53571291fe813b13b5eb0cf52bee3215d8"
+    },
+    {
+      "id": "gateway-8373",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "3b7b4aa002a6e15b8b04bfdbd6ce572dfe64d23e55c4697815409aa84dc6c143"
+    },
+    {
+      "id": "gateway-2535",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "d7cab9762a8f9d71fbec3fa53f3cbc40e4e83a54a82616d2ae4e56d2e478fe45"
+    },
+    {
+      "id": "gateway-16110",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "e5d7069be77f887660b1fa24c2a44b6b4f34dca61b4b7c2c380b2637c2802bab"
+    },
+    {
+      "id": "gateway-10597",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "d1423aad9a9a725dc3f8c0abc9d5da20597ae1a5fbfcfc003e66e4e4895327c3"
+    },
+    {
+      "id": "gateway-17622",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "2cfd9f00bd79d824c19bbe3d8d9ff89a07ef95350ea720090540ab32d9e7f417"
+    },
+    {
+      "id": "gateway-17695",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "84def0a98c12ffc82097178c35afead45d57d08103b56fd8642539aae857bd88"
+    },
+    {
+      "id": "gateway-3573",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "a6f6e4c20a30bf81cd4a1f057a6be781322bc0cff63a9e6fda9f91f112d9163f"
+    },
+    {
+      "id": "gateway-17841",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "23ba01d22439124d0e75a6a4fd82227d4a60bfd5a58336b52538570d1fd15920"
+    },
+    {
+      "id": "gateway-2439",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "f358b851a5aa4cfe66d6d0eef35cd544c429731a02d8f10f28327dd10247b0d4"
+    },
+    {
+      "id": "gateway-17742",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "029de42c56db75a9313f2deaac950d6c9cdc75d6d9b66c1563da409802cbfb15"
+    },
+    {
+      "id": "gateway-17625",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "97c298ba5c7e178ad4a844a673019b7881628807ccdd602798daad6ddb3cbbf1"
+    },
+    {
+      "id": "gateway-5360",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "b853d93be0ea4edff3a69a977ed049fdd10f9ffc55dad4c0220a8571a3d4940b"
+    },
+    {
+      "id": "gateway-3013",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "36890dc63af193f05db4dd3919623697b25b57e9e19352047e33b9fdac5baacd"
+    },
+    {
+      "id": "gateway-15193",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "aa43c5fccd8836c098f6971b2b53339b264a8f29ce105a1565aff3b2e8bde903"
+    },
+    {
+      "id": "gateway-3499",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "f82f8e34ef5e89efb768f5ee037ad5218d2e0b39d5c38e9d9019f5ddce541fd8"
+    },
+    {
+      "id": "gateway-2195",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "9524ab7fb037b41dea035b7dc78a825daeb621cfb1c63ed12d11184de215e262"
+    },
+    {
+      "id": "gateway-1112",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "33270caa0d261e0db0e41e8ab5ef208c3c992ccf0de2e264bff3be8d8f111018"
+    },
+    {
+      "id": "gateway-50334",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "755aae148927bbbda5291fb97922d0ba46872e1b5ec009cedb9ac71c1bc2ea28"
+    },
+    {
+      "id": "gateway-3010",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "100ea4a339f181a3652b92e49fb6d11c6dd79cf5c7e8a189bf29639f548fe562"
+    },
+    {
+      "id": "gateway-17831",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "72920ea60ffc30f97dda70d89bb919fc1b0489831c7fc55cb88fec4f0e5afcc1"
+    },
+    {
+      "id": "gateway-3198",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "af29ff57de0f7f29bde24c9f7a67d3eb673846fd8b82424470a223e3d0fda6b1"
+    },
+    {
+      "id": "gateway-17834",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "3a8bbfe13eb78e3294f20ced1fd9d7ddefb3600c4f065efe720467e2bf43ee24"
+    },
+    {
+      "id": "mendeley-1168",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "be57024358796761bfc95dd7739521aa3c984e2288e41cb7ce5166501f8a80b5"
+    },
+    {
+      "id": "gateway-66144",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "5b1361a82120f871e5f0b8aa0383a72581b9cbb7108e3143bb3ed82971712f11"
+    },
+    {
+      "id": "gateway-17735",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "5a8b7088ef19b02a8aecf6cbcf5e7c359cc7597430091772041f59cca7539394"
+    },
+    {
+      "id": "gateway-68026",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "02355d9a98e6fbcfa89584404a2329069920ce0cba4d16b79bf6791757888038"
+    },
+    {
+      "id": "gateway-204",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "fe7c76c80aa2d1ff80cd6b2cd824cb19d8247ff4e937ea69c4a418cf03c4c97f"
+    },
+    {
+      "id": "gateway-3011",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "c0d883438e3a809502069eaffa67cbc196d6525e15e575f013fd68c9c12c362c"
+    },
+    {
+      "id": "gateway-17799",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "ad1d6b7d7b3c1da1c7f00995610dc2890e65c004995a2798265eae77fc993b8d"
+    },
+    {
+      "id": "mendeley-1044",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "ef1475ad81bf984bb3d4848d36afbb3b868d90987e9220e7f6863ba71b5c50c8"
+    },
+    {
+      "id": "gateway-2330",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "6229ef30f507aa4d79c173ce0cd215630b01241eeff447b1f8284a06f8b161c6"
+    },
+    {
+      "id": "gateway-49333",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "1d67d3133a11dc8bdb6947a695f737ecc7c5aebface4419070cd4ac032c4bed7"
+    },
+    {
+      "id": "gateway-17495",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "aeb496a1446e90b684e1f9a9d7e2c3ced109fefc29d61e91a229319232b24b98"
+    },
+    {
+      "id": "gateway-67788",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "99a4d90bc533486ca44b437f50b3b2cc0d7f8338346c1ec463e158c13107560c"
+    },
+    {
+      "id": "gateway-2116",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "153608b68ad7beaf2179a02253f9af41d6c396d04f046aab0bd183c61da806b9"
+    },
+    {
+      "id": "gateway-17684",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "53ada4991e306eed1d19d49f88087642d5e94dddf2993c967f29f6e228a50f33"
+    },
+    {
+      "id": "gateway-60016",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "4af67142dbd6fc5efcd05ab9bb94aa9a5b9805c2857dddd110b04f4014b4078a"
+    },
+    {
+      "id": "gateway-15797",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "db945eae2f49e192dc186104a3a44da60afc07576d808733948754bc56e342b3"
+    },
+    {
+      "id": "gateway-67491",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "2dfca637d6a89e368db8f94d4b4451634c7748dd4d5197e53516f2cbd8be3e33"
+    },
+    {
+      "id": "gateway-17529",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "2cc9c422388d4d25e52a3bb3dfed36ecff47c971bf01e0650cec0b7e51d937a7"
+    },
+    {
+      "id": "gateway-2145",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "661031ccdb397be0844d01e91e48f3ec47c10a24701413c2951b9f9221b01e31"
+    },
+    {
+      "id": "mendeley-5316",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "4fe6b403c307da925469edc0c145f2814c256711180fe852977ee8a270f334ed"
+    },
+    {
+      "id": "gateway-38758",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "a2fce6a10a8fb8ff745819ff94112441aadd11c96acceb6c1ee5bd418ed0e89a"
+    },
+    {
+      "id": "gateway-16392",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "203bb04e6f4dc356c5345bd7d3921dbbec470eebcf7a27bd126dc8e443aac23f"
+    },
+    {
+      "id": "gateway-13622",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "b07f5fd7353ed15cf391c8be9035ea4bf638731d8bce39e63161d27ea75993d8"
+    },
+    {
+      "id": "gateway-17642",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "a065174055e4014f48bd7bdc62cde4eed09c39ea0ccfe7f85be782b81349a2a3"
+    },
+    {
+      "id": "gateway-17571",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "8cab996e4aff35468a832b066ef4c93d7605e2310eb73def71f009a22ff58106"
+    },
+    {
+      "id": "gateway-2525",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "228a9c6028039aa50b81d1e7a347337c8cf7d56bf5a764e6e1fab1afb246e3db"
+    },
+    {
+      "id": "gateway-3381",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "0f6b05a9c71ed041ec52a45c25e6af738870f95f1b740eb59499d37835f3eb74"
+    },
+    {
+      "id": "gateway-60564",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "ec876f2103e8ffc39ff7a68b919ae7c5168992a1b0f7239221c39d4ed2b186ea"
+    },
+    {
+      "id": "gateway-2346",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "315da38ed886e14f9ca17c8e86e2550b2fbb583793823772169f0edaef37ec36"
+    },
+    {
+      "id": "gateway-17464",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "2c012e432d8c492bdb7bb4beda4b6b2ae07db380464c080f3c1e1965fa7f9749"
+    },
+    {
+      "id": "gateway-3881",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "b4dc4869a0311efd9498dc242a72b119c55efe5d8f6df021a6b7f28155d3e0ff"
+    },
+    {
+      "id": "gateway-539",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "fe65937bd9019be4a9da4e85bda6e139692e867853cdc2e26671350a6f19d04d"
+    },
+    {
+      "id": "gateway-2340",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1e532feda7cdc83020623cbbcc55b5cc22abd5c53d4ced4903a0142a6315eba2",
+      "safe_text_sha256": "037e69828753d9d1ab8044a6663355f961e259ca628e4534e7ed087ff2ba9eda"
+    },
+    {
+      "id": "gateway-2526",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "8451ba55d4f108f16f4cf0db1ce3bdf38624719414d696e41221bf9c3991ac4b",
+      "safe_text_sha256": "a8f2eb9fe4846120f7e804d8fb4ca1010f67845fe1fcc2efcf283d151b4b532d"
+    },
+    {
+      "id": "gateway-13410",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "fb2f17f7c662b6e4226db4e4b48c944d5a3ee57c2343b6e8efeaccec5440d8c6"
+    },
+    {
+      "id": "gateway-3373",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "bd1030fbdfd7c94c603cb6060c46c964c5ade8ff7b2ed34d926ab552c11ca5c8"
+    },
+    {
+      "id": "mendeley-3331",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "b12b007bd0931750a94e8ec574fb646ccbb6b7c7495a7f23fc6d1012d83ed617"
+    },
+    {
+      "id": "gateway-2111",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "587466d2c9ea776d33791aff3be0cc9ac2d8426596c0954c6e39845154cf39af"
+    },
+    {
+      "id": "gateway-4073",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "9297f448ba19e67ae02a5321125923deb88401ade1d93e4e90586cd78d6b8998"
+    },
+    {
+      "id": "gateway-1413",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "436f0ec6f390845500ab45e1ded7a26186b10a9b9996a831dd096cdab56342ce"
+    },
+    {
+      "id": "gateway-2874",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "209e8a7a68da33c18a7121c9baf72b67396f86aae070fe96bae05f73e5902d4c"
+    },
+    {
+      "id": "gateway-17572",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "a497d2d57d7a54dd8f922b9a49757e3914a502a51c7c75f0ce4e716693b60bc4"
+    },
+    {
+      "id": "gateway-36662",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "90dee2a625901c2387e479d7589bd2bc8df50ed22975bd88dcc40166c7c5dbfc"
+    },
+    {
+      "id": "gateway-725",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "1da9d19751006243dbadf92303fb02c85703dcabe5516d8b11ffb255905de6df"
+    },
+    {
+      "id": "gateway-17585",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "db1845dfde7dfffa4a80e6aa9abed13efcf07389519c4d3e7d1c9abb6ea6d3b4"
+    },
+    {
+      "id": "gateway-753",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "efff718515ea084dc9df7215eb1f56f90aa504d09bc3151ee76a4ceb161e33aa"
+    },
+    {
+      "id": "gateway-8068",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "f0bc745dac28f9613e5e5b528eb13b8c02fc58c3518807c62d922e4d78f8a2c3",
+      "safe_text_sha256": "103aafbf92e4faedcab125727954086ede756abcd699ffcc5dbe10a57814f2ad"
+    },
+    {
+      "id": "gateway-8429",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "fe249889d6d8cb3db4a3c7ae54ed35b0bb5e50f8fcb06ca277b6962c16966614"
+    },
+    {
+      "id": "gateway-12729",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "4f09043afc49ccdd933fb182ce585bae590c0f58a7fbe86c415e31bf6a793ee1",
+      "safe_text_sha256": "df2a494270907eb2f53fee1fdfa08f46d8d9ab9a0647f97f82c5bee9890bf192"
+    },
+    {
+      "id": "gateway-24241",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "26999d0ba3a0ace5f43aa37a9238da9ca341c531462905697c344e84f90f2866"
+    },
+    {
+      "id": "gateway-5376",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "5ecfde31d0b447306c6a653bf66fc664eb8ddb1ae1ed2fcea6663f967abc28cb"
+    },
+    {
+      "id": "gateway-17553",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "485f2de110a45ecb26d345025d62abc31cb81aa6e8a3db3ce548f7decdd73dfe"
+    },
+    {
+      "id": "gateway-1688",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "9a812eb84b3a17d49a8f2f25cb0d821e58e640d65f5b587e9d9bcd5f716ab0b6"
+    },
+    {
+      "id": "gateway-30",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "17d3669885e3ae3c068e5ceb74eba16977fb2c853b48b54330cb36dab9e543e7"
+    },
+    {
+      "id": "gateway-2211",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "22d2e5eeace97954509524d01e2b8318e5ce3fb0fa27bd04ea735e571fbda9e2",
+      "safe_text_sha256": "a96526f02d2de1e3aa781092bd090dbc6dfce99ec3a340b281976b29c666ca99"
+    },
+    {
+      "id": "gateway-14",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "5e2cabeacfdee582c958c0a3588bfbee03215fd7069840b2b0da49bde4d01cbb",
+      "safe_text_sha256": "c50391bd73ee2070ea01a9ccdaeb5c188764f020dd35a29ea05eddd8c43511ec"
+    },
+    {
+      "id": "gateway-17569",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "99608bbeaf4b941bd2e410c88443d4876ab4c71fae576521e68fcefa87196a9b"
+    },
+    {
+      "id": "gateway-16315",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "63e3bb940a28da36e8a2b66d13fb9de57b0a2c2b4274ad2356dfbdc9d4d205a2",
+      "safe_text_sha256": "d76e871fc39273011259dd3244749fadf9d184c002577315d17b161bac67f78b"
+    },
+    {
+      "id": "gateway-5533",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "a1057d379b2425c6303ee961bede8911dd355a8f4fae9b381421058f1657e4c5",
+      "safe_text_sha256": "51829384f721e3409f537e5ed9259e22cb2790959ed48f560c4954cfdf464c92"
+    },
+    {
+      "id": "gateway-16333",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "b96a1480494abd1a6fc0a08ecd03e6ad801bb59301693f4d7afc37cbc71d683a",
+      "safe_text_sha256": "8216ce620fc11f1ce9f20f3957229c0673e94cbeb070f374815eeebc56d84bb9"
+    },
+    {
+      "id": "gateway-16180",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "af1419f56ae67163d7249ed2fe0cee8808e36be77d79a18eaf17d22edcc2886b"
+    },
+    {
+      "id": "gateway-3044",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "1c4e046be6ca62eb8c73d92c9161f02c315e9fd3d3b7478fa18524a392cf5001",
+      "safe_text_sha256": "21998f579a74c3540bf8f121c57a2656004e0c868463538a0d03235eb1832ab0"
+    },
+    {
+      "id": "mendeley-2618",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "c66a8096cf7d54e92d84ada695694d4be48b2d4223a5071b1bdc141a7ae6ee1f"
+    },
+    {
+      "id": "mendeley-962",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "b7cc7ea8c6c3ab9215fb80db24d9adbddbd198c83f26424e3181e397cb189c8c"
+    },
+    {
+      "id": "gateway-17811",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "ad7b75f12af7cd93a7c1c94242989da537118615dbcbf1f5b6d8d2a7f923b530"
+    },
+    {
+      "id": "gateway-17802",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "5fea136c9637575b859ea2a838516e448842ea093a29c8dec8671eafda185eeb"
+    },
+    {
+      "id": "gateway-318",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "dc0d60c8ca9779a065d9cf7b6c09d3fce76183e46cc70ff0f9985ae4d077c084",
+      "safe_text_sha256": "99fe083d741a9f643e57ad9ddf4edc5b6baed8f6ad1aab849b62cd9eca2b86cf"
+    },
+    {
+      "id": "gateway-17842",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "d3bd6923292958c4f6fa07ad076ee694f466248f0386e3bd21e785b56c347702"
+    },
+    {
+      "id": "gateway-2131",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "57c89e48eb82b62aa1fa9f1b1bff8cc78d0a85e5ed7216d07660445cf67da5e2",
+      "safe_text_sha256": "f8c4c6b267bc994d28a36c280e15a09521b71db87a0d62842fb351b533854d00"
+    },
+    {
+      "id": "gateway-17482",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "d8afbafb3d9eb22d31175dc248e98bec2f762237441ba70c05e269bb5596d13a",
+      "safe_text_sha256": "2f56f650b01214f3ab06078b759a64c0a2a865a06f3b7872fa0ae3e11ba4a9a4"
+    },
+    {
+      "id": "gateway-2402",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "960a32def61b3d92628bbd70f1dd3489f12aa5bb6cf41636647ce7f6b3bbfcd7",
+      "safe_text_sha256": "86830506735b790f48ac6e7998bb4ad477e902b3ce25a8bf015769ae42c96b05"
+    },
+    {
+      "id": "gateway-3786",
+      "source_id": "gateway",
+      "source_url": "https://github.com/wspr-ncsu/sms-phishing",
+      "source_file_sha256": "d2a76a18d6d27ce0626d1b657f60b2507409db9c7fa654ce1480c8a2d782b295",
+      "license_text": "MIT",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "670bc9b209832a97b67e1c5560b175324ce99bb096ff195ad81aacc7b6e91ec2"
+    },
+    {
+      "id": "uci-5028",
+      "source_id": "uci",
+      "source_url": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection",
+      "source_file_sha256": "55341228082b25b832a5868a5ab4b038142a57f70c676c123280af6ff457fe46",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "2d64b42a932131f8726c626f69c24a664283dd8bd0b93f6b3f13e100a095e519",
+      "safe_text_sha256": "95f4c796effa3973d82ee342b519a72d6c6139c27769bf404bcbe67b8b5a0e3d"
+    },
+    {
+      "id": "nus-5294",
+      "source_id": "nus",
+      "source_url": "https://github.com/kite1988/nus-sms-corpus",
+      "source_file_sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+      "license_text": "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+      "prior_provider_request_hash": "472083e23a86abc956ae5bf742cc4aafe739c6f64c4ffac83b7d6c5faef9ace6",
+      "safe_text_sha256": "9df8684a09cef10f90a0c6d7980c70cf3b94b0b176a8a61db7b3da77365d660b"
+    },
+    {
+      "id": "mendeley-1834",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "4e40840956df879a9a11695583d827a36b839be81e6bac393d8dc65937f98474"
+    },
+    {
+      "id": "nus-509",
+      "source_id": "nus",
+      "source_url": "https://github.com/kite1988/nus-sms-corpus",
+      "source_file_sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+      "license_text": "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+      "prior_provider_request_hash": "f6a04e83bbfeb99d6da66e4e20756239dbbaa181bd525dfd36b4b1ac34bc901a",
+      "safe_text_sha256": "2346c0d69faee296c17aaac9ba350c75ab32fa03c1986991bb23ea539542e36e"
+    },
+    {
+      "id": "nus-7669",
+      "source_id": "nus",
+      "source_url": "https://github.com/kite1988/nus-sms-corpus",
+      "source_file_sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+      "license_text": "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+      "prior_provider_request_hash": "cfa967fbac4d8b540472131ecc6ef4299be8d74aefa254d8c751bdfdcbc2e5c5",
+      "safe_text_sha256": "23abc023ae59514f256a1ba0e5fca02d28018a48cdf50cd457ca618d8cd77ab9"
+    },
+    {
+      "id": "mendeley-1268",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "13c7ac473f12bda20d0ce04c65f1ac7a3655b1918a790508ad47f97ad1850167",
+      "safe_text_sha256": "4288b8ce23d786bc72ef69f7303969c9991081df37e6bade5551cca09605d014"
+    },
+    {
+      "id": "nus-5324",
+      "source_id": "nus",
+      "source_url": "https://github.com/kite1988/nus-sms-corpus",
+      "source_file_sha256": "5726e992ce746b0e86d6d78a384f84c1204442d489a2b13fdb8ffaf923f25292",
+      "license_text": "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+      "prior_provider_request_hash": "52de2b57f2fe506c87e4acf7f9ba31f7650e28e4891087ba085e5e1065845631",
+      "safe_text_sha256": "df9eb7bc2a93a7a3930f0c41ea6fb2f9d86bc17d0eb33ca98e10744bb111283b"
+    },
+    {
+      "id": "mendeley-2784",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "8aa83cb6aa93348ac88800e2dcac29226e569554ddf79b6fbfa59ae97ee58220",
+      "safe_text_sha256": "f12d96fa3bf16ea5a29e370343338074a6445b4d358113ac598125c7cfcd50fb"
+    },
+    {
+      "id": "mendeley-4846",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "19f491d1b080573bfb701d2395129e99a0f7770694431d2d65af4dd48ecd0339",
+      "safe_text_sha256": "61b7bb91467b2c04fa210b01f7a97ba11627739b050a8e9338b0da156e1770be"
+    },
+    {
+      "id": "mendeley-1361",
+      "source_id": "mendeley",
+      "source_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+      "source_file_sha256": "649844f1c62a6b27e145eaf17a65f7010c56c390e11a794ea8329993a05ba71e",
+      "license_text": "CC BY 4.0",
+      "prior_provider_request_hash": "f6a04e83bbfeb99d6da66e4e20756239dbbaa181bd525dfd36b4b1ac34bc901a",
+      "safe_text_sha256": "ff715ce679af299b0e1ee0feaa3636b5d4dd71fe38d4493741fc8fd381b61039"
+    }
+  ]
+}

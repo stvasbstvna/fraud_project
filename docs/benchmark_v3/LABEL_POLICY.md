@@ -1,0 +1,11 @@
+# Label policy fixed before v3 research scoring
+
+Canonical labels are phishing, legitimate, exclude and uncertain. Explicit source phishing/smishing is a candidate, never automatic ground truth. Generic spam, numeric spam labels, URL flags and model confidence do not establish phishing. Ham requires financial relevance and meaningful legitimate-control semantics. NUS is unlabeled and is never automatically ham. Personal chats merely mentioning money/banks, generic marketing/gambling, and telco/prepaid balance notices are excluded.
+
+Rights-cleared source texts receive two fresh isolated machine reviews (exact snapshots A gpt-5.4-mini-2026-03-17, B gpt-4.1-mini-2025-04-14). Agreement requires approved label, financial relevance, safety, message-function agreement and confidence >=0.80. Accepted/disputed cases may receive gpt-4.1-2025-04-14 adjudication. Unresolved/low-confidence cases remain excluded from research modeling. Exact IDs and raw provider request/response bindings are retained. No detector score or future split is provided to reviewers.
+
+These are **automatically reviewed labels, not independent human ground truth**. Subjective confidence is not calibrated accuracy. No claim that consensus proves authentic bank origin is warranted. Critical deterministic policy vetoes remain binding even when an LLM mistakenly approves an explicit excluded category; such vetoes are recorded separately before fitting.
+
+Every included source has a registry row with rights evidence, raw label and row ID. Original labels and all duplicate origins survive in provenance. Only rights-cleared defanged message bodies enter candidate/modeling exports; rights-held bodies are not redistributed. Synthetic messages, if any, must remain a separate analysis group. Observed-source provenance and uncertain human authorship are recorded separately; models cannot infer origin authenticity from style.
+
+The target is 300+300 minimum desired, not permission to manufacture labels or reuse duplicate families. If the target fails but all three partitions have both classes, a smaller comparison may be run **only as explicitly exploratory**, with exact class denominators and uncertainty. Robustness does not fall back to a four-message confirmatory experiment. All choices are fixed in `configs/benchmark_v3/experiment_protocol.json` before research scores.

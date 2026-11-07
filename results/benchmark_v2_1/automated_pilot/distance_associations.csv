@@ -1,0 +1,9 @@
+model,label,endpoint,n_frames,n_variants,mean_within_frame_slope,ci95_low,ci95_high,mean_within_frame_correlation,p_value,inference
+lr,legitimate,absolute_change,2,9,0.12824918589688822,0.029045359003946558,0.22745301278982985,0.5917074668672437,,descriptive_only_tiny_incomplete_cases_not_primary_family
+lr,legitimate,signed_change,2,9,-0.12824918589688822,-0.22745301278982985,-0.029045359003946558,-0.5917074668672437,,descriptive_only_tiny_incomplete_cases_not_primary_family
+lr,phishing_scam,absolute_change,2,7,-0.041590433207642774,-0.14298974839465262,0.05980888197936706,-0.08385679797392176,,descriptive_only_tiny_incomplete_cases_not_primary_family
+lr,phishing_scam,signed_change,2,7,-0.08058723228190369,-0.14298974839465262,-0.018184716169154774,-0.5257046441537031,,descriptive_only_tiny_incomplete_cases_not_primary_family
+rf,legitimate,absolute_change,2,9,0.21228385156006532,0.05031702714963698,0.37425067597049366,0.8863599669472495,,descriptive_only_tiny_incomplete_cases_not_primary_family
+rf,legitimate,signed_change,2,9,-0.2112751978451946,-0.37425067597049366,-0.04829971971989555,-0.5410473595021554,,descriptive_only_tiny_incomplete_cases_not_primary_family
+rf,phishing_scam,absolute_change,2,7,0.07904626251628347,0.06180262161075902,0.0962899034218079,0.8613911225628523,,descriptive_only_tiny_incomplete_cases_not_primary_family
+rf,phishing_scam,signed_change,2,7,0.03822667451288452,0.014650727415010022,0.06180262161075902,0.43630416536487,,descriptive_only_tiny_incomplete_cases_not_primary_family

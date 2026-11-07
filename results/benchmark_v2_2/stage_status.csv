@@ -1,0 +1,12 @@
+stage,status,reason
+fresh_machine_source_review,NOT RUN,Source minimum gate failed before generation
+accepted_source_freeze,NOT RUN,Source minimum gate failed before generation
+condition_eligibility,NOT RUN,Source minimum gate failed before generation
+prompt_prevalidation,NOT RUN,Source minimum gate failed before generation
+generation,NOT RUN,Source minimum gate failed before generation
+rewrite_review,NOT RUN,Source minimum gate failed before generation
+manipulation_validation,NOT RUN,Source minimum gate failed before generation
+benchmark_freeze,NOT RUN,Source minimum gate failed before generation
+detector_scoring,NOT RUN,Source minimum gate failed before generation
+paired_statistics,NOT RUN,Source minimum gate failed before generation
+scientific_figures,NOT RUN,Source minimum gate failed before generation

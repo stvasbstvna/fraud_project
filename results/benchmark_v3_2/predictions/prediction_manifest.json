@@ -1,0 +1,15 @@
+{
+  "files": {
+    "LR": "2aa911662ebd729cd34bde86c10cdb9a86b21e8896fcf4e72b6cafb69d91efbb",
+    "ModernBERT": "8e39e7e8d15344c689d8c9949b8342890ddb9ac4cd56da6009c6869fc1825f1a",
+    "RF": "7b9050735cc4d7c4d85ffb5009ac1acb115bc93ebc675fcb3a82ff44370a7e08"
+  },
+  "matrix_sha256": "1390b12572da926595b34042f2c14d1c64117c414d8a4ebeb0808acbfd78f885",
+  "model_freeze_sha256": "47e4a0605a4704ddeb0e03684b183da02efea37c96a2fad1890d195e0139d0e7",
+  "rows_per_model": {
+    "LR": 26,
+    "ModernBERT": 26,
+    "RF": 26
+  },
+  "scored_at": "2026-11-07T10:50:08.388666+00:00"
+}

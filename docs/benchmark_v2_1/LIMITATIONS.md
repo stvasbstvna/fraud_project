@@ -1,0 +1,13 @@
+# Limitations and unresolved work
+
+- No eligible reviewed source frames, generated variants, approved complete matrices, new detector predictions, inferential results or empirical C0–C6 figures exist.
+- Canonical candidates are a deduplicated subset of repetitive synthetic templates, not 441 independent real-world messages. 254/187 labels are provisional; malicious intent and action metadata need review. Exact deduplication leaves substantial family dependence and entity/scenario confounding.
+- External original-source documentation was evaluated, but actual Mendeley/Gateway/SpamHunter/Super/NUS/ExAIS row-level audits, English/banking filters, licensing scope, label adjudication and training/campaign overlap checks are incomplete. No blanket GitHub redistribution permission is assumed.
+- The target 750 phishing/500 controls and 8,750 complete rows is not achieved. Legacy 8,750 rows are planned slots; deduplicated canonical matrix has 3,087 slots and only 441 populated C0 texts.
+- Generator candidate availability and account access are unverified. Exact prompts/config/request ingestion exist; automatic provider execution is deliberately not implemented/enabled. Raw external execution/attempt logs are required. No stochastic-response reproducibility guarantee is claimed.
+- Frozen model hashes match historical records. Actual fitted vectorizers have identical 3,715-word vocabularies/IDFs despite differing caps. Historical training-file hash-at-fit was not recorded; a current file hash cannot prove historical membership.
+- Training data include SmishX and SmishTank. Adding those sources without exact/approximate/template contamination screening would bias robustness estimates. No new external rows entered this run.
+- Surface distance is a transparent heuristic, not semantics or a causal intervention scale. Frozen feature overlap may miss out-of-vocabulary changes. C2/C3 are not guaranteed to be ordered distance doses. New metric version cannot inherit old simulated power claims unchanged.
+- Frame-level t inference assumes independent frame effects. Template clustering and sparse binary effects require prospective sampling/analysis resolution before confirmatory release. Do not present the implementation as an approved preregistration.
+- Regex safety checks are conservative and incomplete; mandatory human review remains necessary. Detector scores cannot feed generation or selection.
+- Files are created exclusively to protect evidence. Re-running a materialization command in an occupied output path intentionally fails. Reproduce in a clean copy or a separately archived run; never delete earlier results to force a rerun.

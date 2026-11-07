@@ -1,0 +1,54 @@
+benchmark_v2_pre_generation_freeze:
+  status: DRAFT_DO_NOT_GENERATE
+  protocol_version: v2_final_methodological_revision
+  locked_principles:
+    - detector_outputs_are_hidden_until_final_dataset_freeze
+    - generator_assignment_is_scenario_level_and_pre_outcome
+    - urls_are_defanged_or_placeholders_only
+    - primary_analysis_uses_complete_approved_condition_sets
+    - variants_do_not_add_independent_sample_credit
+    - human_review_is_required_for_final_inclusion
+  condition_lineage:
+    c0: non_llm_anchor
+    c1:
+      allowed: [punctuation, capitalization, whitespace, unambiguous_typographical_error, unambiguous_grammar_error]
+      prohibited: [lexical_substitution, clause_reordering, fact_addition, fact_deletion, action_explicitness_change, urgency_change]
+    c2: composite_naturalization
+    c3: c2_plus_action_explicitness_reduction
+  prompts:
+    c1_prompt_id: b2_c1_v0_1_DRAFT
+    c2_prompt_id: b2_c2_v0_1_DRAFT
+    c3_prompt_id: b2_c3_v0_1_DRAFT
+    package_hash: TBD_AFTER_TEXT_FREEZE
+  generator_pool:
+    entries: TBD_AFTER_DETECTOR_BLINDED_PILOT
+    assignment_weights: TBD_AFTER_GENERATOR_SELECTION
+    provider_model_version_logging: REQUIRED
+    settings_logging: REQUIRED
+  source_manifest:
+    required: true
+    authorization_evidence_required: true
+    free_text_license_only_is_sufficient: false
+  pilot:
+    scenario_count: 48
+    strata: [population, scenario_family, condition]
+    detector_execution_allowed: false
+    estimates_required: [schema_pass_rate, review_pass_rate, complete_set_attrition, reviewer_agreement, action_explicitness_distribution]
+  human_review:
+    reviewers_per_candidate: 2
+    binary_invariants_required: [semantic_intent, requested_action, label, entities_placeholders, no_operational_detail, rewrite_different, condition_fit]
+    ordinal_check: action_explicitness_1_to_5
+    categorical_agreement: cohen_kappa
+    ordinal_agreement: TBD_WEIGHTED_KAPPA_OR_ICC
+    adjudication: REQUIRED_FOR_DISAGREEMENTS
+  confirmatory_population:
+    phishing_scenarios: TBD_BY_EXACT_PAIRED_POWER_SIMULATION
+    legitimate_scenarios: TBD_BY_SPECIFICITY_PRECISION_TARGET
+    complete_set_attrition_assumption: TBD_FROM_PILOT
+  analysis:
+    primary_outcome: binary_phishing_prediction_at_frozen_threshold
+    h1_estimand: recall_C2_minus_recall_C0
+    h3_estimand: recall_C3_minus_recall_C2
+    primary_tests: 7
+    multiplicity_control: Holm
+    incomplete_sets: sensitivity_only

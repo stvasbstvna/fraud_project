@@ -1,0 +1,11 @@
+{
+  "exact_model_snapshot": "gpt-5.4-mini-2026-03-17",
+  "max_tokens": 16000,
+  "provider": "OpenAI Responses",
+  "retry_limit": 1,
+  "seed_if_supported": null,
+  "structured_output_mode": "strict_json_schema",
+  "temperature": 0,
+  "timestamp": "2026-11-07T10:21:34.589342+00:00",
+  "top_p": 1
+}

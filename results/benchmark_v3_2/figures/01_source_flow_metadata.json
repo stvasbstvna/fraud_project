@@ -1,0 +1,32 @@
+{
+  "title": "Source and cohort flow",
+  "research_question": "How many records reach each cohort stage?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv",
+    "results\\benchmark_v3_2\\tables\\cohort_flow.csv"
+  ],
+  "filters": "all cohort flow stages",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 10,
+    "distinct_frames_in_data": null
+  },
+  "models": [],
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Records / frames (as named by stage)",
+  "y_axis": "Cohort stage",
+  "main_observation": "Existing raw records rescanned: 67380; New expanded lexical hits: 707; Rights-cleared unique candidate pool read: 12954; Fitting-family-compatible source packet: 1065; English/financial machine approved: 16; Policy-eligible robustness C0: 12; Initial generation jobs: 48; Generated attempts: 89; Approved rewrite pairs: 14; Complete trajectories: 0",
+  "allowed_interpretation": "Counts describe cohort selection; consult stage units.",
+  "forbidden_interpretation": "Selection counts do not establish population prevalence.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

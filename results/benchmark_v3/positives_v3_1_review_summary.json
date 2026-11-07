@@ -1,0 +1,9 @@
+{
+  "approved": 295,
+  "labels": {
+    "legitimate": 4,
+    "phishing": 291
+  },
+  "reviewed": 313,
+  "stage": "positives"
+}

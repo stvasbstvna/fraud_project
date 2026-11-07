@@ -10,6 +10,7 @@ data/final/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/processed/unified_text_messages.csv
+!data/processed/smishtank_normalized.csv
 !data/processed/banking_candidates.csv
 !data/processed/banking_manual_review.csv
 !data/processed/banking_human_written.csv
@@ -18,5 +19,11 @@ data/final/*
 !data/processed/CHECKSUMS.sha256
 !data/generated/.gitkeep
 !data/final/.gitkeep
+!data/final/*.csv
+!data/final/README.md
+data/review/*.inspect.ndjson
+outputs/final_dataset_workbook_preview/
+_codex_update/
+fraud_project_codex_update.zip
 artifacts/
 *.env

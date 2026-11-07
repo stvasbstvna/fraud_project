@@ -1,0 +1,6 @@
+condition,available_frames,primary_complete_frames,planned_slots,generated_slots,approved_slots,rejected_slots,attempt_count,retry_count
+C0,12,0,,,,,0,0
+C1,2,0,12.0,12.0,2.0,10.0,22,10
+C4,5,0,12.0,12.0,5.0,7.0,21,9
+C5,4,0,12.0,12.0,4.0,8.0,24,12
+C6,3,0,12.0,12.0,3.0,9.0,22,10

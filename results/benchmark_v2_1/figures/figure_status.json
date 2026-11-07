@@ -1,0 +1,11 @@
+{
+  "status": "NOT RUN",
+  "reason": "No eligible frozen evaluated variants",
+  "planned_figures": {
+    "1_recall": "X: condition C0\u2013C6; Y: phishing recall (0\u20131); one line per frozen detector.",
+    "2_probability_change": "X: C1\u2013C6; Y: P(C0)\u2212P(Ci) on phishing frames; detector-specific means and paired frame bootstrap 95% intervals.",
+    "3_distance_change": "X: prespecified surface distance; Y: P(C0)\u2212P(Ci); each point a phishing variant, color identifies detector.",
+    "4_transitions": "X: condition; Y: four directional decision transitions; cells show counts separately per detector.",
+    "5_trajectory": "X: C0\u2013C6; Y: phishing probability (0\u20131); two detector lines and fixed 0.5 threshold. Frame nearest median mean absolute paired shift, ties by stable ID."
+  }
+}

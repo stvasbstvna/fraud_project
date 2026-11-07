@@ -1,0 +1,8 @@
+**Exploratory available pairs; automated semantic review, not independent human annotation.**
+
+| frame_id | source_id | original_dataset | true_label | entity | template_family_id |
+| --- | --- | --- | --- | --- | --- |
+| BV21-002c3077ab11be66f6cdcd21 | SYNTH-V21 | legacy_researcher_authored_synthetic | legitimate | Harbor Credit | TF-f86b305bf21796477012 |
+| BV21-1342c95e697ef60f72baeaad | SYNTH-V21 | legacy_researcher_authored_synthetic | legitimate | MetroTrust | TF-6ffdcf8ad5aaf9d06289 |
+| P48-197b92bfdb2dcf81df2da056 | MENDELEY-SMISH | Mishra and Soni SMS Phishing Dataset v1 | phishing_scam | transaction for AUD 788.93 | TF-817fec322f3100b355a3 |
+| P48-2e9ff1c7f923e0cd7670dfc6 | MENDELEY-SMISH | Mishra and Soni SMS Phishing Dataset v1 | phishing_scam | Nationwide | TF-d090df4c390e6cd68109 |

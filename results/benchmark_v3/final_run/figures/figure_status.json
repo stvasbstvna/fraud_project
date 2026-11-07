@@ -1,0 +1,58 @@
+{
+  "figures": [
+    {
+      "caption": "Labels are automated; source and class remain strongly associated. No synthetic controls were added.",
+      "figure": "Figure01_dataset_composition",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Stages also apply rights and semantic filters; this is not a claim that all reductions are duplicates. Total raw source rows:234,547.",
+      "figure": "Figure02_raw_unique_families",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "High F1 does not establish ability to reject legitimate controls. Labels are automated; inspect the small control denominator.",
+      "figure": "Figure03_original_metrics",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Labels are machine-reviewed, not independent human ground truth. Only1 negative test case(s); no real banking specificity estimate.",
+      "figure": "Figure04_confusion_matrices",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Separate models trained on24 versus137 rows. Gateway has no legitimate test cases; temporal evaluation NOT RUN.",
+      "figure": "Figure05_source_generalization",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Phishing N:[27, 8, 11, 10, 10]. Cohorts differ across conditions; only7 phishing frames have a complete core.",
+      "figure": "Figure06_rewrite_recall",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Available pairs N:[8, 11, 10, 10]; uncalibrated model scores and unequal surviving cohorts limit comparison.",
+      "figure": "Figure07_probability_movement",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "39 approved pairs per model; missing/rejected conditions are not scored as stable.",
+      "figure": "Figure08_threshold_crossings",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Repeated points are clustered within source frames; descriptive associations do not establish linguistic causality.",
+      "figure": "Figure09_distance_movement",
+      "status": "OBSERVED_EXPLORATORY"
+    },
+    {
+      "caption": "Control N:[1, 0, 0, 0, 0]; gaps mean unavailable, never zeroFPR. No control generalization or unsupported new/recovered-FP conclusion.",
+      "figure": "Figure10_legitimate_false_positives",
+      "status": "OBSERVED_EXPLORATORY"
+    }
+  ],
+  "observed_only": true,
+  "scientific_figure_count": 10,
+  "tables": 16,
+  "validation": "automated_semantic_review_not_independent_human"
+}

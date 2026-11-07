@@ -1,0 +1,68 @@
+benchmark_version: "2.1-pre-freeze"
+family_version: "bv21-dose-response-primary-v1"
+status: "preregistered_before_generation"
+population: "phishing_scam"
+unit_of_analysis: "frame_id"
+familywise_alpha: 0.05
+multiplicity_method: "Holm step-down across all seven dose-response confirmatory hypotheses"
+distance_variable_primary: "combined_surface_distance"
+distance_variables_supporting:
+  - lexical_jaccard
+  - normalized_edit_distance
+  - tfidf_cosine_similarity
+hypotheses:
+  - id: H1_CONTINUOUS_DISTANCE_TREND
+    tier: PRIMARY
+    endpoint: clipped_logit_phishing_probability
+    test: frame_level_mean_detector_distance_slope_one_sample_t
+    effect: mean_within_frame_logit_probability_slope_per_unit_combined_surface_distance
+    direction: two_sided
+  - id: H2_BINARY_FN_DISTANCE_TREND
+    tier: PRIMARY
+    endpoint: false_negative_indicator
+    test: frame_level_mean_detector_distance_slope_one_sample_t
+    effect: mean_within_frame_false_negative_slope_per_unit_combined_surface_distance
+    direction: two_sided
+  - id: H5_C0_VS_C1_MINIMAL_LEXICAL
+    tier: SECONDARY_CONFIRMATORY
+    endpoint: clipped_logit_phishing_probability
+    conditions: [C0, C1]
+    test: frame_level_mean_detector_paired_t
+    effect: mean_logit_probability_C1_minus_C0
+    direction: two_sided
+  - id: H6_C2_VS_C3_ACTION_EXPLICITNESS
+    tier: SECONDARY_CONFIRMATORY
+    endpoint: clipped_logit_phishing_probability
+    conditions: [C2, C3]
+    test: frame_level_mean_detector_paired_t
+    effect: mean_logit_probability_C3_minus_C2
+    direction: two_sided
+  - id: H7_C0_VS_C4_NATURALIZATION
+    tier: SECONDARY_CONFIRMATORY
+    endpoint: clipped_logit_phishing_probability
+    conditions: [C0, C4]
+    test: frame_level_mean_detector_paired_t
+    effect: mean_logit_probability_C4_minus_C0
+    direction: two_sided
+  - id: H8_C0_VS_C5_STRONG_PARAPHRASE
+    tier: SECONDARY_CONFIRMATORY
+    endpoint: clipped_logit_phishing_probability
+    conditions: [C0, C5]
+    test: frame_level_mean_detector_paired_t
+    effect: mean_logit_probability_C5_minus_C0
+    direction: two_sided
+  - id: H9_C0_VS_C6_COMBINED_HIGH_DISTANCE
+    tier: SECONDARY_CONFIRMATORY
+    endpoint: clipped_logit_phishing_probability
+    conditions: [C0, C6]
+    test: frame_level_mean_detector_paired_t
+    effect: mean_logit_probability_C6_minus_C0
+    direction: two_sided
+exploratory:
+  - H3_CONTINUOUS_DETECTOR_DISTANCE_INTERACTION
+  - H4_BINARY_DETECTOR_DISTANCE_INTERACTION
+  - condition_level_recall_fnr_and_transitions
+  - individual_model_condition_contrasts
+  - alternative_distance_components
+  - nonlinear_or_nonmonotonic_distance_models
+  - legitimate_specificity_fpr_and_condition_sensitivity

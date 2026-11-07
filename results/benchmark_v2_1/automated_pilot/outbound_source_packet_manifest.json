@@ -1,0 +1,39 @@
+{
+  "destination": "https://api.openai.com/v1/responses",
+  "purpose": "user-requested automated semantic source review",
+  "packet_rows": 29,
+  "packet_sources": {
+    "UCI-SMS": 1,
+    "MENDELEY-SMISH": 8,
+    "SYNTH-V21": 3,
+    "SMS-GATEWAY": 17
+  },
+  "public_sources": [
+    "Mendeley DOI 10.17632/f45bkkt8pr.1 CC BY 4.0, publisher archive SHA verified",
+    "wspr-ncsu/sms-phishing pinned public MIT repository, full notice retained",
+    "UCI DOI 10.24432/C5CC84 CC BY 4.0"
+  ],
+  "synthetic_source": "existing project-authored fictional-bank templates, not private customer messages",
+  "excluded": "all held sources, private review fields, keys, headers, detector predictions/features and raw endpoints",
+  "safety_screen_passed": true,
+  "fields": [
+    "frame_id",
+    "safe_text",
+    "source_id",
+    "source_row_id",
+    "original_dataset",
+    "original_url",
+    "license_status",
+    "raw_label",
+    "label_source"
+  ],
+  "user_authorization": "User explicitly requested LLM Reviewer A and B for each existing safe/defanged candidate and provenance, followed by API-backed generation and automated review; no human intervention requested.",
+  "max_initial_source_model_calls": 87,
+  "models": {
+    "generator": "gpt-5.4-mini-2026-03-17",
+    "llm_reviewer_A": "gpt-5.4-mini-2026-03-17",
+    "llm_reviewer_B": "gpt-4.1-mini-2025-04-14",
+    "llm_adjudicator": "gpt-4.1-2025-04-14"
+  },
+  "packet_sha256": "3973cf2b73724faf6591ed0395be3ca6300ac6b96ae6b97e0550f68acca80c20"
+}

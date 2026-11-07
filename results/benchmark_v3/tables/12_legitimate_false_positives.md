@@ -1,0 +1,21 @@
+# 12 legitimate false positives
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model | condition | legitimate | false_positive_rate | already_false_positive | new_false_positives | recovered_false_positives |
+| --- | --- | --- | --- | --- | --- | --- |
+| LR | C0 | 2 | 1.0 | 2 | 0 | 0 |
+| LR | C1 | 0 |  | 0 | 0 | 0 |
+| LR | C4 | 1 | 1.0 | 1 | 0 | 0 |
+| LR | C5 | 1 | 1.0 | 1 | 0 | 0 |
+| LR | C6 | 1 | 1.0 | 1 | 0 | 0 |
+| ModernBERT | C0 | 2 | 1.0 | 2 | 0 | 0 |
+| ModernBERT | C1 | 0 |  | 0 | 0 | 0 |
+| ModernBERT | C4 | 1 | 1.0 | 1 | 0 | 0 |
+| ModernBERT | C5 | 1 | 1.0 | 1 | 0 | 0 |
+| ModernBERT | C6 | 1 | 1.0 | 1 | 0 | 0 |
+| RF | C0 | 2 | 1.0 | 2 | 0 | 0 |
+| RF | C1 | 0 |  | 0 | 0 | 0 |
+| RF | C4 | 1 | 1.0 | 1 | 0 | 0 |
+| RF | C5 | 1 | 1.0 | 1 | 0 | 0 |
+| RF | C6 | 1 | 1.0 | 1 | 0 | 0 |

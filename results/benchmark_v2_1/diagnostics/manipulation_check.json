@@ -1,0 +1,8 @@
+{
+  "status": "PENDING_GENERATION_AND_HUMAN_VALIDATION",
+  "measured_texts": 441,
+  "complete_frames": 0,
+  "representation": "frozen-vectorizer-equal-weight-v1",
+  "C1_lower_than_C5": null,
+  "C1_lower_than_C6": null
+}

@@ -1,0 +1,12 @@
+# Execution ledger
+
+* User's detailed execution spec supplies the workflow and stop thresholds; no new design approval was requested. Changes remain additive in the six v2.2 namespaces; extensive untracked historical work was preserved in place.
+* Baseline inventory: 979 pre-existing non-cache/non-secret project files. No git reset, dependency installation, commit or push.
+* V2.1 failure evidence and exact prior conditions/reviews/results inspected first. All 14 specified failures mapped to concrete mechanisms or clearly pending empirical gates.
+* Original Mendeley/UCI/Gateway releases retrieved with prior audited SHA checks. New licensed financial scam/ham v2 discovered, metadata and message file retained; no per-row channel, so HOLD. Initial publisher endpoint 404 and no-user-agent 403 were resolved; no current provider/network blocker is claimed.
+* Broad screen expanded to include institution-only security notifications after independent review. Typed redaction corrected endpoint priority over nested dates/times; old safe text was not used to repair original facts silently.
+* Ruling: use an optimistic control-only family preflight before full positive-family clustering. Positive bridges could only further merge/quarantine controls; omitting them cannot make the upper bound pessimistic. Large preliminary clustering attempts were stopped without outputs; no generated/scored research observations were discarded.
+* Initial control-only bound of 49 families did not itself prove insufficiency. Exact original-text hashes then established 43 Mendeley/UCI duplicates; independent-lineage capacities reduce the optimistic maximum to 14. This was not a relaxed threshold or detector-driven source selection.
+* Ruling: no source semantic API calls because even assuming every remaining control is approved cannot reach the 16-control requirement under the source cap. Stop before accepted source freeze, prompt prepilot or any generation, as explicitly requested. No tiny available-pair substitute.
+* Source audit saved once; source-cohort header file carries explicit NOT FROZEN manifest. Twelve result schemas are NOT RUN, two supplementary audit tables contain real data, seven figure slots are unavailable, zero scientific figures.
+* Independent review and follow-up completed; final suite 201 passed in 6.95s. Historical/model/snapshot integrity verifier passes. Remaining work requires supported source expansion, then downstream implementation and empirical execution; the current failed-source run must remain immutable.

@@ -1,0 +1,14 @@
+{
+  "input": "data/final/sms_master_with_splits.csv",
+  "random_state": 42,
+  "fit_split": "train",
+  "evaluation_splits": [
+    "validation",
+    "banking_test"
+  ],
+  "train_rows": 1568,
+  "models": [
+    "tfidf_logistic_regression",
+    "tfidf_random_forest"
+  ]
+}

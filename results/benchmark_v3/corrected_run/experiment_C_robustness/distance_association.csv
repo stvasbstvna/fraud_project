@@ -1,0 +1,4 @@
+model,label,paired_variants,frames_with_slope,mean_within_frame_abs_change_slope,ci95_low,ci95_high,scope
+LR,phishing,48,13,0.002298299956133697,-7.459887216552682e-05,0.0045355480320639335,descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues
+ModernBERT,phishing,48,13,0.004468188288829434,-0.004918352660975625,0.01947447076567811,descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues
+RF,phishing,48,13,0.01220422955434323,-0.0010049219908639456,0.03178269503153079,descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues

@@ -1,0 +1,7 @@
+{
+  "analysis_matrix_sha256": "d3b98e88cef6d6a80afe6b42d5edaa9a6d7acc47556e381d6172d6b160298dff",
+  "distance_file_sha256": "8ddbe1d725aebd366f46f7627dfe2c610055f37a6368179ac0bba55fd6dd3ac3",
+  "frozen_matrix_sha256": "1390b12572da926595b34042f2c14d1c64117c414d8a4ebeb0808acbfd78f885",
+  "method": "surface=.5*(1-tokenJaccard)+.5*normalizedSequenceMatcherDistance; lexical cosine is not semantic similarity",
+  "vectorizer_model_sha256": "df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf"
+}

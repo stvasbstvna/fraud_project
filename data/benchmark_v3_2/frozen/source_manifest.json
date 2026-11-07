@@ -1,0 +1,57 @@
+{
+  "eligibility_exclusions": [
+    {
+      "before_generation_and_scoring": true,
+      "decision": "exclude_not_relabel",
+      "frame_id": "gateway-8251",
+      "reason": "Generic account identity verification with no explicit financial institution or financial event",
+      "semantic_review_label": "phishing"
+    },
+    {
+      "before_generation_and_scoring": true,
+      "decision": "exclude_not_relabel",
+      "frame_id": "nus-3592",
+      "reason": "UniPay2U gold monthly bonus investment claim: institutional legitimacy unresolved; no confident legitimate control",
+      "semantic_review_label": "legitimate"
+    },
+    {
+      "before_generation_and_scoring": true,
+      "decision": "exclude_not_relabel",
+      "frame_id": "nus-1889",
+      "reason": "Developer-company bank details sharing, not institutional financial-service notification",
+      "semantic_review_label": "legitimate"
+    },
+    {
+      "before_generation_and_scoring": true,
+      "decision": "exclude_not_relabel",
+      "frame_id": "nus-3847",
+      "reason": "Unspecified refill/pay-retailer service, possible telco top-up; financial eligibility unresolved",
+      "semantic_review_label": "legitimate"
+    }
+  ],
+  "families": 12,
+  "frozen_at": "2026-11-07T10:44:22.015123+00:00",
+  "labels": {
+    "legitimate": 1,
+    "phishing": 11
+  },
+  "origins": {
+    "real_source": 3,
+    "uncertain_origin": 9
+  },
+  "review_type": "automated contexts; independent code/source audit not independent human ground truth",
+  "rows": 12,
+  "source_cohort_sha256": "425908157e8c168d85d3f7212d169b6091a678157fc80011e606426ebb66df33",
+  "source_decisions_sha256": "38125b46dff1360963a3d5e28137d17d8929c68afc31b03026d8975c1433fef7",
+  "source_review_packets": [
+    {
+      "path": "data\\benchmark_v3_2\\source\\outbound_packet.json",
+      "sha256": "44a7439572ee92554862fde7c6348b617067ffa6a2f3c9fb299b8b19a4f98725"
+    },
+    {
+      "path": "data\\benchmark_v3_2\\source\\additional_outbound_packet.json",
+      "sha256": "058769558d394865d1ee981443418a5692cc614e5a513f273f032cdb51c54253"
+    }
+  ],
+  "status": "FINAL_C0_EXPLORATORY_CONTROL_TARGET_UNMET"
+}

@@ -1,0 +1,227 @@
+{
+  "status": "sensitivity_analysis_complete_confirmatory_assumptions_pending",
+  "primary_family": [
+    "H1_logistic_regression",
+    "H1_random_forest",
+    "H2_logistic_regression",
+    "H2_random_forest",
+    "H3_logistic_regression",
+    "H3_random_forest",
+    "H4_detector_interaction"
+  ],
+  "primary_test_count": 7,
+  "multiplicity": "Holm step-down",
+  "familywise_alpha": 0.05,
+  "unit": "unique paired scenario",
+  "primary_outcome": "binary phishing prediction at the detector's frozen threshold",
+  "simulation_seed_base": 20260827,
+  "simulations_per_scenario": 1000,
+  "dependence_assumption": "independent primary-test statistics for sensitivity only",
+  "confirmatory_decisions_required": [
+    "minimum relevant effects by hypothesis",
+    "discordant-pair rates",
+    "cross-detector/test dependence",
+    "complete-set attrition",
+    "target marginal or joint power"
+  ],
+  "scenarios": [
+    {
+      "profile": "conservative",
+      "n_scenarios": 500,
+      "effect": 0.02,
+      "discordant_pair_rate": 0.1,
+      "simulations": 1000,
+      "seed": 20260827,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.091,
+        "H1_random_forest": 0.095,
+        "H2_logistic_regression": 0.066,
+        "H2_random_forest": 0.057,
+        "H3_logistic_regression": 0.076,
+        "H3_random_forest": 0.088,
+        "H4_detector_interaction": 0.084
+      },
+      "minimum_test_power": 0.057,
+      "mean_test_power": 0.07957142857142856,
+      "probability_any_primary_rejection": 0.434,
+      "probability_all_primary_rejected": 0.0
+    },
+    {
+      "profile": "conservative",
+      "n_scenarios": 750,
+      "effect": 0.02,
+      "discordant_pair_rate": 0.1,
+      "simulations": 1000,
+      "seed": 20260828,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.146,
+        "H1_random_forest": 0.154,
+        "H2_logistic_regression": 0.162,
+        "H2_random_forest": 0.137,
+        "H3_logistic_regression": 0.173,
+        "H3_random_forest": 0.152,
+        "H4_detector_interaction": 0.139
+      },
+      "minimum_test_power": 0.137,
+      "mean_test_power": 0.15185714285714288,
+      "probability_any_primary_rejection": 0.655,
+      "probability_all_primary_rejected": 0.001
+    },
+    {
+      "profile": "conservative",
+      "n_scenarios": 1000,
+      "effect": 0.02,
+      "discordant_pair_rate": 0.1,
+      "simulations": 1000,
+      "seed": 20260829,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.229,
+        "H1_random_forest": 0.234,
+        "H2_logistic_regression": 0.25,
+        "H2_random_forest": 0.238,
+        "H3_logistic_regression": 0.259,
+        "H3_random_forest": 0.256,
+        "H4_detector_interaction": 0.231
+      },
+      "minimum_test_power": 0.229,
+      "mean_test_power": 0.24242857142857144,
+      "probability_any_primary_rejection": 0.817,
+      "probability_all_primary_rejected": 0.004
+    },
+    {
+      "profile": "target_sensitivity",
+      "n_scenarios": 500,
+      "effect": 0.04,
+      "discordant_pair_rate": 0.1,
+      "simulations": 1000,
+      "seed": 20260837,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.609,
+        "H1_random_forest": 0.643,
+        "H2_logistic_regression": 0.638,
+        "H2_random_forest": 0.64,
+        "H3_logistic_regression": 0.681,
+        "H3_random_forest": 0.635,
+        "H4_detector_interaction": 0.627
+      },
+      "minimum_test_power": 0.609,
+      "mean_test_power": 0.639,
+      "probability_any_primary_rejection": 0.994,
+      "probability_all_primary_rejected": 0.136
+    },
+    {
+      "profile": "target_sensitivity",
+      "n_scenarios": 750,
+      "effect": 0.04,
+      "discordant_pair_rate": 0.1,
+      "simulations": 1000,
+      "seed": 20260838,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.882,
+        "H1_random_forest": 0.866,
+        "H2_logistic_regression": 0.88,
+        "H2_random_forest": 0.9,
+        "H3_logistic_regression": 0.87,
+        "H3_random_forest": 0.883,
+        "H4_detector_interaction": 0.904
+      },
+      "minimum_test_power": 0.866,
+      "mean_test_power": 0.8835714285714286,
+      "probability_any_primary_rejection": 1.0,
+      "probability_all_primary_rejected": 0.544
+    },
+    {
+      "profile": "target_sensitivity",
+      "n_scenarios": 1000,
+      "effect": 0.04,
+      "discordant_pair_rate": 0.1,
+      "simulations": 1000,
+      "seed": 20260839,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.978,
+        "H1_random_forest": 0.973,
+        "H2_logistic_regression": 0.975,
+        "H2_random_forest": 0.978,
+        "H3_logistic_regression": 0.974,
+        "H3_random_forest": 0.98,
+        "H4_detector_interaction": 0.965
+      },
+      "minimum_test_power": 0.965,
+      "mean_test_power": 0.9747142857142858,
+      "probability_any_primary_rejection": 1.0,
+      "probability_all_primary_rejected": 0.855
+    },
+    {
+      "profile": "optimistic",
+      "n_scenarios": 500,
+      "effect": 0.06,
+      "discordant_pair_rate": 0.12,
+      "simulations": 1000,
+      "seed": 20260847,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.96,
+        "H1_random_forest": 0.964,
+        "H2_logistic_regression": 0.973,
+        "H2_random_forest": 0.977,
+        "H3_logistic_regression": 0.965,
+        "H3_random_forest": 0.971,
+        "H4_detector_interaction": 0.975
+      },
+      "minimum_test_power": 0.96,
+      "mean_test_power": 0.9692857142857142,
+      "probability_any_primary_rejection": 1.0,
+      "probability_all_primary_rejected": 0.846
+    },
+    {
+      "profile": "optimistic",
+      "n_scenarios": 750,
+      "effect": 0.06,
+      "discordant_pair_rate": 0.12,
+      "simulations": 1000,
+      "seed": 20260848,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 0.999,
+        "H1_random_forest": 0.999,
+        "H2_logistic_regression": 0.996,
+        "H2_random_forest": 0.997,
+        "H3_logistic_regression": 0.997,
+        "H3_random_forest": 0.997,
+        "H4_detector_interaction": 0.999
+      },
+      "minimum_test_power": 0.996,
+      "mean_test_power": 0.9977142857142856,
+      "probability_any_primary_rejection": 1.0,
+      "probability_all_primary_rejected": 0.984
+    },
+    {
+      "profile": "optimistic",
+      "n_scenarios": 1000,
+      "effect": 0.06,
+      "discordant_pair_rate": 0.12,
+      "simulations": 1000,
+      "seed": 20260849,
+      "alpha": 0.05,
+      "test_power": {
+        "H1_logistic_regression": 1.0,
+        "H1_random_forest": 1.0,
+        "H2_logistic_regression": 1.0,
+        "H2_random_forest": 1.0,
+        "H3_logistic_regression": 1.0,
+        "H3_random_forest": 1.0,
+        "H4_detector_interaction": 1.0
+      },
+      "minimum_test_power": 1.0,
+      "mean_test_power": 1.0,
+      "probability_any_primary_rejection": 1.0,
+      "probability_all_primary_rejected": 1.0
+    }
+  ]
+}

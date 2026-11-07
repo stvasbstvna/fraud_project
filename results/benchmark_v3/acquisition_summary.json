@@ -1,0 +1,19 @@
+{
+  "english_SMS_candidates": 209827,
+  "exact_duplicate_excess_all_rights": 13625,
+  "final_independent_messages": 0,
+  "financial_candidates_all_rights": 37063,
+  "license_note": "Parsing/keywords do not approve source truth or modeling labels",
+  "permitted_candidate_source_counts": {
+    "gateway": 11757,
+    "mendeley": 163,
+    "nus": 320,
+    "uci": 7
+  },
+  "permitted_unique_financial_candidates": 12247,
+  "raw_source_rows": 234547,
+  "reviewed_messages": 0,
+  "sources_downloaded": 8,
+  "sting9_records": 0,
+  "unique_financial_messages_all_rights": 23438
+}

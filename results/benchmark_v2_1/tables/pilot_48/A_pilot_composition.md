@@ -1,0 +1,33 @@
+# Proposed pilot composition — not validated ground truth
+
+| source_id | candidate_label | intent_category | entity | template_family_id | count | status |
+| --- | --- | --- | --- | --- | --- | --- |
+| MENDELEY-SMISH | legitimate | login_security | Kotak Mahendra Bank | TF-fae78d06f2aead37751a | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | account_locked | Bank of America | TF-b24908fbb64e6b655d25 | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | account_locked | Your Rbc Royal Bank | TF-73e736464e73630d3d7a | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | card_suspension | Dear Sir Your Bank | TF-3716f6df5f0c67b2b81f | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | fraud_alert | Nationwide | TF-d090df4c390e6cd68109 | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | payment_issue | Paytm Payments Bank | TF-773c54fafc63955bac11 | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | refund |  | TF-d0918e09c456404862ca | 1 | candidate_only_source_review_pending |
+| MENDELEY-SMISH | phishing_scam | transaction_alert |  | TF-817fec322f3100b355a3 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | account_locked | HDFC | TF-e993436b4f0ed26cf083 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | account_locked | HSBC | TF-ee63c8e3ae5555633a97 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | account_review | WoodForest National Bank | TF-2f6b001ca2da263f718d | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | identity_verification | Chase | TF-c47f10c0129b50c98d08 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | identity_verification | PayPal | TF-247a8d7d727e18a72283 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | identity_verification | PayPal | TF-d600c8e967463f378ba5 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | login_security | SANTANDER | TF-409173fe49fb56cb5074 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | login_security | UNIONBANK | TF-555c1e34293f34e29584 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | login_security | Wells Fargo | TF-64386d12a787ae3930d8 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | other_financial | Bendigo Bank | TF-550d14252e0f5c77f55b | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | other_financial | CITI | TF-1a1e5a695a17cea1eaea | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | other_financial | UNIONBANK | TF-2abffd9434afaa874871 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | payment_issue |  | TF-8dc4cd6b9f55d48a40db | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | payment_issue | Wells Fargo | TF-66af1063c73025b174d8 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | suspicious_activity | Bendigo Bank | TF-da32f581f35967cdf3c8 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | transaction_alert | Zelle | TF-bd40192e4982d92c76d9 | 1 | candidate_only_source_review_pending |
+| SMS-GATEWAY | phishing_scam | transaction_alert | zelle | TF-6bce1b1941afd691e8a9 | 1 | candidate_only_source_review_pending |
+| SYNTH-V21 | legitimate | account_review | MetroTrust | TF-6ffdcf8ad5aaf9d06289 | 1 | candidate_only_source_review_pending |
+| SYNTH-V21 | legitimate | other_financial | Northstar Bank | TF-e462ccbbd019621917c1 | 1 | candidate_only_source_review_pending |
+| SYNTH-V21 | legitimate | transaction_alert | Harbor Credit | TF-f86b305bf21796477012 | 1 | candidate_only_source_review_pending |
+| UCI-SMS | legitimate | transaction_alert |  | TF-81f5e44af80949dbd3d4 | 1 | candidate_only_source_review_pending |

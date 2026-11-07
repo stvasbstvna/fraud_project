@@ -18,6 +18,16 @@ Rommel Gutierrez, William Villegas-Ch, and Jaime Govea. “Cross-model evaluatio
 
 The included README also asks users to cite the accompanying dataset record, but its placeholder Zenodo DOI was not complete in the supplied package. That unresolved identifier is retained as a provenance limitation.
 
+## SmishTank
+
+The local source file `data/raw/smishtank/analysisdataset.csv` contains 1,062 rows. The import script removes eight exact normalized duplicates, producing 1,054 normalized rows before cross-source deduplication. Cite:
+
+Timko and Rahman. “Smishing Dataset I: Phishing SMS Dataset.” 2024. https://arxiv.org/abs/2402.18430
+
+Project site: https://smishtank.com/
+
+The paper and public project describe the dataset, but an explicit row-level redistribution license was not found in the supplied file. Therefore the raw file stays ignored by Git. Before making a public repository, verify the current SmishTank redistribution terms; if permission is not confirmed, publish the importer, checksums/metadata, and derived aggregate results rather than the raw or normalized message rows.
+
 ## Excluded row-level sources
 
-No message rows from the uploaded GPT-4o CSV, bank-transaction workbook, PhishFuzzer, SmishTank, or PhishOracle repositories are redistributed here. Their papers and repositories remain cited in the inventory and source details. Paper access or a public website is not treated as permission to republish dataset contents.
+No message rows from the uploaded GPT-4o CSV, bank-transaction workbook, PhishFuzzer, or PhishOracle repositories are redistributed here. SmishTank is used locally for the final experiment, subject to the redistribution warning above. Paper access or a public website is not treated as permission to republish dataset contents.

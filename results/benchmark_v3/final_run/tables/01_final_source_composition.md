@@ -1,0 +1,10 @@
+# 01 final source composition
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| source_id | label | origin_type | N | template_families |
+| --- | --- | --- | --- | --- |
+| gateway | phishing | uncertain | 167 | 167 |
+| mendeley | legitimate | real | 5 | 5 |
+| mendeley | phishing | real | 19 | 19 |
+| nus | legitimate | real | 4 | 4 |

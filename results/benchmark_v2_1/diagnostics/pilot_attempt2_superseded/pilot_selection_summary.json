@@ -1,0 +1,81 @@
+{
+  "status": "PILOT NOT READY",
+  "legacy_master_candidates": 441,
+  "external_financial_audit_rows": 1287,
+  "audited_pool": 1728,
+  "master_template_families": 8,
+  "pool_template_families": 268,
+  "training_template_overlap_exclusions": 71,
+  "selected_frames": 29,
+  "candidate_labels": {
+    "phishing_scam": 24,
+    "legitimate": 5
+  },
+  "selected_sources": {
+    "SMS-GATEWAY": 17,
+    "MENDELEY-SMISH": 8,
+    "SYNTH-V21": 3,
+    "UCI-SMS": 1
+  },
+  "selected_entities": {
+    "": 4,
+    "PayPal": 2,
+    "UNIONBANK": 2,
+    "Wells Fargo": 2,
+    "Bendigo Bank": 2,
+    "Harbor Credit": 1,
+    "Kotak Mahendra Bank": 1,
+    "SANTANDER": 1,
+    "MetroTrust": 1,
+    "Nationwide": 1,
+    "WoodForest National Bank": 1,
+    "Dear Sir Your Bank": 1,
+    "Your Rbc Royal Bank": 1,
+    "Northstar Bank": 1,
+    "Paytm Payments Bank": 1,
+    "Bank of America": 1,
+    "zelle": 1,
+    "Chase": 1,
+    "HDFC": 1,
+    "CITI": 1,
+    "Zelle": 1,
+    "HSBC": 1
+  },
+  "selected_intent_categories": {
+    "transaction_alert": 5,
+    "other_financial": 4,
+    "login_security": 4,
+    "account_locked": 4,
+    "payment_issue": 3,
+    "identity_verification": 3,
+    "account_review": 2,
+    "fraud_alert": 1,
+    "card_suspension": 1,
+    "suspicious_activity": 1,
+    "refund": 1
+  },
+  "selected_template_families": 29,
+  "selected_near_duplicate_pairs": 0,
+  "source_approved_frames": 0,
+  "generated_rewrites": 0,
+  "frozen_rows": 0,
+  "targets": {
+    "phishing_scam": 24,
+    "legitimate": 24
+  },
+  "quota_deficit": {
+    "phishing_scam": 0,
+    "legitimate": 19
+  },
+  "selection_policy": "deterministic category/source/entity balancing; one per connected family; max 4/entity and label/category; max 24/source; no quotas filled from HOLD or train-template-overlap rows",
+  "template_thresholds": {
+    "jaccard_and_structure": 0.8,
+    "structure_with_jaccard_at_least_0_45": 0.92
+  },
+  "limitations": [
+    "Automated family screening is not human equivalence review",
+    "Family IDs are cohort/version dependent",
+    "Candidate labels are unvalidated",
+    "Source/label composition may remain confounded, particularly synthetic controls"
+  ]
+}

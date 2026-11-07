@@ -1,0 +1,2668 @@
+[
+  {
+    "id": "gateway-6354::C1",
+    "frame_id": "gateway-6354",
+    "condition": "C1",
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-6354::C1",
+      "text": "truist MSG: Did you approve a charge of $353.60 on your account?. If this wasn't you, please secure your account right away [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-6354::C4",
+    "frame_id": "gateway-6354",
+    "condition": "C4",
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-6354::C4",
+      "text": "truist MSG: Did you authorize a payment of $353.60 from your account? If this was not you, please protect your account immediately [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-6354::C5",
+    "frame_id": "gateway-6354",
+    "condition": "C5",
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-6354::C5",
+      "text": "truist MSG: A payment of $353.60 was made from your account. If you did not authorize it, please protect your account immediately [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-6354::C6",
+    "frame_id": "gateway-6354",
+    "condition": "C6",
+    "source": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-6354::C6",
+      "text": "truist MSG: Did you authorize a payment of $353.60 from your account? If not, please protect your account immediately [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17683::C1",
+    "frame_id": "gateway-17683",
+    "condition": "C1",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C1",
+      "text": "MyGov Alert: Authorization is needed for your refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17683::C4",
+    "frame_id": "gateway-17683",
+    "condition": "C4",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C4",
+      "text": "MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17683::C5",
+    "frame_id": "gateway-17683",
+    "condition": "C5",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C5",
+      "text": "MyGov Alert: Your refund approval needs authorization. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17683::C6",
+    "frame_id": "gateway-17683",
+    "condition": "C6",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C6",
+      "text": "MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8787::C1",
+    "frame_id": "gateway-8787",
+    "condition": "C1",
+    "source": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8787::C1",
+      "text": "Canada Post: Your package is waiting for delivery. Please confirm the payment of 2CAD on the link below: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8787::C4",
+    "frame_id": "gateway-8787",
+    "condition": "C4",
+    "source": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8787::C4",
+      "text": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8787::C5",
+    "frame_id": "gateway-8787",
+    "condition": "C5",
+    "source": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8787::C5",
+      "text": "Canada Post: Your package is waiting for delivery; please confirm the payment of 2CAD on the link below: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8787::C6",
+    "frame_id": "gateway-8787",
+    "condition": "C6",
+    "source": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8787::C6",
+      "text": "Canada Post: Your package is waiting for delivery. Please confirm the payment of 2CAD on the link below: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2268::C1",
+    "frame_id": "gateway-2268",
+    "condition": "C1",
+    "source": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "CITI",
+    "generation": {
+      "id": "gateway-2268::C1",
+      "text": "CITI: A wire transfer of 10000$ has been sent successfully. If you did not do this, kindly visit here to cancel it: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2268::C4",
+    "frame_id": "gateway-2268",
+    "condition": "C4",
+    "source": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "CITI",
+    "generation": {
+      "id": "gateway-2268::C4",
+      "text": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2268::C5",
+    "frame_id": "gateway-2268",
+    "condition": "C5",
+    "source": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "CITI",
+    "generation": {
+      "id": "gateway-2268::C5",
+      "text": "CITI: The wire transfer of 10000$ was sent successfully. If you did not do this, kindly visit here to cancel it: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2268::C6",
+    "frame_id": "gateway-2268",
+    "condition": "C6",
+    "source": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "CITI",
+    "generation": {
+      "id": "gateway-2268::C6",
+      "text": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4088::C1",
+    "frame_id": "mendeley-4088",
+    "condition": "C1",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C1",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4088::C4",
+    "frame_id": "mendeley-4088",
+    "condition": "C4",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C4",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4088::C5",
+    "frame_id": "mendeley-4088",
+    "condition": "C5",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C5",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4088::C6",
+    "frame_id": "mendeley-4088",
+    "condition": "C6",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C6",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "711271e12e545e50a66a46e7d2a987c84a8034f013914c3789ebe1f195c78e7c"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1436::C1",
+    "frame_id": "mendeley-1436",
+    "condition": "C1",
+    "source": "It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1436::C1",
+      "text": "It is urgent, please reach out to me about an UNCLAIMED BEQUEST PAYMENT as the designated BENEFICIARY by EMAIL [SAFE-EMAIL-1] Regards Gordon",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1436::C4",
+    "frame_id": "mendeley-1436",
+    "condition": "C4",
+    "source": "It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1436::C4",
+      "text": "Please contact me urgently regarding an UNCLAIMED BEQUEST PAYMENT, since you are the Assigned BENEFICIARY, VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1436::C5",
+    "frame_id": "mendeley-1436",
+    "condition": "C5",
+    "source": "It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1436::C5",
+      "text": "As the Assigned BENEFICIARY, please Contact me by EMAIL [SAFE-EMAIL-1] about the UNCLAIMED BEQUEST PAYMENT. Regards Gordon",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1436::C6",
+    "frame_id": "mendeley-1436",
+    "condition": "C6",
+    "source": "It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1436::C6",
+      "text": "Gordon regards. EMAIL [SAFE-EMAIL-1] is the way to contact me about the UNCLAIMED BEQUEST PAYMENT, as the Assigned BENEFICIARY.",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4882::C1",
+    "frame_id": "mendeley-4882",
+    "condition": "C1",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C1",
+      "text": "Dear Sir Your Bank card has been suspended because you have not updated it yet, If you want to refresh your ATM card please call [SAFE-PHONE-1] [SAFE-PHONE-2]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4882::C4",
+    "frame_id": "mendeley-4882",
+    "condition": "C4",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C4",
+      "text": "Dear Sir, your Bank card is blocked because it has not been updated yet. If you want to update your ATM card, please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4882::C5",
+    "frame_id": "mendeley-4882",
+    "condition": "C5",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C5",
+      "text": "Because you did not update it yet, your Bank card has been blocked. To update your ATM card, please contact [SAFE-PHONE-1] [SAFE-PHONE-2], Dear Sir",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-4882::C6",
+    "frame_id": "mendeley-4882",
+    "condition": "C6",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C6",
+      "text": "Dear Sir, please contact [SAFE-PHONE-1] [SAFE-PHONE-2] if you want to update your ATM card, since your Bank card has been blocked because you did not update it yet.",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9024::C1",
+    "frame_id": "gateway-9024",
+    "condition": "C1",
+    "source": "regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9024::C1",
+      "text": "regions: Your debit card has been disabled because of unusual activity. Visit [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9024::C4",
+    "frame_id": "gateway-9024",
+    "condition": "C4",
+    "source": "regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9024::C4",
+      "text": "regions: Due to unusual behavior, your debit has been deactivated. Go to [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9024::C5",
+    "frame_id": "gateway-9024",
+    "condition": "C5",
+    "source": "regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9024::C5",
+      "text": "regions: Your debit was deactivated because of unusual behavior; please go to [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9024::C6",
+    "frame_id": "gateway-9024",
+    "condition": "C6",
+    "source": "regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9024::C6",
+      "text": "regions: Please go to [SAFE-URL-1] to reactivate your debit, which has been deactivated due to unusual behavior.",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2424::C1",
+    "frame_id": "gateway-2424",
+    "condition": "C1",
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",
+    "label": "phishing",
+    "institution_hint": "HSBC",
+    "generation": {
+      "id": "gateway-2424::C1",
+      "text": "HSBC: Because of suspicious activity, we have temporarily restricted access on ur - to re-authenticate, v-it:[SAFE-URL-1] 76sm",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2424::C4",
+    "frame_id": "gateway-2424",
+    "condition": "C4",
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",
+    "label": "phishing",
+    "institution_hint": "HSBC",
+    "generation": {
+      "id": "gateway-2424::C4",
+      "text": "HSBC: We have temporarily restricted access on ur because of suspicious activity; to re-authenticate, v-it:[SAFE-URL-1] 76sm",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2424::C5",
+    "frame_id": "gateway-2424",
+    "condition": "C5",
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",
+    "label": "phishing",
+    "institution_hint": "HSBC",
+    "generation": {
+      "id": "gateway-2424::C5",
+      "text": "HSBC: Suspicious activity has led us to temporarily restrict access on ur. Re-authenticate at v-it:[SAFE-URL-1] 76sm",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-2424::C6",
+    "frame_id": "gateway-2424",
+    "condition": "C6",
+    "source": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",
+    "label": "phishing",
+    "institution_hint": "HSBC",
+    "generation": {
+      "id": "gateway-2424::C6",
+      "text": "HSBC: To re-authenticate after suspicious activity, use v-it:[SAFE-URL-1] 76sm; access on ur has been temporarily restricted.",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1347::C1",
+    "frame_id": "gateway-1347",
+    "condition": "C1",
+    "source": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1347::C1",
+      "text": "Your ANZ account has been suspended; please re-authenticate so you can resume use, check details: [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1347::C4",
+    "frame_id": "gateway-1347",
+    "condition": "C4",
+    "source": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1347::C4",
+      "text": "Your ANZ account has been suspended. Please re-authenticate and resume use; check details: [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1347::C5",
+    "frame_id": "gateway-1347",
+    "condition": "C5",
+    "source": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1347::C5",
+      "text": "Please re-authenticate to resume use of your ANZ account, which has been suspended; check details: [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1347::C6",
+    "frame_id": "gateway-1347",
+    "condition": "C6",
+    "source": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1347::C6",
+      "text": "Your ANZ account is suspended, and you must re-authenticate to resume use. Check details: [SAFE-URL-1]",
+      "review_request_sha256": "92e16df3f6704bf13e7e7a2f6fb652c0523ae2fad6c23fbdae80fb1f83f080dd"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15899::C1",
+    "frame_id": "gateway-15899",
+    "condition": "C1",
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n",
+    "label": "phishing",
+    "institution_hint": "HDFC",
+    "generation": {
+      "id": "gateway-15899::C1",
+      "text": "41-Dear Customer Your HDFC Savings A/c will be blocked today. Pls update your PA.N Card to continue. Click here :[SAFE-URL-1] GW54",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15899::C4",
+    "frame_id": "gateway-15899",
+    "condition": "C4",
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n",
+    "label": "phishing",
+    "institution_hint": "HDFC",
+    "generation": {
+      "id": "gateway-15899::C4",
+      "text": "41-Dear User, your HDFC Saving A/c will be blocked today. Please update your PAN Card to update. Click here: [SAFE-URL-1] GW54",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15899::C5",
+    "frame_id": "gateway-15899",
+    "condition": "C5",
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n",
+    "label": "phishing",
+    "institution_hint": "HDFC",
+    "generation": {
+      "id": "gateway-15899::C5",
+      "text": "41-Dear User, your HDFC Saving A/c will be blocked today. Please update your PA.N Card. Click here to update: [SAFE-URL-1] GW54",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15899::C6",
+    "frame_id": "gateway-15899",
+    "condition": "C6",
+    "source": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n",
+    "label": "phishing",
+    "institution_hint": "HDFC",
+    "generation": {
+      "id": "gateway-15899::C6",
+      "text": "41-Dear User, HDFC Saving A/c will be blocked today unless you update your PA.N Card. Click here: [SAFE-URL-1] GW54",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-34441::C1",
+    "frame_id": "gateway-34441",
+    "condition": "C1",
+    "source": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-34441::C1",
+      "text": "To finish your payment of 357.00 EUR, use code 825673. If you did NOT request this, visit: [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-34441::C4",
+    "frame_id": "gateway-34441",
+    "condition": "C4",
+    "source": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-34441::C4",
+      "text": "To complete your payment of 357.00 EUR, use 825673. If you did NOT request this visit, go to: [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-34441::C5",
+    "frame_id": "gateway-34441",
+    "condition": "C5",
+    "source": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-34441::C5",
+      "text": "Use 825673 to complete your payment of 357.00 EUR. If you did NOT request this visit, please visit: [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-34441::C6",
+    "frame_id": "gateway-34441",
+    "condition": "C6",
+    "source": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-34441::C6",
+      "text": "Your payment of 357.00 EUR can be completed with code 825673. If you did NOT request this visit, use: [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15505::C1",
+    "frame_id": "gateway-15505",
+    "condition": "C1",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C1",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15505::C4",
+    "frame_id": "gateway-15505",
+    "condition": "C4",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C4",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15505::C5",
+    "frame_id": "gateway-15505",
+    "condition": "C5",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C5",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-15505::C6",
+    "frame_id": "gateway-15505",
+    "condition": "C6",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C6",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8048::C1",
+    "frame_id": "gateway-8048",
+    "condition": "C1",
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8048::C1",
+      "text": "We need to verify a recent transaction on your account. Please use our link for more details [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8048::C4",
+    "frame_id": "gateway-8048",
+    "condition": "C4",
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8048::C4",
+      "text": "We need to verify a recent transaction on your account. Please use our link for more details [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8048::C5",
+    "frame_id": "gateway-8048",
+    "condition": "C5",
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8048::C5",
+      "text": "We need to verify a recent transaction on your account. Please use our link for more details [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8048::C6",
+    "frame_id": "gateway-8048",
+    "condition": "C6",
+    "source": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8048::C6",
+      "text": "We need to verify a recent transaction on your account. Please use our link for more details [SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-379::C1",
+    "frame_id": "mendeley-379",
+    "condition": "C1",
+    "source": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-379::C1",
+      "text": "Your tax refund of �349.14 is ready to claim. To access your refund, follow the required steps. http:/[SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-379::C4",
+    "frame_id": "mendeley-379",
+    "condition": "C4",
+    "source": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-379::C4",
+      "text": "Your tax refund of �349.14 is ready to be claimed. To claim your refund, follow the required steps. http:/[SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-379::C5",
+    "frame_id": "mendeley-379",
+    "condition": "C5",
+    "source": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-379::C5",
+      "text": "Your tax refund of �349.14 is ready to be claimed. Follow the required steps to access it. http:/[SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-379::C6",
+    "frame_id": "mendeley-379",
+    "condition": "C6",
+    "source": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-379::C6",
+      "text": "You can claim your tax refund of �349.14 by following the required steps. http:/[SAFE-URL-1]",
+      "review_request_sha256": "2680bb2d810637be1c8390ce1043ed0751fbc1bfbc64155e528c024f87107c7c"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9275::C1",
+    "frame_id": "gateway-9275",
+    "condition": "C1",
+    "source": "[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9275::C1",
+      "text": "[email protected] / Fifth Third Bank: / Your account access has been limited for security reasons; go to [SAFE-URL-1] to reactivate it.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9275::C4",
+    "frame_id": "gateway-9275",
+    "condition": "C4",
+    "source": "[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9275::C4",
+      "text": "[email protected] / Fifth Third Bank: / Access to your account has been restricted for security reasons. Visit [SAFE-URL-1] to reactivate.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9275::C5",
+    "frame_id": "gateway-9275",
+    "condition": "C5",
+    "source": "[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9275::C5",
+      "text": "[email protected] / Fifth Third Bank: / For security reasons, your account access has been restricted. Please visit [SAFE-URL-1] to re-activate.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-9275::C6",
+    "frame_id": "gateway-9275",
+    "condition": "C6",
+    "source": "[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-9275::C6",
+      "text": "[email protected] / Fifth Third Bank: / Because of security concerns, access to your account is restricted; visit [SAFE-URL-1] to restore it.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-13413::C1",
+    "frame_id": "gateway-13413",
+    "condition": "C1",
+    "source": "[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-13413::C1",
+      "text": "[M&T]: Account has been suspended because of new activity detection. Kindly verify your account here [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-13413::C4",
+    "frame_id": "gateway-13413",
+    "condition": "C4",
+    "source": "[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-13413::C4",
+      "text": "[M&T]: Your account has been suspended for new activity detection. Kindly verify your acc. here [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-13413::C5",
+    "frame_id": "gateway-13413",
+    "condition": "C5",
+    "source": "[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-13413::C5",
+      "text": "[M&T]: Account suspension due to new activity detection. Kindly verify your acc. here [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-13413::C6",
+    "frame_id": "gateway-13413",
+    "condition": "C6",
+    "source": "[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-13413::C6",
+      "text": "[M&T]: We suspended your account after detecting new activity. Kindly verify your acc. here [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8251::C1",
+    "frame_id": "gateway-8251",
+    "condition": "C1",
+    "source": "\r\n7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8251::C1",
+      "text": "7..We detected suspicious activity on your account and had to suspend it; please verify your identity to resume normal use:[SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8251::C4",
+    "frame_id": "gateway-8251",
+    "condition": "C4",
+    "source": "\r\n7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8251::C4",
+      "text": "7..We noticed suspicious activity on your account and had to suspend it. Please verify your identity to resume normal use:[SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8251::C5",
+    "frame_id": "gateway-8251",
+    "condition": "C5",
+    "source": "\r\n7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8251::C5",
+      "text": "7..Suspicious activity was noticed on your account, so it was suspended. Please verify your identity to resume normal use:[SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8251::C6",
+    "frame_id": "gateway-8251",
+    "condition": "C6",
+    "source": "\r\n7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8251::C6",
+      "text": "7..We noticed suspicious activity on your account and suspended it; verify your identity to resume normal use:[SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-7774::C1",
+    "frame_id": "gateway-7774",
+    "condition": "C1",
+    "source": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-7774::C1",
+      "text": "Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-7774::C4",
+    "frame_id": "gateway-7774",
+    "condition": "C4",
+    "source": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-7774::C4",
+      "text": "Cba - Your bank has been temporarily frozen because of unusual activity. Please visit: [SAFE-URL-1] immediately.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-7774::C5",
+    "frame_id": "gateway-7774",
+    "condition": "C5",
+    "source": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-7774::C5",
+      "text": "Cba - Due to unusual activity, we have temporarily frozen your bank. Please visit: [SAFE-URL-1] immediately.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-7774::C6",
+    "frame_id": "gateway-7774",
+    "condition": "C6",
+    "source": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-7774::C6",
+      "text": "Cba - We temporarily froze your bank after unusual activity was detected. Please visit: [SAFE-URL-1] immediately.",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8899::C1",
+    "frame_id": "gateway-8899",
+    "condition": "C1",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C1",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8899::C4",
+    "frame_id": "gateway-8899",
+    "condition": "C4",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C4",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8899::C5",
+    "frame_id": "gateway-8899",
+    "condition": "C5",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C5",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8899::C6",
+    "frame_id": "gateway-8899",
+    "condition": "C6",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C6",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "1193297b2d4ad9e9842586fa33b53fbcd36069da2778fe2157469d3e9a97be24"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17578::C1",
+    "frame_id": "gateway-17578",
+    "condition": "C1",
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17578::C1",
+      "text": "74 MyG0V Notice: Your Refund has been approved. Your present balance is now 36533.13AUD. Go to: [SAFE-URL-1] to approve your claim.",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17578::C4",
+    "frame_id": "gateway-17578",
+    "condition": "C4",
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17578::C4",
+      "text": "74 MyG0V Alert: Your refund has been approved. Your current balance is now 36533.13AUD. Visit [SAFE-URL-1] to approve your claim.",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17578::C5",
+    "frame_id": "gateway-17578",
+    "condition": "C5",
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17578::C5",
+      "text": "74 MyG0V Alert: Your Refund has been approved. To approve your claim, visit [SAFE-URL-1]. Your current balance is now 36533.13AUD.",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17578::C6",
+    "frame_id": "gateway-17578",
+    "condition": "C6",
+    "source": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17578::C6",
+      "text": "74 MyG0V Alert: Approval has been granted for your Refund. Your current balance is now 36533.13AUD. To approve your claim, please visit [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-766::C1",
+    "frame_id": "gateway-766",
+    "condition": "C1",
+    "source": "Your  account  has  been  blocked,  in  order  to  unblock  your  account  swiftly  please  visit  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-766::C1",
+      "text": "Your account has been suspended, to restore access quickly please go to [SAFE-URL-1]",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-766::C4",
+    "frame_id": "gateway-766",
+    "condition": "C4",
+    "source": "Your  account  has  been  blocked,  in  order  to  unblock  your  account  swiftly  please  visit  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-766::C4",
+      "text": "Your account has been blocked; to unblock your account quickly, please visit [SAFE-URL-1]",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-766::C5",
+    "frame_id": "gateway-766",
+    "condition": "C5",
+    "source": "Your  account  has  been  blocked,  in  order  to  unblock  your  account  swiftly  please  visit  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-766::C5",
+      "text": "Please visit [SAFE-URL-1] to unblock your account, as it has been blocked.",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-766::C6",
+    "frame_id": "gateway-766",
+    "condition": "C6",
+    "source": "Your  account  has  been  blocked,  in  order  to  unblock  your  account  swiftly  please  visit  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-766::C6",
+      "text": "Access to your account has been blocked. To restore it swiftly, please visit [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1114::C1",
+    "frame_id": "gateway-1114",
+    "condition": "C1",
+    "source": "hi3 The account is locked abnormally. Details: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1114::C1",
+      "text": "hi3 Your account is locked unusually. Details: [SAFE-URL-1]",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1114::C4",
+    "frame_id": "gateway-1114",
+    "condition": "C4",
+    "source": "hi3 The account is locked abnormally. Details: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1114::C4",
+      "text": "hi3 The account is locked in an unusual way. Details: [SAFE-URL-1]",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1114::C5",
+    "frame_id": "gateway-1114",
+    "condition": "C5",
+    "source": "hi3 The account is locked abnormally. Details: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1114::C5",
+      "text": "hi3 Your account has been locked abnormally. For details, see [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-1114::C6",
+    "frame_id": "gateway-1114",
+    "condition": "C6",
+    "source": "hi3 The account is locked abnormally. Details: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1114::C6",
+      "text": "hi3 Access to the account is locked abnormally. Details are available at [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8085::C1",
+    "frame_id": "gateway-8085",
+    "condition": "C1",
+    "source": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8085::C1",
+      "text": "ANZ: A transaction has been made; if you do not recognise it, please access [SAFE-URL-1]",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8085::C4",
+    "frame_id": "gateway-8085",
+    "condition": "C4",
+    "source": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8085::C4",
+      "text": "ANZ: A transaction has been made. If you do not recognise it, please access [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8085::C5",
+    "frame_id": "gateway-8085",
+    "condition": "C5",
+    "source": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8085::C5",
+      "text": "ANZ: If you do not recognise a transaction, please access [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-8085::C6",
+    "frame_id": "gateway-8085",
+    "condition": "C6",
+    "source": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8085::C6",
+      "text": "ANZ: A transaction has been processed. If you do not recognise it, please access [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17805::C1",
+    "frame_id": "gateway-17805",
+    "condition": "C1",
+    "source": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17805::C1",
+      "text": "MyGov: You must update your information to claim your refund. Visit [SAFE-URL-1]",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17805::C4",
+    "frame_id": "gateway-17805",
+    "condition": "C4",
+    "source": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17805::C4",
+      "text": "MyGov: To claim your refund, you need to update your information. Visit [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17805::C5",
+    "frame_id": "gateway-17805",
+    "condition": "C5",
+    "source": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17805::C5",
+      "text": "MyGov: Update your information if you want to claim your refund. Visit [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17805::C6",
+    "frame_id": "gateway-17805",
+    "condition": "C6",
+    "source": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17805::C6",
+      "text": "MyGov: In order to claim your refund, please update your information and visit [SAFE-URL-1].",
+      "review_request_sha256": "07d68c415bcf9376f2b8d1e09abd2180f0f4b69aea4accee9f55cd358c036e41"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17698::C1",
+    "frame_id": "gateway-17698",
+    "condition": "C1",
+    "source": "\r\nMyG0v; Your account is temporarily suspended. Visit: [SAFE-URL-1] immediately\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17698::C1",
+      "text": "MyG0v; Your account is temporarily blocked. Go to: [SAFE-URL-1] right away",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17698::C4",
+    "frame_id": "gateway-17698",
+    "condition": "C4",
+    "source": "\r\nMyG0v; Your account is temporarily suspended. Visit: [SAFE-URL-1] immediately\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17698::C4",
+      "text": "MyG0v; Your account has been temporarily suspended. Please visit [SAFE-URL-1] at once",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17698::C5",
+    "frame_id": "gateway-17698",
+    "condition": "C5",
+    "source": "\r\nMyG0v; Your account is temporarily suspended. Visit: [SAFE-URL-1] immediately\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17698::C5",
+      "text": "Your account is temporarily suspended; visit [SAFE-URL-1] immediately to proceed, MyG0v",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17698::C6",
+    "frame_id": "gateway-17698",
+    "condition": "C6",
+    "source": "\r\nMyG0v; Your account is temporarily suspended. Visit: [SAFE-URL-1] immediately\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17698::C6",
+      "text": "MyG0v says your account is on hold for now, and you should open [SAFE-URL-1] immediately",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-67128::C1",
+    "frame_id": "gateway-67128",
+    "condition": "C1",
+    "source": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-67128::C1",
+      "text": "UNIONBANK Your registered mobile number must be updated. Please update it here:[SAFE-URL-1] to keep receiving One-Time PIN",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-67128::C4",
+    "frame_id": "gateway-67128",
+    "condition": "C4",
+    "source": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-67128::C4",
+      "text": "UNIONBANK Your registered mobile number needs updating. Please use [SAFE-URL-1] to continue receiving One-Time PIN",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-67128::C5",
+    "frame_id": "gateway-67128",
+    "condition": "C5",
+    "source": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-67128::C5",
+      "text": "UNIONBANK Please update your registered mobile number here:[SAFE-URL-1] so you can keep receiving One-Time PIN",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-67128::C6",
+    "frame_id": "gateway-67128",
+    "condition": "C6",
+    "source": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-67128::C6",
+      "text": "UNIONBANK To continue receiving One-Time PIN, your registered mobile number must be updated at [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-14507::C1",
+    "frame_id": "gateway-14507",
+    "condition": "C1",
+    "source": "\r\nRoyal Mail: Your parcel has an outstanding payment of 1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-14507::C1",
+      "text": "Royal Mail: Your parcel has an unpaid balance of 1.99. Pay it via: [SAFE-URL-1] or the parcel will be kept at the depot",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-14507::C4",
+    "frame_id": "gateway-14507",
+    "condition": "C4",
+    "source": "\r\nRoyal Mail: Your parcel has an outstanding payment of 1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-14507::C4",
+      "text": "Royal Mail: There is an outstanding charge of 1.99 on your parcel. Please pay through [SAFE-URL-1] or it will be held at the depot",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-14507::C5",
+    "frame_id": "gateway-14507",
+    "condition": "C5",
+    "source": "\r\nRoyal Mail: Your parcel has an outstanding payment of 1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-14507::C5",
+      "text": "Royal Mail: Your parcel will be held at the depot unless the 1.99 payment is made via [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-14507::C6",
+    "frame_id": "gateway-14507",
+    "condition": "C6",
+    "source": "\r\nRoyal Mail: Your parcel has an outstanding payment of 1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-14507::C6",
+      "text": "Royal Mail says your parcel has a remaining payment of 1.99, and you should pay it at [SAFE-URL-1] to avoid depot hold",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-737::C1",
+    "frame_id": "mendeley-737",
+    "condition": "C1",
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-737::C1",
+      "text": "A transaction of AUD 590.3 was made on your bank account on 08/02/17 11:17:37; if it was unauthorised, follow this link [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-737::C4",
+    "frame_id": "mendeley-737",
+    "condition": "C4",
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-737::C4",
+      "text": "An AUD 590.3 transaction was made with your bank account on 08/02/17 11:17:37. If unauthorised, follow [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-737::C5",
+    "frame_id": "mendeley-737",
+    "condition": "C5",
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-737::C5",
+      "text": "Your bank account was used for a transaction of AUD 590.3 on 08/02/17 11:17:37; if this was unauthorised, use [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-737::C6",
+    "frame_id": "mendeley-737",
+    "condition": "C6",
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-737::C6",
+      "text": "On 08/02/17 11:17:37, AUD 590.3 was transacted from your bank account. If you did not authorise it, follow [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1704::C1",
+    "frame_id": "mendeley-1704",
+    "condition": "C1",
+    "source": "Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1704::C1",
+      "text": "Welcome to Paytm payment bank. Your re verification was done successfully in your wallet. Get 1205 cashback, click the link and log in to your paytm [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1704::C4",
+    "frame_id": "mendeley-1704",
+    "condition": "C4",
+    "source": "Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1704::C4",
+      "text": "Welcome to Paytm payment bank; your re verification has been completed successfully in your wallet. Get 1205 cashback by clicking the link and logging in to your paytm [SAFE-URL-1]",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1704::C5",
+    "frame_id": "mendeley-1704",
+    "condition": "C5",
+    "source": "Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1704::C5",
+      "text": "Your re verification is successful in your Paytm payment bank wallet. Click [SAFE-URL-1] and log in to get 1205 cashback",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-1704::C6",
+    "frame_id": "mendeley-1704",
+    "condition": "C6",
+    "source": "Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-1704::C6",
+      "text": "Paytm payment bank welcomes you; re verification in your wallet is complete, and you can get 1205 cashback by clicking [SAFE-URL-1] and logging in to your paytm",
+      "review_request_sha256": "45ad5a394368ddbad2e9b501253fbc06cf04ec6446bb410b8b227287a1b38630"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12309::C1",
+    "frame_id": "gateway-12309",
+    "condition": "C1",
+    "source": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12309::C1",
+      "text": "D H L; Your parcel is still being held by customs for unpaid fees, you may settle them at this link: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12309::C4",
+    "frame_id": "gateway-12309",
+    "condition": "C4",
+    "source": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12309::C4",
+      "text": "D H L; Your package is still held in customs because the fees were not paid, you can pay them using the following link: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12309::C5",
+    "frame_id": "gateway-12309",
+    "condition": "C5",
+    "source": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12309::C5",
+      "text": "D H L; Customs is still holding your package due to non-payment of fees; pay them here: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12309::C6",
+    "frame_id": "gateway-12309",
+    "condition": "C6",
+    "source": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12309::C6",
+      "text": "D H L; Your package remains in customs over unpaid fees, and you can clear them at this link: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12408::C1",
+    "frame_id": "gateway-12408",
+    "condition": "C1",
+    "source": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12408::C1",
+      "text": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this was not you, please act here: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12408::C4",
+    "frame_id": "gateway-12408",
+    "condition": "C4",
+    "source": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12408::C4",
+      "text": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please respond here: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12408::C5",
+    "frame_id": "gateway-12408",
+    "condition": "C5",
+    "source": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12408::C5",
+      "text": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If you did not do this, please take action here: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-12408::C6",
+    "frame_id": "gateway-12408",
+    "condition": "C6",
+    "source": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-12408::C6",
+      "text": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please use this link: [SAFE-URL-1]",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-66616::C1",
+    "frame_id": "gateway-66616",
+    "condition": "C1",
+    "source": "\r\nUNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-66616::C1",
+      "text": "UNIONBANK:This is a Notice about the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] so you can continue receiving OTP",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-66616::C4",
+    "frame_id": "gateway-66616",
+    "condition": "C4",
+    "source": "\r\nUNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-66616::C4",
+      "text": "UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1]; update your number at [SAFE-URL-2] to keep receiving OTP",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-66616::C5",
+    "frame_id": "gateway-66616",
+    "condition": "C5",
+    "source": "\r\nUNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-66616::C5",
+      "text": "UNIONBANK:This Notice concerns the new SIM registration [SAFE-URL-1]. Update your number at [SAFE-URL-2] to continue getting OTP",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-66616::C6",
+    "frame_id": "gateway-66616",
+    "condition": "C6",
+    "source": "\r\nUNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP\r\n",
+    "label": "phishing",
+    "institution_hint": "UNIONBANK",
+    "generation": {
+      "id": "gateway-66616::C6",
+      "text": "UNIONBANK:This is a Notice about the new SIM registration [SAFE-URL-1]; please update your number at [SAFE-URL-2] so OTP delivery continues",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "nus-5294::C1",
+    "frame_id": "nus-5294",
+    "condition": "C1",
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "nus-5294::C1",
+      "text": "Dear Customer, Someone is attempting to add a card ending <#> on mChek. If you think the card may be used by someone else, please notify your bank.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "nus-5294::C4",
+    "frame_id": "nus-5294",
+    "condition": "C4",
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "nus-5294::C4",
+      "text": "Dear Customer, Someone is trying to add a card ending <#> on mChek. If you think someone else may be using the card, please notify your bank.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "nus-5294::C5",
+    "frame_id": "nus-5294",
+    "condition": "C5",
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "nus-5294::C5",
+      "text": "Dear Customer, A card ending <#> is being added on mChek. If you believe someone else may be using it, please notify your bank.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "nus-5294::C6",
+    "frame_id": "nus-5294",
+    "condition": "C6",
+    "source": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "nus-5294::C6",
+      "text": "Dear Customer, Someone is attempting to register a card ending <#> on mChek. If you suspect the card is being used by another person, please notify your bank.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-334::C1",
+    "frame_id": "mendeley-334",
+    "condition": "C1",
+    "source": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-334::C1",
+      "text": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN to confirm. Beware of frauds.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-334::C4",
+    "frame_id": "mendeley-334",
+    "condition": "C4",
+    "source": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-334::C4",
+      "text": "You have registered Shijo as Payee. To confirm, log in at [SAFE-URL-1] and enter URN. Beware of frauds.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-334::C5",
+    "frame_id": "mendeley-334",
+    "condition": "C5",
+    "source": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-334::C5",
+      "text": "Shijo has been registered as Payee. Log in at [SAFE-URL-1] and enter URN to confirm. Beware of frauds.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "mendeley-334::C6",
+    "frame_id": "mendeley-334",
+    "condition": "C6",
+    "source": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-334::C6",
+      "text": "You registered Shijo as a Payee. Please log in at [SAFE-URL-1] and enter URN to confirm. Beware of frauds.",
+      "review_request_sha256": "6c46f8940acde84b58a54bef6b061f4832834660e41c9dae9a0d10fd64c5a82e"
+    },
+    "errors": [],
+    "attempt": 0
+  },
+  {
+    "id": "gateway-17683::C1",
+    "frame_id": "gateway-17683",
+    "condition": "C1",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C1",
+      "text": "MyGov Notice: Approval is required for your refund release. Your available balance is now 35272.32AUD. Go to [SAFE-URL-1] to authorize your funds.",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-17683::C4",
+    "frame_id": "gateway-17683",
+    "condition": "C4",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C4",
+      "text": "MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-17683::C6",
+    "frame_id": "gateway-17683",
+    "condition": "C6",
+    "source": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17683::C6",
+      "text": "MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8787::C1",
+    "frame_id": "gateway-8787",
+    "condition": "C1",
+    "source": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8787::C1",
+      "text": "Canada Post: Your parcel is awaiting delivery; please verify the 2CAD payment at the link below: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8787::C4",
+    "frame_id": "gateway-8787",
+    "condition": "C4",
+    "source": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8787::C4",
+      "text": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-2268::C4",
+    "frame_id": "gateway-2268",
+    "condition": "C4",
+    "source": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "CITI",
+    "generation": {
+      "id": "gateway-2268::C4",
+      "text": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-2268::C6",
+    "frame_id": "gateway-2268",
+    "condition": "C6",
+    "source": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "CITI",
+    "generation": {
+      "id": "gateway-2268::C6",
+      "text": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4088::C1",
+    "frame_id": "mendeley-4088",
+    "condition": "C1",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C1",
+      "text": "Ireland Gov has announced a 350 € payment for all residents as part of its pledge to fight COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4088::C4",
+    "frame_id": "mendeley-4088",
+    "condition": "C4",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C4",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4088::C5",
+    "frame_id": "mendeley-4088",
+    "condition": "C5",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C5",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4088::C6",
+    "frame_id": "mendeley-4088",
+    "condition": "C6",
+    "source": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-4088::C6",
+      "text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4882::C4",
+    "frame_id": "mendeley-4882",
+    "condition": "C4",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C4",
+      "text": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4882::C5",
+    "frame_id": "mendeley-4882",
+    "condition": "C5",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C5",
+      "text": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-4882::C6",
+    "frame_id": "mendeley-4882",
+    "condition": "C6",
+    "source": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "institution_hint": "Dear Sir Your Bank",
+    "generation": {
+      "id": "mendeley-4882::C6",
+      "text": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-1347::C1",
+    "frame_id": "gateway-1347",
+    "condition": "C1",
+    "source": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-1347::C1",
+      "text": "Your ANZ account has been suspended; please verify your identity and continue using it, check details: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-34441::C1",
+    "frame_id": "gateway-34441",
+    "condition": "C1",
+    "source": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-34441::C1",
+      "text": "To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-15505::C1",
+    "frame_id": "gateway-15505",
+    "condition": "C1",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C1",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-15505::C4",
+    "frame_id": "gateway-15505",
+    "condition": "C4",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C4",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-15505::C5",
+    "frame_id": "gateway-15505",
+    "condition": "C5",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C5",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-15505::C6",
+    "frame_id": "gateway-15505",
+    "condition": "C6",
+    "source": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Chase",
+    "generation": {
+      "id": "gateway-15505::C6",
+      "text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Your Chase online banking has been put on hold, [SAFE-URL-1]",
+      "review_request_sha256": "53d80736382d59040ef6a16a9f7aaf007979d22ef0a3d1dff1397d87c195ecea"
+    },
+    "errors": [
+      "institution"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-379::C1",
+    "frame_id": "mendeley-379",
+    "condition": "C1",
+    "source": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-379::C1",
+      "text": "Your tax refund of �349.14 is now available to claim. To get your refund, complete the required steps. http:/[SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-7774::C1",
+    "frame_id": "gateway-7774",
+    "condition": "C1",
+    "source": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-7774::C1",
+      "text": "Cba - Your bank has been temporarily frozen because of unusual activity. Please visit: [SAFE-URL-1] immediately.",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8899::C1",
+    "frame_id": "gateway-8899",
+    "condition": "C1",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C1",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8899::C4",
+    "frame_id": "gateway-8899",
+    "condition": "C4",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C4",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8899::C5",
+    "frame_id": "gateway-8899",
+    "condition": "C5",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C5",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8899::C6",
+    "frame_id": "gateway-8899",
+    "condition": "C6",
+    "source": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "Santander",
+    "generation": {
+      "id": "gateway-8899::C6",
+      "text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-8085::C1",
+    "frame_id": "gateway-8085",
+    "condition": "C1",
+    "source": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-8085::C1",
+      "text": "ANZ: A transaction has been made; if you do not recognise it, please access [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "gateway-17805::C1",
+    "frame_id": "gateway-17805",
+    "condition": "C1",
+    "source": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "gateway-17805::C1",
+      "text": "MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-737::C1",
+    "frame_id": "mendeley-737",
+    "condition": "C1",
+    "source": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "label": "phishing",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-737::C1",
+      "text": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 1
+  },
+  {
+    "id": "mendeley-334::C1",
+    "frame_id": "mendeley-334",
+    "condition": "C1",
+    "source": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+    "label": "legitimate",
+    "institution_hint": "NONE",
+    "generation": {
+      "id": "mendeley-334::C1",
+      "text": "You have registered Shijo as Payee. Log in at [SAFE-URL-1] and enter URN  to confirm. Beware of frauds.",
+      "review_request_sha256": "230a470e98f238cb436650b1ed271caab7d0d5931df9f246ff4caed7553ae784"
+    },
+    "errors": [
+      "unchanged",
+      "c1_insufficient_lexical_change"
+    ],
+    "attempt": 1
+  }
+]

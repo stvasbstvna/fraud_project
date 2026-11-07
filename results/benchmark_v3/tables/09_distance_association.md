@@ -1,0 +1,12 @@
+# 09 distance association
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model | label | paired_variants | frames_with_slope | mean_within_frame_abs_change_slope | ci95_low | ci95_high | scope | interval_note |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR | legitimate | 3 | 1 | -0.0869018590487911 | nan | nan | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | NOT_ESTIMABLE_single_frame |
+| LR | phishing | 48 | 13 | 0.0035086394629631 | 0.0010113344824792 | 0.0059295619182773 | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | exploratory_frame_bootstrap |
+| ModernBERT | legitimate | 3 | 1 | -0.3567421715411579 | nan | nan | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | NOT_ESTIMABLE_single_frame |
+| ModernBERT | phishing | 48 | 13 | 0.0063430413973323 | -0.0017094143223507 | 0.0177772024846892 | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | exploratory_frame_bootstrap |
+| RF | legitimate | 3 | 1 | 0.2381597294838899 | nan | nan | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | NOT_ESTIMABLE_single_frame |
+| RF | phishing | 48 | 13 | 0.0206848031384273 | 0.0072871455676416 | 0.0350393805812443 | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | exploratory_frame_bootstrap |

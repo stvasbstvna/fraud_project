@@ -1,0 +1,11 @@
+# Preserve exact research bytes: frozen manifests and prompt hashes include line endings.
+configs/** -text
+data/benchmark_v*/** -text
+docs/** -text
+models/** -text
+results/benchmark_v*/** -text
+src/benchmark_v*/** -text
+tests/** -text
+scripts/** -text
+prompts/** -text
+environment-lock.txt -text

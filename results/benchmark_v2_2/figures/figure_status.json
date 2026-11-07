@@ -1,0 +1,42 @@
+{
+  "figures": [
+    {
+      "number": 1,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    },
+    {
+      "number": 2,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    },
+    {
+      "number": 3,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    },
+    {
+      "number": 4,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    },
+    {
+      "number": 5,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    },
+    {
+      "number": 6,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    },
+    {
+      "number": 7,
+      "reason": "No accepted source cohort or frozen predictions",
+      "status": "NOT AVAILABLE"
+    }
+  ],
+  "independent_human_annotation": false,
+  "scientific_figures": 0,
+  "status": "NOT GENERATED_SOURCE_COHORT_INSUFFICIENT"
+}

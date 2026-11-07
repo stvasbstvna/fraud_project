@@ -1,0 +1,40 @@
+{
+  "approved_variants": 39,
+  "complete_core_frames": 7,
+  "complete_core_labels": {
+    "phishing": 7
+  },
+  "frozen_rows": 67,
+  "frozen_variant_sha256": "4814e7d0b703cdb7ecf6dd3be6df7eecd93d0880639d4ff88c5807e725b860dd",
+  "largest_extreme": {
+    "absolute_delta": 0.015000000000000013,
+    "condition": "C6",
+    "frame_id": "mendeley-737",
+    "model": "RF",
+    "signed_delta": -0.015000000000000013,
+    "threshold_transition": "1->1"
+  },
+  "model_hashes": {
+    "LR": "df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf",
+    "ModernBERT": "7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43",
+    "RF": "19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7"
+  },
+  "predictions_sha256": "2c25007ea778be9f758273215a206a58b2d1de59327d726702ff0c9c30f7093f",
+  "primary_C_status": "NOT RUN minimum control gate unmet",
+  "representative_complete_frame": "mendeley-379",
+  "representative_selection": "closest median frame-average absolute movement across all3models, stable ID tie-break; phishing-only complete support",
+  "source_frames": 28,
+  "status": "EXPLORATORY_AVAILABLE_PAIR_SUPPLEMENT_ONLY",
+  "supplement_plan_sha256": "939457fc02e960a1b4ee8a60a1bbed55d2d46072caba40d172420cac42de3bff",
+  "threshold_crossings_by_model": {
+    "LR": 0,
+    "ModernBERT": 0,
+    "RF": 0
+  },
+  "warnings": [
+    "Allapprovedrewritesrequiredadjudication",
+    "No corrected held-out legitimate rewrites",
+    "Selectiveattrition;conditionmeansdifferentcohorts",
+    "Noformalconditionrankingorcontextualsuperiorityclaim"
+  ]
+}

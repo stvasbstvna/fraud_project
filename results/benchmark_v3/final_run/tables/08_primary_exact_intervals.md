@@ -1,0 +1,15 @@
+# 08 primary exact intervals
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model | endpoint | numerator | denominator | estimate | ci95_low | ci95_high | interval | scope |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR | accuracy | 28 | 29 | 0.9655172413793104 | 0.822355704511277 | 0.99912735311642 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| LR | recall | 28 | 28 | 1.0 | 0.8765638814997362 | 1.0 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| LR | FPR | 1 | 1 | 1.0 | 0.025 | 1.0 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| ModernBERT | accuracy | 28 | 29 | 0.9655172413793104 | 0.822355704511277 | 0.99912735311642 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| ModernBERT | recall | 28 | 28 | 1.0 | 0.8765638814997362 | 1.0 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| ModernBERT | FPR | 1 | 1 | 1.0 | 0.025 | 1.0 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| RF | accuracy | 28 | 29 | 0.9655172413793104 | 0.822355704511277 | 0.99912735311642 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| RF | recall | 28 | 28 | 1.0 | 0.8765638814997362 | 1.0 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |
+| RF | FPR | 1 | 1 | 1.0 | 0.025 | 1.0 | exact_Clopper_Pearson | selected machine-reviewed sample; no source/population generalization |

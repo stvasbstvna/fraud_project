@@ -1,0 +1,24 @@
+# 03 message functions
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| label | message_function | N |
+| --- | --- | --- |
+| legitimate | account_security | 2 |
+| legitimate | fraud_alert | 2 |
+| legitimate | payment | 2 |
+| legitimate | transaction | 2 |
+| legitimate | verification | 1 |
+| phishing | account_restriction | 25 |
+| phishing | account_security | 28 |
+| phishing | banking_app | 2 |
+| phishing | card | 17 |
+| phishing | credential_request | 1 |
+| phishing | financial_service | 1 |
+| phishing | fraud_alert | 5 |
+| phishing | other_financial | 1 |
+| phishing | payment | 29 |
+| phishing | refund | 32 |
+| phishing | transaction | 26 |
+| phishing | transfer | 6 |
+| phishing | verification | 13 |

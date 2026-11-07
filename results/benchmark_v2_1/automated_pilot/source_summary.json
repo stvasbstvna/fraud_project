@@ -1,0 +1,42 @@
+{
+  "review_mode": "automated",
+  "validation_type": "automated_semantic_review",
+  "initial_candidates": 1743,
+  "additional_SmishX_controls_inspected_but_HOLD": 15,
+  "deterministic_rejections": 485,
+  "distinct_eligible_control_families": 5,
+  "distinct_eligible_positive_families": 205,
+  "source_frames_machine_reviewed": 29,
+  "reviewer_label_agreements": 25,
+  "reviewer_label_disagreements": 4,
+  "adjudications": 21,
+  "approved_before_balancing": {
+    "phishing_scam": 17,
+    "legitimate": 2
+  },
+  "rejected_source_frames": 10,
+  "final_balanced_N": 4,
+  "final_labels": {
+    "legitimate": 2,
+    "phishing_scam": 2
+  },
+  "final_sources": {
+    "SYNTH-V21": 2,
+    "MENDELEY-SMISH": 2
+  },
+  "template_families": 4,
+  "timestamp_utc": "2026-11-06T22:26:25.211871+00:00",
+  "source_cohort_sha256": "4bf9ccde96f6a752ef4fdabef574113ceb1436d98159db5b851b48b9138edbf0",
+  "review_models": {
+    "generator": "gpt-5.4-mini-2026-03-17",
+    "llm_reviewer_A": "gpt-5.4-mini-2026-03-17",
+    "llm_reviewer_B": "gpt-4.1-mini-2025-04-14",
+    "llm_adjudicator": "gpt-4.1-2025-04-14"
+  },
+  "independent_human_annotation": false,
+  "limitations": [
+    "Confidence is not calibrated",
+    "Machine consensus is not ground truth",
+    "Reduced N and synthetic controls limit inference"
+  ]
+}

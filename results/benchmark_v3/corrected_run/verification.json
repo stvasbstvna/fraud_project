@@ -1,0 +1,45 @@
+{
+  "actual_source_and_rewrite_raw_evidence_verified": true,
+  "confirmatory_claims_supported": false,
+  "corrected_labels": {
+    "legitimate": 9,
+    "phishing": 219
+  },
+  "corrected_rows": 228,
+  "corrected_source_holdout_phishing": 194,
+  "desired_300_per_class_met": false,
+  "figures": 10,
+  "historical_files_changed": 0,
+  "historical_files_checked": 1044,
+  "independent_human_annotation": false,
+  "known_payee_template_fixed": true,
+  "model_hashes_verified": true,
+  "no_detector_feedback_in_requests": true,
+  "original_run_status": "INVALIDATED_PRESERVED_TEMPLATE_LEAK",
+  "provider_requests_by_role": {
+    "source_A": 73,
+    "source_B": 73,
+    "source_J": 43,
+    "supplement_A": 8,
+    "supplement_B": 8,
+    "supplement_G": 9,
+    "supplement_J": 6
+  },
+  "provider_usage": {
+    "input_tokens": 470337,
+    "output_tokens": 197502
+  },
+  "source_holdout_origin_clear": true,
+  "source_provider_requests": 189,
+  "source_requests_by_instrument": {
+    "v3.0_invalid_instrument": 85,
+    "v3.1": 104
+  },
+  "status": "VERIFIED_CORRECTED_EXPLORATORY_RESULTS",
+  "supplement_complete_phishing_frames": 9,
+  "supplement_provider_requests": 31,
+  "supplement_scored_source_frames": 34,
+  "supplement_scored_variants": 48,
+  "tables": 16,
+  "train_only_tfidf_reconstructed": true
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Absolute phishing-probability movement |P0 − Pi|",
+  "research_question": "How large is paired movement relative to C0 within each true class?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv"
+  ],
+  "filters": "primary_complete_case == True",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 30,
+    "distinct_frames_in_data": null
+  },
+  "models": [
+    "LR",
+    "ModernBERT",
+    "RF"
+  ],
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Condition",
+  "y_axis": "Class-specific mean movement (95% frame bootstrap interval)",
+  "main_observation": "No primary complete frames; estimates are unavailable. Legitimate and phishing observations are labelled separately; a class with N=0 has no estimate. Positive signed movement means lower phishing probability than C0. Intervals resample frames with seed 42.",
+  "allowed_interpretation": "This describes paired score sensitivity within each class for retained frames.",
+  "forbidden_interpretation": "Probability movement alone does not establish evasion, correctness, or semantic equivalence.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

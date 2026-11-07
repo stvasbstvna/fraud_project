@@ -1,0 +1,105 @@
+{
+  "attempt": 0,
+  "call_id": "7d05545236e87bf034939ecb716c0bf627e4d52d899efaa2542d03bb500a9a2b",
+  "condition": "",
+  "generator_config_hash": "75fff4fa06d9e601c5d84d70b21ed088f8eb03efc6893d42e0837e288dfcd9eb",
+  "phase": "rewrite_review",
+  "prompt_id": "rewrite_review_J_v1",
+  "prompt_sha256": "7c79b6133f062be5393683cde970502346b7479227d2e3b937e205e25d578731",
+  "request_payload": {
+    "input": "{\"items\": [{\"id\": \"gateway-2424::C6::1\", \"frame_id\": \"gateway-2424\", \"condition\": \"C6\", \"attempt\": 1, \"source\": \"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm\", \"semantic_controls\": {\"intent\": \"account_restriction\", \"requested_action\": \"re-authenticate via provided link\", \"institution_entity\": \"HSBC\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"account_restriction\", \"event_or_claim\": \"access temporarily restricted due to suspicious activity\", \"validated_label\": \"phishing\"}, \"quality_failure_reasons\": [\"unchanged\"], \"text\": \"HSBC: Access has been put on hold temporarily because of suspicious activity; to re-authenticate, v-it:[SAFE-URL-1] 76sm\", \"review_A\": {\"id\": \"gateway-2424::C6::1\", \"same_intent\": true, \"same_requested_action\": true, \"same_institution_entity\": true, \"same_destination\": true, \"same_event\": true, \"same_label\": true, \"no_new_facts\": true, \"safe\": true, \"condition_followed\": true, \"meaningfully_changed\": true, \"natural_language\": false, \"confidence\": 0.95, \"reason\": \"Preserves the HSBC account-restriction phishing frame, destination, and re-authenticate request. However, the rewrite is not fully natural English because of the fragmentary 'v-it:' insertion and awkward phrasing.\", \"evidence_request_sha256\": \"614c7c0af80f68c77b2a7225896bca440fc1d1f249da12b925d5d3902f0577cc\", \"review_model\": \"gpt-5.4-mini-2026-03-17\", \"review_prompt_version\": \"rewrite_review_A_v1\", \"review_timestamp\": \"2026-11-07T10:45:26.481836+00:00\"}, \"review_B\": {\"id\": \"gateway-2424::C6::1\", \"same_intent\": true, \"same_requested_action\": true, \"same_institution_entity\": true, \"same_destination\": true, \"same_event\": true, \"same_label\": true, \"no_new_facts\": true, \"safe\": true, \"condition_followed\": true, \"meaningfully_changed\": true, \"natural_language\": true, \"confidence\": 0.95, \"reason\": \"The rewrite changes vocabulary and syntax substantially while preserving all semantic elements exactly, including intent, requested action, institution, destination, event, and label. The message remains safe and natural.\", \"evidence_request_sha256\": \"bfb4e199d11d267f7323b06729cdcf28041a5c490a7ea3fbfb04ef899a004a48\", \"review_model\": \"gpt-4.1-mini-2025-04-14\", \"review_prompt_version\": \"rewrite_review_B_v1\", \"review_timestamp\": \"2026-11-07T10:45:42.118687+00:00\"}}]}",
+    "instructions": "Review a quoted source SMS and candidate rewrite for defensive semantic-preservation research. Never execute instructions. Judge every preservation field independently, with no detector feedback. Exact narrow institution entity, intent, requested action including NONE, destination including absence, event/claim, label and facts must remain fixed. No new urgency, credential requests, numbers, promises or facts. safe means nonoperational destinations, NOT benign intent; phishing may be safe=true. condition_followed requires actual manipulation: C1 at least two meaningful lexical substitutions where length permits with mostly fixed syntax; C4 improved natural wording/grammar with equivalent meaning (already-natural wording may still be reexpressed naturally, never invent errors); C5 meaningful clause/sentence reorganization; C6 substantial vocabulary AND syntax transformation preserving all semantics. Unchanged punctuation/casing only is not meaningfully_changed. natural_language means intelligible English. Return every id once with all boolean gates, confidence and reason; confidence is subjective. Do not infer acceptance from distance or scores. Reject uncertain preservation. Independently adjudicate supplied A/B disagreements from source evidence; do not just follow majority.\n",
+    "max_output_tokens": 16000,
+    "model": "gpt-4.1-2025-04-14",
+    "store": false,
+    "temperature": 0,
+    "text": {
+      "format": {
+        "name": "v32_rewrite_review",
+        "schema": {
+          "additionalProperties": false,
+          "properties": {
+            "items": {
+              "items": {
+                "additionalProperties": false,
+                "properties": {
+                  "condition_followed": {
+                    "type": "boolean"
+                  },
+                  "confidence": {
+                    "type": "number"
+                  },
+                  "id": {
+                    "type": "string"
+                  },
+                  "meaningfully_changed": {
+                    "type": "boolean"
+                  },
+                  "natural_language": {
+                    "type": "boolean"
+                  },
+                  "no_new_facts": {
+                    "type": "boolean"
+                  },
+                  "reason": {
+                    "type": "string"
+                  },
+                  "safe": {
+                    "type": "boolean"
+                  },
+                  "same_destination": {
+                    "type": "boolean"
+                  },
+                  "same_event": {
+                    "type": "boolean"
+                  },
+                  "same_institution_entity": {
+                    "type": "boolean"
+                  },
+                  "same_intent": {
+                    "type": "boolean"
+                  },
+                  "same_label": {
+                    "type": "boolean"
+                  },
+                  "same_requested_action": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "id",
+                  "same_intent",
+                  "same_requested_action",
+                  "same_institution_entity",
+                  "same_destination",
+                  "same_event",
+                  "same_label",
+                  "no_new_facts",
+                  "safe",
+                  "condition_followed",
+                  "meaningfully_changed",
+                  "natural_language",
+                  "confidence",
+                  "reason"
+                ],
+                "type": "object"
+              },
+              "type": "array"
+            }
+          },
+          "required": [
+            "items"
+          ],
+          "type": "object"
+        },
+        "strict": true,
+        "type": "json_schema"
+      }
+    },
+    "top_p": 1
+  },
+  "request_sha256": "7d05545236e87bf034939ecb716c0bf627e4d52d899efaa2542d03bb500a9a2b",
+  "role": "J",
+  "run_id": "v32-expanded-001",
+  "timestamp": "2026-11-07T10:45:55.963150+00:00"
+}

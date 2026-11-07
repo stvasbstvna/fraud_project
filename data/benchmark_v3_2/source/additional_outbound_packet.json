@@ -1,0 +1,209 @@
+[
+  {
+    "frame_id": "gateway-47618",
+    "id": "gateway-47618",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "[ [SAFE-URL-1] ] Dear Lisa, the account has been reset for you, the new login code: LV#288 remaining\r\nvalue 3,852,287.99 %{!=)",
+    "source_dataset": "gateway",
+    "source_row_id": 47618
+  },
+  {
+    "frame_id": "gateway-64119",
+    "id": "gateway-64119",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "New TRXE~Login || [SAFE-URL-1] || Username:Rom88 P***word:R66888 Balance:3,953,395.68~~~ TwoNgS",
+    "source_dataset": "gateway",
+    "source_row_id": 64119
+  },
+  {
+    "frame_id": "gateway-1002",
+    "id": "gateway-1002",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Just wait till you see this No-Deposit offer [SAFE-URL-1] T&Cs Apply, 18 Plus. Play Responsibly. Unsubscribe At [SAFE-URL-2]",
+    "source_dataset": "gateway",
+    "source_row_id": 1002
+  },
+  {
+    "frame_id": "gateway-16643",
+    "id": "gateway-16643",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "\r\nYour USDTCOIN Access [ [SAFE-URL-1] ] Username:Mak88 Login code:mk1689 Balance:1,654,293.49 USDT {~~[SAFE-URL-2]\r\n",
+    "source_dataset": "gateway",
+    "source_row_id": 16643
+  },
+  {
+    "frame_id": "gateway-7432",
+    "id": "gateway-7432",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "nariman, deposit using Bonus Code CJ150U and kick more colour into your Casino Joy with a 150% up to £100 Bonus! [SAFE-URL-1] 18 T&Cs ap",
+    "source_dataset": "gateway",
+    "source_row_id": 7432
+  },
+  {
+    "frame_id": "gateway-17576",
+    "id": "gateway-17576",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "\r\nSecure AIert (MyGov): your account has been restricted for security reasons VlSIT: [SAFE-URL-1] to restore account\r\n",
+    "source_dataset": "gateway",
+    "source_row_id": 17576
+  },
+  {
+    "frame_id": "gateway-66964",
+    "id": "gateway-66964",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "< [SAFE-URL-1] > Your account has been updated, new login code: Av8d68 The remaining 3,824,258.39 USDT please keep it safe.",
+    "source_dataset": "gateway",
+    "source_row_id": 66964
+  },
+  {
+    "frame_id": "gateway-3196",
+    "id": "gateway-3196",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Activation Code: 0744\r\n\r\nAlternatively click this link to activate your account:\r\n\r\n[SAFE-URL-1] .\r\n\r\nWelcome to PocketWin!",
+    "source_dataset": "gateway",
+    "source_row_id": 3196
+  },
+  {
+    "frame_id": "gateway-45191",
+    "id": "gateway-45191",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "[ [SAFE-URL-1] ] New login code for your account:Rm81yD, remaining: 3,956,025.63Ù (#[-=",
+    "source_dataset": "gateway",
+    "source_row_id": 45191
+  },
+  {
+    "frame_id": "gateway-16413",
+    "id": "gateway-16413",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Your coinbase account has been flagged as high risk. To restore visit [SAFE-URL-1] a",
+    "source_dataset": "gateway",
+    "source_row_id": 16413
+  },
+  {
+    "frame_id": "gateway-188",
+    "id": "gateway-188",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "CommBank: New Mobile Update, visit via [SAFE-URL-1] or we may restrict your app until further notice.",
+    "source_dataset": "gateway",
+    "source_row_id": 188
+  },
+  {
+    "frame_id": "gateway-17573",
+    "id": "gateway-17573",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "\r\nSecure Alert (MyGov): your account has been restricted for security reasons please visit [SAFE-URL-1] to restore account now And avoid blockages.\r\n",
+    "source_dataset": "gateway",
+    "source_row_id": 17573
+  },
+  {
+    "frame_id": "gateway-7199",
+    "id": "gateway-7199",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "[SAFE-EMAIL-1] / [SAFE-URL-1] / $1,000 has been deducted from your account, if it was not you who did so, click on",
+    "source_dataset": "gateway",
+    "source_row_id": 7199
+  },
+  {
+    "frame_id": "gateway-8091",
+    "id": "gateway-8091",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "\r\nANZ: Your recent activity associated with your personal account looks suspicious. Please login now to verify account ownership [SAFE-URL-1]\r\n",
+    "source_dataset": "gateway",
+    "source_row_id": 8091
+  },
+  {
+    "frame_id": "gateway-12309",
+    "id": "gateway-12309",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "source_dataset": "gateway",
+    "source_row_id": 12309
+  },
+  {
+    "frame_id": "mendeley-369",
+    "id": "mendeley-369",
+    "original_label": "Smishing",
+    "original_url": "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+    "safe_text": "You have been randomly selected for a BestBuy gift. Get your $1000 gift card at [SAFE-URL-1]",
+    "source_dataset": "mendeley",
+    "source_row_id": 369
+  },
+  {
+    "frame_id": "gateway-3714",
+    "id": "gateway-3714",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "A Suspicious Transfer of $1097.71 Has Been Made From Your Main Account, Please CONFIRM or DENY it at [SAFE-URL-1]",
+    "source_dataset": "gateway",
+    "source_row_id": 3714
+  },
+  {
+    "frame_id": "gateway-10649",
+    "id": "gateway-10649",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Don't miss this fantastic no-deposit offer... [SAFE-URL-1] T&Cs Apply, 18 Plus. Play Responsibly. Unsubscribe At [SAFE-URL-2]",
+    "source_dataset": "gateway",
+    "source_row_id": 10649
+  },
+  {
+    "frame_id": "gateway-3207",
+    "id": "gateway-3207",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Your  ANZ  OnlineCode  security  settings  have  expired.  To  maintain  the  security  of  your  account,  confirm  your  details  via  [SAFE-URL-1].  Xray.",
+    "source_dataset": "gateway",
+    "source_row_id": 3207
+  },
+  {
+    "frame_id": "gateway-67708",
+    "id": "gateway-67708",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": " / Secure message from TD / Use the bleow url to regarding your account, ([SAFE-URL-1]\r\n",
+    "source_dataset": "gateway",
+    "source_row_id": 67708
+  },
+  {
+    "frame_id": "gateway-753",
+    "id": "gateway-753",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Your account has been suspended due to suspicious activity. Please visit [SAFE-URL-1] to reactivate",
+    "source_dataset": "gateway",
+    "source_row_id": 753
+  },
+  {
+    "frame_id": "gateway-8092",
+    "id": "gateway-8092",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "\r\nANZ: Recent Activity associated with your personal account has violated our [SAFE-URL-1] login now to verify account ownership [SAFE-URL-2]\r\n",
+    "source_dataset": "gateway",
+    "source_row_id": 8092
+  },
+  {
+    "frame_id": "gateway-3190",
+    "id": "gateway-3190",
+    "original_label": "VT_APWG_flagged",
+    "original_url": "https://github.com/wspr-ncsu/sms-phishing",
+    "safe_text": "Welcome to Artlogo! Being a part of our VIP CLUB comes with privilege. Download your free branding workbook here: [SAFE-URL-1] Add Business Card Template to your cart together with your logo signature. Use code: ARTLOGOCLUB And get your Business Card Template FOR FREE! Shop now: [SAFE-URL-2] ",
+    "source_dataset": "gateway",
+    "source_row_id": 3190
+  }
+]

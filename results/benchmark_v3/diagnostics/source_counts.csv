@@ -1,0 +1,9 @@
+source_id,raw_rows,english_SMS_candidates,financial_candidates,modeling_allowed,raw_labels_json
+mendeley,5971,5935,168,True,"{""Smishing"": 616, ""Spam"": 23, ""ham"": 4844, ""smishing"": 22, ""spam"": 466}"
+uci,5574,5536,99,True,"{""ham"": 4827, ""spam"": 747}"
+gateway,68029,45117,22685,True,"{""VT_APWG_flagged"": 68029}"
+nus,55835,55124,392,True,"{""unlabeled"": 55835}"
+smishtank,1062,1060,358,False,"{""URL_Phishing="": 132, ""URL_Phishing=0"": 559, ""URL_Phishing=1"": 122, ""URL_Phishing=10"": 16, ""URL_Phishing=11"": 4, ""URL_Phishing=12"": 2, ""URL_Phishing=13"": 21, ""URL_Phishing=14"": 29, ""URL_Phishing=15"": 13, ""URL_Phishing=16"": 1, ""URL_Phishing=17"": 8, ""URL_Phishing=18"": 1, ""URL_Phishing=2"": 42, ""URL_Phishing=3"": 30, ""URL_Phishing=4"": 19, ""URL_Phishing=5"": 18, ""URL_Phishing=6"": 13, ""URL_Phishing=7"": 12, ""URL_Phishing=8"": 8, ""URL_Phishing=9"": 12}"
+spam_hunter,25826,25061,6098,False,"{""spam"": 25826}"
+super_sms,67010,66859,6809,False,"{"""": 2, ""0"": 40830, ""1"": 26178}"
+exais,5240,5135,454,False,"{""HAM"": 2890, ""SPAM"": 2350}"

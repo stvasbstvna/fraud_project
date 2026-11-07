@@ -1,0 +1,33 @@
+{
+  "status": "COMPLETE_SOURCE_ONLY_AUDIT",
+  "source_sha256": "cd81703bba914ea63379ed9535003661246c46c200de75594e4c743a0082da38",
+  "decisions_path": "C:\\Users\\sabin\\OneDrive\\Documents\\GitHub\\fraud_project\\data\\benchmark_v3\\final_eligibility_audit\\final_decisions.json",
+  "decisions_sha256": "0801c120c4e76c24868c22973a6470c368980e0ec4c8f28b40fb8a77dee5c3db",
+  "n": 228,
+  "retained": 195,
+  "excluded": 33,
+  "retained_labels": {
+    "phishing": 186,
+    "legitimate": 9
+  },
+  "excluded_labels": {
+    "phishing": 33
+  },
+  "disagreements": 26,
+  "review_counts": {
+    "A": 228,
+    "B": 228,
+    "J": 26
+  },
+  "call_counts": {
+    "A": 12,
+    "B": 12,
+    "J": 2
+  },
+  "technical_errors": [],
+  "limitations": [
+    "Automated eligibility review, not independent human validation",
+    "Post-score population correction: final run remains exploratory",
+    "No original source labels promoted/flipped; no controls fabricated"
+  ]
+}

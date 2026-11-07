@@ -1,0 +1,9 @@
+# 07 primary paired comparisons
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model_A | model_B | paired_N | A_correct_B_wrong | A_wrong_B_correct | p_value | accuracy_difference | F1_difference | F1_difference_bootstrap_low | F1_difference_bootstrap_high | bootstrap_unit | inference | holm_adjusted_p |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR | ModernBERT | 35 | 0 | 0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | one independent family representative; stratified by observed label | exploratory_tiny_control_sample | 1.0 |
+| LR | RF | 35 | 0 | 0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | one independent family representative; stratified by observed label | exploratory_tiny_control_sample | 1.0 |
+| ModernBERT | RF | 35 | 0 | 0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | one independent family representative; stratified by observed label | exploratory_tiny_control_sample | 1.0 |

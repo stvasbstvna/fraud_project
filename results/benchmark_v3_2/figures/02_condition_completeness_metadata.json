@@ -1,0 +1,32 @@
+{
+  "title": "Condition completeness",
+  "research_question": "Which conditions are available and included in the paired cohort?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv",
+    "data\\benchmark_v3_2\\generated\\attempts.csv"
+  ],
+  "filters": "all matrix rows and initial frame-condition slots; attempts including retries counted separately",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 5,
+    "distinct_frames_in_data": null
+  },
+  "models": [],
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "x_axis": "Condition",
+  "y_axis": "Unique frame-condition slots / complete frames",
+  "main_observation": "0 frames are retained in every condition. Generated/approved/rejected counts deduplicate retries; rejected means no approved attempt for that slot.",
+  "allowed_interpretation": "Availability and attempts are separate quantities; attempt_count and retry_count are exported separately. C0 has no generated slots.",
+  "forbidden_interpretation": "A missing condition is never a zero detector score.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

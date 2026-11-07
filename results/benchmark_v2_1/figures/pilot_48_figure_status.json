@@ -1,0 +1,36 @@
+{
+  "status": "NOT RUN",
+  "reason": "PILOT NOT READY",
+  "planned_core_figures": {
+    "Figure 1": {
+      "x": "C0\u2013C6",
+      "y": "recall 0\u20131",
+      "marks": "LR/RF lines",
+      "not_conclude": "No measured condition effect exists yet"
+    },
+    "Figure 2": {
+      "x": "C1\u2013C6",
+      "y": "P(C0)\u2212P(Ci)",
+      "marks": "paired means/medians and frame bootstrap uncertainty",
+      "not_conclude": "No decline or improvement has been established"
+    },
+    "Figure 3": {
+      "x": "prespecified surface distance",
+      "y": "signed/absolute paired score change",
+      "marks": "one variant per point; LR and RF separate",
+      "not_conclude": "Association would not establish lexical causality"
+    },
+    "Figure 4": {
+      "x": "condition",
+      "y": "four decision-transition types",
+      "marks": "count heatmaps by model",
+      "not_conclude": "Do not ignore reverse transitions or legitimate false positives"
+    },
+    "Figure 5": {
+      "x": "C0\u2013C6",
+      "y": "phishing probability 0\u20131",
+      "marks": "LR/RF lines, threshold .5; median-movement frame, deterministic tie break",
+      "not_conclude": "Do not select the most dramatic frame or call largest change representative"
+    }
+  }
+}

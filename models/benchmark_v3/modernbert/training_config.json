@@ -1,0 +1,41 @@
+{
+  "model_id": "answerdotai/ModernBERT-base",
+  "learning_rate": 2e-05,
+  "batch_size": 2,
+  "epochs": 2,
+  "weight_decay": 0.01,
+  "warmup": 0,
+  "max_length": 128,
+  "random_seed": 42,
+  "optimizer": "AdamW",
+  "scheduler": "constant",
+  "early_stopping": false,
+  "checkpoint_selection": "minimum validation cross entropy",
+  "decision_threshold": 0.5,
+  "reference_compile": false,
+  "attn_implementation": "sdpa",
+  "tuning_policy": "No test examples or labels enter fitting, checkpoint selection, or length selection.",
+  "experiment_status": "EXPLORATORY_TINY_REAL_COHORT",
+  "expected_frozen_csv_sha256": "6ca8c803e02f3135f094cfc2cd42a7ea5f780047bfd5f049c890c4ba9ff2f0f3",
+  "max_length_policy": "99th percentile train+validation; 128 or 256",
+  "frozen_csv_sha256": "6ca8c803e02f3135f094cfc2cd42a7ea5f780047bfd5f049c890c4ba9ff2f0f3",
+  "hardware": {
+    "device": "cpu",
+    "cuda_available": false,
+    "mps_available": false,
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+    "logical_cpus": 24,
+    "total_ram_bytes": 33752997888,
+    "available_ram_bytes": 6916464640,
+    "torch": "2.15.0+cpu"
+  },
+  "fitting_token_lengths": {
+    "count": 196,
+    "maximum": 104,
+    "p50": 38,
+    "p95": 73,
+    "p99": 83,
+    "fraction_truncated": 0.0
+  }
+}

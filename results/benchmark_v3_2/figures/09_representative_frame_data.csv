@@ -1,0 +1,1 @@
+frame_id,true_label,validated_label,source_dataset,source_row_id,origin_type,template_family_id,source_text_sha256,condition,text,text_sha256_x,generation_request_sha256,attempt,primary_complete_case,probability,prediction,C0_probability,signed_delta,absolute_delta,threshold_transition,surface_distance,model_sha256,text_sha256_y,model

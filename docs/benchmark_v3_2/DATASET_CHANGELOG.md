@@ -1,0 +1,11 @@
+| timestamp | change | old_count | new_count | reason | affected_source | affected_labels | affected_split | scientific_impact |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-07T10:44:22.015123+00:00 | new source acquisition | 0 | 0 | No new rights-cleared English institutional-control release established | external discovery | all | robustness_only; original fitting splits unchanged | No invented access or license |
+| 2026-11-07T10:44:22.015123+00:00 | expanded local candidate scan | 0 | 707 | Broader literal finance vocabulary across67380existing records | NUS/Mendeley/UCI | uncertain | robustness_only; original fitting splits unchanged | Candidates not approved controls |
+| 2026-11-07T10:44:22.015123+00:00 | rights exclusion | unknown | 0 | Portuguese, unlicensed, synthetic or wrong-channel discoveries excluded | MOZ/revisedIndian/syntheticpayment/email | all | robustness_only; original fitting splits unchanged | No guessed reuse grant |
+| 2026-11-07T10:44:22.015123+00:00 | ambiguous source ID removal | 709 | 707 | NUS18088has2distincttexts; both excluded before API | NUS | uncertain | robustness_only; original fitting splits unchanged | Initial packet archived |
+| 2026-11-07T10:44:22.015123+00:00 | family/training exclusion | 12954 | 1065 | Global family isolation; bounded400additionalphishing candidate search | all | all | robustness_only; original fitting splits unchanged | No fitting-data robustness evaluation |
+| 2026-11-07T10:44:22.015123+00:00 | source semantic validation | 1065 | 16 | A/B and J plus preserved technical recovery | all | all | robustness_only; original fitting splits unchanged | Machine approvals, not human truth |
+| 2026-11-07T10:44:22.015123+00:00 | source policy eligibility | 16 | 12 | Fourpre-generationcontentexclusions; no label flips | NUS/Gateway | all | robustness_only; original fitting splits unchanged | Preliminaryfreeze preserved |
+| 2026-11-07T10:44:22.015123+00:00 | balancing cap | 12 | 12 | Fixed hash selection max100perclass; no manufactured controls | all | all | robustness_only; original fitting splits unchanged | Class imbalance reported |
+| 2026-11-07T10:44:22.015123+00:00 | split changes | 0 | 0 | No model split changed | all | all | robustness_only; original fitting splits unchanged | Reuse primary models only |

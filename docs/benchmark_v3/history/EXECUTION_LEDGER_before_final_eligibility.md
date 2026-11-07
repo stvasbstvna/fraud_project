@@ -1,0 +1,15 @@
+# Execution rulings
+
+The user's explicit automatic-execution specification authorized source acquisition, isolated dependency installation, source semantic API review, ModernBERT download/fine-tuning and statistical evaluation. No additional approval loop was imposed.
+
+* Baseline inventory captured 1,044 historical files. New seven v3 namespaces, dedicated environment and external source checkout preserve extensive existing untracked research.
+* Independent Sting9 and source-rights investigations ran separately; actual401/404 responses and conflicting terms are saved. No fabricated credentials or data. NUS original-author rights were resolved instead of blindly retaining the previous HOLD.
+* All eight source schemas were actually parsed; held rights prevent message exports into modeling. Git newline conversion and one held source's legacy byte encoding were diagnosed and tested explicitly. Source files were not edited.
+* v3.0 review instrument confused maliciousness with export safety. Preserve85 calls/outputs, version v3.1 with explicit nonoperational_text and rerun both source packets before fitting. Do not reinterpret old safety fields into approvals.
+* All707 sampled source candidates received fresh v3.1 review; exact provider/ID/assessment bindings are reconstructed. Generic spam/ham and model confidence never automatically become banking truth.
+* Root and independent review found a real payee-template train/test leak after the first scores. Preserve/invalidate that run. Broaden the source-only template normalization; source-blind A/B policy recheck excludes two coordination messages. Freeze a separate228-family corrected cohort and refit all three models in both experiments with unchanged hyperparameters. This does not produce an untouched confirmatory test pool; every result remains exploratory.
+* Model feasibility was real: official149M base weights verified, binary head loaded, full AdamW CPU steps timed, then actual two-epoch primary/source fine-tuning. No fill-mask substitution or synthetic research corpus.
+* Corrected C reuses only unchanged blind stimuli still held out after the repair. This is retrospective reuse, not a fresh prospective generation after corrected model freeze. There is no corrected legitimate rewrite and no balanced primary-C success. No detector feedback reached any generator/reviewer.
+* Primary A has a single control, so impressive F1/AUC cannot establish useful specificity. Conditional B has194 phishing and no controls; FPR/AUC remain undefined. C attrition, failed-ID adjudication batch and universal adjudication of approved rewrites are disclosed.
+* Models/inputs/predictions remain immutable; cached training refuses changed settings or inputs. Independent full-suite and dedicated model tests passed; stream-hash and train-only feature reconstruction receipts verify current outputs.
+* No dependency change to the original environment, old-file modification, private account access, email, publication, commit or push. No claim of300+300, human/expert ground truth, temporal generalization or broad contextual superiority.

@@ -1,0 +1,17 @@
+{
+  "approved_before_cap": 12,
+  "families": 12,
+  "frozen_at": "2026-11-07T10:37:07.889978+00:00",
+  "labels": {
+    "legitimate": 4,
+    "phishing": 8
+  },
+  "origins": {
+    "real_source": 2,
+    "uncertain_origin": 10
+  },
+  "review_type": "automated contexts not independent human annotation",
+  "rows": 12,
+  "source_cohort_sha256": "cf9a54d9202a16b01deedc285d9e44bde330da5b20460b550069c5a37b39298e",
+  "source_decisions_sha256": "5a53728dfbcca5482ead229f7d24bfe1b86260fbafe7c7cd667bfc11d3a48b3d"
+}

@@ -1,0 +1,154 @@
+id,template_family_id,source_id,origin_type,label,message_function,safe_text,model,probability,prediction,true_binary,model_sha256
+gateway-6354,V3-TF-160923029b4855603cd4,gateway,uncertain,phishing,payment,"truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",LR,0.9559094091634638,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-17683,V3-TF-d3260468729b9e2e0ce1,gateway,uncertain,phishing,refund,"
+MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",LR,0.9519550344345418,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-8787,V3-TF-29782509abc0760a7880,gateway,uncertain,phishing,payment,Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1],LR,0.9485119871238716,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-2268,V3-TF-8ae465efcc89539f40c7,gateway,uncertain,phishing,transfer,CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1],LR,0.952730649734857,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-4088,V3-TF-6df4ddcb1906f9f65e5f,mendeley,real,phishing,refund,URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1],LR,0.9497267518551298,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-1436,V3-TF-5ab7f5500be0c0b8c51c,mendeley,real,phishing,other_financial,It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon,LR,0.9397946788558476,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-4882,V3-TF-cb543287db1e8c15d848,mendeley,real,phishing,card,"Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",LR,0.9387168222262746,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-9024,V3-TF-8d0798f22a1515854074,gateway,uncertain,phishing,account_security,regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1],LR,0.9532635902549823,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-2424,V3-TF-2e114866d8b947ddbb74,gateway,uncertain,phishing,account_security,"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",LR,0.9539705764428056,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-1347,V3-TF-63753d011410e21f8f17,gateway,uncertain,phishing,account_restriction,"Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",LR,0.9529428750550272,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-15899,V3-TF-b5a8cac0e5c4a3fbe033,gateway,uncertain,phishing,account_restriction,"
+41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54
+",LR,0.9519240143757981,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-34441,V3-TF-f8c5551048897acebd49,gateway,uncertain,phishing,payment,"
+To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]
+",LR,0.9556351252439642,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-15505,V3-TF-fa6bcff85c4f33726345,gateway,uncertain,phishing,account_security,"[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",LR,0.9534149685005653,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-8048,V3-TF-319601b18599cee9f87c,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]
+",LR,0.9517007421688257,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-379,V3-TF-e10f309d36fa0d5343c8,mendeley,real,phishing,refund,"Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",LR,0.95518101267192,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-9275,V3-TF-7df5392a8d33fe25dbb1,gateway,uncertain,phishing,account_restriction,[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.,LR,0.9542414325736219,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-13413,V3-TF-86194b187544745430f1,gateway,uncertain,phishing,account_security,[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1],LR,0.9568336251734857,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-8251,V3-TF-376ea0d82d082e0314e0,gateway,uncertain,phishing,account_security,"
+7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]
+",LR,0.9530079368678613,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-7774,V3-TF-445607a6d89a858bda77,gateway,uncertain,phishing,account_security,"
+Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.
+",LR,0.9561469091820395,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-17578,V3-TF-8813ae57ebb7ee18d251,gateway,uncertain,phishing,refund,"
+74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.
+",LR,0.9539201687586787,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-8085,V3-TF-622f000d2876a6095c94,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]
+",LR,0.9466636361690848,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-17805,V3-TF-c8eb2d6b0c19d545f1e9,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]
+",LR,0.9564174147906611,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-67128,V3-TF-51f42d8596268ac11006,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN
+",LR,0.9485959110526466,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-737,V3-TF-839c67615085415db7b0,mendeley,real,phishing,transaction,A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1],LR,0.948782489617911,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-1704,V3-TF-14123c4e3422d0159859,mendeley,real,phishing,banking_app,Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1],LR,0.9512072202496558,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-12408,V3-TF-2ac52ee4191440f9230f,gateway,uncertain,phishing,verification,"Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",LR,0.9449323278152544,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-66616,V3-TF-e8669c42d4d7a1444c34,gateway,uncertain,phishing,verification,"
+UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP
+",LR,0.9549196953761112,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+mendeley-5033,V3-TF-add1f5a35bdc44cc94ae,mendeley,real,phishing,account_security,"(Alert) Your Rbc Royal Bank has been suspended. To unlock your account, click here: [SAFE-URL-1]",LR,0.9573253765484274,1,1,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+nus-5294,V3-TF-11a804f3cd7e01ff8e4c,nus,real,legitimate,fraud_alert,"Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",LR,0.9372792930566158,1,0,df89f5e2b629b09f3e3f9fe2b6830726bd2d9eb17e5e51f3cdbf8f8a2dedb7bf
+gateway-6354,V3-TF-160923029b4855603cd4,gateway,uncertain,phishing,payment,"truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",RF,0.96,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-17683,V3-TF-d3260468729b9e2e0ce1,gateway,uncertain,phishing,refund,"
+MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",RF,0.99,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-8787,V3-TF-29782509abc0760a7880,gateway,uncertain,phishing,payment,Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1],RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-2268,V3-TF-8ae465efcc89539f40c7,gateway,uncertain,phishing,transfer,CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1],RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-4088,V3-TF-6df4ddcb1906f9f65e5f,mendeley,real,phishing,refund,URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1],RF,0.995,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-1436,V3-TF-5ab7f5500be0c0b8c51c,mendeley,real,phishing,other_financial,It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon,RF,0.835,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-4882,V3-TF-cb543287db1e8c15d848,mendeley,real,phishing,card,"Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",RF,0.84,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-9024,V3-TF-8d0798f22a1515854074,gateway,uncertain,phishing,account_security,regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1],RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-2424,V3-TF-2e114866d8b947ddbb74,gateway,uncertain,phishing,account_security,"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-1347,V3-TF-63753d011410e21f8f17,gateway,uncertain,phishing,account_restriction,"Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-15899,V3-TF-b5a8cac0e5c4a3fbe033,gateway,uncertain,phishing,account_restriction,"
+41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54
+",RF,0.985,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-34441,V3-TF-f8c5551048897acebd49,gateway,uncertain,phishing,payment,"
+To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]
+",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-15505,V3-TF-fa6bcff85c4f33726345,gateway,uncertain,phishing,account_security,"[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",RF,0.995,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-8048,V3-TF-319601b18599cee9f87c,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]
+",RF,0.99,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-379,V3-TF-e10f309d36fa0d5343c8,mendeley,real,phishing,refund,"Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-9275,V3-TF-7df5392a8d33fe25dbb1,gateway,uncertain,phishing,account_restriction,[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.,RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-13413,V3-TF-86194b187544745430f1,gateway,uncertain,phishing,account_security,[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1],RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-8251,V3-TF-376ea0d82d082e0314e0,gateway,uncertain,phishing,account_security,"
+7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]
+",RF,0.995,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-7774,V3-TF-445607a6d89a858bda77,gateway,uncertain,phishing,account_security,"
+Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.
+",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-17578,V3-TF-8813ae57ebb7ee18d251,gateway,uncertain,phishing,refund,"
+74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.
+",RF,0.99,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-8085,V3-TF-622f000d2876a6095c94,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]
+",RF,0.99,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-17805,V3-TF-c8eb2d6b0c19d545f1e9,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]
+",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-67128,V3-TF-51f42d8596268ac11006,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN
+",RF,0.965,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-737,V3-TF-839c67615085415db7b0,mendeley,real,phishing,transaction,A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1],RF,0.985,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-1704,V3-TF-14123c4e3422d0159859,mendeley,real,phishing,banking_app,Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1],RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-12408,V3-TF-2ac52ee4191440f9230f,gateway,uncertain,phishing,verification,"Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",RF,0.965,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-66616,V3-TF-e8669c42d4d7a1444c34,gateway,uncertain,phishing,verification,"
+UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP
+",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+mendeley-5033,V3-TF-add1f5a35bdc44cc94ae,mendeley,real,phishing,account_security,"(Alert) Your Rbc Royal Bank has been suspended. To unlock your account, click here: [SAFE-URL-1]",RF,1.0,1,1,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+nus-5294,V3-TF-11a804f3cd7e01ff8e4c,nus,real,legitimate,fraud_alert,"Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",RF,0.83,1,0,19be45a63832fa8670849a824db84ba37b9fe7b405ae9a7df7776d5aa8147bb7
+gateway-6354,V3-TF-160923029b4855603cd4,gateway,uncertain,phishing,payment,"truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",ModernBERT,0.9980282187461853,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-17683,V3-TF-d3260468729b9e2e0ce1,gateway,uncertain,phishing,refund,"
+MyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.
+",ModernBERT,0.9985724687576294,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-8787,V3-TF-29782509abc0760a7880,gateway,uncertain,phishing,payment,Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1],ModernBERT,0.9991542100906372,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-2268,V3-TF-8ae465efcc89539f40c7,gateway,uncertain,phishing,transfer,CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1],ModernBERT,0.9854241013526917,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-4088,V3-TF-6df4ddcb1906f9f65e5f,mendeley,real,phishing,refund,URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1],ModernBERT,0.9960039258003235,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-1436,V3-TF-5ab7f5500be0c0b8c51c,mendeley,real,phishing,other_financial,It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon,ModernBERT,0.981221616268158,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-4882,V3-TF-cb543287db1e8c15d848,mendeley,real,phishing,card,"Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",ModernBERT,0.9955726861953735,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-9024,V3-TF-8d0798f22a1515854074,gateway,uncertain,phishing,account_security,regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1],ModernBERT,0.9993340373039246,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-2424,V3-TF-2e114866d8b947ddbb74,gateway,uncertain,phishing,account_security,"HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",ModernBERT,0.9981032609939575,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-1347,V3-TF-63753d011410e21f8f17,gateway,uncertain,phishing,account_restriction,"Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",ModernBERT,0.9984155893325806,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-15899,V3-TF-b5a8cac0e5c4a3fbe033,gateway,uncertain,phishing,account_restriction,"
+41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54
+",ModernBERT,0.9975600242614746,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-34441,V3-TF-f8c5551048897acebd49,gateway,uncertain,phishing,payment,"
+To complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]
+",ModernBERT,0.9996229410171509,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-15505,V3-TF-fa6bcff85c4f33726345,gateway,uncertain,phishing,account_security,"[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",ModernBERT,0.9945995807647705,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-8048,V3-TF-319601b18599cee9f87c,gateway,uncertain,phishing,verification,"
+We would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]
+",ModernBERT,0.9996100068092346,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-379,V3-TF-e10f309d36fa0d5343c8,mendeley,real,phishing,refund,"Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",ModernBERT,0.9990542531013489,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-9275,V3-TF-7df5392a8d33fe25dbb1,gateway,uncertain,phishing,account_restriction,[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.,ModernBERT,0.9966953992843628,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-13413,V3-TF-86194b187544745430f1,gateway,uncertain,phishing,account_security,[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1],ModernBERT,0.9987687468528748,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-8251,V3-TF-376ea0d82d082e0314e0,gateway,uncertain,phishing,account_security,"
+7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]
+",ModernBERT,0.9981294274330139,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-7774,V3-TF-445607a6d89a858bda77,gateway,uncertain,phishing,account_security,"
+Cba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.
+",ModernBERT,0.9997655749320984,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-17578,V3-TF-8813ae57ebb7ee18d251,gateway,uncertain,phishing,refund,"
+74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.
+",ModernBERT,0.9990549683570862,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-8085,V3-TF-622f000d2876a6095c94,gateway,uncertain,phishing,transaction,"
+ANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]
+",ModernBERT,0.9997557997703552,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-17805,V3-TF-c8eb2d6b0c19d545f1e9,gateway,uncertain,phishing,refund,"
+MyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]
+",ModernBERT,0.9995786547660828,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-67128,V3-TF-51f42d8596268ac11006,gateway,uncertain,phishing,verification,"
+UNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN
+",ModernBERT,0.9984456896781921,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-737,V3-TF-839c67615085415db7b0,mendeley,real,phishing,transaction,A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1],ModernBERT,0.996959924697876,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-1704,V3-TF-14123c4e3422d0159859,mendeley,real,phishing,banking_app,Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1],ModernBERT,0.9960491061210632,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-12408,V3-TF-2ac52ee4191440f9230f,gateway,uncertain,phishing,verification,"Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",ModernBERT,0.9989126920700073,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+gateway-66616,V3-TF-e8669c42d4d7a1444c34,gateway,uncertain,phishing,verification,"
+UNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP
+",ModernBERT,0.9956062436103821,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+mendeley-5033,V3-TF-add1f5a35bdc44cc94ae,mendeley,real,phishing,account_security,"(Alert) Your Rbc Royal Bank has been suspended. To unlock your account, click here: [SAFE-URL-1]",ModernBERT,0.9997615218162537,1,1,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43
+nus-5294,V3-TF-11a804f3cd7e01ff8e4c,nus,real,legitimate,fraud_alert,"Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",ModernBERT,0.8684852719306946,1,0,7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43

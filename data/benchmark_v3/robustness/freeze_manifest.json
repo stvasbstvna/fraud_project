@@ -1,0 +1,57 @@
+{
+  "status": "FROZEN_BLIND_SUPPLEMENT",
+  "frozen_path": "C:\\Users\\sabin\\OneDrive\\Documents\\GitHub\\fraud_project\\data\\benchmark_v3\\robustness\\frozen_approved_variants.json",
+  "frozen_sha256": "b1d4545b26454df38c17dc2549022a580969c42733da6dae8459e4f666dbc633",
+  "source_frames": 35,
+  "source_labels": {
+    "phishing": 33,
+    "legitimate": 2
+  },
+  "source_counts": {
+    "gateway": 27,
+    "mendeley": 7,
+    "nus": 1
+  },
+  "eligible_jobs": 140,
+  "generated_initial": 140,
+  "retry_jobs": 30,
+  "generated_retry": 30,
+  "deterministic_survivors": 116,
+  "accepted_rewrites": 51,
+  "rejected_or_missing": 89,
+  "condition_counts": {
+    "C0": 35,
+    "C4": 14,
+    "C5": 13,
+    "C6": 14,
+    "C1": 10
+  },
+  "complete_core_frames": [
+    "gateway-12309",
+    "gateway-12408",
+    "gateway-13413",
+    "gateway-14507",
+    "gateway-66616",
+    "gateway-67128",
+    "gateway-9275",
+    "mendeley-1704",
+    "mendeley-379"
+  ],
+  "complete_core_labels": {
+    "phishing": 9
+  },
+  "C4_source_ineligible": 0,
+  "call_counts": {
+    "A": 8,
+    "B": 8,
+    "G": 9,
+    "J": 6
+  },
+  "limitations": [
+    "Automated semantic judgments, not human annotation",
+    "Only 2 legitimate source controls; no control generalization",
+    "Available-case condition cohorts may differ; report attrition",
+    "Primary C minimum control gate remains unmet and NOT RUN"
+  ],
+  "freeze_utc": "2026-11-07T04:19:14.904669+00:00"
+}

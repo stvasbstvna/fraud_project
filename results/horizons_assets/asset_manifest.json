@@ -1,0 +1,21 @@
+{
+  "source_files": {
+    "data\\rewrite_experiment\\rewrite_pairs.csv": "f3226982ce23d9f93c9f8fe23daf7f20070811ef64da16451be69125f8b09575",
+    "results/rewrite_experiment/metrics_by_model_and_condition.csv": "3e2fa34014ed8b70854bbed1ff48f164b789080399f496ce778ec0113b09439c",
+    "results/rewrite_experiment/statistical_tests.csv": "36a8254e2bbd0580c457460a0cf331abf3a7d2923ef2ad30cd4d9097e9b1f050"
+  },
+  "assets": {
+    "detector_performance.png": {
+      "source": "results/rewrite_experiment/dashboard/figures/detector_performance.png",
+      "sha256": "90bbe25d4046efda7665e7ea44e80537b386623de0c946d8699babe3c60ae503"
+    },
+    "paired_transitions.png": {
+      "source": "results/rewrite_experiment/dashboard/figures/paired_transitions.png",
+      "sha256": "4cbadc077f1a48cb026b4e22500502f0925a6e714caeead9fd7b73601919a655"
+    },
+    "confidence_drop_histograms.png": {
+      "source": "results/rewrite_experiment/dashboard/figures/confidence_drop_histograms.png",
+      "sha256": "03ade53a7c4f8814449ab2ce7ffa6fc27a41a80eb91443d94320cbb5173007b0"
+    }
+  }
+}

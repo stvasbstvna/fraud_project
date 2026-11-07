@@ -1,0 +1,40 @@
+{
+  "approved_variants": 51,
+  "complete_core_frames": 9,
+  "complete_core_labels": {
+    "phishing": 9
+  },
+  "frozen_rows": 86,
+  "frozen_variant_sha256": "b1d4545b26454df38c17dc2549022a580969c42733da6dae8459e4f666dbc633",
+  "largest_extreme": {
+    "absolute_delta": 0.025000000000000022,
+    "condition": "C4",
+    "frame_id": "mendeley-334",
+    "model": "RF",
+    "signed_delta": -0.025000000000000022,
+    "threshold_transition": "1->1"
+  },
+  "model_hashes": {
+    "LR": "0dcca08dc2ad0fe78c15eaf5127d2200ab480bcf74f391a40d25d4854223ebce",
+    "ModernBERT": "7121d9e50969e73a4b6b07d8a57824aa7d2a34650db53ec1c0bf251edafa96e9",
+    "RF": "20d390eae706ba9f4a0e2ff07b52977b72ef07b4a342481bac6ca645e1c95b3b"
+  },
+  "predictions_sha256": "2131b6513b82ebec58ba41ae7547e42de689efed0fefc5e02a4bfa5de6617857",
+  "primary_C_status": "NOT RUN minimum control gate unmet",
+  "representative_complete_frame": "gateway-14507",
+  "representative_selection": "closest median frame-average absolute movement across all3models, stable ID tie-break; phishing-only complete support",
+  "source_frames": 35,
+  "status": "EXPLORATORY_AVAILABLE_PAIR_SUPPLEMENT_ONLY",
+  "supplement_plan_sha256": "939457fc02e960a1b4ee8a60a1bbed55d2d46072caba40d172420cac42de3bff",
+  "threshold_crossings_by_model": {
+    "LR": 0,
+    "ModernBERT": 0,
+    "RF": 0
+  },
+  "warnings": [
+    "All51rewriteapprovalsrequiredadjudication",
+    "Only1legitimatevariantperC4C5C6;noneC1",
+    "Selectiveattrition;conditionmeansdifferentcohorts",
+    "Noformalconditionrankingorcontextualsuperiorityclaim"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "all_messages_defanged": true,
+  "contains_detector_outputs": false,
+  "fields": [
+    "id",
+    "source_id",
+    "raw_label",
+    "safe_text",
+    "source_url"
+  ],
+  "max_provider_calls": 60,
+  "packet_sha256": "6fd1269277894b25f92ddd648d6e9c98624272073281714dc9619c0494f6e34b",
+  "roles": {
+    "A": "gpt-5.4-mini-2026-03-17",
+    "B": "gpt-4.1-mini-2025-04-14",
+    "J": "gpt-4.1-2025-04-14"
+  },
+  "rows": 394,
+  "source_rights": [
+    "Mendeley CC BY4",
+    "UCI CC BY4",
+    "NUS primary author copyright-free unlimited-use",
+    "Gateway repository MIT"
+  ],
+  "user_authorization": "V3 source semantic review for a defensive public-source financial SMS benchmark",
+  "validation": "machine review not independent human annotation"
+}

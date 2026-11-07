@@ -1,0 +1,13 @@
+{
+  "generated": [
+    "Figure1",
+    "Figure2",
+    "Figure3",
+    "Figure4"
+  ],
+  "Figure5": "NOT AVAILABLE: no complete eligible C0\u2013C6 frame; no representative trajectory selected",
+  "Figure6": "not useful with four source frames; omitted",
+  "primary_complete_cases": 0,
+  "validation_type": "automated_semantic_review",
+  "scope": "exploratory_available_pairs"
+}

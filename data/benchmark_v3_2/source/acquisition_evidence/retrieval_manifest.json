@@ -1,0 +1,27 @@
+﻿[
+    {
+        "error":  "Unable to connect to the remote server",
+        "url":  "https://huggingface.co/datasets/MOZNLP/MOZ-Smishing/raw/main/README.md",
+        "name":  "moz_dataset_card"
+    },
+    {
+        "error":  "Unable to connect to the remote server",
+        "url":  "https://raw.githubusercontent.com/kite1988/nus-sms-corpus/master/README.md",
+        "name":  "nus_readme"
+    },
+    {
+        "error":  "Unable to connect to the remote server",
+        "url":  "https://arxiv.org/html/1112.2468",
+        "name":  "nus_author_paper"
+    },
+    {
+        "error":  "Unable to connect to the remote server",
+        "url":  "https://raw.githubusercontent.com/skyaara/indian-payment-sms-dataset/main/README.md",
+        "name":  "synthetic_payment_readme"
+    },
+    {
+        "error":  "Unable to connect to the remote server",
+        "url":  "https://raw.githubusercontent.com/shshnk158/Multilingual-SMS-spam-detection-using-RNN/master/README.md",
+        "name":  "revised_indian_readme"
+    }
+]

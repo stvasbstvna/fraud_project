@@ -1,0 +1,6 @@
+| condition | N | token_jaccard | normalized_edit_distance | frozen_tfidf_cosine_similarity | surface_distance | semantic_similarity | semantic_preservation |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| C1 | 2 | 0.811965811965812 | 0.06478892927033825 | 0.9282662255932156 | 0.12641155865226314 | NOT_AVAILABLE | automated approval, not measured embedding similarity |
+| C4 | 5 | 0.7562656641604011 | 0.12777916319602656 | 0.8305321352969248 | 0.1857567495178128 | NOT_AVAILABLE | automated approval, not measured embedding similarity |
+| C5 | 4 | 0.9351851851851851 | 0.06852865543901426 | 0.9508257492902532 | 0.06667173512691454 | NOT_AVAILABLE | automated approval, not measured embedding similarity |
+| C6 | 3 | 0.6538461538461539 | 0.22531889807020458 | 0.6622993271463654 | 0.28573637211202535 | NOT_AVAILABLE | automated approval, not measured embedding similarity |

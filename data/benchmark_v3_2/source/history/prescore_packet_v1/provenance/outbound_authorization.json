@@ -1,0 +1,24 @@
+{
+  "fields": [
+    "id",
+    "frame_id",
+    "safe_text",
+    "source_dataset",
+    "source_row_id",
+    "original_label",
+    "original_url"
+  ],
+  "fitting_reference_rows": 166,
+  "no_detector_feedback": true,
+  "no_secrets": true,
+  "packet_sha256": "8160a86d9fc2707f7def346645ea01b8a3dd3811c441cd410e05984a5cbb2e74",
+  "rights_evidence": "docs/benchmark_v3/SOURCE_LICENSE_AUDIT.md plus v3.2/SOURCE_EXPANSION_AUDIT.md",
+  "roles": {
+    "A": "gpt-5.4-mini-2026-03-17",
+    "B": "gpt-4.1-mini-2025-04-14",
+    "G": "gpt-5.4-mini-2026-03-17",
+    "J": "gpt-4.1-2025-04-14"
+  },
+  "rows": 1043,
+  "user_authorization": "Explicit v3.2 source validation, sections4-9 and execute all stages; public rights-cleared defanged SMS only"
+}

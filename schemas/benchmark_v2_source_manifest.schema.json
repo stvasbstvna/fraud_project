@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/fraud-project/benchmark-v2-source-manifest.schema.json",
+  "title": "Benchmark v2 source-manifest entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["source_id", "source_url_or_reference", "access_date", "source_sha256", "license_name", "license_url", "redistribution_status", "transformation_permission", "privacy_review_status", "attribution_requirement"],
+  "properties": {
+    "source_id": {"type": "string", "pattern": "^BV2-SRC-[0-9]{4}$"},
+    "source_url_or_reference": {"type": "string", "minLength": 1},
+    "access_date": {"type": "string", "format": "date"},
+    "source_sha256": {"type": "string", "pattern": "^[a-fA-F0-9]{64}$"},
+    "license_name": {"type": "string", "minLength": 1},
+    "license_url": {"type": ["string", "null"], "format": "uri"},
+    "redistribution_status": {"enum": ["permitted", "prohibited", "unverified"]},
+    "transformation_permission": {"enum": ["permitted", "prohibited", "unverified", "not_applicable_self_authored"]},
+    "privacy_review_status": {"enum": ["passed", "pending", "failed"]},
+    "attribution_requirement": {"type": "string", "minLength": 1}
+  }
+}

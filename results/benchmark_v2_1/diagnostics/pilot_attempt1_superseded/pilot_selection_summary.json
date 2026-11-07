@@ -1,0 +1,68 @@
+{
+  "status": "PILOT NOT READY",
+  "legacy_master_candidates": 441,
+  "external_financial_audit_rows": 173,
+  "audited_pool": 614,
+  "master_template_families": 12,
+  "pool_template_families": 64,
+  "training_template_overlap_exclusions": 2,
+  "selected_frames": 17,
+  "candidate_labels": {
+    "legitimate": 9,
+    "phishing_scam": 8
+  },
+  "selected_sources": {
+    "MENDELEY-SMISH": 9,
+    "SYNTH-V21": 7,
+    "UCI-SMS": 1
+  },
+  "selected_entities": {
+    "": 4,
+    "Pioneer Bank": 2,
+    "Summit Financial": 2,
+    "Harbor Credit": 1,
+    "MetroTrust": 1,
+    "Paytm Payments Bank": 1,
+    "Northstar Bank": 1,
+    "Nationwide": 1,
+    "Dear Sir Your Bank": 1,
+    "Your Rbc Royal Bank": 1,
+    "Bank of America": 1,
+    "Kotak Mahendra Bank": 1
+  },
+  "selected_intent_categories": {
+    "other_financial": 3,
+    "transaction_alert": 3,
+    "login_security": 3,
+    "account_locked": 2,
+    "account_review": 2,
+    "fraud_alert": 1,
+    "payment_issue": 1,
+    "card_suspension": 1,
+    "refund": 1
+  },
+  "selected_template_families": 17,
+  "selected_near_duplicate_pairs": 0,
+  "source_approved_frames": 0,
+  "generated_rewrites": 0,
+  "frozen_rows": 0,
+  "targets": {
+    "phishing_scam": 24,
+    "legitimate": 24
+  },
+  "quota_deficit": {
+    "phishing_scam": 16,
+    "legitimate": 15
+  },
+  "selection_policy": "deterministic category/source/entity balancing; one per connected family; max 4/entity and label/category; max 24/source; no quotas filled from HOLD or train-template-overlap rows",
+  "template_thresholds": {
+    "jaccard_and_structure": 0.8,
+    "structure_with_jaccard_at_least_0_45": 0.92
+  },
+  "limitations": [
+    "Automated family screening is not human equivalence review",
+    "Family IDs are cohort/version dependent",
+    "Candidate labels are unvalidated",
+    "Source/label composition may remain confounded, particularly synthetic controls"
+  ]
+}

@@ -1,0 +1,1 @@
+Metadata-only corrections: inherited control-count warning, inherited stimulus path/source counts/time, and complete-core scope text. Original metadata preserved here. All input text, labels, splits, weights, predictions, metric values and their hashes are unchanged.

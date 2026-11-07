@@ -1,0 +1,77 @@
+| frame_id | condition | attempt | deterministic_errors | semantic_approved | reason |
+| --- | --- | --- | --- | --- | --- |
+| nus-5294 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| nus-5294 | C6 | 0 |  | False | deterministic_or_semantic_rejected |
+| gateway-188 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-188 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-8091 | C1 | 0 | c1_insufficient_lexical_change | True | deterministic_or_semantic_rejected |
+| gateway-8091 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-8091 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-67708 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-67708 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-67708 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C1 | 0 | c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C1 | 0 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C4 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C5 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C6 | 0 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-188 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-8091 | C1 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-8091 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-8091 | C6 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C1 | 1 | c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-3207 | C6 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-67708 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-67708 | C4 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-67708 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C1 | 1 | c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C4 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-6354 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-15899 | C6 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C4 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-17578 | C6 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C4 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-737 | C6 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C4 | 1 |  | False | deterministic_or_semantic_rejected |
+| mendeley-4882 | C6 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C4 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-2424 | C6 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C1 | 1 | unchanged;c1_insufficient_lexical_change | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C4 | 1 | unchanged | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C5 | 1 |  | False | deterministic_or_semantic_rejected |
+| gateway-8048 | C6 | 1 |  | False | deterministic_or_semantic_rejected |

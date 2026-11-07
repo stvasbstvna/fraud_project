@@ -1,0 +1,5 @@
+| source_dataset | label | origin_type | N |
+| --- | --- | --- | --- |
+| gateway | phishing | uncertain_origin | 9 |
+| mendeley | phishing | real_source | 2 |
+| nus | legitimate | real_source | 1 |

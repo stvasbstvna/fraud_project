@@ -1,0 +1,18 @@
+{
+  "authorization": "User v3.2 sections4-8 target100perclass and executeeverypossible stage",
+  "fields": [
+    "id",
+    "frame_id",
+    "safe_text",
+    "source_dataset",
+    "source_row_id",
+    "original_label",
+    "original_url"
+  ],
+  "no_detector_outputs": true,
+  "packet_sha256": "058769558d394865d1ee981443418a5692cc614e5a513f273f032cdb51c54253",
+  "reason": "Initial repeat-control review and fitting-family isolation left insufficient phishing trajectories as well; expand source-only phishing capacity toward preferred100 without changing prompts or checking detector outcomes",
+  "rights": "Existing Gateway MIT and Mendeley CC BY4 verified; defanged public messages only",
+  "rows": 23,
+  "timestamp": "2026-11-07T10:39:17.310354+00:00"
+}

@@ -1,0 +1,232 @@
+{
+  "status": "v2.1_prospective_sensitivity_complete_human_pilot_gates_pending",
+  "family_version": "bv21-dose-response-primary-v1",
+  "hypothesis_ids": [
+    "H1_CONTINUOUS_DISTANCE_TREND",
+    "H2_BINARY_FN_DISTANCE_TREND",
+    "H5_C0_VS_C1_MINIMAL_LEXICAL",
+    "H6_C2_VS_C3_ACTION_EXPLICITNESS",
+    "H7_C0_VS_C4_NATURALIZATION",
+    "H8_C0_VS_C5_STRONG_PARAPHRASE",
+    "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE"
+  ],
+  "hypothesis_count": 7,
+  "familywise_alpha": 0.05,
+  "holm": true,
+  "within_frame_conditions": 7,
+  "detectors": 2,
+  "target_power_options": [
+    0.8,
+    0.9
+  ],
+  "baseline_false_negative_rate_assumption": 0.05,
+  "scenarios": [
+    {
+      "profile": "small",
+      "assumptions": {
+        "score_slope": -0.08,
+        "fn_increase_at_max": 0.02,
+        "contrast_logit": -0.05,
+        "detector_interaction": 0.03
+      },
+      "n_phishing_frames": 500,
+      "simulations": 1000,
+      "seed": 20260828,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 0.539,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.223,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 0.412,
+        "H7_C0_VS_C4_NATURALIZATION": 0.903,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 0.998,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 0.539,
+      "minimum_all_confirmatory_power": 0.223
+    },
+    {
+      "profile": "small",
+      "assumptions": {
+        "score_slope": -0.08,
+        "fn_increase_at_max": 0.02,
+        "contrast_logit": -0.05,
+        "detector_interaction": 0.03
+      },
+      "n_phishing_frames": 750,
+      "simulations": 1000,
+      "seed": 20260829,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 0.746,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.377,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 0.586,
+        "H7_C0_VS_C4_NATURALIZATION": 0.978,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 0.746,
+      "minimum_all_confirmatory_power": 0.377
+    },
+    {
+      "profile": "small",
+      "assumptions": {
+        "score_slope": -0.08,
+        "fn_increase_at_max": 0.02,
+        "contrast_logit": -0.05,
+        "detector_interaction": 0.03
+      },
+      "n_phishing_frames": 1000,
+      "simulations": 1000,
+      "seed": 20260830,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 0.898,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.54,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 0.759,
+        "H7_C0_VS_C4_NATURALIZATION": 0.996,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 0.898,
+      "minimum_all_confirmatory_power": 0.54
+    },
+    {
+      "profile": "target",
+      "assumptions": {
+        "score_slope": -0.15,
+        "fn_increase_at_max": 0.04,
+        "contrast_logit": -0.1,
+        "detector_interaction": 0.06
+      },
+      "n_phishing_frames": 500,
+      "simulations": 1000,
+      "seed": 20260838,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 0.994,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.84,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 0.986,
+        "H7_C0_VS_C4_NATURALIZATION": 1.0,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 0.994,
+      "minimum_all_confirmatory_power": 0.84
+    },
+    {
+      "profile": "target",
+      "assumptions": {
+        "score_slope": -0.15,
+        "fn_increase_at_max": 0.04,
+        "contrast_logit": -0.1,
+        "detector_interaction": 0.06
+      },
+      "n_phishing_frames": 750,
+      "simulations": 1000,
+      "seed": 20260839,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 1.0,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.95,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 0.997,
+        "H7_C0_VS_C4_NATURALIZATION": 1.0,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 1.0,
+      "minimum_all_confirmatory_power": 0.95
+    },
+    {
+      "profile": "target",
+      "assumptions": {
+        "score_slope": -0.15,
+        "fn_increase_at_max": 0.04,
+        "contrast_logit": -0.1,
+        "detector_interaction": 0.06
+      },
+      "n_phishing_frames": 1000,
+      "simulations": 1000,
+      "seed": 20260840,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 1.0,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.984,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 1.0,
+        "H7_C0_VS_C4_NATURALIZATION": 1.0,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 1.0,
+      "minimum_all_confirmatory_power": 0.984
+    },
+    {
+      "profile": "large",
+      "assumptions": {
+        "score_slope": -0.25,
+        "fn_increase_at_max": 0.06,
+        "contrast_logit": -0.15,
+        "detector_interaction": 0.1
+      },
+      "n_phishing_frames": 500,
+      "simulations": 1000,
+      "seed": 20260848,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 1.0,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 0.992,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 1.0,
+        "H7_C0_VS_C4_NATURALIZATION": 1.0,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 1.0,
+      "minimum_all_confirmatory_power": 0.992
+    },
+    {
+      "profile": "large",
+      "assumptions": {
+        "score_slope": -0.25,
+        "fn_increase_at_max": 0.06,
+        "contrast_logit": -0.15,
+        "detector_interaction": 0.1
+      },
+      "n_phishing_frames": 750,
+      "simulations": 1000,
+      "seed": 20260849,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 1.0,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 1.0,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 1.0,
+        "H7_C0_VS_C4_NATURALIZATION": 1.0,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 1.0,
+      "minimum_all_confirmatory_power": 1.0
+    },
+    {
+      "profile": "large",
+      "assumptions": {
+        "score_slope": -0.25,
+        "fn_increase_at_max": 0.06,
+        "contrast_logit": -0.15,
+        "detector_interaction": 0.1
+      },
+      "n_phishing_frames": 1000,
+      "simulations": 1000,
+      "seed": 20260850,
+      "hypothesis_power": {
+        "H1_CONTINUOUS_DISTANCE_TREND": 1.0,
+        "H2_BINARY_FN_DISTANCE_TREND": 1.0,
+        "H5_C0_VS_C1_MINIMAL_LEXICAL": 1.0,
+        "H6_C2_VS_C3_ACTION_EXPLICITNESS": 1.0,
+        "H7_C0_VS_C4_NATURALIZATION": 1.0,
+        "H8_C0_VS_C5_STRONG_PARAPHRASE": 1.0,
+        "H9_C0_VS_C6_COMBINED_HIGH_DISTANCE": 1.0
+      },
+      "minimum_primary_power": 1.0,
+      "minimum_all_confirmatory_power": 1.0
+    }
+  ]
+}

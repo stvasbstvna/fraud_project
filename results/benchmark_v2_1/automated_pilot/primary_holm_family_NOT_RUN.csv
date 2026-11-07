@@ -1,0 +1,8 @@
+hypothesis_id,n_complete_frames,effect,ci95_low,ci95_high,raw_p,holm_adjusted_p,status
+H1_DISTANCE_LOGIT,0,,,,,,NOT RUN: no complete C0–C6 cases
+H2_DISTANCE_FN,0,,,,,,NOT RUN: no complete C0–C6 cases
+H5_C0_C1,0,,,,,,NOT RUN: no complete C0–C6 cases
+H6_C2_C3,0,,,,,,NOT RUN: no complete C0–C6 cases
+H7_C0_C4,0,,,,,,NOT RUN: no complete C0–C6 cases
+H8_C0_C5,0,,,,,,NOT RUN: no complete C0–C6 cases
+H9_C0_C6,0,,,,,,NOT RUN: no complete C0–C6 cases

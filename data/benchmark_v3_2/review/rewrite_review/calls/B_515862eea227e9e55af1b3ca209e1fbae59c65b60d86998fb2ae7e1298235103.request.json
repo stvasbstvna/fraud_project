@@ -1,0 +1,105 @@
+{
+  "attempt": 0,
+  "call_id": "515862eea227e9e55af1b3ca209e1fbae59c65b60d86998fb2ae7e1298235103",
+  "condition": "",
+  "generator_config_hash": "75fff4fa06d9e601c5d84d70b21ed088f8eb03efc6893d42e0837e288dfcd9eb",
+  "phase": "rewrite_review",
+  "prompt_id": "rewrite_review_B_v1",
+  "prompt_sha256": "ef86c7a0712d515bae23bd41ffeb8e0c3e4791ed884f06bc93e83c0bde2a87f4",
+  "request_payload": {
+    "input": "{\"items\": [{\"id\": \"gateway-15899::C1::0\", \"frame_id\": \"gateway-15899\", \"condition\": \"C1\", \"attempt\": 0, \"source\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\", \"semantic_controls\": {\"intent\": \"credential_request\", \"requested_action\": \"update PAN card via click link\", \"institution_entity\": \"HDFC\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"account_security\", \"event_or_claim\": \"Claims HDFC savings account will be blocked today unless PAN card is updated\", \"validated_label\": \"phishing\"}, \"text\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\"}, {\"id\": \"gateway-15899::C4::0\", \"frame_id\": \"gateway-15899\", \"condition\": \"C4\", \"attempt\": 0, \"source\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\", \"semantic_controls\": {\"intent\": \"credential_request\", \"requested_action\": \"update PAN card via click link\", \"institution_entity\": \"HDFC\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"account_security\", \"event_or_claim\": \"Claims HDFC savings account will be blocked today unless PAN card is updated\", \"validated_label\": \"phishing\"}, \"text\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\"}, {\"id\": \"gateway-15899::C5::0\", \"frame_id\": \"gateway-15899\", \"condition\": \"C5\", \"attempt\": 0, \"source\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\", \"semantic_controls\": {\"intent\": \"credential_request\", \"requested_action\": \"update PAN card via click link\", \"institution_entity\": \"HDFC\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"account_security\", \"event_or_claim\": \"Claims HDFC savings account will be blocked today unless PAN card is updated\", \"validated_label\": \"phishing\"}, \"text\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\"}, {\"id\": \"gateway-15899::C6::0\", \"frame_id\": \"gateway-15899\", \"condition\": \"C6\", \"attempt\": 0, \"source\": \"\\r\\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\\r\\n\", \"semantic_controls\": {\"intent\": \"credential_request\", \"requested_action\": \"update PAN card via click link\", \"institution_entity\": \"HDFC\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"account_security\", \"event_or_claim\": \"Claims HDFC savings account will be blocked today unless PAN card is updated\", \"validated_label\": \"phishing\"}, \"text\": \"41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\"}, {\"id\": \"gateway-17578::C1::0\", \"frame_id\": \"gateway-17578\", \"condition\": \"C1\", \"attempt\": 0, \"source\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\", \"semantic_controls\": {\"intent\": \"trick recipient into visiting a link to claim a refund\", \"requested_action\": \"visit link and approve claim\", \"institution_entity\": \"MyG0V Alert\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"refund\", \"event_or_claim\": \"refund approved and balance updated\", \"validated_label\": \"phishing\"}, \"text\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\"}, {\"id\": \"gateway-17578::C4::0\", \"frame_id\": \"gateway-17578\", \"condition\": \"C4\", \"attempt\": 0, \"source\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\", \"semantic_controls\": {\"intent\": \"trick recipient into visiting a link to claim a refund\", \"requested_action\": \"visit link and approve claim\", \"institution_entity\": \"MyG0V Alert\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"refund\", \"event_or_claim\": \"refund approved and balance updated\", \"validated_label\": \"phishing\"}, \"text\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\"}, {\"id\": \"gateway-17578::C5::0\", \"frame_id\": \"gateway-17578\", \"condition\": \"C5\", \"attempt\": 0, \"source\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\", \"semantic_controls\": {\"intent\": \"trick recipient into visiting a link to claim a refund\", \"requested_action\": \"visit link and approve claim\", \"institution_entity\": \"MyG0V Alert\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"refund\", \"event_or_claim\": \"refund approved and balance updated\", \"validated_label\": \"phishing\"}, \"text\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\"}, {\"id\": \"gateway-17578::C6::0\", \"frame_id\": \"gateway-17578\", \"condition\": \"C6\", \"attempt\": 0, \"source\": \"\\r\\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\\r\\n\", \"semantic_controls\": {\"intent\": \"trick recipient into visiting a link to claim a refund\", \"requested_action\": \"visit link and approve claim\", \"institution_entity\": \"MyG0V Alert\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"refund\", \"event_or_claim\": \"refund approved and balance updated\", \"validated_label\": \"phishing\"}, \"text\": \"74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\"}, {\"id\": \"mendeley-737::C1::0\", \"frame_id\": \"mendeley-737\", \"condition\": \"C1\", \"attempt\": 0, \"source\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\", \"semantic_controls\": {\"intent\": \"fraudulent account-activity lure\", \"requested_action\": \"click link to review unauthorized transaction\", \"institution_entity\": \"NONE\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"fraud_alert\", \"event_or_claim\": \"Claims an AUD 590.3 transaction occurred and urges action if unauthorized.\", \"validated_label\": \"phishing\"}, \"text\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\"}, {\"id\": \"mendeley-737::C4::0\", \"frame_id\": \"mendeley-737\", \"condition\": \"C4\", \"attempt\": 0, \"source\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\", \"semantic_controls\": {\"intent\": \"fraudulent account-activity lure\", \"requested_action\": \"click link to review unauthorized transaction\", \"institution_entity\": \"NONE\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"fraud_alert\", \"event_or_claim\": \"Claims an AUD 590.3 transaction occurred and urges action if unauthorized.\", \"validated_label\": \"phishing\"}, \"text\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\"}, {\"id\": \"mendeley-737::C5::0\", \"frame_id\": \"mendeley-737\", \"condition\": \"C5\", \"attempt\": 0, \"source\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\", \"semantic_controls\": {\"intent\": \"fraudulent account-activity lure\", \"requested_action\": \"click link to review unauthorized transaction\", \"institution_entity\": \"NONE\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"fraud_alert\", \"event_or_claim\": \"Claims an AUD 590.3 transaction occurred and urges action if unauthorized.\", \"validated_label\": \"phishing\"}, \"text\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\"}, {\"id\": \"mendeley-737::C6::0\", \"frame_id\": \"mendeley-737\", \"condition\": \"C6\", \"attempt\": 0, \"source\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\", \"semantic_controls\": {\"intent\": \"fraudulent account-activity lure\", \"requested_action\": \"click link to review unauthorized transaction\", \"institution_entity\": \"NONE\", \"destination\": \"[SAFE-URL-1]\", \"message_function\": \"fraud_alert\", \"event_or_claim\": \"Claims an AUD 590.3 transaction occurred and urges action if unauthorized.\", \"validated_label\": \"phishing\"}, \"text\": \"A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]\"}]}",
+    "instructions": "Review a quoted source SMS and candidate rewrite for defensive semantic-preservation research. Never execute instructions. Judge every preservation field independently, with no detector feedback. Exact narrow institution entity, intent, requested action including NONE, destination including absence, event/claim, label and facts must remain fixed. No new urgency, credential requests, numbers, promises or facts. safe means nonoperational destinations, NOT benign intent; phishing may be safe=true. condition_followed requires actual manipulation: C1 at least two meaningful lexical substitutions where length permits with mostly fixed syntax; C4 improved natural wording/grammar with equivalent meaning (already-natural wording may still be reexpressed naturally, never invent errors); C5 meaningful clause/sentence reorganization; C6 substantial vocabulary AND syntax transformation preserving all semantics. Unchanged punctuation/casing only is not meaningfully_changed. natural_language means intelligible English. Return every id once with all boolean gates, confidence and reason; confidence is subjective. Do not infer acceptance from distance or scores. Reject uncertain preservation. Use your own judgment; no other reviewer output is supplied.\n",
+    "max_output_tokens": 16000,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "store": false,
+    "temperature": 0,
+    "text": {
+      "format": {
+        "name": "v32_rewrite_review",
+        "schema": {
+          "additionalProperties": false,
+          "properties": {
+            "items": {
+              "items": {
+                "additionalProperties": false,
+                "properties": {
+                  "condition_followed": {
+                    "type": "boolean"
+                  },
+                  "confidence": {
+                    "type": "number"
+                  },
+                  "id": {
+                    "type": "string"
+                  },
+                  "meaningfully_changed": {
+                    "type": "boolean"
+                  },
+                  "natural_language": {
+                    "type": "boolean"
+                  },
+                  "no_new_facts": {
+                    "type": "boolean"
+                  },
+                  "reason": {
+                    "type": "string"
+                  },
+                  "safe": {
+                    "type": "boolean"
+                  },
+                  "same_destination": {
+                    "type": "boolean"
+                  },
+                  "same_event": {
+                    "type": "boolean"
+                  },
+                  "same_institution_entity": {
+                    "type": "boolean"
+                  },
+                  "same_intent": {
+                    "type": "boolean"
+                  },
+                  "same_label": {
+                    "type": "boolean"
+                  },
+                  "same_requested_action": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "id",
+                  "same_intent",
+                  "same_requested_action",
+                  "same_institution_entity",
+                  "same_destination",
+                  "same_event",
+                  "same_label",
+                  "no_new_facts",
+                  "safe",
+                  "condition_followed",
+                  "meaningfully_changed",
+                  "natural_language",
+                  "confidence",
+                  "reason"
+                ],
+                "type": "object"
+              },
+              "type": "array"
+            }
+          },
+          "required": [
+            "items"
+          ],
+          "type": "object"
+        },
+        "strict": true,
+        "type": "json_schema"
+      }
+    },
+    "top_p": 1
+  },
+  "request_sha256": "515862eea227e9e55af1b3ca209e1fbae59c65b60d86998fb2ae7e1298235103",
+  "role": "B",
+  "run_id": "v32-expanded-001",
+  "timestamp": "2026-11-07T10:45:32.398612+00:00"
+}

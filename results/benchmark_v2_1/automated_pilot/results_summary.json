@@ -1,0 +1,151 @@
+{
+  "status": "PRIMARY_PILOT_FAILED_COMPLETENESS_EXPLORATORY_RESULTS_AVAILABLE",
+  "review_mode": "automated",
+  "source_frames": 4,
+  "source_labels": {
+    "legitimate": 2,
+    "phishing_scam": 2
+  },
+  "complete_case_frames": 0,
+  "primary_frozen_rows": 0,
+  "exploratory_frozen_rows": 20,
+  "approved_available_variants": 16,
+  "all_available_rows_flagged_phishing": {
+    "lr": true,
+    "rf": true
+  },
+  "threshold_crossings": {
+    "lr": 0,
+    "rf": 0
+  },
+  "baseline_synthetic_controls_false_positive": {
+    "lr": 2,
+    "rf": 2
+  },
+  "largest_observed_absolute_change": {
+    "frame_id": "BV21-1342c95e697ef60f72baeaad",
+    "condition": "C5",
+    "label": "legitimate",
+    "model": "rf",
+    "original_probability": 0.5623924014023075,
+    "variant_probability": 0.7133970802613095,
+    "delta": -0.151004678859002,
+    "absolute_movement": 0.151004678859002,
+    "transition": "1\u21921",
+    "selection": "ranked extreme cases, NOT representative"
+  },
+  "distance_associations": [
+    {
+      "model": "lr",
+      "label": "legitimate",
+      "endpoint": "absolute_change",
+      "n_frames": 2,
+      "n_variants": 9,
+      "mean_within_frame_slope": 0.12824918589688822,
+      "ci95_low": 0.029045359003946558,
+      "ci95_high": 0.22745301278982985,
+      "mean_within_frame_correlation": 0.5917074668672437,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "lr",
+      "label": "legitimate",
+      "endpoint": "signed_change",
+      "n_frames": 2,
+      "n_variants": 9,
+      "mean_within_frame_slope": -0.12824918589688822,
+      "ci95_low": -0.22745301278982985,
+      "ci95_high": -0.029045359003946558,
+      "mean_within_frame_correlation": -0.5917074668672437,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "lr",
+      "label": "phishing_scam",
+      "endpoint": "absolute_change",
+      "n_frames": 2,
+      "n_variants": 7,
+      "mean_within_frame_slope": -0.041590433207642774,
+      "ci95_low": -0.14298974839465262,
+      "ci95_high": 0.05980888197936706,
+      "mean_within_frame_correlation": -0.08385679797392176,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "lr",
+      "label": "phishing_scam",
+      "endpoint": "signed_change",
+      "n_frames": 2,
+      "n_variants": 7,
+      "mean_within_frame_slope": -0.08058723228190369,
+      "ci95_low": -0.14298974839465262,
+      "ci95_high": -0.018184716169154774,
+      "mean_within_frame_correlation": -0.5257046441537031,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "rf",
+      "label": "legitimate",
+      "endpoint": "absolute_change",
+      "n_frames": 2,
+      "n_variants": 9,
+      "mean_within_frame_slope": 0.21228385156006532,
+      "ci95_low": 0.05031702714963698,
+      "ci95_high": 0.37425067597049366,
+      "mean_within_frame_correlation": 0.8863599669472495,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "rf",
+      "label": "legitimate",
+      "endpoint": "signed_change",
+      "n_frames": 2,
+      "n_variants": 9,
+      "mean_within_frame_slope": -0.2112751978451946,
+      "ci95_low": -0.37425067597049366,
+      "ci95_high": -0.04829971971989555,
+      "mean_within_frame_correlation": -0.5410473595021554,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "rf",
+      "label": "phishing_scam",
+      "endpoint": "absolute_change",
+      "n_frames": 2,
+      "n_variants": 7,
+      "mean_within_frame_slope": 0.07904626251628347,
+      "ci95_low": 0.06180262161075902,
+      "ci95_high": 0.0962899034218079,
+      "mean_within_frame_correlation": 0.8613911225628523,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    },
+    {
+      "model": "rf",
+      "label": "phishing_scam",
+      "endpoint": "signed_change",
+      "n_frames": 2,
+      "n_variants": 7,
+      "mean_within_frame_slope": 0.03822667451288452,
+      "ci95_low": 0.014650727415010022,
+      "ci95_high": 0.06180262161075902,
+      "mean_within_frame_correlation": 0.43630416536487,
+      "p_value": null,
+      "inference": "descriptive_only_tiny_incomplete_cases_not_primary_family"
+    }
+  ],
+  "mean_within_frame_lr_rf_movement_correlation": 0.6440403084149517,
+  "primary_Holm_family": "NOT RUN",
+  "figures_generated": 4,
+  "tables_generated": 8,
+  "representative_example": "NOT AVAILABLE: no complete eligible frame",
+  "independent_human_annotation": false,
+  "validation_type": "automated_semantic_review",
+  "predictions_sha256": "704735d8760bd0452b62bbca08553990114d3c83fe056d83342ed055d792b23f"
+}

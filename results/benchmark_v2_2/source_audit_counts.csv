@@ -1,0 +1,14 @@
+source,candidate_label,broad_candidates,rule_clear_rows,rule_clear_families,family_screen_status,automatically_semantically_approved,final_frozen_sources
+MENDELEY-FINANCIAL,legitimate,64,0,0,screened_control_preflight,0,0
+MENDELEY-FINANCIAL,scam_requires_phishing_review,149,0,0,not_run_positive_family_preflight,0,0
+MENDELEY-SMISH,legitimate,60,50,49,screened_control_preflight,0,0
+MENDELEY-SMISH,phishing_scam,85,73,0,not_run_positive_family_preflight,0,0
+MENDELEY-SMISH,unknown,23,0,0,not_run_positive_family_preflight,0,0
+SMISHX,legitimate,31,0,0,screened_control_preflight,0,0
+SMISHX,phishing_scam,46,0,0,not_run_positive_family_preflight,0,0
+SMISHX,unknown,32,0,0,not_run_positive_family_preflight,0,0
+SMS-GATEWAY,phishing_scam,22701,22678,0,not_run_positive_family_preflight,0,0
+SYNTH-LEGACY,legitimate,187,0,0,screened_control_preflight,0,0
+SYNTH-LEGACY,phishing_scam,254,254,0,not_run_positive_family_preflight,0,0
+UCI-SMS,legitimate,58,50,48,screened_control_preflight,0,0
+UCI-SMS,unknown,41,0,0,not_run_positive_family_preflight,0,0

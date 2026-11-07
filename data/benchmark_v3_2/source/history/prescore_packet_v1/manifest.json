@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "path": "source/family_screen.csv",
+      "sha256": "c0bd5cd2d382a61768a2186f918a4dff17c20fa940ccfb960cf27889e38fbaad"
+    },
+    {
+      "path": "source/family_edges.csv",
+      "sha256": "690e92a6552145d82c61cef8471af2c8dfa0a815f08f73aaf538aef77191f032"
+    },
+    {
+      "path": "source/review_candidates.csv",
+      "sha256": "42a97321b65f32ed0e0cfa537f1736018721025cbe75dfcb9fbc554e5efe4f04"
+    },
+    {
+      "path": "source/outbound_packet.json",
+      "sha256": "8160a86d9fc2707f7def346645ea01b8a3dd3811c441cd410e05984a5cbb2e74"
+    },
+    {
+      "path": "provenance/outbound_authorization.json",
+      "sha256": "a6da595cf133fab552d697f69856d03cf77be47a5749c5423fe3677c63ba95c7"
+    }
+  ],
+  "reason": "Upstream NUS native id18088 belongs to two different texts; exclude both ambiguous rows. Earlier dict-based packet collapsed one id. Original prepared outbound packet retained; no API call used it.",
+  "status": "SUPERSEDED_BEFORE_API_OR_SCORING",
+  "timestamp": "2026-11-07T10:29:54.158749+00:00"
+}

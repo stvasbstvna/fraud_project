@@ -1,0 +1,55 @@
+{
+  "cohort_sha256": "cd81703bba914ea63379ed9535003661246c46c200de75594e4c743a0082da38",
+  "control_limitation": "Very few independent controls; all model results exploratory, not a population benchmark",
+  "correction_plan_sha256": "ac7c7ce5c25060326823ab6cd84b83ec21196fb90838109fd8963ef86be44149",
+  "labels": {
+    "legitimate": 9,
+    "phishing": 219
+  },
+  "minimum_desired_300_per_class_met": false,
+  "origin_types": {
+    "real": 34,
+    "uncertain": 194
+  },
+  "previous_cohort_sha256": "6ca8c803e02f3135f094cfc2cd42a7ea5f780047bfd5f049c890c4ba9ff2f0f3",
+  "primary_split_counts": {
+    "held_out_test": {
+      "legitimate": 1,
+      "phishing": 33
+    },
+    "train": {
+      "legitimate": 7,
+      "phishing": 153
+    },
+    "validation": {
+      "legitimate": 1,
+      "phishing": 33
+    }
+  },
+  "protocol_sha256": "4a32ec0e9674037e9b22bd2801dc003ce9f73e4da48968729ffb34a2a3bdd03b",
+  "raw_machine_approved": 312,
+  "robustness_status": "NOT RUN if held-out controls below predeclared10 per class",
+  "rows": 228,
+  "source_holdout_cohort_sha256": "dce70569f5b36d8e9a7f802904a6adf78b9b2da381909358815acb92d3cd6325",
+  "source_holdout_counts": {
+    "source_test": 194,
+    "train": 29,
+    "validation": 5
+  },
+  "source_holdout_label_counts": {
+    "phishing": 194
+  },
+  "source_registry_sha256": "197255540c7da5f1afb3de487f6cab85456dcffb64c6909b77c7bba9e376ecde",
+  "source_review_protocol_sha256": "8fc9cb3738e37052db8c5a63fbeb086c5ad7887dc7ea77722ded5a3e866116ff",
+  "sources": {
+    "gateway": 194,
+    "mendeley": 27,
+    "nus": 6,
+    "uci": 1
+  },
+  "status": "FROZEN_CORRECTED_EXPLORATORY_CONTROL_TARGET_NOT_MET",
+  "template_exclusions": 84,
+  "template_families": 228,
+  "temporal_status": "NOT RUN unreliable original message timestamps; collection/submission time not substituted",
+  "validation_type": "automated_semantic_review_not_independent_human"
+}

@@ -1,0 +1,8 @@
+condition,N_approved_available,jaccard_similarity,normalized_edit_distance,tfidf_cosine_similarity,surface_distance,automated_approval_rate,scope
+C0,4,1.0,0.0,1.0,0.0,1.0,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation
+C1,1,0.8666666666666667,0.0631578947368421,0.7838925549038369,0.1375328910554461,0.25,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation
+C2,0,,,,,0.0,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation
+C3,4,0.7909090909090909,0.16630112410817982,0.9263546854173825,0.14967911592723546,1.0,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation
+C4,4,0.9086621046461247,0.04132042872281915,0.9787076307070838,0.051316897789870176,1.0,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation
+C5,4,0.6579173136645963,0.395713158423737,0.7740847162456662,0.32123704283782484,1.0,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation
+C6,3,0.6218533239809836,0.3447618737288573,0.7976138306015855,0.30843157304876273,0.75,C0 source approval + identity; C1–C6 machine rewrite approval; no human annotation

@@ -1,0 +1,23 @@
+{
+  "version": "v3.0-prospective",
+  "status": "EXPLORATORY_IF_REAL_CONTROL_TARGET_NOT_MET",
+  "population": "English financial SMS, public source rights approved",
+  "preferred_per_class": [500, 1000],
+  "minimum_desired_per_class": 300,
+  "no_fabricated_controls": true,
+  "synthetic_controls_primary_allowed": false,
+  "review": {"type":"automated_semantic_review", "confidence_min":0.8,"A":"gpt-5.4-mini-2026-03-17","B":"gpt-4.1-mini-2025-04-14","adjudicator":"gpt-4.1-2025-04-14"},
+  "control_veto": "Explicit telco/prepaid balance notifications excluded even if machine reviewers accidentally approve them; personal chats and generic marketing excluded",
+  "family_policy": {"one_representative_per_family":true,"primary_pair_rule":"Jaccard>=0.80 and structural>=0.80 OR structural>=0.92 and Jaccard>=0.45","additional_tfidf_edge":"character3to5 cosine>=0.90 AND structural>=0.75","normalization":"institutions,typed placeholders,numbers,date/person slots"},
+  "split": {"seed":42,"within_label_family_order":"SHA256(seed:family)","target_train":0.70,"target_validation":0.15,"target_test":0.15,"minimum_each_class_in_each_partition":1,"source_holdout":"gateway","source_holdout_scope":"phishing-only if legitimate support absent; no invented specificity/AUC"},
+  "small_class_ruling": "If both-class train/validation/test support exists but desired300+300 is unavailable, train/evaluate only explicitly exploratory same-cohort models; no confirmatory generalization claims. Otherwise no research fitting.",
+  "threshold":0.5,
+  "LR": {"tfidf_ngram_range":[1,2],"min_df":1,"max_features":20000,"C":1.0,"max_iter":2000,"random_state":42},
+  "RF": {"same_fitted_tfidf_as_LR":true,"n_estimators":200,"random_state":42,"n_jobs":4},
+  "ModernBERT": "Exact pinned base, binary head, train/validation only; config modernbert_training.json",
+  "statistics": {"unit":"independent template family representative","bootstrap_draws":10000,"seed":42,"model_comparisons":"paired exact McNemar, Holm across3comparisons; stratified paired bootstrap metric differences","tiny_test_note":"Intervals/pvalues describe selected machine-reviewed data only"},
+  "temporal": "Not run without reliable original message timestamps and prospective cutoff",
+  "robustness": {"primary_conditions":["C0","C1","C4","C5","C6"],"preferred_frames_per_class":100,"minimum_exploratory_frames_per_class":10,"minimum_confirmatory_frames_per_class":100,"models_frozen_before_generation":true,"no_detector_feedback":true,"secondary_C2_C3":"eligibility-aware only"},
+  "freeze_before_scoring":true,
+  "no_result_driven_redesign":true
+}

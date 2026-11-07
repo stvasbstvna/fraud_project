@@ -1,0 +1,10 @@
+{
+  "A": "OBSERVED_CANDIDATE_COMPOSITION_ONLY",
+  "B_F": "NOT RUN",
+  "qualitative_prompt_example": "NOT AVAILABLE",
+  "reason": "No source-approved cohort, generated rewrites, human-approved variants or frozen predictions",
+  "candidate_source_texts": 29,
+  "generated_condition_rows": 0,
+  "complete_case_frames": 0,
+  "final_condition_rows": 0
+}

@@ -1,0 +1,10 @@
+{
+  "primary_exact_cross_split": false,
+  "primary_family_cross_split": false,
+  "rewrites_in_train": false,
+  "source_family_cross_split": false,
+  "source_holdout_gateway_not_in_train": true,
+  "status": "PASSED_SPLIT_AUDIT_NOT_MODEL_TRAINING_AUDIT",
+  "temporal_evaluation": "NOT RUN",
+  "test_used_for_tuning": false
+}

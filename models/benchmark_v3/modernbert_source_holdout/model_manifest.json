@@ -1,0 +1,27 @@
+{
+  "model_id": "answerdotai/ModernBERT-base",
+  "source_manifest": {
+    "model_id": "answerdotai/ModernBERT-base",
+    "revision": "8949b909ec900327062f0ebf497f51aef5e6f0c8",
+    "transformers": "4.57.1",
+    "retrieved_at_utc": "2026-11-07T03:55:49.805052+00:00",
+    "files": {
+      "config.json": "1609d59e627c33eaed524b4f01e546d42e84190a079a5a5ded84b212c41c324f",
+      "model.safetensors": "340ac08b74eef0d7bdec2d7981a6a3d4249bf0e6aab60634b72ad02c2b8023a9",
+      "tokenizer.json": "9fd55248d51d33976b324fc11592e28071da7d41e0e9401dfb7082e30574b7b1",
+      "tokenizer_config.json": "3cd2017ff46d0a527e5d39cae39272eccfa1f19bb9f89b05d166aab2e38354e2",
+      "special_tokens_map.json": "ea97ecdbcc73713039d8d64dbb05e3689495c96657fbd9a18f5bed381be81049",
+      "README.md": "40539466fa1117be4693b8f1fdfdac81fac3c5db472ff57bc05d013d48eafa82"
+    }
+  },
+  "files": {
+    "metrics_history.json": "5d8a0d6b37716362fbcd3f7b96164dff5bfaf2f7ea7c802eb219179ebca467d7",
+    "trainer_state.json": "35934873296edb45d7a33b3bb115a12f6ef3baca5e1cfdc819763656777cc923",
+    "training_config.json": "26c725e8e24c112efc5013a45e0425d132d8afdd4aadbf4bc88b2bdcd84012fd",
+    "best_checkpoint\\config.json": "dcaae1e1db050d2813994efe43785576d6c031c516f305a770bbf6389a457125",
+    "best_checkpoint\\model.safetensors": "476307f7951d62e21821fd9eaf26997a791c099ecc4992360c6cf11b96ae6301",
+    "best_checkpoint\\special_tokens_map.json": "e386620cb5e9f6570fe98481fde86167b4236cdebdcc42308652574122561619",
+    "best_checkpoint\\tokenizer.json": "218484396a9d08293b108b0e5ea31e0a1b7c801dcbed35a821deb392d2fe9bb4",
+    "best_checkpoint\\tokenizer_config.json": "e7cb600a544347011cd31309043438c57b4fe30d53bbd18d1ad337a044a02bd3"
+  }
+}

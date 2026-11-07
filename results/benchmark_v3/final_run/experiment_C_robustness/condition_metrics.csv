@@ -1,0 +1,16 @@
+model,condition,N,phishing,legitimate,accuracy,precision,recall,F1,specificity,false_negative_rate,false_positive_rate,ROC_AUC,PR_AUC,average_precision,TN,FP,FN,TP,threshold,mean_signed_delta,median_signed_delta,mean_absolute_delta,threshold_crossings,new_false_positives,recovered_false_positives,already_false_positive,scope
+LR,C0,28,27,1,0.9642857142857143,0.9642857142857143,1.0,0.9818181818181818,0.0,0.0,1.0,1.0,0.9999999999999998,0.9999999999999998,0,1,0,27,0.5,0.0,0.0,0.0,0,0,0,1,available_pairs_exploratory_selective_attrition
+LR,C1,8,8,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,8,0.5,-0.00026455315407250546,0.00023635821652168154,0.001232782200196375,0,0,0,0,available_pairs_exploratory_selective_attrition
+LR,C4,11,11,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,11,0.5,0.0002482759981224835,-0.00011847998516845148,0.0008146596522952031,0,0,0,0,available_pairs_exploratory_selective_attrition
+LR,C5,10,10,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,10,0.5,0.0005471083927862219,0.0006164012160760346,0.0012966655946644145,0,0,0,0,available_pairs_exploratory_selective_attrition
+LR,C6,10,10,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,10,0.5,0.0007344477257911874,0.0009102000506840957,0.001828636070434464,0,0,0,0,available_pairs_exploratory_selective_attrition
+ModernBERT,C0,28,27,1,0.9642857142857143,0.9642857142857143,1.0,0.9818181818181818,0.0,0.0,1.0,1.0,0.9999999999999998,0.9999999999999998,0,1,0,27,0.5,0.0,0.0,0.0,0,0,0,1,available_pairs_exploratory_selective_attrition
+ModernBERT,C1,8,8,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,8,0.5,-0.0003098398447036743,-0.00029402971267700195,0.0005001872777938843,0,0,0,0,available_pairs_exploratory_selective_attrition
+ModernBERT,C4,11,11,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,11,0.5,-0.0004369508136402477,-0.00046074390411376953,0.000524537129835649,0,0,0,0,available_pairs_exploratory_selective_attrition
+ModernBERT,C5,10,10,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,10,0.5,-0.00010579228401184083,-0.00017276406288146973,0.000754779577255249,0,0,0,0,available_pairs_exploratory_selective_attrition
+ModernBERT,C6,10,10,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,10,0.5,-1.6814470291137697e-05,-0.00018906593322753906,0.000810939073562622,0,0,0,0,available_pairs_exploratory_selective_attrition
+RF,C0,28,27,1,0.9642857142857143,0.9642857142857143,1.0,0.9818181818181818,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,27,0.5,0.0,0.0,0.0,0,0,0,1,available_pairs_exploratory_selective_attrition
+RF,C1,8,8,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,8,0.5,0.0012500000000000011,0.0,0.0025000000000000022,0,0,0,0,available_pairs_exploratory_selective_attrition
+RF,C4,11,11,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,11,0.5,0.0,0.0,0.0,0,0,0,0,available_pairs_exploratory_selective_attrition
+RF,C5,10,10,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,10,0.5,0.0015000000000000013,0.0,0.0025000000000000022,0,0,0,0,available_pairs_exploratory_selective_attrition
+RF,C6,10,10,0,1.0,1.0,1.0,1.0,,0.0,,,,,0,0,0,10,0.5,-0.0020000000000000018,0.0,0.0020000000000000018,0,0,0,0,available_pairs_exploratory_selective_attrition

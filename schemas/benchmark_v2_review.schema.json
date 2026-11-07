@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/fraud-project/benchmark-v2-review.schema.json",
+  "title": "Benchmark v2 blinded human review",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["review_id", "variant_id", "blinded_reviewer_id", "semantic_intent_decision", "requested_action_decision", "action_channel_decision", "label_decision", "entity_fact_decision", "operational_safety_decision", "condition_fit_decision", "naturalness_rating", "action_explicitness_rating", "overall_decision", "rejection_reason", "notes", "reviewed_at_utc", "adjudication_metadata"],
+  "properties": {
+    "review_id": {"type": "string", "pattern": "^BV2-REV-[0-9]{8}$"},
+    "variant_id": {"type": "string", "pattern": "^BV2-V[0-9]{6}-C[0-3]-R[0-9]{2}$"},
+    "blinded_reviewer_id": {"type": "string", "minLength": 1},
+    "semantic_intent_decision": {"enum": ["yes", "no", "uncertain"]},
+    "requested_action_decision": {"enum": ["yes", "no", "uncertain"]},
+    "action_channel_decision": {"enum": ["yes", "no", "uncertain"]},
+    "label_decision": {"enum": ["yes", "no", "uncertain"]},
+    "entity_fact_decision": {"enum": ["yes", "no", "uncertain"]},
+    "operational_safety_decision": {"enum": ["yes", "no", "uncertain"]},
+    "condition_fit_decision": {"enum": ["yes", "no", "uncertain"]},
+    "naturalness_rating": {"type": "integer", "minimum": 1, "maximum": 5},
+    "action_explicitness_rating": {"type": "integer", "minimum": 1, "maximum": 5},
+    "overall_decision": {"enum": ["approved", "rejected", "uncertain"]},
+    "rejection_reason": {"type": ["string", "null"]},
+    "notes": {"type": "string"},
+    "reviewed_at_utc": {"type": "string", "format": "date-time"},
+    "adjudication_metadata": {
+      "type": "object", "additionalProperties": false,
+      "required": ["is_adjudication", "adjudicator_id", "source_review_ids", "rating_tie", "aggregation_rule_version", "adjudicated_at_utc"],
+      "properties": {
+        "is_adjudication": {"type": "boolean"},
+        "adjudicator_id": {"type": ["string", "null"]},
+        "source_review_ids": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+        "rating_tie": {"type": "boolean"},
+        "aggregation_rule_version": {"type": ["string", "null"]},
+        "adjudicated_at_utc": {"type": ["string", "null"], "format": "date-time"}
+      }
+    }
+  }
+}

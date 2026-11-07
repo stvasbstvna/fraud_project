@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-11-07T10:42:32.107614+00:00",
+  "eligible_errors": [
+    "APIConnectionError",
+    "APITimeoutError"
+  ],
+  "generation_policy_unchanged": true,
+  "max_technical_recovery_per_source_request": 1,
+  "reason": "Recover missing technical source assessments only, without selecting semantic decisions or observing detector outputs; original failed requests/errors remain preserved",
+  "source_requests": 12,
+  "unchanged_prompt_and_payload": true
+}

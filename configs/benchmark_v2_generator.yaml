@@ -1,0 +1,34 @@
+generator_config_version: 0.1.0-candidate
+status: AWAITING_EXPLICIT_GENERATOR_SELECTION
+generation_authorized: false
+assignment_unit: scenario_id
+assignment_method: seeded_stratified_block_randomization
+assignment_seed: 20260827
+generations_per_frame_condition: 1
+detector_context_prohibited: true
+detector_guided_retry_prohibited: true
+generator_blocks:
+  - generator_block_id: GB-CANDIDATE-001
+    status: inactive
+    provider: OpenAI
+    model: gpt-5.4-mini
+    exact_model_version: gpt-5.4-mini-2026-03-17
+    access_method: Responses API with strict JSON-schema structured output
+    supported_seed_behavior: no_seed_used_and_deterministic_sampling_not_claimed
+    temperature: 0.2
+    top_p: 1.0
+    seed: null
+    max_output_tokens: 500
+    assignment_weight: 0.0
+    prompt_package_version: b2-prompts-1.0.0-candidate
+    system_prompt_location: docs/benchmark_v2_prompt_package_draft.md
+    user_prompt_template_location: docs/benchmark_v2_prompt_package_draft.md
+    hidden_reasoning: unavailable_and_irrelevant_to_recorded_output
+    retry_policy:
+      maximum_attempts: 2
+      allowed_reasons: [transport_failure, rate_limit, malformed_json, schema_failure, objective_safety_failure]
+      backoff: provider_retry_after_then_exponential
+    failure_policy: retain_failed_job_and_reason_never_selectively_regenerate_by_detector_result
+    safety_requirements: [preserve_semantic_frame, preserve_requested_action, preserve_channel, preserve_entities, no_new_operational_detail]
+    url_policy: placeholders_or_defanged_only_never_live
+    logging_required: [frame_id, condition, prompt_version, provider, model, exact_model_version, parameters, response_id, timestamp_utc, retry_number, raw_output, sanitized_output, validation_result]

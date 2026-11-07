@@ -1,0 +1,25 @@
+{
+  "title": "Representative complete frame (nearest median mean absolute movement): unavailable",
+  "research_question": "Is a paired frame available to illustrate?",
+  "source_data": [
+    "data\\benchmark_v3_2\\frozen\\robustness_matrix.csv",
+    "results\\benchmark_v3_2\\predictions\\LR_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\RF_predictions.csv",
+    "results\\benchmark_v3_2\\predictions\\ModernBERT_predictions.csv"
+  ],
+  "filters": "primary_complete_case == True",
+  "N": {
+    "primary_complete_frames": 0,
+    "plotted_rows": 0,
+    "distinct_frames_in_data": 0
+  },
+  "models": [],
+  "conditions": [],
+  "x_axis": "Condition",
+  "y_axis": "Phishing probability",
+  "main_observation": "No primary complete frames; estimates are unavailable. No eligible nonbaseline pair is available for example selection.",
+  "allowed_interpretation": "An unavailable example must remain unavailable.",
+  "forbidden_interpretation": "Do not substitute a frame outside the stated selection cohort.",
+  "generated_at": "2026-11-07T10:52:30.263102+00:00",
+  "script": "src/benchmark_v3_2/figures.py"
+}

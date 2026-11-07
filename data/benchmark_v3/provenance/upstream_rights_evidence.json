@@ -1,0 +1,166 @@
+﻿{
+    "sources":  [
+                    {
+                        "original_url":  "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+                        "evidence":  [
+                                         {
+                                             "excerpt":  "CC BY 4.0",
+                                             "url":  "https://data.mendeley.com/datasets/f45bkkt8pr/1",
+                                             "location":  "Licence section"
+                                         }
+                                     ],
+                        "redistribution_allowed":  true,
+                        "label_policy":  "Smishing -\u003e phishing candidate; spam requires semantic review; ham requires financial and legitimacy review",
+                        "conditions":  "Attribution, license link, change notice",
+                        "license_status":  "VERIFIED",
+                        "license":  "CC BY 4.0",
+                        "source_id":  "mendeley",
+                        "modeling_allowed":  true
+                    },
+                    {
+                        "original_url":  "https://archive.ics.uci.edu/dataset/228/sms+spam+collection",
+                        "evidence":  [
+                                         {
+                                             "excerpt":  "Creative Commons Attribution 4.0 International",
+                                             "url":  "https://archive.ics.uci.edu/dataset/228/sms+spam+collection",
+                                             "location":  "License section"
+                                         }
+                                     ],
+                        "redistribution_allowed":  true,
+                        "label_policy":  "spam != phishing; ham != legitimate banking; overlaps NUS",
+                        "conditions":  "Attribution, license link, change notice",
+                        "license_status":  "VERIFIED",
+                        "license":  "CC BY 4.0",
+                        "source_id":  "uci",
+                        "modeling_allowed":  true
+                    },
+                    {
+                        "original_url":  "https://github.com/kite1988/nus-sms-corpus",
+                        "evidence":  [
+                                         {
+                                             "excerpt":  "copyright-free for unlimited use",
+                                             "url":  "https://arxiv.org/html/1112.2468",
+                                             "location":  "Section 6 Conclusion"
+                                         },
+                                         {
+                                             "url":  "https://arxiv.org/html/1112.2468",
+                                             "description":  "Authors describe open license public domain methodology approved by university IP department",
+                                             "location":  "Section 4.4"
+                                         },
+                                         {
+                                             "url":  "https://raw.githubusercontent.com/kite1988/nus-sms-corpus/master/README.md",
+                                             "description":  "Authors release March 9 2015 corpus and request citation",
+                                             "location":  "release introduction"
+                                         }
+                                     ],
+                        "redistribution_allowed":  true,
+                        "label_policy":  "No spam/ham labels; real contributed SMS require financial/legitimacy semantic review",
+                        "conditions":  "Cite Tao Chen and Min-Yen Kan; preserve release identity",
+                        "license_status":  "VERIFIED_AUTHOR_DECLARATION",
+                        "license":  "Authors public-domain/copyright-free unlimited-use declaration; not verified CC0",
+                        "source_id":  "nus",
+                        "temporal_limitation":  "collectionMethod time is not message time",
+                        "modeling_allowed":  true
+                    },
+                    {
+                        "original_url":  "https://github.com/wspr-ncsu/sms-phishing",
+                        "evidence":  [
+                                         {
+                                             "excerpt":  "MIT License",
+                                             "url":  "https://raw.githubusercontent.com/wspr-ncsu/sms-phishing/main/LICENSE",
+                                             "location":  "repository LICENSE"
+                                         },
+                                         {
+                                             "url":  "https://raw.githubusercontent.com/wspr-ncsu/sms-phishing/main/README.md",
+                                             "description":  "Explicit raw data release of gateway messages VirusTotal and APWG marked phishing",
+                                             "location":  "Contents"
+                                         }
+                                     ],
+                        "redistribution_allowed":  true,
+                        "label_policy":  "Phishing candidates only; independently review financial context",
+                        "conditions":  "Retain copyright (c) 2023 wspr-ncsu and full MIT permission notice",
+                        "scope_note":  "Repository data release; MIT boilerplate says Software, no separate data exclusion found",
+                        "license_status":  "VERIFIED_REPOSITORY_LICENSE",
+                        "license":  "MIT",
+                        "source_id":  "gateway",
+                        "modeling_allowed":  true
+                    },
+                    {
+                        "original_url":  "https://github.com/AbayomiAlli/SMS-Spam-Dataset",
+                        "evidence":  [
+                                         {
+                                             "url":  "https://raw.githubusercontent.com/AbayomiAlli/SMS-Spam-Dataset/main/README.md",
+                                             "description":  "Real university community messages; consent for spam research and privacy masking, citation request, no explicit downstream rights grant"
+                                         }
+                                     ],
+                        "redistribution_allowed":  false,
+                        "label_policy":  "Ham may contain real financial messages; spam is not phishing",
+                        "license_status":  "UNKNOWN",
+                        "license":  "No explicit reuse grant retrieved",
+                        "source_id":  "exais",
+                        "next_action":  "Obtain explicit original reuse terms; do not rely on aggregator",
+                        "modeling_allowed":  false
+                    },
+                    {
+                        "original_url":  "https://github.com/smspamresearch/spstudy",
+                        "evidence":  [
+                                         {
+                                             "url":  "https://raw.githubusercontent.com/smspamresearch/spstudy/main/README.md",
+                                             "description":  "Citation request only; no explicit license"
+                                         }
+                                     ],
+                        "redistribution_allowed":  false,
+                        "label_policy":  "Ham/spam; merged corpus and augmentation require origin review",
+                        "license_status":  "UNKNOWN",
+                        "license":  "No explicit reuse grant retrieved",
+                        "source_id":  "super_sms",
+                        "next_action":  "Find author grant and component provenance",
+                        "modeling_allowed":  false
+                    },
+                    {
+                        "original_url":  "https://github.com/opmusic/SpamHunter_dataset",
+                        "exclusion_note":  "spamhunter.org is unrelated and its terms do not govern opmusic dataset",
+                        "evidence":  [
+                                         {
+                                             "url":  "https://raw.githubusercontent.com/opmusic/SpamHunter_dataset/main/README.md",
+                                             "description":  "Schema descriptions; no explicit license. SMS texts numbers removed; 947 categorized training messages"
+                                         }
+                                     ],
+                        "redistribution_allowed":  false,
+                        "label_policy":  "Generic spam not automatically phishing; no controls",
+                        "license_status":  "UNKNOWN",
+                        "license":  "No explicit reuse grant retrieved",
+                        "source_id":  "spamhunter",
+                        "next_action":  "Obtain author dataset reuse grant",
+                        "modeling_allowed":  false
+                    },
+                    {
+                        "original_url":  "https://smishtank.com/dataset",
+                        "evidence":  [
+                                         {
+                                             "url":  "https://smishtank.com/dataset",
+                                             "description":  "Dataset page not retrievable by web tool"
+                                         },
+                                         {
+                                             "url":  "https://smishtank.com/",
+                                             "excerpt":  "You need to enable JavaScript to run this app."
+                                         },
+                                         {
+                                             "url":  "https://arxiv.org/abs/2402.18430",
+                                             "description":  "Authors describe human-reported smishing dataset; open-access article is not dataset license"
+                                         }
+                                     ],
+                        "redistribution_allowed":  false,
+                        "label_policy":  "Reported smishing only, source and language review required",
+                        "license_status":  "UNRESOLVED_ACCESS",
+                        "license":  "Dataset license unavailable from retrieved page",
+                        "source_id":  "smishtank",
+                        "next_action":  "Retrieve actual dataset reuse terms",
+                        "modeling_allowed":  false
+                    }
+                ],
+    "audit_date":  "2026-11-06",
+    "aggregator_license_overrides_upstream":  false,
+    "author_contacted":  false,
+    "audit_basis":  "Live primary pages and author README/LICENSE retrieved during this session"
+}

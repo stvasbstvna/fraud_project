@@ -1,0 +1,10 @@
+{
+  "bootstrap_replicates": 2000,
+  "bootstrap_unit": "frame",
+  "correction": "Holm",
+  "notes": "Undefined quantities are blank. Primary tests use common complete frames. Available-pair metrics are separate. Exploratory associations are not causal.",
+  "primary_family_size": 24,
+  "primary_frames": 0,
+  "seed": 42,
+  "status": "NOT_RUN_PRIMARY_NO_COMPLETE_CASES_AVAILABLE_PAIRS_AVAILABLE"
+}

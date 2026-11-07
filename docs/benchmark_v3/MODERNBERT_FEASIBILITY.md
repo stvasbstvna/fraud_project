@@ -1,0 +1,54 @@
+# ModernBERT v3 execution protocol
+
+## Verified result (2026-11-07 UTC)
+
+`MODERNBERT_STATUS = FULL_PARAMETER_CPU_FEASIBILITY_PASSED`. Exact revision: `8949b909ec900327062f0ebf497f51aef5e6f0c8`. Source weights are 598,635,032 bytes with SHA-256 `340ac08b74eef0d7bdec2d7981a6a3d4249bf0e6aab60634b72ad02c2b8023a9`.
+
+The dedicated environment uses Python 3.12, PyTorch `2.15.0+cpu`, Transformers `4.57.1`, Hugging Face Hub `0.36.2`, datasets `5.0.1`, accelerate `1.15.0`, and safetensors `0.8.0`. The machine exposes 24 logical CPUs and 33,752,997,888 bytes total RAM; approximately 4.84 GB was available before the benchmark. CUDA and MPS are unavailable. Four CPU threads were used.
+
+Both full-parameter AdamW steps completed successfully on all 149,606,402 parameters. Step 1 took 1.524 seconds (fixture loss 0.65637); step 2 took 0.929 seconds (fixture loss 0.37376). Peak process working set was 3,294,257,152 bytes. Based on the second step alone, 1,000 messages at batch size 2 and length 128 would take approximately 465 seconds per epoch, excluding validation, initialization, and saving. This is an engineering estimate, not a measured research-training duration. Small-cohort full fine-tuning is feasible on this CPU; no parameter-efficient fallback is needed.
+
+All 20 ModernBERT tests passed in the dedicated environment, including real source-tokenizer loading, real binary-classification-head forward output `(2, 2)`, bounded normalized softmax probabilities, fitting-partition isolation, label/length-policy safeguards, frozen-model tampering rejection, changed-protocol rejection, and rejection of alternate CSV files with incorrect cohort hashes. The command was `.venv-benchmark-v3/Scripts/python.exe -m pytest tests/benchmark_v3/test_modernbert.py -q --basetemp=models/benchmark_v3/cache_guard_green`. The explicit workspace temporary directory avoids the restricted Windows default pytest temporary directory.
+
+Public model transfers repeatedly stalled or disconnected. A resumable transfer of bounded byte ranges recovered the exact pinned file, and the assembled weights passed the complete published SHA-256 check. First importing Transformers was also slow while Windows loaded the pandas parser native extension through sklearn; a stack trace identified the delay, and import subsequently completed without a dependency change.
+
+The dedicated `.venv-benchmark-v3` environment is separate from the existing project environment. The model is exactly `answerdotai/ModernBERT-base`, loaded with `AutoModelForSequenceClassification(num_labels=2)`. Labels are 0 legitimate and 1 phishing. The newly initialized binary head must be trained before its scores have research meaning.
+
+The implementation disables reference compilation and uses PyTorch SDPA attention to avoid requiring Triton on Windows. Exact source revision and SHA-256 hashes are recorded in `models/benchmark_v3/modernbert_source_manifest.json`. Installed versions are recorded in `models/benchmark_v3/environment.txt`.
+
+The engineering feasibility fixture contains two explicitly synthetic, fictional messages and labels. It performs two full forward, backward, and AdamW update steps at batch size 2 and sequence length 128. Its losses and timings are solely an execution check, never detection results, training-cohort evidence, or a pilot research experiment. Hardware and timings are saved separately in `models/benchmark_v3/modernbert_feasibility.json`.
+
+`src.benchmark_v3.modernbert.train(frozen_csv, output_dir, config)` consumes the frozen cohort CSV columns `safe_text,label,split`. Before reading rows or importing/loading the model, it verifies the frozen experiment/source-review/registry hashes and checks that the supplied absolute CSV path has the appropriate frozen cohort hash. Only the registered primary and source-holdout filenames are accepted. Only `train` and `validation` rows enter the fitting function. Other split texts and labels are ignored. Both classes must occur in train. Maximum length is 128 if the 99th percentile of train+validation token counts fits; otherwise 256. This rule is prospective and independent of test performance. Seed 42, AdamW, constant learning rate, no warmup, and best validation cross-entropy checkpoint selection are configured in `configs/benchmark_v3/modernbert_training.json`.
+
+The output includes the best checkpoint weights/tokenizer, resolved configuration including frozen-input hash, trainer state, metrics history, source manifest, and hashes of saved artifacts. Evaluation must load that best checkpoint and use the identical held-out cohort used by the lexical baselines. No parameter-efficient adaptation or substitute model is introduced.
+
+## Historical original fits: invalidated and preserved
+
+The original scored run was invalidated after an independent audit discovered a cross-split payee-registration template family. Two personal-coordination controls were also excluded after source-only policy reassessment. The original artifacts below are preserved for audit and must not supply current performance claims. The corrected run is described next.
+
+Both authorized real-cohort fits completed two full fine-tuning epochs from the original pinned checkpoint, with independent fresh binary heads and seed 42. The primary input SHA-256 was verified as `6ca8c803e02f3135f094cfc2cd42a7ea5f780047bfd5f049c890c4ba9ff2f0f3`; the source-holdout input SHA-256 was verified as `593380b657fae07fd60df0990dfd5dc766b432c29b3f2b91d7af250f3a6ea6c0`. Both resolved training configurations record `EXPLORATORY_TINY_REAL_COHORT`.
+
+Primary training used 161 train and 35 validation messages. The 196 fitting-partition token lengths had maximum 104, median 38, 95th percentile 73, and 99th percentile 83. The prospective rule therefore selected length 128, with zero fitting-partition truncation. Epoch 2 had the lowest validation cross entropy, 0.0740940. The frozen primary weights SHA-256 is `7121d9e50969e73a4b6b07d8a57824aa7d2a34650db53ec1c0bf251edafa96e9` at `models/benchmark_v3/modernbert/best_checkpoint/model.safetensors`.
+
+The separate source-holdout fit used 31 train and 6 validation messages. Epoch 2 had the lowest validation cross entropy, 0.3331671. Its frozen weights SHA-256 is `476307f7951d62e21821fd9eaf26997a791c099ecc4992360c6cf11b96ae6301` at `models/benchmark_v3/modernbert_source_holdout/best_checkpoint/model.safetensors`.
+
+Every saved artifact hash in both model manifests was independently checked after training. `verify_frozen_model(output_dir)` rejects modified or missing artifacts; `predict_proba(texts, checkpoint)` performs this integrity check before inference. No held-out predictions were generated during training or checkpoint selection. Validation losses above describe selection only and are not held-out detection results. The tiny legitimate class makes these exploratory fits unsuitable for confirmatory performance claims.
+
+## Corrected frozen exploratory research fits
+
+The corrected cohorts were frozen and their protocol, correction-plan, registry, and input-file hashes verified before new training. Primary CSV SHA-256: `cd81703bba914ea63379ed9535003661246c46c200de75594e4c743a0082da38`. Source-holdout CSV SHA-256: `dce70569f5b36d8e9a7f802904a6adf78b9b2da381909358815acb92d3cd6325`. The correction command was `.venv-benchmark-v3/Scripts/python.exe -m src.benchmark_v3.correction modern_train`. No implementation or hyperparameters were changed for this rerun: the same source snapshot, seed 42, learning rate, optimizer, batch size, two epochs, validation-only checkpoint criterion, and 128-token limit were used. Both fits record `CORRECTED_EXPLORATORY_SMALL_CONTROL_COHORT`.
+
+Corrected primary fitting used 160 train messages (153 phishing, 7 legitimate) and 34 validation messages (33 phishing, 1 legitimate). Best checkpoint selection chose epoch 1, with validation cross entropy 0.0839967. Corrected source-holdout fitting used 29 train messages (21 phishing, 8 legitimate) and 5 validation messages (4 phishing, 1 legitimate). Its best checkpoint was epoch 2, with validation cross entropy 0.3920023. These are selection losses only; no held-out predictions were made by the training task.
+
+The corrected primary weights SHA-256 is `2f22676530245bcbd2492e0ef406e1b2abad8712a4be96b90897fc31bba5e7b4`; its model-manifest SHA-256 is `901c60479ec1b05596fbbd9c7a167b6cd1b3d52a2e491bcfa1e9f1a0ecbc939b`. The corrected source-holdout weights SHA-256 is `829fdb7b674765099413ada0473454a888169531289fa2f501bd8f8880b2389c`; its model-manifest SHA-256 is `0d9bd28152f892b49e332af95ad718916b514f810094bf154f981f4e132930b1`. Model directories are `models/benchmark_v3/corrected_run/modernbert` and `models/benchmark_v3/corrected_run/modernbert_source_holdout`.
+
+Both corrected manifests passed independent checks of every saved artifact. Both original manifests still passed, and their original weight hashes explicitly matched the values above. The handoff audit is `models/benchmark_v3/corrected_run/modernbert_fit_audit.json`. The corrected environment is recorded separately in `models/benchmark_v3/corrected_run/environment.txt`; the original environment record was preserved. Matplotlib and its dependencies were installed to resolve an initial wrapper import requirement; the wrapper was then changed by the main task to import reports lazily. The numerical training dependencies retained their original versions.
+
+All 20 ModernBERT tests passed again after the corrected fits: `.venv-benchmark-v3/Scripts/python.exe -m pytest tests/benchmark_v3/test_modernbert.py -q --basetemp=models/benchmark_v3/cache_guard_green` (20 passed, 4.59 seconds). The remaining tiny legitimate class still prevents confirmatory generalization claims.
+
+
+## Final eligibility-cohort refits
+
+Actual full-parameter CPU fine-tuning used answerdotai/ModernBERT-base revision 8949b909ec900327062f0ebf497f51aef5e6f0c8 with an explicit binary classifier: 149,606,402 parameters, two epochs, AdamW learning rate 2e-5, batch two, weight decay 0.01, seed 42, max length 128. Validation cross entropy selected primary epoch one (0.1226553) and source epoch two (0.2727128). Primary weights SHA-256 7ea2311d32ef766a51e3ccc25046f81c8bcdf80d6e3c07b3e42140822af25d43; source weights a847ce948802af28ba90999b5b9ffe01a20b1eafeee66477c570dcbfcd36877e. No fill-mask substitution, frozen-encoder shortcut or independent probability calibration. Dedicated environment and real feasibility evidence are retained.
+
+These final_run models supersede intermediate corrected_run fits. Both were actually trained; final primary and source partitions contain 137 and 24 training rows respectively. Dedicated final model suite: 20 passed in 4.98s.

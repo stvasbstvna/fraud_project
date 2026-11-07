@@ -1,0 +1,9 @@
+# 09 distance association
+
+Exploratory machine-reviewed research; see exact denominators and limitations in FINAL_REPORT.md. CSV is authoritative; preview limited to30rows.
+
+| model | label | paired_variants | frames_with_slope | mean_within_frame_abs_change_slope | ci95_low | ci95_high | scope | interval_note |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR | phishing | 48 | 13 | 0.0022982999561336 | -7.459887216552682e-05 | 0.0045355480320639 | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | exploratory_frame_bootstrap |
+| ModernBERT | phishing | 48 | 13 | 0.0044681882888294 | -0.0049183526609756 | 0.0194744707656781 | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | exploratory_frame_bootstrap |
+| RF | phishing | 48 | 13 | 0.0122042295543432 | -0.0010049219908639 | 0.0317826950315307 | descriptive_frame_bootstrap_only_no_causality_no_confirmatory_pvalues | exploratory_frame_bootstrap |

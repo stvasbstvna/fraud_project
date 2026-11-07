@@ -1,0 +1,11 @@
+{
+  "device": "cpu",
+  "cuda_available": false,
+  "mps_available": false,
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+  "logical_cpus": 24,
+  "total_ram_bytes": 33752997888,
+  "available_ram_bytes": 4883795968,
+  "torch": "2.15.0+cpu"
+}

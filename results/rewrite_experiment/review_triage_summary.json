@@ -1,0 +1,22 @@
+{
+  "scope": "offline deterministic triage; not human review",
+  "source": "data/rewrite_experiment/rewrite_pairs.csv",
+  "source_sha256": "f3226982ce23d9f93c9f8fe23daf7f20070811ef64da16451be69125f8b09575",
+  "eligible_completed_rewrites": 153,
+  "risk_counts": {
+    "high": 14,
+    "medium": 100,
+    "low": 39
+  },
+  "human_decisions_prefilled": 0,
+  "thresholds": {
+    "length_ratio_min": 0.55,
+    "length_ratio_max": 1.8,
+    "token_overlap_min": 0.45
+  },
+  "limitations": [
+    "Triage cannot establish semantic preservation, requested-action preservation, label preservation, or naturalness.",
+    "Entity/brand tokens are explainable surface heuristics, not named-entity recognition.",
+    "No row is auto-approved or auto-rejected; a human decision is required."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "STING9_STATUS": "BLOCKED",
+  "status": "BLOCKED",
+  "audited_at_utc": "2026-11-07T03:24:42.042534+00:00",
+  "license_status": "CONFLICTING",
+  "redistribution_allowed": false,
+  "included_in_modeling": false,
+  "reason": "Authenticated export and submissions require an existing bearer token; none configured. Exact official dataset GitHub dump link returns HTTP 404. License statements conflict.",
+  "records_downloaded": 0,
+  "channel_counts": {},
+  "english_sms_count": 0,
+  "export": {
+    "url": "https://api.sting9.org/api/v1/export",
+    "http_status": 401,
+    "response": {
+      "error": "Unauthorized",
+      "message": "Missing authorization header"
+    }
+  },
+  "official_dump": {
+    "url": "https://github.com/sting9/dataset",
+    "http_status": 404,
+    "commit": null,
+    "dump_timestamp": null,
+    "dump_sha256": null
+  },
+  "submissions": {
+    "url": "https://api.sting9.org/api/v1/submissions?page=1&page_size=1",
+    "http_status": 401,
+    "response": {
+      "error": "Unauthorized",
+      "message": "Missing authorization header"
+    }
+  },
+  "credentials": {
+    "matching_environment_names": [],
+    "matching_dotenv_names": [],
+    "created": false
+  },
+  "next_required_action": "Provider must restore official dump or supply authorized existing researcher/partner access, and reconcile CC0 with ODC-BY-NC-with-clarifications. Reassess permitted use before acquisition; continue benchmark without Sting9.",
+  "provenance_manifest": "data/benchmark_v3/provenance/sting9/http_manifest.json"
+}

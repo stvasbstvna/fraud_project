@@ -1,0 +1,19 @@
+{
+  "review_mode": "automated",
+  "generated_variants": 24,
+  "generation_technical_failures": 0,
+  "approved_generated_variants": 16,
+  "rejected_generated_variants": 8,
+  "deterministic_rejections": 8,
+  "rewrite_reviewer_disagreements": 0,
+  "rewrite_adjudications": 0,
+  "starting_source_frames": 4,
+  "complete_case_frames_before_rebalance": 0,
+  "final_complete_balanced_frames": 0,
+  "final_condition_rows": 0,
+  "final_labels": {},
+  "generated_variants_sha256": "d353d3d6b096547c7e542f1fabeab190b9ec71f440bd4d94a952e01743c14d39",
+  "reviewed_matrix_sha256": "46fae229160fa59767190932abfea067542ce61d906ce22f4ae670fcb0699986",
+  "timestamp_utc": "2026-11-06T22:34:31.845794+00:00",
+  "independent_human_annotation": false
+}

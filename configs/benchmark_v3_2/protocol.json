@@ -1,0 +1,50 @@
+{
+  "C2_C3": "NOT_RUN_OPTIONAL_OMITTED; eligibility false protocol_not_selected",
+  "conditions": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "confidence_min": 0.8,
+  "created_at": "2026-11-07T10:21:34.589342+00:00",
+  "generation_batch_size": 12,
+  "holdout_policy": "exclude any primary v3 train/validation exact/template family or semantic near-template; use final primary artifacts, no retraining",
+  "inference": "exploratory even if target met; automated contexts are not independent human truth",
+  "minimum_per_class": 30,
+  "model_freeze_before_generation": true,
+  "no_detector_feedback": true,
+  "origin_policy": "real_source controls preferred; no synthetic primary; uncertain_origin explicit",
+  "preferred_per_class": 100,
+  "primary_complete_case": [
+    "C0",
+    "C1",
+    "C4",
+    "C5",
+    "C6"
+  ],
+  "retry_limit": 1,
+  "retry_reasons": [
+    "unchanged",
+    "malformed",
+    "placeholders",
+    "numbers",
+    "institution",
+    "c1_insufficient_lexical_change",
+    "live_destination",
+    "semantic_failure"
+  ],
+  "review_batch_size": 12,
+  "roles": {
+    "A": "gpt-5.4-mini-2026-03-17",
+    "B": "gpt-4.1-mini-2025-04-14",
+    "G": "gpt-5.4-mini-2026-03-17",
+    "J": "gpt-4.1-2025-04-14"
+  },
+  "run_id": "v32-expanded-001",
+  "sampling": "fixed SHA256(42:frame_id) within label, max100 each; no detector outcomes",
+  "semantic_similarity": "NOT_AVAILABLE no independent embedding model predefined; reviewed semantic_preserved is binary judgment, not numerical similarity",
+  "source_batch_size": 10,
+  "surface_distance": "0.5*(1-token_jaccard)+0.5*normalized_edit_distance"
+}

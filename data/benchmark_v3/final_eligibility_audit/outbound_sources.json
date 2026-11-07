@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "gateway-6354",
+    "safe_text": "truist MSG: Did you authorize a payment of $353.60 from your account?. If this was not you, please protect your account immediately [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17683",
+    "safe_text": "\r\nMyGov Alert: Authorization Needed for Your Refund approval. Your available balance is now 35272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8787",
+    "safe_text": "Canada Post: Your package is waiting  for delivery please confirm the payment 2CAD on the link below: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2268",
+    "safe_text": "CITI: WIRE TRANFER OF 10000$ HAS BEEN SENT SUCCESSFULLY. IF U NOT DID KINDLY VISIT HERE TO CANCEL IT: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-4088",
+    "safe_text": "URGENT: IRELAND GOV has issued a payment of 350 � to all residents as part of its promise to battle COVID 19. Tap here to apply: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-1436",
+    "safe_text": "It's urgent please Contact me for an UNCLAIMED BEQUEST PAYMENT as the Assigned BENEFICIARY VIA EMAIL [SAFE-EMAIL-1] Regards Gordon",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-4882",
+    "safe_text": "Dear Sir Your Bank card has been blocked because you did not updated yet, If you want to update your ATM card please contact [SAFE-PHONE-1] [SAFE-PHONE-2]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-9024",
+    "safe_text": "regions: Your debit has been deactivated due to unusual behavior. Go to [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2424",
+    "safe_text": "HSBC: We have temporarily restricted access on ur - due to suspicious activity, to re-authenticate v-it:[SAFE-URL-1] 76sm",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1347",
+    "safe_text": "Your  ANZ  account  has  been  suspended,  please  re-authenticate  and  resume  use,  check  details:  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-15899",
+    "safe_text": "\r\n41-Dear User Your HDFC Saving A/c Will Be Block Today Pls update your PA.N Card to Update Click here :[SAFE-URL-1] GW54\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-34441",
+    "safe_text": "\r\nTo complete your payment of 357.00 EUR use: 825673. If you did NOT request this visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-15505",
+    "safe_text": "[SAFE-EMAIL-1] / Verify Your Account / Chase Online Support: Yor chase online banking has been put onhold, [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8048",
+    "safe_text": "\r\nWe would like to verify a recent transaction from your account. Please follow our link for further details [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-379",
+    "safe_text": "Your tax refund of �349.14 is ready to be claimed. To access your refund, follow the steps required. http:/[SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-9275",
+    "safe_text": "[email protected]  /  Fifth  Third  Bank:  /  Access  to  your  account  has  been  restricted  for  security  reasons  visit  [SAFE-URL-1]  to  re-activate.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-13413",
+    "safe_text": "[M&T]: Account has been suspended for new activity detection. KindIy verify your acc. here [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8251",
+    "safe_text": "\r\n7..We noticed suspicious activity on your account and had to suspend it, please veri fy identity to resume normal use:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-7774",
+    "safe_text": "\r\nCba - We have temporarily frozen your bank due to unusual activity. Please visit: [SAFE-URL-1] immediately.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8899",
+    "safe_text": "Banco Santander: A partir del 08/09/2022 su cuenta sera suspendida temporalmente hasta que se complete la verificacion: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17578",
+    "safe_text": "\r\n74 MyG0V Alert: Your Refund has been approved. Your current balance is now 36533.13AUD. Visit: [SAFE-URL-1] to approve your claim.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-766",
+    "safe_text": "Your  account  has  been  blocked,  in  order  to  unblock  your  account  swiftly  please  visit  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1114",
+    "safe_text": "hi3 The account is locked abnormally. Details: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8085",
+    "safe_text": "\r\nANZ: A transaction has been if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17805",
+    "safe_text": "\r\nMyGov: You need to update your information to claim your refund. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17698",
+    "safe_text": "\r\nMyG0v; Your account is temporarily suspended. Visit: [SAFE-URL-1] immediately\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-67128",
+    "safe_text": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1] to continue receiving One-Time PIN\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-14507",
+    "safe_text": "\r\nRoyal Mail: Your parcel has an outstanding payment of 1.99. Pay this via: [SAFE-URL-1] or your parcel will be held at the depot\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-737",
+    "safe_text": "A transaction of AUD 590.3 was made with your bank account on 08/02/17 11:17:37 if unauthorised follow this link [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-1704",
+    "safe_text": "Welcome to Paytm payment bank your re verification done successful in your wallet get 1205 cashback click in link and login your paytm [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-12309",
+    "safe_text": "D H L; Your package is still held in customs for non-payment of fees, you can pay them at the following link: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-12408",
+    "safe_text": "Your code is 349202. Transaction ID-[TRANSACTION-ID-1]. If this wasn't you, please take action here: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-66616",
+    "safe_text": "\r\nUNIONBANK:This is a Notice regarding the new SIM registration [SAFE-URL-1] update your number at [SAFE-URL-2] to continue receiving OTP\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-5033",
+    "safe_text": "(Alert) Your Rbc Royal Bank has been suspended. To unlock your account, click here: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-1389",
+    "safe_text": "We would like to inform you that you have been recorded as leaving your home on 3 occasions yesterday. A fine of �35 has been added to your [SAFE-URL-1]�account. For further information please visit�[SAFE-URL-2] coronavirus-penalty-payment racking. Protect the NHS. Save lives",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-17724",
+    "safe_text": "\r\nMyGov: The bank information in your MYGOV profile has been successfully changed. Not you? you can address this by going to [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3215",
+    "safe_text": "PayPal:[Important] Dear Customer, Your PayPal password has been successfully changed. If you do not make this change, please contact us immediately. [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17723",
+    "safe_text": "\r\nYou've successfully updated your Centrelink bank information from your MYGOV profile. Not you? visit [SAFE-URL-1] to resolve.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-633",
+    "safe_text": "FROM BANK: Account is on hold confirm here within 5min: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8998",
+    "safe_text": "regions: Your debit has been deactivated due to concerning behavior. Go to [SAFE-URL-1] and follow the on screen instructions asap.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17484",
+    "safe_text": "\r\nMyGov: Your payment could not be processed due to invalid information visit [SAFE-URL-1] to update\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-5682",
+    "safe_text": "[SAFE-EMAIL-1]  /  s  /  PAYPAL's  :  Restricted  Account.  For  more  information  check  at  [SAFE-URL-1]  /t395W7MH",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2468",
+    "safe_text": "BofA [V2]: Due to recent fraudulent activity on your card,we have restricted your funds for your [SAFE-URL-1] here [SAFE-URL-2] to regain access.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-13037",
+    "safe_text": "On 11/8/2022 your Savings account was signed in from an unknown device iPhone [SAFE-URL-1] and Dispute [SAFE-URL-2] avoid your Account from being Frozen\r\n[SAFE-URL-3]\r\nWoodForest National Bank",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-187",
+    "safe_text": "Your account has been limited due to a suspicious transaction, Please visit [SAFE-URL-1] reactivate",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16409",
+    "safe_text": "\r\nWellsFargoUS: A payment of 3456.76 has been attempted. Not you? Secure your account: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1018",
+    "safe_text": "CommBank:  We  have  temporarily  frozen  your  account  due  to  unusual  payment  requests,  please  visit  [SAFE-URL-1]  immediately.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-10658",
+    "safe_text": "Amazon: Your Amazon account has been suspended due to suspicious activity. To unblock your account please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-45621",
+    "safe_text": "\r\n[email protected]m / TDMobileAlert ID#30419 / TD Bank Validate Your Login: [SAFE-URL-1] ID#19\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8340",
+    "safe_text": "\r\n|[SAFE-URL-1] Did you make a online groceries payment for $235.28 from chkg acct on 09-23? YES=1, NO=2 or STOP to Cancel transaction visit [SAFE-URL-2] HQ\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-5523",
+    "safe_text": "[SAFE-EMAIL-1] / /ALERT!/ / Your online account has been restricted/verify/ [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17609",
+    "safe_text": "\r\nYour Profile Is On Hold Following A New Pending Refund Bonus. Claim at [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-5",
+    "safe_text": "Please Stay At Home. To encourage the notion of staying at home. All tax-paying citizens are entitled to �305.96 or more emergency refund. [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-13273",
+    "safe_text": "Alert   -   Netflix   :   Payment   failed   we   will   close   your   account   due   to   missing   on   payments   watch   time   log-in   :   [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-195",
+    "safe_text": "Your CommBank AC has been temporarily disabled due to fraudulent activity on your online banking please visit: [SAFE-URL-1] to regain access. (Y)",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2435",
+    "safe_text": "Paypal: A new European regulation in force imposes an audit on us. Please verify within 48 hours via [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-5307",
+    "safe_text": "[SAFE-EMAIL-1] / USP / Please confirm the payment of the home delivery costs (3.00 USD) in the following link: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17727",
+    "safe_text": "\r\nUpdate your profiIe to proceed with your refund of $30,560 AUD. CIick [SAFE-URL-1] to complete the process\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2300",
+    "safe_text": "lNG Push Notification : A new Payment of $800 has been made in Bedford. Confirm if this was you at: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-15719",
+    "safe_text": "Y=ou rece tly s,et up new recipients via mobile banking on 12/08/22. If this was NOT you, please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-1721",
+    "safe_text": "DUETO THE CENTRAL BANK DIRECTIVE WITH REGARDS TO BVN UPDATE,YOUR ATM CARD HAS BEEN DE-ACTIVATED,TO RE-ACTIVATE CALL CUSTOMER CARE ON [OTHER-ID-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-5344",
+    "safe_text": "Zelle transfer to Rose is pending! If you did not initiate the transaction. Visit [SAFE-URL-1] to view and cancel the transaction [0000]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-740",
+    "safe_text": "Due to ssecurity procedures, your account has been blocked; to immediately unblock your account, please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-67127",
+    "safe_text": "\r\nUNIONBANK Your registered mobile number needs to be updated. Please update here:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-4963",
+    "safe_text": "Citi: Your $649.00 payment to monteral marquez using Zelle(R) is being processed visit [SAFE-URL-1] to verify or cancel payment anytime",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8084",
+    "safe_text": "\r\nANZ: A transaction of 6234$ has been attempted on your account. if you do not recognise please access [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1487",
+    "safe_text": "BOA BANK: TO REGAIN ACCESS YOUR ACCOUNT FOLLOW HERE [SAFE-URL-1] AND CONFRIM YOUR DC PIN",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3219",
+    "safe_text": "Secure Veridian Credit Union Msg: We detect an unusual login attempt on your account, we forcibly suspend your access temporarily freeze your funds and reject any pending deposits. Visit [SAFE-URL-1] to restore your account.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-5070",
+    "safe_text": "You have an outstanding tax refund of 578.44G8P for the tax year 15/16. Please fill out the following form to process your refund [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-13383",
+    "safe_text": "PayPal: Your account has been flagged due to an unauthorised sign-in attempt. If this was not you, verify via: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "nus-21239",
+    "safe_text": "[SAFE-URL-1] xr nus account password [SAFE-URL-2].",
+    "label": "phishing",
+    "source_id": "nus"
+  },
+  {
+    "id": "gateway-17749",
+    "safe_text": "\r\nYou have sold the goods! Receiving payment: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8125",
+    "safe_text": "\r\nA new device has been registered for mobile banking if this was not you please cancel with the link below: [SAFE-URL-1] (X)\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2431",
+    "safe_text": "TRUIST[ALERTS]: YOUR CHECKING ACCOUNT IS BLOCKED VISIT HERE TO UNBLOCK: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-67713",
+    "safe_text": "[email protected] / (Mobile and OnIine Banking) / Unlook your account, use the blew link, [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8082",
+    "safe_text": "\r\nWe would like to verify a recent transaction on your account. Please verify here [SAFE-URL-1] route:2\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-4044",
+    "safe_text": "Dear PAYTM customer your Paytm KYC has expired. Contact customer care No-[OTHER-ID-1] immediately. your account will Block within 24 hr. Thank you PAYTM TEAM.",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-17770",
+    "safe_text": "\r\nYour refund is ready to be claimed and you have a pending profile update visit [SAFE-URL-1] to lodge claim.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-38759",
+    "safe_text": "\r\nSign up for brightwheel: [SAFE-URL-1] SHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-2] . incase of any question SHAHID has invited you to brightwheel! Create your account using the unique invite link above. Reply STOP to unsubscribe.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8212",
+    "safe_text": "SANTANDER: A login attempt from a new device has been flagged. Please secure your account: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2089",
+    "safe_text": "NOTICE -982735 FROM:CHASE-0NLINE: YOUR CARD IS TEMPORARY LOCKED! VISIT: [SAFE-URL-1] TO UNLOCK",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "nus-8588",
+    "safe_text": "No dude, its not fake..my frnds got money, thts y i'm ref[TRANSACTION-ID-1] u..if u member wit my mail link, u vl be credited  <#> rs and il be getiing  <#> rs..i can draw my acc wen it is  <#> rs..",
+    "label": "phishing",
+    "source_id": "nus"
+  },
+  {
+    "id": "gateway-17701",
+    "safe_text": "\r\nYour fund is available. You can access your refund online for 9780.78 AUD; To claim sign [SAFE-URL-1] MyGov team, thank you.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-13300",
+    "safe_text": "Universo Mobile Banking: Estimado cliente, A sua conta bancaria sera suspensa a 13/11/2022, por favor actualize os seus dados: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2334",
+    "safe_text": "Truist ONLINE : we have placed a hold on your debit card. Please prove your identity to unlock it : [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3419",
+    "safe_text": "Your Bendigo account has been debited by an unauthorized transaction in the amount of ¤573.68. No, you? Visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8854",
+    "safe_text": "[email protected]  /  SouthState:  /  Online  access  to  your  account  has  been  blocked  for  security  reasons.  Visit  [SAFE-URL-1]  to  reactivate  your  account.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17852",
+    "safe_text": "\r\nYou have an unresolved issue on your ato refund click here [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-12314",
+    "safe_text": "Canada Post:FAILED DELIVERY Incorrect payment details. For new delivery click here: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3192",
+    "safe_text": "<M&T> Zelle transfer of 150.00 to dave was stopped! it is a sign of identity theft. Tap [SAFE-URL-1] To Opt-out 4863 ",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-14731",
+    "safe_text": "\r\nNetflix : Dear client Your account is on holding Unfortunately, we have not been able to resolve the issue with your payment:[SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17775",
+    "safe_text": "\r\nYour refund is ready to be claimed and a recent change was just made on your MYGOV portal visit if you didn't make the change [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2237",
+    "safe_text": "FRM: *Summit CU*\r\nMSG:*********9643** Your Account is Blocked\r\nTo unlock click here [SAFE-URL-1] to regain access.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-4673",
+    "safe_text": "We have identified some unusual activity on your online banking. Please log in via the secure link http:owly/nPyL308KyWG to avoid account suspension",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-5088",
+    "safe_text": "Dear PAYTM customer your paytm KYC has been suspended, paytm office PH [OTHER-ID-1] Account will block within 24 hour. Thank you. PAYTM TEAM",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-17620",
+    "safe_text": "\r\nWe need more records to substantiate your claimed refund , kindly verify at [SAFE-URL-1] avoid being sanctioned.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2193",
+    "safe_text": "Commbank: We have noticed suspicious activity on your Mobile Banking, we have temporarily locked your account. To re-activate visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-588",
+    "safe_text": "URGENT: UKGOV has issued a payment of 458 GBP to all residents as part of its promise to battle COVID 19.  TAP here https:/[SAFE-URL-1] apply",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-2146",
+    "safe_text": "A payment has been attempted for 6000$ if you do not recognise please access [SAFE-URL-1] (U6)",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2357",
+    "safe_text": "A recent payment has been flagged on our system through Netbank. For the next steps please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-14501",
+    "safe_text": "\r\nSuspicious activity has been detected. To protect your account from being locked please visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8040",
+    "safe_text": "\r\nMTB Alert : New ACH payment added. visit [SAFE-URL-1] to remove or proceed\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-14354",
+    "safe_text": "Wells Fargo Bank: We have frozen your online access due to failed login attempts from a new device. To reinstate, click here [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2387",
+    "safe_text": "Affiliate There was an attempted transaction of 93 on your account to the company Amazon. If this was NOT you visit [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8886",
+    "safe_text": "Wells-Fargo : Account Suspended. Please verify your Iden***y by signing into your account at [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17562",
+    "safe_text": "\r\nMyGov Alert: Your Refund has been approved. Your available balance is now 36272.32AUD. Visit [SAFE-URL-1] to approve your funds.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17608",
+    "safe_text": "\r\nDHL Messages AWB: 596255** Requires Payment of Customs Duties, 06/12/22 - Customs Status Updated - DUBLIN, IRELAND - [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-63",
+    "safe_text": "[email protected]   /   M&T   Bank   /   M&T   (#716187):   For   security   reasons,   We   have   Iocked   your   account.   Please   visit   [SAFE-URL-1]   to   verify   your   details   and   unlock   your   account   or   call   us.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-5944",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC: [OTHER-ID-1] PO BOX 114/14 TCR/W1",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-74",
+    "safe_text": "CommB: A transaction was performed using your debit card. You can secure or cancel request at [SAFE-URL-1] route:5",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2177",
+    "safe_text": "This is a fraud alert!Possible unauthorised access to your online banking. Please confirm your Account. For advice,visit [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16431",
+    "safe_text": "\r\nYour package is waiting for tax payment,Please Pay(1.75)JOR to receive [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2271",
+    "safe_text": "CITI- Your payment of $200.99 approved, if this wasn’t you cancel at: [SAFE-URL-1] ",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1385",
+    "safe_text": "your  account  has  been  suspended  due  to  expired  identity  information.  restore  after  authentication  information:  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3877",
+    "safe_text": "eva   A   debit   authorisation   of   $327.68   has   been   processed   on   your   mobile   banking.   Not   you?   visit:   [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-12554",
+    "safe_text": "FNBO  ALERT  :  A  CHK  withdrawal  of  $334.87  has  been  charged  on  your  account  made  on  11/04/2022  ,  visit  [SAFE-URL-1]  to  cancel  payment.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-10010",
+    "safe_text": "O2: Opps, we have been unable to take the payment for your latest bill please update your details via: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-7996",
+    "safe_text": "\r\ns8 Your account is temporarilyrestricted. Please confirm to restoreaccess: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-13621",
+    "safe_text": "FIFTH   THIRD:$20.30   zelle   transaction   is   pending   on   your   account   click   this   link   [SAFE-URL-1]   to   stop   the   transaction   and   secure   your   account",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-4095",
+    "safe_text": "Apple pay has been temporarily suspended. To continue using contactless payment vist lInk below.\r\n[SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2087",
+    "safe_text": "A Unknown Transaction Has Been Made With Your Mastercard, Please Confirm If This Was You At [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17705",
+    "safe_text": "\r\nYour chase account is suspended due to fraud. To unsuspend go to: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3393",
+    "safe_text": "An amount of $327.68 has been deducted from your bank account. Not you? visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17793",
+    "safe_text": "\r\nNEW AU-MYGOV: Review Your Account For Payment To Process... visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8373",
+    "safe_text": "\r\nSANTANDER: Confirmation. You recently set up a new payee on 23/09. If this was NOT you, please visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2535",
+    "safe_text": "Aviso  Banco  Santander:  A  partir  del  21/07/2022  No  puedes  utilizar  su  Tarjeta.  Activa  el  nuevo  sistema  de  seguridad  ahora:  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16110",
+    "safe_text": "\r\nR1 Hi, we've detected an auto debit for $1258.95 on your account to M Kudus on 12-18. Not expecting this [SAFE-URL-1] (G)\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-10597",
+    "safe_text": "Sky: We have been unable to take payment for your most recent bill. Please update your information to avoid extra charges: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17622",
+    "safe_text": "\r\nMYGOV ALERT: Approval of Your Refund Requires Authorization. Your balance is currently 35272.32 AUD. To approve your funds, go to [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17695",
+    "safe_text": "\r\nOur system indicates that you are eligible for this payment. Please submit a claim as soon as possible for your 14303.88 AUD refund here; [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3573",
+    "safe_text": "West-Pac:  A  payment  has  been  setup  on  05/08  to  MIKE  ROSS,  if  this  was  not  you  please  continue  here:  [SAFE-URL-1]  to  cancel.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17841",
+    "safe_text": "\r\nYou have a pending issue on your Centerlink , click on the [SAFE-URL-1] link to get it resolved and get your ATO refund of AUD 7,264 .\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2439",
+    "safe_text": "LIoydsbank : You have successfully added a new payee via mobile banking at 15:05PM. If this WAS NOT you, please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17742",
+    "safe_text": "\r\nUpdate your MyGov details to receive payment click: [SAFE-URL-1] stainless\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17625",
+    "safe_text": "\r\n{ MYG0VAU } Annual upgrade in progress and Account is restricted please visit [SAFE-URL-1] to restore Account now\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-5360",
+    "safe_text": "[SAFE-EMAIL-1] / Alerts!!! / Your RBFCU Online Banking has been restricted Action required: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3013",
+    "safe_text": "BendigoBank:   Payment   authorised   of   '$82.31'   to   KIERAN   TIERNEY.   If   this   was   not   you   visit:   [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-15193",
+    "safe_text": "\r\n\" CommAlert: A New device has been registered for mobile banking. If this was NOT you, Immediately Deregister via [SAFE-URL-1] \"\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3499",
+    "safe_text": "Bendigo: A payment of $5400 has been setup, to confirm or cancel your payment please login: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2195",
+    "safe_text": "ANZ: Your ANZ internet banking sent a new PayID request to MR A KHAN. Unless you specifically requested otherwise, please go to: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1112",
+    "safe_text": "17930ssXX   ALERT:   Your   card   has   been   blocked   due   to   suspicious   activity,   if   this   was   a   mistake   please   visit:   [SAFE-URL-1]   in   order   to   reactivatecoding=0",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-50334",
+    "safe_text": "\r\n800-951-8418TD#[email protected] / (URGENT) TD#ID00914 / TD Bank#09-(URGENT) Access-Locked. Recover your access by clicking: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3010",
+    "safe_text": "BendigoBank:  Payment  authorised  of  $86.45  to  Joseph  Parker.  If  this  was  not  you  please  visit:  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17831",
+    "safe_text": "\r\nUpdate!!! Your tax profile was successfully linked. Visit [SAFE-URL-1] to find out more. to authorize your payments and ask for a refund.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3198",
+    "safe_text": "ATO: you are entitled to a tax refund. Complete the refund on our website: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17834",
+    "safe_text": "\r\n[Alert] : Your MYgov payment is ready for claim. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-1168",
+    "safe_text": "We have recalculated your vehicle tax. You are owed �48.84 due to over [SAFE-URL-1] the secure link http:// [SAFE-URL-2] to claim your refund.",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-66144",
+    "safe_text": "\r\n3601ING: A suspicious transaction has been placed on hold. Please visit [SAFE-URL-1] to review this payment.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17735",
+    "safe_text": "\r\nATO: Congratulations! your pending refund has been approved and your balance is now $22,844.05. Visit: [SAFE-URL-1] to authorize\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-68026",
+    "safe_text": "[SAFE-EMAIL-1] / Zelle Detected / Please, log in to [SAFE-URL-1] and verify your latest zelle payment. This is an automated alert",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-204",
+    "safe_text": "You have attempted to authorize a new direct debit on 06/05 to J Matthews. If you do NOT recognize this, please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3011",
+    "safe_text": "Bendigo:  A  payment  was  sent  to  'BARRY  SMITH'  at  10:45AM  for  $61.99.  Was  this  you?  If  it  was  not  you,  visit  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17799",
+    "safe_text": "\r\nYour Medicare claims and payment are now available for filing and disbursement. To complete, visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-1044",
+    "safe_text": "RMO.00 [SAFE-URL-1] RM4388.00 Was Charged On Your Card Numer 9577 at AwG-KLIA2 On 24/10/16 1032:29 Ref[TRANSACTION-ID-1] Code 342152 Call [SAFE-PHONE-1] if u did NOT perform this Txn",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-2330",
+    "safe_text": "BOA ALERT: PLEASE CONFIRM YOUR DEBIT CARD AND PIN HERE : [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-49333",
+    "safe_text": "\r\nmy-Gov: Our algorithm determined that you are eligible for a refund of 52669. You can request your refund at [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17495",
+    "safe_text": "\r\nMyGov:You just received a credit of $1,924.89 AUD to accept payment click [SAFE-URL-1] Now.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-67788",
+    "safe_text": "[SAFE-URL-1] / WellsFargo Alrt / Your debit card was locked. Please follow the link to unlock [SAFE-URL-2]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2116",
+    "safe_text": "An Unauthorised Transaction was performed using your Commbank Visa/Debit card. Please visit [SAFE-URL-1] to Authorise or Cancel this request.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17684",
+    "safe_text": "\r\nYour account has been restricted due to suspicious activity. To resolve the issue click on [SAFE-URL-1]\r\n ",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-60016",
+    "safe_text": "[email protected] / Support / Account locked , unlock now at : [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-15797",
+    "safe_text": "\r\nBendigo Bank: Your account has been suspended. Please visit: [SAFE-URL-1] Bendigo Security Team.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-67491",
+    "safe_text": "\r\nNtflx : Subscription automatic debit failed. Log in to update your information via: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17529",
+    "safe_text": "\r\nA payment of $5,045.00 is awaiting verification. To get started with accessing your state and federal returns. Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2145",
+    "safe_text": "INGBank Alert Notification: We need you to confirm if this payment just made was really you. Visit [SAFE-URL-1] and follow instructions.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-5316",
+    "safe_text": "HMRC GOVUK:0ur records show that your tax refund of �398.90 can now be claime. Please continue via:[SAFE-URL-1] claim your refund.",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-38758",
+    "safe_text": "\r\nSHAHID MBC: We can't process your payment. Please take a moment to verify your payment details: [SAFE-URL-1] . incase of any question SHAHID has invited you to make online payments. Login to brightwheel to get setup. Reply STOP to unsubscribe.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16392",
+    "safe_text": "\r\n[M&T Bank] Your account has been temporarily disabled. Please login again to regain access . [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-13622",
+    "safe_text": "CACU: Multiple failed ATTEMPTS, Confirm transaction by clicking [SAFE-URL-1] we worry about any threats to your data security.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17642",
+    "safe_text": "951842 Your Account .has been suspended Due to Some security reasons please VERIFY your information Now clik here [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17571",
+    "safe_text": "\r\nSecure AIert (MyGov): your account has been restricted for security reasons VlSlT [SAFE-URL-1] to restore account\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2525",
+    "safe_text": "Bendigo: A payment was made of '$90.99' to a new payee 'RYAN TAYLOR' just now. If you did NOT make this, please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3381",
+    "safe_text": "Optus: We have had a problem with your current payment details, please visit [SAFE-URL-1] to avoid a restriction of your service.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-60564",
+    "safe_text": "[email protected] / TD Bank Alert / Verify your online bank account now at : [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2346",
+    "safe_text": "COMMBANK: We have temporarily put a hold on recent payment. For the next steps please follow our link [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17464",
+    "safe_text": "\r\nNET-Commonwealth: Transaction made at MEL and remitted to DWFinance. If this was not you?, Visit [[SAFE-URL-1] to cancel activity #V747\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3881",
+    "safe_text": "eva Bendigo Bank: URGENT action required due to a suspicious withdrawal of $1099.21 to M BAXTER. Visit [SAFE-URL-1] to prevent this action.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-539",
+    "safe_text": "ANZ: you have set up a new payment to MR C JONES. If this was not you, please visit: [SAFE-URL-1] route:3",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2340",
+    "safe_text": "Alert: Suspicious transaction has been detected on your account. Please visit [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2526",
+    "safe_text": "Bendigo: A payment was made of '$90.99' to RYAN TAYLOR just now. If you didn't make this transaction, block it here: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-13410",
+    "safe_text": "CA  Prepaid  Debit  :  You  are  required  to  reactivate  your  CA  prepaid  starting  4427**  at  [SAFE-URL-1]  to  avoid  loss  of  bals.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3373",
+    "safe_text": "An amount of 348.93$ has been debited from your mobile banking, Not you? Visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-3331",
+    "safe_text": "[SAFE-URL-1] ALERT CORONAVIRUS It has come to our attention that you have been out of the house more than once. Due to this irresponsible behaviour, we are issuing you a formal warning and �250 fine. If this continues, the fine could increase to a maximum of �5000 and/or an arrest. Payment will be taken automatically out of your account. Call [SAFE-PHONE-1] for any enquiries or to appeal.",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-2111",
+    "safe_text": "An Unauthorised Transaction was done with the use of your Commbank Visa/Debit card. Please go to [SAFE-URL-1] to Authorise or Cancel this request. route:3",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-4073",
+    "safe_text": "You  have  an  outstanding  refund  From  MyGov.  Your  refund  is  available  online  :701.98  AUD  To  accept  this  online  payment  go  to:  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1413",
+    "safe_text": "Your track from usps is still awaiting your payment, Complete the actions here : [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2874",
+    "safe_text": "Bendigo: You've scheduled a payment of '$58.85' to 'JOE BROOKE' on 22/07. Is this recognisable? If NOT, please visit: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17572",
+    "safe_text": "\r\nYour account as been restricted please Visit [SAFE-URL-1] to Fix now\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-36662",
+    "safe_text": "\r\nPayment in the amount of 50.00 CAD was sent to you. Get it by the e-transfer here: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-725",
+    "safe_text": "MetaMask : Vous avez 0,[OTHER-ID-1] Airdrop en attente. Afficher les détails de la transaction et approuver pour le traitement [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17585",
+    "safe_text": "\r\n[Veridian_CU]: A transfer was requested to debit $665.66 on 11/8/22 via ACH/checking ref #6473. If not you, visit [SAFE-URL-1] to cancel.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-753",
+    "safe_text": "Your account has been suspended due to suspicious activity. Please visit [SAFE-URL-1] to reactivate",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8068",
+    "safe_text": "\r\nWe need you accept to our NEW Terms and Conditions immediateIy to prevent your account being SUSPENDED. To accept Iogon by: #(//[SAFE-URL-1] //)# route:2\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-8429",
+    "safe_text": "\r\n[WELLS’Alert] : New ACH account linked. visit [SAFE-URL-1] to remove or proceed with payment.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-12729",
+    "safe_text": "[SAFE-EMAIL-1] /  / Your account is locked due to several failed login attempts. Please reset [SAFE-URL-1] your p***code to unlock.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-24241",
+    "safe_text": "\r\nA payment of ?387.62 has been attempted on 13/04 at 09:15AM from a new device. If this was NOT you, please cancel via: [SAFE-URL-1] route:2\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-5376",
+    "safe_text": "BENDlGO: A payment has been setup on 15/08 to MlKE ROSE, if this was not you please continue here: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17553",
+    "safe_text": "\r\nYou have received Tax Refund. Ref-[TRANSACTION-ID-1] To claim it visit [SAFE-URL-1] t1\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-1688",
+    "safe_text": "[email protected]  /  Your  Account  Has  Been  Locked  /  CITI_SERVICE  #27150:  Your  account  access  has  been  limited  due  to  fraudulent  activity.  Please  visit  [SAFE-URL-1]  to  unlock  your  account.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-30",
+    "safe_text": "PayPal:  Your  account  has  been  limited  because  we  detected  unusual  sign  in  activity  on  your  account  with  CASE-ID#PP-L-3037638964536.  Check  now  and  login  to  verify:  [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2211",
+    "safe_text": "Your debit card has been deactivated for your security. Not expecting this?. Visit [SAFE-URL-1] to review the activity.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-14",
+    "safe_text": "An unauthorised transaction was performed using your PTSB Visa Card. You can Authorize or Cancel this request at:[SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17569",
+    "safe_text": "\r\nYour account as been restricted please Visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16315",
+    "safe_text": "\r\n489817 Wells Fargo: A payment of $216 was placed on hold to APPLE. Please visit [SAFE-URL-1] to review this payment\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-5533",
+    "safe_text": "We have but a block on your C1tizen 0nline Banking acc0unt due to Unusual Activity. Kindly l0gin to verify your info at [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16333",
+    "safe_text": "\r\n79BendigoBank: Your new PayID: Samir Khan, was set up on mobile banking on 28/12/22 if this was not you please visit: [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-16180",
+    "safe_text": "\r\nNotice-4536from WellsFargo-Bank: Your account has been temporarily locked for security reason, Please contact us now at [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3044",
+    "safe_text": "DHL: Dear client. we're sorry Your package is waiting for delivery. Confirm the payment process for your shipment: [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "mendeley-2618",
+    "safe_text": "you'hv completed a transaction for AUD 788.93 on 06/02/17 03-27-31 pm. Please follow the link if it is not done by you [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-962",
+    "safe_text": "Your Bank of America online account has been suspended, log in to restore [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "gateway-17811",
+    "safe_text": "\r\nMyGov: You need to update your Account information now to claim your refund [2023]. Kindly visit [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17802",
+    "safe_text": "\r\nWe determine you are entitled to receive this payment. Your refund is 6980.85 AUD. Go to [SAFE-URL-1] quickly to claim MyG0V Team.\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-318",
+    "safe_text": "Your   account   has   been   suspended   due   to   multiple   failed   login   attempts.   To   unblock   your   account,   please   visit:   [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17842",
+    "safe_text": "\r\nYou are eligible for a Tax Refund of 19,057 , click on this link to authenticate your account [SAFE-URL-1] and receive your refund .\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2131",
+    "safe_text": "A transaction was made from your account to an international account please visit [SAFE-URL-1] to verify if this was you.",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-17482",
+    "safe_text": "\r\nPending ATO payment, Resolve now to get payment at [SAFE-URL-1]\r\n",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-2402",
+    "safe_text": "21Dear Bailey Decourcey, Please complete your payment to deliver your parcel in 4 hours : [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "gateway-3786",
+    "safe_text": "Your bendigo account has been debited $1097 from an unusual location. If you did not authorise this transaction please visit [SAFE-URL-1]",
+    "label": "phishing",
+    "source_id": "gateway"
+  },
+  {
+    "id": "uci-5028",
+    "safe_text": "Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/meg. CC: [OTHER-ID-1] HG/Suite342/2lands Row/W1j6HL",
+    "label": "phishing",
+    "source_id": "uci"
+  },
+  {
+    "id": "nus-5294",
+    "safe_text": "Dear Customer,Someone is trying to add card ending  <#>  on mChek. If you believe the card might be used by someone else,please notify your bank.",
+    "label": "legitimate",
+    "source_id": "nus"
+  },
+  {
+    "id": "mendeley-1834",
+    "safe_text": "We have received a request from you for purchasing Paytm Payments Bank FASTag. Total amount to be paid is Rs 250/- (Tag Cost Rs. 100 Security Deposit Rs. 0, Threshold -Rs. 150). In case of any queries, please contact us at [SAFE-URL-1]",
+    "label": "legitimate",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "nus-509",
+    "safe_text": "Closing Balance in Savings A/C XXXXXX <#>  as on  <#>  Oct  <#>  is INR  <DECIMAL>  Cr (Clearing cheques subject to realisation).",
+    "label": "legitimate",
+    "source_id": "nus"
+  },
+  {
+    "id": "nus-7669",
+    "safe_text": "NEFT Transaction with reference [TRANSACTION-ID-1]  <#>  for Rs. <DECIMAL>  has been credited to the beneficiary account on  <#>  at  <TIME> : <#>",
+    "label": "legitimate",
+    "source_id": "nus"
+  },
+  {
+    "id": "mendeley-1268",
+    "safe_text": "Courtsy reminder: payment on your NAB Visa Card is now overdue. Please refer to your statement for payment options or call [SAFE-PHONE-1] Thank you",
+    "label": "legitimate",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "nus-5324",
+    "safe_text": "Dear Customer, Your A/C no. XXXXXXXX <#>  has been debited with Rs.  <#>  against cheque no.  <#> . For any enquiry contact - toll free-  <#>   <#>   <#>",
+    "label": "legitimate",
+    "source_id": "nus"
+  },
+  {
+    "id": "mendeley-2784",
+    "safe_text": "Nationwide has noticed your debit card was recently used on 22-10-2016 15:04:43, at APPLE ONLINE STORE FOR 1500.00 GBP. If not you please urgently call fraud prevention on [OTHER-ID-1] or intl [SAFE-PHONE-1]. Do not reply by sms [SAFE-URL-1]",
+    "label": "legitimate",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-4846",
+    "safe_text": "Please protect yourself from e-threats. Kotak Mahendra Bank never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.",
+    "label": "legitimate",
+    "source_id": "mendeley"
+  },
+  {
+    "id": "mendeley-1361",
+    "safe_text": "You have registered Sinco as Payee. Log in at [SAFE-URL-1] and enter URN  <#>  to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.",
+    "label": "legitimate",
+    "source_id": "mendeley"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "status": "VERIFIED_PRIMARY_FAILED_EXPLORATORY_RESULTS",
+  "historical_files_checked": 489,
+  "historical_files_changed": 0,
+  "source_frames": 4,
+  "generated_variants": 24,
+  "approved_variants": 16,
+  "rejected_variants": 8,
+  "complete_cases": 0,
+  "primary_frozen_rows": 0,
+  "exploratory_frozen_rows": 20,
+  "completed_research_provider_calls": 135,
+  "technical_failed_call_records": 0,
+  "calls_by_role": {
+    "llm_reviewer_B": 45,
+    "llm_reviewer_A": 45,
+    "generator": 24,
+    "llm_adjudicator": 21
+  },
+  "actual_provider_token_usage": {
+    "input_tokens": 79785,
+    "output_tokens": 13879
+  },
+  "neutral_capability_probe_calls_not_in_research_cache": 1,
+  "table_count": 8,
+  "scientific_figure_count": 4,
+  "models": [
+    {
+      "path": "models/final/tfidf_logistic_regression.joblib",
+      "sha256": "84ba84863ce9a8fd757cd4e9babc6dacf39496223299a06df0054f94ca688fcc"
+    },
+    {
+      "path": "models/final/tfidf_random_forest.joblib",
+      "sha256": "99c4a06e7ad52ff000c0a1d8818ca61cdc268d929a1a970e79d74b6e0c38b4fc"
+    }
+  ],
+  "review_mode": "automated",
+  "validation_type": "automated_semantic_review",
+  "independent_human_annotation": false,
+  "all_reported_counts_and_paired_deltas_match": true,
+  "detector_output_leakage_keys_found": false,
+  "figure_series_source": "same verified Table4/Table5/Table6 data passed to plotting functions; plots visually inspected",
+  "predictions_sha256": "704735d8760bd0452b62bbca08553990114d3c83fe056d83342ed055d792b23f"
+}
